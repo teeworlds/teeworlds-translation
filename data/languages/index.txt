@@ -49,6 +49,10 @@ italian
 == Italiano
 == 380
 
+kyrgyz
+== Кыргызча
+== ???
+
 norwegian
 == Norsk
 == 578
