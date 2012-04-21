@@ -1,7 +1,8 @@
+
 ##### translated strings #####
 
 %d Bytes
-== %d байттар
+== %d байт
 
 %d of %d servers, %d players
 == %d/%d серверлер, %d оюнчу
@@ -52,7 +53,7 @@ Always show name plates
 == Дайыма ат көрнөкчөнү көрсөтүү
 
 Are you sure that you want to delete the demo?
-== Сиз чын эле демону өчүрүүнү каалайсызбы?
+== Сиз чын эле изилдөөнүн өчүрүүсүн каалайсызбы?
 
 Are you sure that you want to quit?
 == Сиз чын эле оюндан чыгууну каалайсызбы?
@@ -61,13 +62,13 @@ Are you sure that you want to remove the player from your friends list?
 == Сиз чын эле досуңузду тизмеден алууну каалайсызбы?
 
 As this is the first time you launch the game, please enter your nick name below. It's recommended that you check the settings to adjust them to your liking before joining a server.
-== Бул оюндун биринчи жүргүзүүсү болгон үчүн, астына никнеймиңизди киргизиңиз. Серверге кошулуу астында, каалооңуз боюнча тескөөнү жөнгө салып жана текшерүү иштерин сунуш кылабыз.
+== Бул оюндун биринчи жүргүзүүсү болгон үчүн, астына такма атыңызды киргизиңиз. Серверге кошулуу астында, каалооңуз боюнча тескөөнү жөнгө салып жана текшерүү иштерин сунуш кылабыз.
 
 Automatically record demos
-== Автоматтуу түрдө демолорду жазуу
+== Автоматтуу түрдө изилдөөлөрдү жазуу
 
 Automatically take game over screenshot
-== Авто. түрдө оюн бүткөн скриншотту жасоо
+== Авто. түрдө оюн бүткөн экр. сүрөтүн жасоо
 
 Blue team
 == Көк тобу
@@ -85,7 +86,7 @@ Change settings
 == Тескөөлөрдү өзгөртүү
 
 Chat
-== Чат
+== Маек
 
 Clan
 == Тек
@@ -97,7 +98,7 @@ Close
 == Жабуу
 
 Compatible version
-== Туура версиясы
+== Туура жоромолу
 
 Connect
 == Байланышуу
@@ -130,7 +131,7 @@ Current
 == Азыркы
 
 Current version: %s
-== Азыркы версия: %s
+== Азыркы жоромол: %s
 
 Custom colors
 == Башка түстөр
@@ -139,16 +140,16 @@ Delete
 == Өчүрүү
 
 Delete demo
-== Демону өчүрүү
+== Изилдөөнү өчүрүү
 
 Demo details
-== Демо детальдары:
+== Изилдөө детальдары:
 
 Demofile: %s
-== Демо файлы: %s
+== Изилдөө файлы: %s
 
 Demos
-== Демолор
+== Изилдөө.
 
 Disconnect
 == Үзүлүү
@@ -169,7 +170,7 @@ Dynamic Camera
 == Динамикалык камера
 
 Emoticon
-== Смайл
+== Көңүл
 
 Enter
 == Баштоо
@@ -178,16 +179,16 @@ Error
 == Жаңылыш
 
 Error loading demo
-== Демону жүктөө жаңылышы
+== Изилдөөнүн жүктөө жаңылышы
 
 FSAA samples
-== FSAA сэмплдери
+== Тегиздөө үлгүлөрү
 
 Favorite
 == Тандалган
 
 Favorites
-== Тандалган
+== Тандалган.
 
 Feet
 == Бут
@@ -217,7 +218,7 @@ Game
 == Оюн
 
 Game info
-== Оюн маалыматы
+== Оюн инфо.
 
 Game over
 == Оюн бүттү
@@ -250,19 +251,19 @@ Hook
 == Илээшүү
 
 Host address
-== Хост дареги
+== Сервер дареги
 
 Hue
 == Түс
 
 Info
-== Инфо
+== Инфо.
 
 Internet
 == Интернет
 
 Invalid Demo
-== Жарабас демо
+== Жарабас изилдөө
 
 Join blue
 == Көккө
@@ -304,10 +305,10 @@ Map:
 == Карта:
 
 Max Screenshots
-== Макс. скриншоттор
+== Макс. экран сүрөттөрү
 
 Max demos
-== Макс. демолор
+== Макс. изилдөөлөр
 
 Maximum ping:
 == Макс. пинги:
@@ -340,7 +341,7 @@ Name plates size
 == Ат көрнөкчө чени
 
 Netversion:
-== Нак. версиясы:
+== Нак. жоромолу:
 
 New name:
 == Жаңы ат:
@@ -352,7 +353,7 @@ Next weapon
 == Кийинки курал
 
 Nickname
-== Никнейм
+== Такма ат
 
 No
 == Жок
@@ -373,7 +374,7 @@ Open
 == Ачуу
 
 Parent Folder
-== Үстүнкү фолдер
+== Эне фолдери
 
 Password
 == Сырсөз
@@ -400,13 +401,13 @@ Player country:
 == Оюнчу өлкөсү:
 
 Player options
-== Оюнчу опциялары
+== Оюнчу тандоолору
 
 Players
 == Оюнчу.
 
 Please balance teams!
-== Топту теңдем кылыңыз!
+== Топторду теңдем кылыңыз!
 
 Prev. weapon
 == Мурдагы курал
@@ -430,7 +431,7 @@ Reason:
 == Себеп:
 
 Record demo
-== Демону жазуу
+== Изилдөөнү жаз.
 
 Red team
 == Кызыл тобу
@@ -457,13 +458,13 @@ Rename
 == Атын өзгөрт.
 
 Rename demo
-== Демо атын өзгөртүү
+== Изилдөө атын өзгөртүү
 
 Reset filter
 == Электи түшүрүү
 
 Reset to defaults
-== Дефолтчого түшүрүү
+== Тескөөлөрдү түшүрүү
 
 Rifle
 == Лазер
@@ -481,19 +482,19 @@ Score
 == Упай
 
 Score board
-== Упай таблосу
+== Упай тактасы
 
 Score limit
 == Упай чеги
 
 Scoreboard
-== Табло
+== Такта
 
 Screenshot
-== Скриншот
+== Экран сүрөтү
 
 Server address:
-== Хост дареги:
+== Сервер дареги:
 
 Server details
 == Сервер детальдары
@@ -502,7 +503,7 @@ Server filter
 == Сервер элеги
 
 Server info
-== Маалымат
+== Сервер инфо.
 
 Server not full
 == Сервер толук эмес
@@ -514,7 +515,7 @@ Shotgun
 == Мылтык
 
 Show chat
-== Чатты көрсөтүү
+== Маекти көрсөтүү
 
 Show friends only
 == Досторду гана көрсөтүү
@@ -559,16 +560,16 @@ Spectators
 == Байкоочулар
 
 Standard gametype
-== Стандарттуу оюн түрү
+== Үлгүлүү оюн түрү
 
 Standard map
-== Стандарттуу карта
+== Үлгүлүү карта
 
 Stop record
 == Жазууну токтот.
 
 Strict gametype filter
-== Так оюн түр элеги
+== Оюн түрүнүн так элеги
 
 Sudden Death
 == Кокустан өлүү
@@ -580,7 +581,7 @@ Team
 == Топ
 
 Team chat
-== Топ чаты
+== Топ маеги
 
 Teeworlds %s is out! Download it at www.teeworlds.com!
 == Teeworlds %s чыкты! www.teeworlds.com сайтынан жүктөңүз!
@@ -592,7 +593,7 @@ The audio device couldn't be initialised.
 == Аудио орнотмосу аныктоо болууга мүмкүн эмес.
 
 The server is running a non-standard tuning on a pure game type.
-== Сервер, таза оюн түрдө стандарттык эмес тескөөсүндө иштелип жатат.
+== Таза оюн түрүндө үлгүлүк эмес тескөөдө сервер иштелип жатат.
 
 There's an unsaved map in the editor, you might want to save it before you quit the game.
 == Оңдогучтан сакталбаган картаны, оюндан чыгаар астында сактоо ыңгай бар.
@@ -616,10 +617,10 @@ UI Color
 == UI түсү
 
 Unable to delete the demo
-== Демону өчүрүү иши оңунан чыкпады
+== Изилдөөнү өчүрүү иши оңунан чыкпады
 
 Unable to rename the demo
-== Демонун атын өзгөртүү иши оңунан чыкпады
+== Изилдөө атын өзгөртүү иши оңунан чыкпады
 
 Use sounds
 == Үн колдонуусу
@@ -631,10 +632,10 @@ V-Sync
 == V-Sync
 
 Version
-== Версия
+== Жоромол
 
 Version:
-== Версия:
+== Жоромол:
 
 Vote command:
 == Добуш б. командасы:
@@ -658,7 +659,7 @@ Weapon
 == Курал
 
 Welcome to Teeworlds
-== Teeworlds'ко кош келиңиз
+== Teeworlds'ко кош келиңиз!
 
 Yes
 == Ооба
@@ -676,10 +677,10 @@ Game paused
 == Оюн токтотулду
 
 Respawn
-== Кайтадан туулуу
+== Кайра жаралуу
 
 Show only chat messages from friends
-== Достордон гана чат билдирмелерди көрсөтүү
+== Достордон гана маек билдирмелерди көрсөтүү
 
 ##### needs translation #####
 
