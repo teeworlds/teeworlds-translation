@@ -1,4 +1,3 @@
-
 ##### language indices #####
 
 belarusian
@@ -51,7 +50,7 @@ italian
 
 kyrgyz
 == Кыргызча
-== ???
+== 417
 
 norwegian
 == Norsk
