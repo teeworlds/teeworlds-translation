@@ -1,4 +1,3 @@
-
 ##### translated strings #####
 
 %d Bytes
@@ -222,6 +221,9 @@ Game info
 
 Game over
 == Final de joc
+
+Game paused
+== Joc în pauză
 
 Game type
 == Tip de joc
@@ -466,6 +468,9 @@ Reset filter
 Reset to defaults
 == Setări implicite
 
+Respawn
+== Renaşte
+
 Rifle
 == Carabină
 
@@ -525,6 +530,9 @@ Show ingame HUD
 
 Show name plates
 == Arată pseudonimele
+
+Show only chat messages from friends
+== Arată doar chatul prietenilor
 
 Show only supported
 == Arată doar modurile suportate
@@ -675,14 +683,6 @@ no limit
 
 ##### needs translation #####
 
-Game paused
-== 
-
-Respawn
-== 
-
-Show only chat messages from friends
-== 
 
 ##### old translations #####
 
