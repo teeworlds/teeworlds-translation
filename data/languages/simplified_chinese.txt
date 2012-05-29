@@ -1,0 +1,676 @@
+
+##### translated strings #####
+
+%d Bytes
+== %d 字节
+
+%d of %d servers, %d players
+== %d/%d 个服务器, %d 个玩家
+
+%d%% loaded
+== %d%% 已载入
+
+%ds left
+== %ds 离开了
+
+%i minute left
+== 还剩 %i 分钟
+
+%i minutes left
+== 还剩 %i 分钟
+
+%i second left
+== 还剩 %i 秒钟
+
+%i seconds left
+== 还剩 %i 秒钟
+
+%s wins!
+== %s 胜利！
+
+-Page %d-
+== -第 %d 页-
+
+Abort
+== 忽略
+
+Add
+== 添加
+
+Add Friend
+== 添加好友
+
+Address
+== 地址
+
+All
+== 全部
+
+Alpha
+== 透明度
+
+Always show name plates
+== 总是显示名字标牌
+
+Are you sure that you want to delete the demo?
+== 您确定要删除这个演示样本？
+
+Are you sure that you want to quit?
+== 您确定要退出？
+
+Are you sure that you want to remove the player from your friends list?
+== 您确定要从好友列表中删除此玩家？
+
+As this is the first time you launch the game, please enter your nick name below. It's recommended that you check the settings to adjust them to your liking before joining a server.
+== 这是您第一次运行此游戏，因此请在下面输入您的昵称。建议在加入服务器之前先检查一下设置并按照您的喜好调节妥当。
+
+Automatically record demos
+== 自动录制演示样本
+
+Automatically take game over screenshot
+== 游戏结束时自动截屏
+
+Blue team
+== 蓝队
+
+Blue team wins!
+== 蓝队胜利！
+
+Body
+== 身体
+
+Call vote
+== 发起投票
+
+Change settings
+== 改变设置
+
+Chat
+== 聊天
+
+Clan
+== 战队
+
+Client
+== 客户端
+
+Close
+== 关闭
+
+Compatible version
+== 兼容版本
+
+Connect
+== 连接
+
+Connecting to
+== 正在连接到
+
+Connection Problems...
+== 连接问题…
+
+Console
+== 控制台
+
+Controls
+== 控制
+
+Count players only
+== 只计玩家数量
+
+Country
+== 国家
+
+Crc:
+== Crc :
+
+Created:
+== 制作：
+
+Current
+== 当前
+
+Current version: %s
+== 当前版本：%s
+
+Custom colors
+== 定制颜色
+
+Delete
+== 删除
+
+Delete demo
+== 删除演示样本
+
+Demo details
+== 演示样本详情
+
+Demofile: %s
+== 演示文件：%s
+
+Demos
+== 演示
+
+Disconnect
+== 断开连接
+
+Disconnected
+== 连接已断开
+
+Display Modes
+== 显示模式
+
+Downloading map
+== 正在下载地图
+
+Draw!
+== 平局！
+
+Dynamic Camera
+== 动态摄像头
+
+Emoticon
+== 表情
+
+Enter
+== 输入
+
+Error
+== 错误
+
+Error loading demo
+== 样本载入错误
+
+FSAA samples
+== 全景反锯齿样本
+
+Favorite
+== 最爱
+
+Favorites
+== 最爱
+
+Feet
+== 脚
+
+Filter
+== 过滤
+
+Fire
+== 开火
+
+Folder
+== 文件夹
+
+Force vote
+== 强制投票
+
+Free-View
+== 自由视图
+
+Friends
+== 好友
+
+Fullscreen
+== 全屏
+
+Game
+== 游戏
+
+Game info
+== 游戏信息
+
+Game over
+== 游戏结束
+
+Game type
+== 游戏类型
+
+Game types:
+== 游戏类型
+
+General
+== 常规
+
+Graphics
+== 图像
+
+Grenade
+== 手榴弹
+
+Hammer
+== 锤子
+
+Has people playing
+== 有玩家正在游戏
+
+High Detail
+== 高细节
+
+Hook
+== 钩子
+
+Host address
+== 主机地址
+
+Hue
+== 色调
+
+Info
+== 信息
+
+Internet
+== 因特网
+
+Invalid Demo
+== 无效样本
+
+Join blue
+== 加入蓝队
+
+Join game
+== 加入游戏
+
+Join red
+== 加入红队
+
+Jump
+== 跳跃
+
+Kick player
+== 踢出玩家
+
+LAN
+== 局域网
+
+Language
+== 语言
+
+Length:
+== 长度：
+
+Lht.
+== 亮度
+
+Loading
+== 载入中
+
+MOTD
+== MOTD
+
+Map
+== 地图
+
+Map:
+== 地图：
+
+Max Screenshots
+== 最多截屏数量
+
+Max demos
+== 最多样本数量
+
+Maximum ping:
+== 最大Ping值：
+
+Miscellaneous
+== 杂项
+
+Mouse sens.
+== 鼠标灵敏度
+
+Move left
+== 左移
+
+Move player to spectators
+== 将玩家移为观众
+
+Move right
+== 右移
+
+Movement
+== 移动
+
+Mute when not active
+== 无操作时静音
+
+Name
+== 名字
+
+Name plates size
+== 名字标牌尺寸
+
+Netversion:
+== Netversion :
+
+New name:
+== 新名字：
+
+News
+== 新闻
+
+Next weapon
+== 下个武器
+
+Nickname
+== 昵称
+
+No
+== 否
+
+No password
+== 无密码
+
+No servers found
+== 找不到服务器
+
+No servers match your filter criteria
+== 没有服务器与您的过滤选项匹配
+
+Ok
+== 好
+
+Open
+== 打开
+
+Parent Folder
+== 上级目录
+
+Password
+== 密码
+
+Password incorrect
+== 密码错误
+
+Ping
+== Ping
+
+Pistol
+== 手枪
+
+Play
+== 播放
+
+Play background music
+== 播放背景音乐
+
+Player
+== 玩家
+
+Player options
+== 玩家选项
+
+Players
+== 玩家
+
+Please balance teams!
+== 请平衡队伍人数！
+
+Prev. weapon
+== 上个武器
+
+Quality Textures
+== 高质纹理
+
+Quick search:
+== 快速搜索：
+
+Quit
+== 退出
+
+Quit anyway?
+== 仍然退出？
+
+REC %3d:%02d
+== REC %3d:%02d
+
+Reason:
+== 理由：
+
+Record demo
+== 录制样本
+
+Red team
+== 红队
+
+Red team wins!
+== 红队胜利！
+
+Refresh
+== 刷新
+
+Refreshing master servers
+== 刷新主服务器
+
+Remote console
+== 远程控制台
+
+Remove
+== 移除
+
+Remove friend
+== 删除好友
+
+Rename
+== 重命名
+
+Rename demo
+== 重命名样本
+
+Reset filter
+== 重置过滤器
+
+Reset to defaults
+== 恢复默认
+
+Rifle
+== 激光枪
+
+Round
+== 回合
+
+Sample rate
+== 采样率
+
+Sat.
+== 饱和
+
+Score
+== 分数
+
+Score board
+== 得分榜
+
+Score limit
+== 分数限制
+
+Scoreboard
+== 得分榜
+
+Screenshot
+== 截屏
+
+Server address:
+== 服务器地址：
+
+Server details
+== 服务器详情
+
+Server filter
+== 过滤服务器
+
+Server info
+== 服务器信息
+
+Server not full
+== 服务器未满
+
+Settings
+== 设置
+
+Shotgun
+== 散弹枪
+
+Show chat
+== 显示聊天
+
+Show friends
+== 显示好友
+
+Show ingame HUD
+== 游戏中显示抬头信息
+
+Show name plates
+== 显示名字标牌
+
+Show only supported
+== 只显示支持的
+
+Size:
+== 大小：
+
+Skins
+== 皮肤
+
+Sound
+== 声音
+
+Sound error
+== 声音出错
+
+Sound volume
+== 音量
+
+Spectate
+== 旁观
+
+Spectate next
+== 旁观下一个
+
+Spectate previous
+== 旁观上一个
+
+Spectator mode
+== 旁观模式
+
+Spectators
+== 旁观者
+
+Standard gametype
+== 标准游戏类型
+
+Standard map
+== 标准地图
+
+Stop record
+== 停止录制
+
+Strict gametype filter
+== 严格过滤游戏类型
+
+Sudden Death
+== 突然死亡
+
+Switch weapon on pickup
+== 捡到武器时自动切换
+
+Team
+== 队伍
+
+Team chat
+== 队内聊天
+
+Teeworlds %s is out! Download it at www.teeworlds.com!
+== Teeworlds %s 出来了！请到 www.teeworlds.com 下载！
+
+Texture Compression
+== 纹理压缩
+
+The audio device couldn't be initialised.
+== 音频设备无法初始化。
+
+The server is running a non-standard tuning on a pure game type.
+== 此服务器运行的游戏是经过微调的非标准类型。
+
+There's an unsaved map in the editor, you might want to save it before you quit the game.
+== 编辑器中有未保存的地图，请记得在退出前保存。
+
+Time limit
+== 时间限制
+
+Time limit: %d min
+== 时间限制：%d 分
+
+Try again
+== 重试
+
+Type
+== 类型
+
+Type:
+== 类型：
+
+UI Color
+== 界面颜色
+
+Unable to delete the demo
+== 无法删除样本
+
+Unable to rename the demo
+== 无法重命名样本
+
+Use sounds
+== 打开声音
+
+Use team colors for name plates
+== 为名字标牌使用队伍颜色
+
+V-Sync
+== 垂直同步
+
+Version
+== 版本
+
+Version:
+== 版本：
+
+Vote command:
+== 投票命令：
+
+Vote description:
+== 投票描述：
+
+Vote no
+== 否决
+
+Vote yes
+== 赞成
+
+Voting
+== 投票
+
+Warmup
+== 热身
+
+Weapon
+== 武器
+
+Welcome to Teeworlds
+== 欢迎来到 Teeworlds
+
+Yes
+== 是
+
+You must restart the game for all settings to take effect.
+== 您必须重启游戏以使所有设置生效。
+
+Your skin
+== 您的皮肤
+
+no limit
+== 无限制
+
+##### needs translation #####
+
+##### old translations #####
+
