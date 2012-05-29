@@ -92,3 +92,7 @@ turkish
 ukrainian
 == Українська
 == 804
+
+simplified_chinese
+== 简体中文
+== 
