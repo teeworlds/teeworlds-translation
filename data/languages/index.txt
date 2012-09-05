@@ -41,6 +41,10 @@ german
 == Deutsch
 == 276
 
+greek
+== Ελληνικά
+== 300
+
 hungarian
 == Magyar
 == 348
