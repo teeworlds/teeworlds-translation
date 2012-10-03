@@ -1,4 +1,4 @@
-
+﻿
 ##### translated strings #####
 
 %d Bytes
@@ -673,16 +673,19 @@ Your skin
 no limit
 == Keine Begrenzung
 
-##### needs translation #####
 
 Game paused
-== 
+== Spiel pausiert
 
 Respawn
-== 
+== Wiederbelebung
 
 Show only chat messages from friends
-== 
+== Nur Nachrichten von Freunden zeigen
+
+
+##### needs translation #####
+
 
 ##### old translations #####
 
