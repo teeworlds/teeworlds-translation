@@ -1,4 +1,3 @@
-
 ##### translated strings #####
 
 %d Bytes
@@ -50,25 +49,25 @@ Alpha
 == Alpha
 
 Always show name plates
-== Mostrar sempre os nicks
+== Mostrar nicks
 
 Are you sure that you want to delete the demo?
-== Tens a certeza que queres Eliminar a demo?
+== Tens a certeza que queres apagar a demo?
 
 Are you sure that you want to quit?
 == Queres mesmo sair?
 
 Are you sure that you want to remove the player from your friends list?
-== Queres mesmo apaga-lo da tua lista de amigos?
+== Queres mesmo apaga o jogador da tua lista de amigos?
 
 As this is the first time you launch the game, please enter your nick name below. It's recommended that you check the settings to adjust them to your liking before joining a server.
-== Olá! Pelos vistos é a primeira vez que inicias o jogo, por isso escolhe um Nick Name para ti!
+== Olá! Pelos vistos é a primeira vez que inicias o jogo, por isso escolhe um Nick Name para ti! Aproveita e vê as configurações antes de entrar num servidor!
 
 Automatically record demos
-== Gravar demos Automaticamente
+== Gravar demos Automáticamente
 
 Automatically take game over screenshot
-== Tirar screenshot's Automaticamente
+== Tirar screenshots no final do turno autom.
 
 Blue team
 == Equipa azul
@@ -89,10 +88,10 @@ Chat
 == Conversa
 
 Clan
-== Clan
+== Clã
 
 Client
-== Cliente
+== Client
 
 Close
 == Fechar
@@ -101,13 +100,13 @@ Compatible version
 == Versão compatível
 
 Connect
-== Conectar
+== Ligar
 
 Connecting to
-== A Conectar a
+== A ligar ao endereço
 
 Connection Problems...
-== Problemas na conecção!
+== Problemas na ligação!
 
 Console
 == Console
@@ -116,7 +115,7 @@ Controls
 == Controlos
 
 Count players only
-== Só contar jogadores
+== Contar apenas jogadores
 
 Country
 == País
@@ -128,10 +127,10 @@ Created:
 == Criado:
 
 Current
-== Actualmente
+== Atualmente
 
 Current version: %s
-== Versão actual : %s
+== Versão atual : %s
 
 Custom colors
 == Cores personalizadas
@@ -161,7 +160,7 @@ Display Modes
 == Modos de exibição
 
 Downloading map
-== A fazer download do mapa...
+== A sacar o mapa...
 
 Draw!
 == Empate!
@@ -170,7 +169,7 @@ Dynamic Camera
 == Câmera dinâmica
 
 Emoticon
-== Emoticon
+== Emotes
 
 Enter
 == Entrar
@@ -251,7 +250,7 @@ Hook
 == Gancho
 
 Host address
-== Direcção do Host
+== Endereço do Host
 
 Hue
 == Matiz
@@ -293,7 +292,7 @@ Lht.
 == Luz
 
 Loading
-== Aguarda por favor
+== A carregar dados
 
 MOTD
 == MOTD
@@ -323,7 +322,7 @@ Move left
 == Esquerda
 
 Move player to spectators
-== Juntar jogador aos espectadores
+== Juntar jogador aos spectators
 
 Move right
 == Direita
@@ -332,7 +331,7 @@ Movement
 == Movimento
 
 Mute when not active
-== Silencíar os jogadores inactivos
+== Fazer mute em estado AFK.
 
 Name
 == Nome
@@ -347,10 +346,10 @@ New name:
 == Novo nome:
 
 News
-== Notícia
+== Notícias
 
 Next weapon
-== Próxima arma
+== Arma Seguinte
 
 Nickname
 == Nick
@@ -434,16 +433,16 @@ Record demo
 == Gravar uma demo
 
 Red team
-== Equipa vermelha
+== Equipa verm.
 
 Red team wins!
 == Ganhou a equipa vermelha!
 
 Refresh
-== Actualizar
+== Atualizar
 
 Refreshing master servers
-== A Actualizar servidores
+== A Atualizar servidores
 
 Remote console
 == Remote console
@@ -452,7 +451,7 @@ Remove
 == Eliminar
 
 Remove friend
-== Deixar de ser amigo
+== Apagar amigo
 
 Rename
 == Renomear
@@ -464,7 +463,7 @@ Reset filter
 == Reiniciar Fitro
 
 Reset to defaults
-== Por como defeito
+== Pôr como defeito
 
 Rifle
 == Laser
@@ -494,7 +493,7 @@ Screenshot
 == Screenshot
 
 Server address:
-== Direção do servidor:
+== Endereço do servidor:
 
 Server details
 == Detalhes do servidor
@@ -506,19 +505,19 @@ Server info
 == Info de servidor
 
 Server not full
-== Não está cheio
+== Servidores não cheios
 
 Settings
 == Config.
 
 Shotgun
-== Espingarda
+== Shotgun
 
 Show chat
 == Mostrar chat
 
 Show friends only
-== Mostrar amigos
+== Mostrar apenas amigos
 
 Show ingame HUD
 == Mostrar HUD do jogo
@@ -545,7 +544,7 @@ Sound volume
 == Volume
 
 Spectate
-== Observar
+== Spectate
 
 Spectate next
 == Observar próximo
@@ -554,10 +553,10 @@ Spectate previous
 == Observar anterior
 
 Spectator mode
-== Modo espectador
+== Modo spectator
 
 Spectators
-== Espectadores
+== Spectators
 
 Standard gametype
 == Tipo de jogo normal
@@ -593,10 +592,10 @@ The audio device couldn't be initialised.
 == O dispositivo de som não pode ser iniciado.
 
 The server is running a non-standard tuning on a pure game type.
-== O servidor está a usar um tipo de jogo não oficial.
+== O servidor está a usar um tipo de jogo não oficial com o nome de um oficial.
 
 There's an unsaved map in the editor, you might want to save it before you quit the game.
-== O mapa que editas-te não foi gravado. Queres gravar antes de sair?
+== O mapa que editaste não foi gravado. Queres gravar antes de sair?
 
 Time limit
 == Tempo máx.
@@ -620,10 +619,10 @@ Unable to delete the demo
 == Não podes eliminar a demo
 
 Unable to rename the demo
-== Impossivel de renomear a demo
+== Impossivel renomear a demo
 
 Use sounds
-== Usar sons
+== Ligar efeitos sonoros
 
 Use team colors for name plates
 == Usar cores dos nicks com a cor da equipa
@@ -635,7 +634,7 @@ Version
 == Versão
 
 Version:
-== Versão
+== Versão:
 
 Vote command:
 == Comando:
@@ -653,7 +652,7 @@ Voting
 == A votar
 
 Warmup
-== Aquecimento
+== Preparação
 
 Weapon
 == Arma
@@ -676,13 +675,13 @@ no limit
 ##### needs translation #####
 
 Game paused
-== 
+== Jogo em Pausa
 
 Respawn
-== 
+== Respawn
 
 Show only chat messages from friends
-== 
+== Mostrar apenas mensagens chat dos amigos
 
 ##### old translations #####
 
