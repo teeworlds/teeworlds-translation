@@ -1,11 +1,25 @@
+##### authors #####
+#originally created by:
+#
+#modified by:
+#	lordskelethom	2010-05-30 14:01:11
+#	Ubu				2010-05-30 18:41:43
+#	Choupom			2010-10-11 00:32:54
+#	Choupom			2010-11-21 14:07:30
+#	Choupom			2011-01-05 22:13:44
+#	clecle226		2011-02-09 12:28:39
+#	clecle226		2011-02-12 23:43:59
+#	Choupom			2011-02-13 12:24:15
+#	Choupom			2011-04-02 19:53:54
+#	Choupom			2011-04-03 23:00:57
+#	Ubu				2011-04-04 21:09:05
+#	Choupom			2011-07-02 19:23:49
+##### /authors #####
 
 ##### translated strings #####
 
 %d Bytes
 == %d octets
-
-%d of %d servers, %d players
-== %d/%d serveurs, %d joueurs
 
 %d%% loaded
 == %d%% chargé
@@ -46,9 +60,6 @@ Address
 All
 == Tout le monde
 
-Alpha
-== Alpha
-
 Always show name plates
 == Toujours afficher les pseudonymes
 
@@ -75,9 +86,6 @@ Blue team
 
 Blue team wins!
 == L'équipe bleue gagne !
-
-Body
-== Corps
 
 Call vote
 == Voter
@@ -121,17 +129,8 @@ Count players only
 Country
 == Pays
 
-Crc:
-== Crc :
-
-Created:
-== Créé le :
-
 Current
 == Actuellement
-
-Current version: %s
-== Version actuelle : %s
 
 Custom colors
 == Couleurs personnalisées
@@ -157,9 +156,6 @@ Disconnect
 Disconnected
 == Déconnecté
 
-Display Modes
-== Résolutions
-
 Downloading map
 == Téléchargement de la carte
 
@@ -181,9 +177,6 @@ Error
 Error loading demo
 == Erreur pendant le chargement de la démo
 
-FSAA samples
-== Échantillons FSAA
-
 Favorite
 == Favori
 
@@ -192,9 +185,6 @@ Favorites
 
 Feet
 == Pieds
-
-Filter
-== Filtre
 
 Fire
 == Tirer
@@ -253,12 +243,6 @@ Hook
 Host address
 == Adresse hôte
 
-Hue
-== Teinte
-
-Info
-== Info.
-
 Internet
 == Internet
 
@@ -286,12 +270,6 @@ LAN
 Language
 == Langue
 
-Length:
-== Longueur :
-
-Lht.
-== Luminosité
-
 Loading
 == Chargement
 
@@ -301,20 +279,8 @@ MOTD
 Map
 == Carte
 
-Map:
-== Carte :
-
-Max Screenshots
-== Nombre maximum de captures d'écran
-
-Max demos
-== Nombre maximum de démos
-
 Maximum ping:
 == Ping maximum :
-
-Miscellaneous
-== Divers
 
 Mouse sens.
 == Sensib. souris
@@ -337,17 +303,8 @@ Mute when not active
 Name
 == Nom
 
-Name plates size
-== Taille
-
-Netversion:
-== Netversion :
-
 New name:
 == Nouveau nom :
-
-News
-== Nouvelles
 
 Next weapon
 == Arme suivante
@@ -463,20 +420,8 @@ Rename demo
 Reset filter
 == Filtres par défaut
 
-Reset to defaults
-== Réinitialiser
-
-Rifle
-== Laser
-
-Round
-== Round
-
 Sample rate
 == Fréquence
-
-Sat.
-== Saturation
 
 Score
 == Score
@@ -529,9 +474,6 @@ Show name plates
 Show only supported
 == Ne montrer que les résolutions supportées
 
-Size:
-== Taille :
-
 Skins
 == Skins
 
@@ -540,9 +482,6 @@ Sound
 
 Sound error
 == Erreur de son
-
-Sound volume
-== Volume du son
 
 Spectate
 == Regarder
@@ -610,12 +549,6 @@ Try again
 Type
 == Type
 
-Type:
-== Type :
-
-UI Color
-== Couleur du menu
-
 Unable to delete the demo
 == Impossible de supprimer la démo
 
@@ -633,9 +566,6 @@ V-Sync
 
 Version
 == Version
-
-Version:
-== Version :
 
 Vote command:
 == Commande :
@@ -667,22 +597,385 @@ Yes
 You must restart the game for all settings to take effect.
 == Les changements prendront effet au prochain redémarrage.
 
-Your skin
-== Votre skin
-
-no limit
-== pas de limite
-
 ##### needs translation #####
 
+%d player left
+== 
+
+%d player not ready
+== 
+
+%d players left
+== 
+
+%d players not ready
+== 
+
+%d servers, %d players
+== 
+
+'%s' called for vote to kick '%s' (%s)
+== 
+
+'%s' called for vote to move '%s' to spectators (%s)
+== 
+
+'%s' called vote to change server option '%s' (%s)
+== 
+
+'%s' entered and joined the %s
+== 
+
+'%s' has left the game
+== 
+
+'%s' has left the game (%s)
+== 
+
+'%s' joined the %s
+== 
+
+Admin forced server option '%s' (%s)
+== 
+
+Admin forced vote no
+== 
+
+Admin forced vote yes
+== 
+
+Admin moved '%s' to spectator (%s)
+== 
+
+Alp:
+== 
+
+Anti Aliasing
+== 
+
+Are you sure you want to save your skin ? If a skin with this name already exists, it will be replaced.
+== 
+
+Back
+== 
+
+Basic
+== 
+
+Bodies
+== 
+
+Borderless window
+== 
+
+Coloration
+== 
+
+Crc
+== 
+
+Created
+== 
+
+Custom
+== 
+
+Customize
+== 
+
+Decoration
+== 
+
+Demo
+== 
+
+Detail
+== 
+
+Editor
+== 
+
+Eyes
+== 
+
+Format
+== 
+
 Game paused
+== 
+
+Game starts in
+== 
+
+Hands
+== 
+
+Hue:
+== 
+
+Kick voting requires %d players on the server
+== 
+
+Laser
+== 
+
+Length
+== 
+
+Letterbox
+== 
+
+Lgt:
+== 
+
+Local server
+== 
+
+Match
+== 
+
+Max
+== 
+
+Misc
+== 
+
+Netversion
+== 
+
+Normal:
+== 
+
+Only %d active players are allowed
+== 
+
+Patterns
+== 
+
+Personal
+== 
+
+Ready
+== 
+
+Recorded
+== 
+
+Reset
+== 
+
+Resolutions
 == 
 
 Respawn
 == 
 
+Round over
+== 
+
+Round over!
+== 
+
+Sat:
+== 
+
+Save
+== 
+
+Save skin
+== 
+
+Screen
+== 
+
+Server does not allow voting to kick players
+== 
+
+Server does not allow voting to move players to spectators
+== 
+
+Servers
+== 
+
 Show only chat messages from friends
 == 
 
+Size
+== 
+
+Skin
+== 
+
+Skin name
+== 
+
+Spectators aren't allowed to start a vote.
+== 
+
+Standard Gametype
+== 
+
+Tattoos
+== 
+
+Team:
+== 
+
+Teams are locked
+== 
+
+Teams are locked. Time to wait before changing team: %02d:%02d
+== 
+
+Teams were locked
+== 
+
+Teams were unlocked
+== 
+
+Tee
+== 
+
+Texture
+== 
+
+Volume
+== 
+
+Vote aborted
+== 
+
+Vote failed
+== 
+
+Vote passed
+== 
+
+Wait for current vote to end before calling a new one.
+== 
+
+Wait for next round
+== 
+
+Wide
+== 
+
+You must wait %d seconds before making another vote
+== 
+
+blue
+== 
+
+blue team
+== 
+
+game
+== 
+
+red
+== 
+
+red team
+== 
+
+spectators
+== 
+
+wait for more players
+== 
+
 ##### old translations #####
+
+Sat.
+== Saturation
+
+Miscellaneous
+== Divers
+
+Body
+== Corps
+
+Max demos
+== Nombre maximum de démos
+
+News
+== Nouvelles
+
+FSAA samples
+== Échantillons FSAA
+
+%d of %d servers, %d players
+== %d/%d serveurs, %d joueurs
+
+Sound volume
+== Volume du son
+
+Created:
+== Créé le :
+
+Max Screenshots
+== Nombre maximum de captures d'écran
+
+Length:
+== Longueur :
+
+Rifle
+== Laser
+
+Netversion:
+== Netversion :
+
+Map:
+== Carte :
+
+Info
+== Info.
+
+Hue
+== Teinte
+
+Your skin
+== Votre skin
+
+Size:
+== Taille :
+
+Reset to defaults
+== Réinitialiser
+
+Display Modes
+== Résolutions
+
+Version:
+== Version :
+
+Round
+== Round
+
+Lht.
+== Luminosité
+
+UI Color
+== Couleur du menu
+
+Crc:
+== Crc :
+
+Alpha
+== Alpha
+
+no limit
+== pas de limite
+
+Current version: %s
+== Version actuelle : %s
+
+Filter
+== Filtre
+
+Name plates size
+== Taille
+
+Type:
+== Type :
 

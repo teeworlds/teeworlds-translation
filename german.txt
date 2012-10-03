@@ -1,11 +1,29 @@
-﻿
+##### authors #####
+#originally created by:
+#	Dominik Geyer
+#modified by:
+#	Fujnky			2010-06-03 11:30:05
+#	Fujnky			2010-06-03 17:41:45
+#	Fujnky			2010-06-05 23:36:52
+#	Fujnky			2010-06-07 16:17:40
+#	Fujnky			2010-06-11 09:50:47
+#	Sworddragon		2010-11-21 14:25:00
+#	Fujnky			2011-01-02 19:49:22
+#	heinrich5991	2011-01-23 17:53:42
+#	Sworddragon		2011-02-09 12:54:50
+#	heinrich5991	2011-04-03 23:46:51
+#	ghost91			2011-04-04 20:47:01
+#	andi103			2011-05-02 19:12:27
+#	andi103			2011-05-03 23:25:20
+#	heinrich5991	2011-07-02 09:10:21
+#	Yared Hufkens	2012-02-03 19:57:59
+#	andi103			2012-07-14 11:31:11
+##### /authors #####
+
 ##### translated strings #####
 
 %d Bytes
 == %d Bytes
-
-%d of %d servers, %d players
-== %d von %d Servern, %d Spieler
 
 %d%% loaded
 == %d%% geladen
@@ -46,9 +64,6 @@ Address
 All
 == Alle
 
-Alpha
-== Alpha
-
 Always show name plates
 == Spielernamen immer anzeigen
 
@@ -75,9 +90,6 @@ Blue team
 
 Blue team wins!
 == Blaues Team gewinnt!
-
-Body
-== Körper
 
 Call vote
 == Abstimmen
@@ -121,17 +133,8 @@ Count players only
 Country
 == Land
 
-Crc:
-== Prüfsumme:
-
-Created:
-== Erstellt:
-
 Current
 == Aktuell
-
-Current version: %s
-== Aktuelle Version: %s
 
 Custom colors
 == Eigene Farben
@@ -157,9 +160,6 @@ Disconnect
 Disconnected
 == Verbindung getrennt
 
-Display Modes
-== Auflösungen
-
 Downloading map
 == Karte herunterladen
 
@@ -181,9 +181,6 @@ Error
 Error loading demo
 == Fehler beim Laden der Aufnahme, die Datei ist ungültig.
 
-FSAA samples
-== Vollbild Anti-Aliasing
-
 Favorite
 == Favorit
 
@@ -192,9 +189,6 @@ Favorites
 
 Feet
 == Füße
-
-Filter
-== Filter
 
 Fire
 == Feuern
@@ -222,6 +216,9 @@ Game info
 
 Game over
 == Spiel vorbei
+
+Game paused
+== Spiel pausiert
 
 Game type
 == Spieltyp
@@ -253,12 +250,6 @@ Hook
 Host address
 == Serveradresse
 
-Hue
-== Farb.
-
-Info
-== Info
-
 Internet
 == Internet
 
@@ -286,12 +277,6 @@ LAN
 Language
 == Sprache
 
-Length:
-== Länge
-
-Lht.
-== Hell.
-
 Loading
 == Laden
 
@@ -301,20 +286,8 @@ MOTD
 Map
 == Karte
 
-Map:
-== Karte:
-
-Max Screenshots
-== Maximale Anzahl an Bildschirmfotos
-
-Max demos
-== Maximale Anzahl an Aufnahmen
-
 Maximum ping:
 == Maximaler Ping:
-
-Miscellaneous
-== Verschiedenes
 
 Mouse sens.
 == Maus-Empfindl.
@@ -337,17 +310,8 @@ Mute when not active
 Name
 == Name
 
-Name plates size
-== Größe der Spielernamen
-
-Netversion:
-== Netversion:
-
 New name:
 == Neuer Name:
-
-News
-== News
 
 Next weapon
 == Nächste Waffe
@@ -463,20 +427,11 @@ Rename demo
 Reset filter
 == Standardfilter
 
-Reset to defaults
-== Standardeinstellung
-
-Rifle
-== Laser
-
-Round
-== Runde
+Respawn
+== Wiederbelebung
 
 Sample rate
 == Abtastrate
-
-Sat.
-== Sätt.
 
 Score
 == Score
@@ -526,11 +481,11 @@ Show ingame HUD
 Show name plates
 == Zeige Namen
 
+Show only chat messages from friends
+== Nur Nachrichten von Freunden zeigen
+
 Show only supported
 == Zeige nur unterstützte
-
-Size:
-== Größe:
 
 Skins
 == Skins
@@ -540,9 +495,6 @@ Sound
 
 Sound error
 == Audiofehler
-
-Sound volume
-== Lautstärke
 
 Spectate
 == Zuschauen
@@ -610,12 +562,6 @@ Try again
 Type
 == Typ
 
-Type:
-== Typ:
-
-UI Color
-== Menüfarbe
-
 Unable to delete the demo
 == Aufnahme konnte nicht gelöscht werden
 
@@ -633,9 +579,6 @@ V-Sync
 
 Version
 == Version
-
-Version:
-== Version:
 
 Vote command:
 == Kommando:
@@ -667,25 +610,379 @@ Yes
 You must restart the game for all settings to take effect.
 == Du musst das Spiel neustarten um die Änderungen zu übernehmen.
 
+##### needs translation #####
+
+%d player left
+== 
+
+%d player not ready
+== 
+
+%d players left
+== 
+
+%d players not ready
+== 
+
+%d servers, %d players
+== 
+
+'%s' called for vote to kick '%s' (%s)
+== 
+
+'%s' called for vote to move '%s' to spectators (%s)
+== 
+
+'%s' called vote to change server option '%s' (%s)
+== 
+
+'%s' entered and joined the %s
+== 
+
+'%s' has left the game
+== 
+
+'%s' has left the game (%s)
+== 
+
+'%s' joined the %s
+== 
+
+Admin forced server option '%s' (%s)
+== 
+
+Admin forced vote no
+== 
+
+Admin forced vote yes
+== 
+
+Admin moved '%s' to spectator (%s)
+== 
+
+Alp:
+== 
+
+Anti Aliasing
+== 
+
+Are you sure you want to save your skin ? If a skin with this name already exists, it will be replaced.
+== 
+
+Back
+== 
+
+Basic
+== 
+
+Bodies
+== 
+
+Borderless window
+== 
+
+Coloration
+== 
+
+Crc
+== 
+
+Created
+== 
+
+Custom
+== 
+
+Customize
+== 
+
+Decoration
+== 
+
+Demo
+== 
+
+Detail
+== 
+
+Editor
+== 
+
+Eyes
+== 
+
+Format
+== 
+
+Game starts in
+== 
+
+Hands
+== 
+
+Hue:
+== 
+
+Kick voting requires %d players on the server
+== 
+
+Laser
+== 
+
+Length
+== 
+
+Letterbox
+== 
+
+Lgt:
+== 
+
+Local server
+== 
+
+Match
+== 
+
+Max
+== 
+
+Misc
+== 
+
+Netversion
+== 
+
+Normal:
+== 
+
+Only %d active players are allowed
+== 
+
+Patterns
+== 
+
+Personal
+== 
+
+Ready
+== 
+
+Recorded
+== 
+
+Reset
+== 
+
+Resolutions
+== 
+
+Round over
+== 
+
+Round over!
+== 
+
+Sat:
+== 
+
+Save
+== 
+
+Save skin
+== 
+
+Screen
+== 
+
+Server does not allow voting to kick players
+== 
+
+Server does not allow voting to move players to spectators
+== 
+
+Servers
+== 
+
+Size
+== 
+
+Skin
+== 
+
+Skin name
+== 
+
+Spectators aren't allowed to start a vote.
+== 
+
+Standard Gametype
+== 
+
+Tattoos
+== 
+
+Team:
+== 
+
+Teams are locked
+== 
+
+Teams are locked. Time to wait before changing team: %02d:%02d
+== 
+
+Teams were locked
+== 
+
+Teams were unlocked
+== 
+
+Tee
+== 
+
+Texture
+== 
+
+Volume
+== 
+
+Vote aborted
+== 
+
+Vote failed
+== 
+
+Vote passed
+== 
+
+Wait for current vote to end before calling a new one.
+== 
+
+Wait for next round
+== 
+
+Wide
+== 
+
+You must wait %d seconds before making another vote
+== 
+
+blue
+== 
+
+blue team
+== 
+
+game
+== 
+
+red
+== 
+
+red team
+== 
+
+spectators
+== 
+
+wait for more players
+== 
+
+##### old translations #####
+
+Sat.
+== Sätt.
+
+Miscellaneous
+== Verschiedenes
+
+Body
+== Körper
+
+Max demos
+== Maximale Anzahl an Aufnahmen
+
+News
+== News
+
+FSAA samples
+== Vollbild Anti-Aliasing
+
+%d of %d servers, %d players
+== %d von %d Servern, %d Spieler
+
+Sound volume
+== Lautstärke
+
+Created:
+== Erstellt:
+
+Max Screenshots
+== Maximale Anzahl an Bildschirmfotos
+
+Length:
+== Länge
+
+Rifle
+== Laser
+
+Netversion:
+== Netversion:
+
+Map:
+== Karte:
+
+Info
+== Info
+
+Hue
+== Farb.
+
 Your skin
 == Dein Skin
+
+Size:
+== Größe:
+
+﻿
+== ## translated strings #####
+
+Reset to defaults
+== Standardeinstellung
+
+Display Modes
+== Auflösungen
+
+Version:
+== Version:
+
+Round
+== Runde
+
+Lht.
+== Hell.
+
+UI Color
+== Menüfarbe
+
+Crc:
+== Prüfsumme:
+
+Alpha
+== Alpha
 
 no limit
 == Keine Begrenzung
 
+Current version: %s
+== Aktuelle Version: %s
 
-Game paused
-== Spiel pausiert
+Filter
+== Filter
 
-Respawn
-== Wiederbelebung
+Name plates size
+== Größe der Spielernamen
 
-Show only chat messages from friends
-== Nur Nachrichten von Freunden zeigen
-
-
-##### needs translation #####
-
-
-##### old translations #####
+Type:
+== Typ:
 

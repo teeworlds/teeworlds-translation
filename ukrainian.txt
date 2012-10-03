@@ -1,8 +1,11 @@
+##### authors #####
+#originally created by:
+#	.ua and Ivan
+#modified by:
+#	404_not_found		2011-07-30 19:50:58
+##### /authors #####
 
 ##### translated strings #####
-
-%d of %d servers, %d players
-== %d/%d серверів, %d гравців
 
 %d%% loaded
 == %d%% завантажено
@@ -18,9 +21,6 @@ Address
 
 All
 == Всі
-
-Alpha
-== Прозор..
 
 Always show name plates
 == Завжди показувати ніки гравців
@@ -39,9 +39,6 @@ Blue team
 
 Blue team wins!
 == Сині перемогли!
-
-Body
-== Тіло
 
 Call vote
 == Голосувати
@@ -73,9 +70,6 @@ Controls
 Current
 == Поточний
 
-Current version: %s
-== Поточна версія: %s
-
 Custom colors
 == Особистий колір
 
@@ -90,9 +84,6 @@ Disconnect
 
 Disconnected
 == Від'єднанно
-
-Display Modes
-== Режими дисплея
 
 Downloading map
 == Завантаження карти
@@ -115,9 +106,6 @@ Error
 Error loading demo
 == Помилка при завантаженні демо
 
-FSAA samples
-== Семплів FSAA
-
 Favorite
 == Обраний
 
@@ -126,9 +114,6 @@ Favorites
 
 Feet
 == Ноги
-
-Filter
-== Фільтр
 
 Fire
 == Постріл
@@ -181,12 +166,6 @@ Hook
 Host address
 == Адреса сервера
 
-Hue
-== Відтінок
-
-Info
-== Інфо
-
 Internet
 == Інтернет
 
@@ -211,9 +190,6 @@ LAN
 Language
 == Мова
 
-Lht.
-== Яскравість
-
 Loading
 == Завантаження
 
@@ -225,9 +201,6 @@ Map
 
 Maximum ping:
 == Макс. пінг:
-
-Miscellaneous
-== Додатково
 
 Mouse sens.
 == Чутлив. миші
@@ -246,9 +219,6 @@ Mute when not active
 
 Name
 == Ім'я
-
-News
-== Новини
 
 Next weapon
 == Наступ. зброя
@@ -334,20 +304,8 @@ Remote console
 Reset filter
 == Скинути фільтри
 
-Reset to defaults
-== Скинути налаштування
-
-Rifle
-== Лазер
-
-Round
-== Раунд
-
 Sample rate
 == Частота
-
-Sat.
-== Контраст.
 
 Score
 == Очки
@@ -393,9 +351,6 @@ Skins
 
 Sound
 == Звук
-
-Sound volume
-== Гучність звуку
 
 Spectate
 == Спостерігати
@@ -445,9 +400,6 @@ Try again
 Type
 == Тип
 
-UI Color
-== колір інтерфейсу
-
 Use sounds
 == Використовувати звуки
 
@@ -481,12 +433,24 @@ Yes
 You must restart the game for all settings to take effect.
 == Перезапустіть гру для застосування змін.
 
-Your skin
-== Ваш скін
-
 ##### needs translation #####
 
 %d Bytes
+== 
+
+%d player left
+== 
+
+%d player not ready
+== 
+
+%d players left
+== 
+
+%d players not ready
+== 
+
+%d servers, %d players
 == 
 
 %i minute left
@@ -504,6 +468,27 @@ Your skin
 %s wins!
 == 
 
+'%s' called for vote to kick '%s' (%s)
+== 
+
+'%s' called for vote to move '%s' to spectators (%s)
+== 
+
+'%s' called vote to change server option '%s' (%s)
+== 
+
+'%s' entered and joined the %s
+== 
+
+'%s' has left the game
+== 
+
+'%s' has left the game (%s)
+== 
+
+'%s' joined the %s
+== 
+
 -Page %d-
 == 
 
@@ -513,13 +498,46 @@ Add
 Add Friend
 == 
 
+Admin forced server option '%s' (%s)
+== 
+
+Admin forced vote no
+== 
+
+Admin forced vote yes
+== 
+
+Admin moved '%s' to spectator (%s)
+== 
+
+Alp:
+== 
+
+Anti Aliasing
+== 
+
 Are you sure that you want to remove the player from your friends list?
+== 
+
+Are you sure you want to save your skin ? If a skin with this name already exists, it will be replaced.
 == 
 
 Automatically record demos
 == 
 
 Automatically take game over screenshot
+== 
+
+Back
+== 
+
+Basic
+== 
+
+Bodies
+== 
+
+Borderless window
 == 
 
 Change settings
@@ -531,25 +549,52 @@ Clan
 Client
 == 
 
+Coloration
+== 
+
 Count players only
 == 
 
 Country
 == 
 
-Crc:
+Crc
 == 
 
-Created:
+Created
+== 
+
+Custom
+== 
+
+Customize
+== 
+
+Decoration
 == 
 
 Delete demo
+== 
+
+Demo
 == 
 
 Demo details
 == 
 
 Demofile: %s
+== 
+
+Detail
+== 
+
+Editor
+== 
+
+Eyes
+== 
+
+Format
 == 
 
 Free-View
@@ -561,34 +606,67 @@ Friends
 Game paused
 == 
 
+Game starts in
+== 
+
+Hands
+== 
+
+Hue:
+== 
+
 Kick player
 == 
 
-Length:
+Kick voting requires %d players on the server
 == 
 
-Map:
+Laser
 == 
 
-Max Screenshots
+Length
 == 
 
-Max demos
+Letterbox
+== 
+
+Lgt:
+== 
+
+Local server
+== 
+
+Match
+== 
+
+Max
+== 
+
+Misc
 == 
 
 Move player to spectators
 == 
 
-Name plates size
-== 
-
-Netversion:
+Netversion
 == 
 
 New name:
 == 
 
+Normal:
+== 
+
+Only %d active players are allowed
+== 
+
 Parent Folder
+== 
+
+Patterns
+== 
+
+Personal
 == 
 
 Play background music
@@ -606,6 +684,12 @@ Quit anyway?
 REC %3d:%02d
 == 
 
+Ready
+== 
+
+Recorded
+== 
+
 Remove
 == 
 
@@ -618,13 +702,46 @@ Rename
 Rename demo
 == 
 
+Reset
+== 
+
+Resolutions
+== 
+
 Respawn
+== 
+
+Round over
+== 
+
+Round over!
+== 
+
+Sat:
+== 
+
+Save
+== 
+
+Save skin
+== 
+
+Screen
 == 
 
 Server address:
 == 
 
+Server does not allow voting to kick players
+== 
+
+Server does not allow voting to move players to spectators
+== 
+
 Server filter
+== 
+
+Servers
 == 
 
 Show friends only
@@ -636,7 +753,13 @@ Show ingame HUD
 Show only chat messages from friends
 == 
 
-Size:
+Size
+== 
+
+Skin
+== 
+
+Skin name
 == 
 
 Sound error
@@ -651,16 +774,43 @@ Spectate previous
 Spectator mode
 == 
 
+Spectators aren't allowed to start a vote.
+== 
+
+Standard Gametype
+== 
+
 Strict gametype filter
+== 
+
+Tattoos
+== 
+
+Team:
+== 
+
+Teams are locked
+== 
+
+Teams are locked. Time to wait before changing team: %02d:%02d
+== 
+
+Teams were locked
+== 
+
+Teams were unlocked
+== 
+
+Tee
+== 
+
+Texture
 == 
 
 The audio device couldn't be initialised.
 == 
 
 There's an unsaved map in the editor, you might want to save it before you quit the game.
-== 
-
-Type:
 == 
 
 Unable to delete the demo
@@ -672,7 +822,10 @@ Unable to rename the demo
 Use team colors for name plates
 == 
 
-Version:
+Volume
+== 
+
+Vote aborted
 == 
 
 Vote command:
@@ -681,8 +834,137 @@ Vote command:
 Vote description:
 == 
 
-no limit
+Vote failed
+== 
+
+Vote passed
+== 
+
+Wait for current vote to end before calling a new one.
+== 
+
+Wait for next round
+== 
+
+Wide
+== 
+
+You must wait %d seconds before making another vote
+== 
+
+blue
+== 
+
+blue team
+== 
+
+game
+== 
+
+red
+== 
+
+red team
+== 
+
+spectators
+== 
+
+wait for more players
 == 
 
 ##### old translations #####
+
+Sat.
+== Контраст.
+
+Miscellaneous
+== Додатково
+
+Body
+== Тіло
+
+Max demos
+== 
+
+Rifle
+== Лазер
+
+%d of %d servers, %d players
+== %d/%d серверів, %d гравців
+
+Sound volume
+== Гучність звуку
+
+News
+== Новини
+
+Your skin
+== Ваш скін
+
+Max Screenshots
+== 
+
+Length:
+== 
+
+Netversion:
+== 
+
+Map:
+== 
+
+FSAA samples
+== Семплів FSAA
+
+Info
+== Інфо
+
+Version:
+== 
+
+Hue
+== Відтінок
+
+Reset to defaults
+== Скинути налаштування
+
+Display Modes
+== Режими дисплея
+
+Round
+== Раунд
+
+Lht.
+== Яскравість
+
+Size:
+== 
+
+UI Color
+== колір інтерфейсу
+
+Crc:
+== 
+
+Created:
+== 
+
+Alpha
+== Прозор..
+
+no limit
+== 
+
+Current version: %s
+== Поточна версія: %s
+
+Filter
+== Фільтр
+
+Name plates size
+== 
+
+Type:
+== 
 

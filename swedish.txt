@@ -1,11 +1,15 @@
+##### authors #####
+#originally created by:
+#	matricks
+#modified by:
+#	Martin Pola		2011-04-02 11:17:09
+#	Kottizen		2011-07-02 00:34:54
+##### /authors #####
 
 ##### translated strings #####
 
 %d Bytes
 == %d Bytes
-
-%d of %d servers, %d players
-== %d av %d servrar, %d spelare
 
 %d%% loaded
 == %d%% laddat
@@ -46,9 +50,6 @@ Address
 All
 == Alla
 
-Alpha
-== Alpha
-
 Always show name plates
 == Visa alltid namnskyltar
 
@@ -75,9 +76,6 @@ Blue team
 
 Blue team wins!
 == Blå laget vann!
-
-Body
-== Kropp
 
 Call vote
 == Röstning
@@ -121,17 +119,8 @@ Count players only
 Country
 == Land
 
-Crc:
-== Crc:
-
-Created:
-== Skapad:
-
 Current
 == Nuvarande
-
-Current version: %s
-== Nuvarande version: %s
 
 Custom colors
 == Egna färger
@@ -157,9 +146,6 @@ Disconnect
 Disconnected
 == Frånkopplad
 
-Display Modes
-== Skärmlägen
-
 Downloading map
 == Laddar ner karta
 
@@ -181,9 +167,6 @@ Error
 Error loading demo
 == Kunde inte ladda demot
 
-FSAA samples
-== FSAA-samplingar
-
 Favorite
 == Favorit
 
@@ -192,9 +175,6 @@ Favorites
 
 Feet
 == Fötter
-
-Filter
-== Filter
 
 Fire
 == Skjuta
@@ -253,12 +233,6 @@ Hook
 Host address
 == Serveraddress
 
-Hue
-== Nyans
-
-Info
-== Info
-
 Internet
 == Internet
 
@@ -286,12 +260,6 @@ LAN
 Language
 == Språk
 
-Length:
-== Längd
-
-Lht.
-== Ljusstyrka
-
 Loading
 == Laddar
 
@@ -301,20 +269,8 @@ MOTD
 Map
 == Bana
 
-Map:
-== Bana
-
-Max Screenshots
-== Max antal skärmdumpar
-
-Max demos
-== Max antal demon
-
 Maximum ping:
 == Högsta ping:
-
-Miscellaneous
-== Övrigt
 
 Mouse sens.
 == Muskänslighet
@@ -337,17 +293,8 @@ Mute when not active
 Name
 == Namn
 
-Name plates size
-== Storlek på namnskyltar
-
-Netversion:
-== Nätversion:
-
 New name:
 == Nytt namn:
-
-News
-== Nyheter
 
 Next weapon
 == Nästa vapen
@@ -463,20 +410,8 @@ Rename demo
 Reset filter
 == Återställ filter
 
-Reset to defaults
-== Återställ till standard
-
-Rifle
-== Gevär
-
-Round
-== Runda
-
 Sample rate
 == Samplingsfrekvens
-
-Sat.
-== Mättnad
 
 Score
 == Poäng
@@ -529,9 +464,6 @@ Show name plates
 Show only supported
 == Visa endast upplösningar som stöds
 
-Size:
-== Storlek:
-
 Skins
 == Utseende
 
@@ -540,9 +472,6 @@ Sound
 
 Sound error
 == Ljudfel
-
-Sound volume
-== Volym
 
 Spectate
 == Åskåda
@@ -610,12 +539,6 @@ Try again
 Type
 == Typ
 
-Type:
-== Typ:
-
-UI Color
-== Gränssnittfärg
-
 Unable to delete the demo
 == Kunde inte ta bort demot
 
@@ -633,9 +556,6 @@ V-Sync
 
 Version
 == Version
-
-Version:
-== Version:
 
 Vote command:
 == Omröstningskommando:
@@ -667,22 +587,385 @@ Yes
 You must restart the game for all settings to take effect.
 == Du måste starta om spelet för att ändringarna skall verkställas.
 
-Your skin
-== Ditt skin
-
-no limit
-== Ingen gräns
-
 ##### needs translation #####
 
+%d player left
+== 
+
+%d player not ready
+== 
+
+%d players left
+== 
+
+%d players not ready
+== 
+
+%d servers, %d players
+== 
+
+'%s' called for vote to kick '%s' (%s)
+== 
+
+'%s' called for vote to move '%s' to spectators (%s)
+== 
+
+'%s' called vote to change server option '%s' (%s)
+== 
+
+'%s' entered and joined the %s
+== 
+
+'%s' has left the game
+== 
+
+'%s' has left the game (%s)
+== 
+
+'%s' joined the %s
+== 
+
+Admin forced server option '%s' (%s)
+== 
+
+Admin forced vote no
+== 
+
+Admin forced vote yes
+== 
+
+Admin moved '%s' to spectator (%s)
+== 
+
+Alp:
+== 
+
+Anti Aliasing
+== 
+
+Are you sure you want to save your skin ? If a skin with this name already exists, it will be replaced.
+== 
+
+Back
+== 
+
+Basic
+== 
+
+Bodies
+== 
+
+Borderless window
+== 
+
+Coloration
+== 
+
+Crc
+== 
+
+Created
+== 
+
+Custom
+== 
+
+Customize
+== 
+
+Decoration
+== 
+
+Demo
+== 
+
+Detail
+== 
+
+Editor
+== 
+
+Eyes
+== 
+
+Format
+== 
+
 Game paused
+== 
+
+Game starts in
+== 
+
+Hands
+== 
+
+Hue:
+== 
+
+Kick voting requires %d players on the server
+== 
+
+Laser
+== 
+
+Length
+== 
+
+Letterbox
+== 
+
+Lgt:
+== 
+
+Local server
+== 
+
+Match
+== 
+
+Max
+== 
+
+Misc
+== 
+
+Netversion
+== 
+
+Normal:
+== 
+
+Only %d active players are allowed
+== 
+
+Patterns
+== 
+
+Personal
+== 
+
+Ready
+== 
+
+Recorded
+== 
+
+Reset
+== 
+
+Resolutions
 == 
 
 Respawn
 == 
 
+Round over
+== 
+
+Round over!
+== 
+
+Sat:
+== 
+
+Save
+== 
+
+Save skin
+== 
+
+Screen
+== 
+
+Server does not allow voting to kick players
+== 
+
+Server does not allow voting to move players to spectators
+== 
+
+Servers
+== 
+
 Show only chat messages from friends
 == 
 
+Size
+== 
+
+Skin
+== 
+
+Skin name
+== 
+
+Spectators aren't allowed to start a vote.
+== 
+
+Standard Gametype
+== 
+
+Tattoos
+== 
+
+Team:
+== 
+
+Teams are locked
+== 
+
+Teams are locked. Time to wait before changing team: %02d:%02d
+== 
+
+Teams were locked
+== 
+
+Teams were unlocked
+== 
+
+Tee
+== 
+
+Texture
+== 
+
+Volume
+== 
+
+Vote aborted
+== 
+
+Vote failed
+== 
+
+Vote passed
+== 
+
+Wait for current vote to end before calling a new one.
+== 
+
+Wait for next round
+== 
+
+Wide
+== 
+
+You must wait %d seconds before making another vote
+== 
+
+blue
+== 
+
+blue team
+== 
+
+game
+== 
+
+red
+== 
+
+red team
+== 
+
+spectators
+== 
+
+wait for more players
+== 
+
 ##### old translations #####
+
+Sat.
+== Mättnad
+
+Miscellaneous
+== Övrigt
+
+Body
+== Kropp
+
+Max demos
+== Max antal demon
+
+News
+== Nyheter
+
+FSAA samples
+== FSAA-samplingar
+
+%d of %d servers, %d players
+== %d av %d servrar, %d spelare
+
+Sound volume
+== Volym
+
+Created:
+== Skapad:
+
+Max Screenshots
+== Max antal skärmdumpar
+
+Length:
+== Längd
+
+Rifle
+== Gevär
+
+Netversion:
+== Nätversion:
+
+Map:
+== Bana
+
+Info
+== Info
+
+Hue
+== Nyans
+
+Your skin
+== Ditt skin
+
+Size:
+== Storlek:
+
+Reset to defaults
+== Återställ till standard
+
+Display Modes
+== Skärmlägen
+
+Version:
+== Version:
+
+Round
+== Runda
+
+Lht.
+== Ljusstyrka
+
+UI Color
+== Gränssnittfärg
+
+Crc:
+== Crc:
+
+Alpha
+== Alpha
+
+no limit
+== Ingen gräns
+
+Current version: %s
+== Nuvarande version: %s
+
+Filter
+== Filter
+
+Name plates size
+== Storlek på namnskyltar
+
+Type:
+== Typ:
 

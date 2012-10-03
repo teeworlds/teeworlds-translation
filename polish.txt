@@ -1,11 +1,17 @@
+##### authors #####
+#originally created by:
+#	Łukasz D
+#modified by:
+#	Martin Pola		2011-04-02 22:18:00
+#	Tsin			2011-04-06 23:15:58
+#	Shymwo			2011-07-15 01:27:45
+#	Shymwo			2011-07-21 18:54:53
+##### /authors #####
 
 ##### translated strings #####
 
 %d Bytes
 == %d Bajtów
-
-%d of %d servers, %d players
-== %d z %d serwerów, %d graczy
 
 %d%% loaded
 == Załadowano %d%%
@@ -46,9 +52,6 @@ Address
 All
 == Wszyscy
 
-Alpha
-== Alfa
-
 Always show name plates
 == Zawsze pokazuj nicki graczy
 
@@ -75,9 +78,6 @@ Blue team
 
 Blue team wins!
 == Niebiescy wygrali!
-
-Body
-== Ciało
 
 Call vote
 == Głosowanie
@@ -121,17 +121,8 @@ Count players only
 Country
 == Kraj
 
-Crc:
-== Crc:
-
-Created:
-== Utworzono:
-
 Current
 == Aktualnie
-
-Current version: %s
-== Aktualna wersja: %s
 
 Custom colors
 == Dostosuj kolory
@@ -157,9 +148,6 @@ Disconnect
 Disconnected
 == Rozłączono
 
-Display Modes
-== Tryby wyświetlania
-
 Downloading map
 == Pobieranie mapy
 
@@ -181,9 +169,6 @@ Error
 Error loading demo
 == Błąd przy ładowaniu dema
 
-FSAA samples
-== Próbkowanie FSAA (Antyaliasing)
-
 Favorite
 == Ulubiony
 
@@ -192,9 +177,6 @@ Favorites
 
 Feet
 == Stopy
-
-Filter
-== Filtr
 
 Fire
 == Strzał
@@ -253,12 +235,6 @@ Hook
 Host address
 == Adres serwera
 
-Hue
-== Kolor
-
-Info
-== Info
-
 Internet
 == Internet
 
@@ -286,12 +262,6 @@ LAN
 Language
 == Język
 
-Length:
-== Długość:
-
-Lht.
-== Jasność
-
 Loading
 == Ładowanie
 
@@ -301,20 +271,8 @@ MOTD
 Map
 == Mapa
 
-Map:
-== Mapa:
-
-Max Screenshots
-== Maksymalnie screenshotów
-
-Max demos
-== Maksymalnie dem
-
 Maximum ping:
 == Maksymalny ping:
-
-Miscellaneous
-== Różne
 
 Mouse sens.
 == Czułość myszy
@@ -337,17 +295,8 @@ Mute when not active
 Name
 == Nazwa
 
-Name plates size
-== Wielkość wyświetlanych nicków
-
-Netversion:
-== Wersja sieciowa:
-
 New name:
 == Nowa nazwa:
-
-News
-== Wiadomości
 
 Next weapon
 == Następna broń
@@ -463,20 +412,8 @@ Rename demo
 Reset filter
 == Domyślne filtry
 
-Reset to defaults
-== Przywróć domyślne
-
-Rifle
-== Laser
-
-Round
-== Runda
-
 Sample rate
 == Częstotliwość próbkowania
-
-Sat.
-== Nasycenie
 
 Score
 == Wynik
@@ -529,9 +466,6 @@ Show name plates
 Show only supported
 == Pokaż tylko wspierane
 
-Size:
-== Rozmiar:
-
 Skins
 == Motywy
 
@@ -540,9 +474,6 @@ Sound
 
 Sound error
 == Błąd dźwięku
-
-Sound volume
-== Głośność
 
 Spectate
 == Obserwuj
@@ -610,12 +541,6 @@ Try again
 Type
 == Typ
 
-Type:
-== Typ:
-
-UI Color
-== Kolor menu
-
 Unable to delete the demo
 == Nie można usunąć dema
 
@@ -633,9 +558,6 @@ V-Sync
 
 Version
 == Wersja
-
-Version:
-== Wersja:
 
 Vote command:
 == Polecenie głosowania:
@@ -667,25 +589,388 @@ Yes
 You must restart the game for all settings to take effect.
 == Uruchom ponownie grę, aby użyć nowych ustawieńn
 
-Your skin
-== Twój wygląd
-
-no limit
-== bez limitu
-
 ##### needs translation #####
 
+%d player left
+== 
+
+%d player not ready
+== 
+
+%d players left
+== 
+
+%d players not ready
+== 
+
+%d servers, %d players
+== 
+
+'%s' called for vote to kick '%s' (%s)
+== 
+
+'%s' called for vote to move '%s' to spectators (%s)
+== 
+
+'%s' called vote to change server option '%s' (%s)
+== 
+
+'%s' entered and joined the %s
+== 
+
+'%s' has left the game
+== 
+
+'%s' has left the game (%s)
+== 
+
+'%s' joined the %s
+== 
+
+Admin forced server option '%s' (%s)
+== 
+
+Admin forced vote no
+== 
+
+Admin forced vote yes
+== 
+
+Admin moved '%s' to spectator (%s)
+== 
+
+Alp:
+== 
+
+Anti Aliasing
+== 
+
+Are you sure you want to save your skin ? If a skin with this name already exists, it will be replaced.
+== 
+
+Back
+== 
+
+Basic
+== 
+
+Bodies
+== 
+
+Borderless window
+== 
+
+Coloration
+== 
+
+Crc
+== 
+
+Created
+== 
+
+Custom
+== 
+
+Customize
+== 
+
+Decoration
+== 
+
+Demo
+== 
+
+Detail
+== 
+
+Editor
+== 
+
+Eyes
+== 
+
+Format
+== 
+
 Game paused
+== 
+
+Game starts in
+== 
+
+Hands
+== 
+
+Hue:
+== 
+
+Kick voting requires %d players on the server
+== 
+
+Laser
+== 
+
+Length
+== 
+
+Letterbox
+== 
+
+Lgt:
+== 
+
+Local server
+== 
+
+Match
+== 
+
+Max
+== 
+
+Misc
+== 
+
+Netversion
+== 
+
+Normal:
+== 
+
+Only %d active players are allowed
+== 
+
+Patterns
+== 
+
+Personal
+== 
+
+Ready
+== 
+
+Recorded
+== 
+
+Reset
+== 
+
+Resolutions
 == 
 
 Respawn
 == 
 
+Round over
+== 
+
+Round over!
+== 
+
+Sat:
+== 
+
+Save
+== 
+
+Save skin
+== 
+
+Screen
+== 
+
+Server does not allow voting to kick players
+== 
+
+Server does not allow voting to move players to spectators
+== 
+
+Servers
+== 
+
 Show only chat messages from friends
+== 
+
+Size
+== 
+
+Skin
+== 
+
+Skin name
+== 
+
+Spectators aren't allowed to start a vote.
+== 
+
+Standard Gametype
+== 
+
+Tattoos
+== 
+
+Team:
+== 
+
+Teams are locked
+== 
+
+Teams are locked. Time to wait before changing team: %02d:%02d
+== 
+
+Teams were locked
+== 
+
+Teams were unlocked
+== 
+
+Tee
+== 
+
+Texture
+== 
+
+Volume
+== 
+
+Vote aborted
+== 
+
+Vote failed
+== 
+
+Vote passed
+== 
+
+Wait for current vote to end before calling a new one.
+== 
+
+Wait for next round
+== 
+
+Wide
+== 
+
+You must wait %d seconds before making another vote
+== 
+
+blue
+== 
+
+blue team
+== 
+
+game
+== 
+
+red
+== 
+
+red team
+== 
+
+spectators
+== 
+
+wait for more players
 == 
 
 ##### old translations #####
 
+Sat.
+== Nasycenie
+
+Miscellaneous
+== Różne
+
+Body
+== Ciało
+
+Max demos
+== Maksymalnie dem
+
+News
+== Wiadomości
+
+FSAA samples
+== Próbkowanie FSAA (Antyaliasing)
+
+%d of %d servers, %d players
+== %d z %d serwerów, %d graczy
+
+Sound volume
+== Głośność
+
 utracić swojej pracy!
 == 
+
+Created:
+== Utworzono:
+
+Max Screenshots
+== Maksymalnie screenshotów
+
+Length:
+== Długość:
+
+Rifle
+== Laser
+
+Netversion:
+== Wersja sieciowa:
+
+Map:
+== Mapa:
+
+Info
+== Info
+
+Hue
+== Kolor
+
+Your skin
+== Twój wygląd
+
+Size:
+== Rozmiar:
+
+Reset to defaults
+== Przywróć domyślne
+
+Display Modes
+== Tryby wyświetlania
+
+Version:
+== Wersja:
+
+Round
+== Runda
+
+Lht.
+== Jasność
+
+UI Color
+== Kolor menu
+
+Crc:
+== Crc:
+
+Alpha
+== Alfa
+
+no limit
+== bez limitu
+
+Current version: %s
+== Aktualna wersja: %s
+
+Filter
+== Filtr
+
+Name plates size
+== Wielkość wyświetlanych nicków
+
+Type:
+== Typ:
 

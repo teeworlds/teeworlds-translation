@@ -1,11 +1,25 @@
+##### authors #####
+#originally created by:
+#
+#modified by:
+#	vierkant		2010-06-03 19:06:34
+#	vierkant		2010-06-04 13:20:25
+#	vierkant		2010-06-09 14:40:12
+#	Sijmen Schoon	2010-11-21 16:08:46
+#	vierkant		2010-11-21 18:19:48
+#	vierkant		2010-12-16 19:44:49
+#	vierkant		2011-01-03 12:22:05
+#	vierkant		2011-01-29 18:40:28
+#	vierkant		2011-04-02 22:19:30
+#	Vijfhoek		2011-05-02 18:09:31
+#	Syntax Error	2011-07-02 20:09:24
+#	Yared Hufkens	2012-02-03 19:57:59
+##### /authors #####
 
 ##### translated strings #####
 
 %d Bytes
 == %d Bytes
-
-%d of %d servers, %d players
-== %d van %d Servers, %d spelers
 
 %d%% loaded
 == %d%% is geladen
@@ -46,9 +60,6 @@ Address
 All
 == Alle
 
-Alpha
-== Alpha
-
 Always show name plates
 == Altijd naamplaten laten zien
 
@@ -75,9 +86,6 @@ Blue team
 
 Blue team wins!
 == Blauwe team wint!
-
-Body
-== Lichaam
 
 Call vote
 == Stem
@@ -121,17 +129,8 @@ Count players only
 Country
 == Land
 
-Crc:
-== Crc:
-
-Created:
-== Gemaakt:
-
 Current
 == Huidig
-
-Current version: %s
-== Huidige versie: %s
 
 Custom colors
 == Aangepaste kleuren
@@ -157,9 +156,6 @@ Disconnect
 Disconnected
 == Verbinding verbroken
 
-Display Modes
-== Laat modes zien
-
 Downloading map
 == Kaart downloaden
 
@@ -181,9 +177,6 @@ Error
 Error loading demo
 == Fout bij laden demo
 
-FSAA samples
-== FSAA samples
-
 Favorite
 == Favoriet
 
@@ -192,9 +185,6 @@ Favorites
 
 Feet
 == Voeten
-
-Filter
-== Filter
 
 Fire
 == Schieten
@@ -253,12 +243,6 @@ Hook
 Host address
 == Server adres
 
-Hue
-== Tint
-
-Info
-== Info
-
 Internet
 == Internet
 
@@ -286,12 +270,6 @@ LAN
 Language
 == Taal
 
-Length:
-== Lengte:
-
-Lht.
-== Licht
-
 Loading
 == Laden
 
@@ -301,20 +279,8 @@ MOTD
 Map
 == Kaart
 
-Map:
-== Kaart:
-
-Max Screenshots
-== Maximaal aantal schermafbeeldingen
-
-Max demos
-== Maximaal aantal demo's
-
 Maximum ping:
 == Hoogste ping:
-
-Miscellaneous
-== Diverse
 
 Mouse sens.
 == Muis resolutie
@@ -337,17 +303,8 @@ Mute when not active
 Name
 == Naam
 
-Name plates size
-== Grootte naamplaat
-
-Netversion:
-== Netversie:
-
 New name:
 == Nieuwe naam:
-
-News
-== Nieuws
 
 Next weapon
 == Volgend wapen
@@ -463,20 +420,8 @@ Rename demo
 Reset filter
 == Herstel filter
 
-Reset to defaults
-== Standaardinstellingen
-
-Rifle
-== Laser
-
-Round
-== Ronde
-
 Sample rate
 == Voorbeeldssnelheid
-
-Sat.
-== Verz.
 
 Score
 == Score
@@ -529,9 +474,6 @@ Show name plates
 Show only supported
 == Laat alleen compatibele servers zien
 
-Size:
-== Grootte:
-
 Skins
 == Skins
 
@@ -540,9 +482,6 @@ Sound
 
 Sound error
 == Geluidsfout
-
-Sound volume
-== Volume
 
 Spectate
 == Toekijken
@@ -610,12 +549,6 @@ Try again
 Type
 == Type
 
-Type:
-== Type:
-
-UI Color
-== UI kleur
-
 Unable to delete the demo
 == Demo kon niet worden verwijderd
 
@@ -633,9 +566,6 @@ V-Sync
 
 Version
 == Versie
-
-Version:
-== Versie:
 
 Vote command:
 == Stem commando:
@@ -667,22 +597,385 @@ Yes
 You must restart the game for all settings to take effect.
 == U moet het spel herstarten voordat de veranderingen effect hebben.
 
-Your skin
-== Jouw skin
-
-no limit
-== ongelimiteerd
-
 ##### needs translation #####
 
+%d player left
+== 
+
+%d player not ready
+== 
+
+%d players left
+== 
+
+%d players not ready
+== 
+
+%d servers, %d players
+== 
+
+'%s' called for vote to kick '%s' (%s)
+== 
+
+'%s' called for vote to move '%s' to spectators (%s)
+== 
+
+'%s' called vote to change server option '%s' (%s)
+== 
+
+'%s' entered and joined the %s
+== 
+
+'%s' has left the game
+== 
+
+'%s' has left the game (%s)
+== 
+
+'%s' joined the %s
+== 
+
+Admin forced server option '%s' (%s)
+== 
+
+Admin forced vote no
+== 
+
+Admin forced vote yes
+== 
+
+Admin moved '%s' to spectator (%s)
+== 
+
+Alp:
+== 
+
+Anti Aliasing
+== 
+
+Are you sure you want to save your skin ? If a skin with this name already exists, it will be replaced.
+== 
+
+Back
+== 
+
+Basic
+== 
+
+Bodies
+== 
+
+Borderless window
+== 
+
+Coloration
+== 
+
+Crc
+== 
+
+Created
+== 
+
+Custom
+== 
+
+Customize
+== 
+
+Decoration
+== 
+
+Demo
+== 
+
+Detail
+== 
+
+Editor
+== 
+
+Eyes
+== 
+
+Format
+== 
+
 Game paused
+== 
+
+Game starts in
+== 
+
+Hands
+== 
+
+Hue:
+== 
+
+Kick voting requires %d players on the server
+== 
+
+Laser
+== 
+
+Length
+== 
+
+Letterbox
+== 
+
+Lgt:
+== 
+
+Local server
+== 
+
+Match
+== 
+
+Max
+== 
+
+Misc
+== 
+
+Netversion
+== 
+
+Normal:
+== 
+
+Only %d active players are allowed
+== 
+
+Patterns
+== 
+
+Personal
+== 
+
+Ready
+== 
+
+Recorded
+== 
+
+Reset
+== 
+
+Resolutions
 == 
 
 Respawn
 == 
 
+Round over
+== 
+
+Round over!
+== 
+
+Sat:
+== 
+
+Save
+== 
+
+Save skin
+== 
+
+Screen
+== 
+
+Server does not allow voting to kick players
+== 
+
+Server does not allow voting to move players to spectators
+== 
+
+Servers
+== 
+
 Show only chat messages from friends
 == 
 
+Size
+== 
+
+Skin
+== 
+
+Skin name
+== 
+
+Spectators aren't allowed to start a vote.
+== 
+
+Standard Gametype
+== 
+
+Tattoos
+== 
+
+Team:
+== 
+
+Teams are locked
+== 
+
+Teams are locked. Time to wait before changing team: %02d:%02d
+== 
+
+Teams were locked
+== 
+
+Teams were unlocked
+== 
+
+Tee
+== 
+
+Texture
+== 
+
+Volume
+== 
+
+Vote aborted
+== 
+
+Vote failed
+== 
+
+Vote passed
+== 
+
+Wait for current vote to end before calling a new one.
+== 
+
+Wait for next round
+== 
+
+Wide
+== 
+
+You must wait %d seconds before making another vote
+== 
+
+blue
+== 
+
+blue team
+== 
+
+game
+== 
+
+red
+== 
+
+red team
+== 
+
+spectators
+== 
+
+wait for more players
+== 
+
 ##### old translations #####
+
+Sat.
+== Verz.
+
+Miscellaneous
+== Diverse
+
+Body
+== Lichaam
+
+Max demos
+== Maximaal aantal demo's
+
+News
+== Nieuws
+
+FSAA samples
+== FSAA samples
+
+%d of %d servers, %d players
+== %d van %d Servers, %d spelers
+
+Sound volume
+== Volume
+
+Created:
+== Gemaakt:
+
+Max Screenshots
+== Maximaal aantal schermafbeeldingen
+
+Length:
+== Lengte:
+
+Rifle
+== Laser
+
+Netversion:
+== Netversie:
+
+Map:
+== Kaart:
+
+Info
+== Info
+
+Hue
+== Tint
+
+Your skin
+== Jouw skin
+
+Size:
+== Grootte:
+
+Reset to defaults
+== Standaardinstellingen
+
+Display Modes
+== Laat modes zien
+
+Version:
+== Versie:
+
+Round
+== Ronde
+
+Lht.
+== Licht
+
+UI Color
+== UI kleur
+
+Crc:
+== Crc:
+
+Alpha
+== Alpha
+
+no limit
+== ongelimiteerd
+
+Current version: %s
+== Huidige versie: %s
+
+Filter
+== Filter
+
+Name plates size
+== Grootte naamplaat
+
+Type:
+== Type:
 

@@ -1,11 +1,14 @@
+##### authors #####
+#originally created by:
+#	chingis
+#modified by:
+#
+##### /authors #####
 
 ##### translated strings #####
 
 %d Bytes
 == %d байт
-
-%d of %d servers, %d players
-== %d/%d сервер, %d оюнчу
 
 %d%% loaded
 == %d%% жүктөлдү
@@ -46,9 +49,6 @@ Address
 All
 == Баары
 
-Alpha
-== Альфа
-
 Always show name plates
 == Оюнчулардын атын дайыма көрсөтүү
 
@@ -75,9 +75,6 @@ Blue team
 
 Blue team wins!
 == Көктөр утту!
-
-Body
-== Дене
 
 Call vote
 == Добуш берүү
@@ -121,17 +118,8 @@ Count players only
 Country
 == Өлкөңүздүн желеги
 
-Crc:
-== Көзөм. сум.:
-
-Created:
-== Жаратылды:
-
 Current
 == Кезектеги
-
-Current version: %s
-== Кезектеги версия: %s
 
 Custom colors
 == Башкача түстөр
@@ -157,9 +145,6 @@ Disconnect
 Disconnected
 == Өчүрүлдү
 
-Display Modes
-== Экран чечими
-
 Downloading map
 == Картаны жүктөө
 
@@ -181,9 +166,6 @@ Error
 Error loading demo
 == Демонун жүктөө катасы
 
-FSAA samples
-== FSAA сэмплдери
-
 Favorite
 == Тандалма
 
@@ -192,9 +174,6 @@ Favorites
 
 Feet
 == Бут
-
-Filter
-== Элек
 
 Fire
 == Атуу
@@ -222,6 +201,9 @@ Game info
 
 Game over
 == Оюн бүттү
+
+Game paused
+== Оюн паузага коюлу
 
 Game type
 == Оюн түрү
@@ -253,12 +235,6 @@ Hook
 Host address
 == Сервер дареги
 
-Hue
-== Түс
-
-Info
-== Маалымат
-
 Internet
 == Интернет
 
@@ -286,12 +262,6 @@ LAN
 Language
 == Тил
 
-Length:
-== Узундук:
-
-Lht.
-== Ачык түс.
-
 Loading
 == Жүктөө
 
@@ -301,20 +271,8 @@ MOTD
 Map
 == Карта
 
-Map:
-== Карта:
-
-Max Screenshots
-== Экран сүрөттөрүнүн жогорчеги
-
-Max demos
-== Демолордун жогорчеги
-
 Maximum ping:
 == Пинг жогорчеги:
-
-Miscellaneous
-== Кошумча
 
 Mouse sens.
 == Чычкан сез.
@@ -337,17 +295,8 @@ Mute when not active
 Name
 == Ат
 
-Name plates size
-== Өлчөм
-
-Netversion:
-== Версия:
-
 New name:
 == Жаңы ат:
-
-News
-== Жаңылыктар
 
 Next weapon
 == Кийинки курал
@@ -463,20 +412,11 @@ Rename demo
 Reset filter
 == Электи түшүрүү
 
-Reset to defaults
-== Ырастоолорду түшүрүү
-
-Rifle
-== Лазер
-
-Round
-== Раунд
+Respawn
+== Кайра жаралуу
 
 Sample rate
 == Жыштык
-
-Sat.
-== Канык.
 
 Score
 == Упай
@@ -526,11 +466,11 @@ Show ingame HUD
 Show name plates
 == Оюнчулардын такма аттарын көрсөтүү
 
+Show only chat messages from friends
+== Достордон гана чат билдирмелерди көрсөтүү
+
 Show only supported
 == Колдолгон чечимдерди гана көрсөтүү
-
-Size:
-== Өлчөм:
 
 Skins
 == Терилер
@@ -540,9 +480,6 @@ Sound
 
 Sound error
 == Үн катасы
-
-Sound volume
-== Үндүн катуулугу
 
 Spectate
 == Байкоо
@@ -610,12 +547,6 @@ Try again
 Type
 == Түр
 
-Type:
-== Түр:
-
-UI Color
-== Интерфейс түсү
-
 Unable to delete the demo
 == Демону өчүрүүгө мүмкүн эмес
 
@@ -633,9 +564,6 @@ V-Sync
 
 Version
 == Версия
-
-Version:
-== Версия:
 
 Vote command:
 == Добуш б. командасы:
@@ -667,22 +595,376 @@ Yes
 You must restart the game for all settings to take effect.
 == Өзгөртүүлөрдү колдонуу үчүн, оюнду кайтадан жүргүзүш керек.
 
+##### needs translation #####
+
+%d player left
+== 
+
+%d player not ready
+== 
+
+%d players left
+== 
+
+%d players not ready
+== 
+
+%d servers, %d players
+== 
+
+'%s' called for vote to kick '%s' (%s)
+== 
+
+'%s' called for vote to move '%s' to spectators (%s)
+== 
+
+'%s' called vote to change server option '%s' (%s)
+== 
+
+'%s' entered and joined the %s
+== 
+
+'%s' has left the game
+== 
+
+'%s' has left the game (%s)
+== 
+
+'%s' joined the %s
+== 
+
+Admin forced server option '%s' (%s)
+== 
+
+Admin forced vote no
+== 
+
+Admin forced vote yes
+== 
+
+Admin moved '%s' to spectator (%s)
+== 
+
+Alp:
+== 
+
+Anti Aliasing
+== 
+
+Are you sure you want to save your skin ? If a skin with this name already exists, it will be replaced.
+== 
+
+Back
+== 
+
+Basic
+== 
+
+Bodies
+== 
+
+Borderless window
+== 
+
+Coloration
+== 
+
+Crc
+== 
+
+Created
+== 
+
+Custom
+== 
+
+Customize
+== 
+
+Decoration
+== 
+
+Demo
+== 
+
+Detail
+== 
+
+Editor
+== 
+
+Eyes
+== 
+
+Format
+== 
+
+Game starts in
+== 
+
+Hands
+== 
+
+Hue:
+== 
+
+Kick voting requires %d players on the server
+== 
+
+Laser
+== 
+
+Length
+== 
+
+Letterbox
+== 
+
+Lgt:
+== 
+
+Local server
+== 
+
+Match
+== 
+
+Max
+== 
+
+Misc
+== 
+
+Netversion
+== 
+
+Normal:
+== 
+
+Only %d active players are allowed
+== 
+
+Patterns
+== 
+
+Personal
+== 
+
+Ready
+== 
+
+Recorded
+== 
+
+Reset
+== 
+
+Resolutions
+== 
+
+Round over
+== 
+
+Round over!
+== 
+
+Sat:
+== 
+
+Save
+== 
+
+Save skin
+== 
+
+Screen
+== 
+
+Server does not allow voting to kick players
+== 
+
+Server does not allow voting to move players to spectators
+== 
+
+Servers
+== 
+
+Size
+== 
+
+Skin
+== 
+
+Skin name
+== 
+
+Spectators aren't allowed to start a vote.
+== 
+
+Standard Gametype
+== 
+
+Tattoos
+== 
+
+Team:
+== 
+
+Teams are locked
+== 
+
+Teams are locked. Time to wait before changing team: %02d:%02d
+== 
+
+Teams were locked
+== 
+
+Teams were unlocked
+== 
+
+Tee
+== 
+
+Texture
+== 
+
+Volume
+== 
+
+Vote aborted
+== 
+
+Vote failed
+== 
+
+Vote passed
+== 
+
+Wait for current vote to end before calling a new one.
+== 
+
+Wait for next round
+== 
+
+Wide
+== 
+
+You must wait %d seconds before making another vote
+== 
+
+blue
+== 
+
+blue team
+== 
+
+game
+== 
+
+red
+== 
+
+red team
+== 
+
+spectators
+== 
+
+wait for more players
+== 
+
+##### old translations #####
+
+Sat.
+== Канык.
+
+Miscellaneous
+== Кошумча
+
+Body
+== Дене
+
+Max demos
+== Демолордун жогорчеги
+
+News
+== Жаңылыктар
+
+FSAA samples
+== FSAA сэмплдери
+
+%d of %d servers, %d players
+== %d/%d сервер, %d оюнчу
+
+Sound volume
+== Үндүн катуулугу
+
+Created:
+== Жаратылды:
+
+Max Screenshots
+== Экран сүрөттөрүнүн жогорчеги
+
+Length:
+== Узундук:
+
+Rifle
+== Лазер
+
+Netversion:
+== Версия:
+
+Map:
+== Карта:
+
+Info
+== Маалымат
+
+Hue
+== Түс
+
 Your skin
 == Сиздин териңиз
+
+Size:
+== Өлчөм:
+
+Reset to defaults
+== Ырастоолорду түшүрүү
+
+Display Modes
+== Экран чечими
+
+Version:
+== Версия:
+
+Round
+== Раунд
+
+Lht.
+== Ачык түс.
+
+UI Color
+== Интерфейс түсү
+
+Crc:
+== Көзөм. сум.:
+
+Alpha
+== Альфа
 
 no limit
 == лимитсиз
 
-Game paused
-== Оюн паузага коюлу
+Current version: %s
+== Кезектеги версия: %s
 
-Respawn
-== Кайра жаралуу
+Filter
+== Элек
 
-Show only chat messages from friends
-== Достордон гана чат билдирмелерди көрсөтүү
+Name plates size
+== Өлчөм
 
-##### needs translation #####
-
-##### old translations #####
+Type:
+== Түр:
 

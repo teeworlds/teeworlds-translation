@@ -1,11 +1,18 @@
+##### authors #####
+#originally created by:
+#
+#modified by:
+#	Lanta		2010-05-30 16:26:04
+#	Lanta		2010-05-31 22:05:45
+#	Carmine		2011-01-23 17:54:06
+#	Otacon		2011-05-02 18:21:08
+#	Apmox		2011-07-15 01:09:59
+##### /authors #####
 
 ##### translated strings #####
 
 %d Bytes
 == %d byte
-
-%d of %d servers, %d players
-== %d di %d server, %d giocatori
 
 %d%% loaded
 == %d%% caricato
@@ -46,9 +53,6 @@ Address
 All
 == Tutti
 
-Alpha
-== Alpha
-
 Always show name plates
 == Mostra sempre i nomi
 
@@ -75,9 +79,6 @@ Blue team
 
 Blue team wins!
 == La squadra blu ha vinto!
-
-Body
-== Corpo
 
 Call vote
 == Vota
@@ -121,17 +122,8 @@ Count players only
 Country
 == Paese
 
-Crc:
-== Crc:
-
-Created:
-== Creata:
-
 Current
 == Attuale
-
-Current version: %s
-== Versione attuale: %s
 
 Custom colors
 == Colori personalizzati
@@ -157,9 +149,6 @@ Disconnect
 Disconnected
 == Disconnesso
 
-Display Modes
-== Risoluzioni schermo
-
 Downloading map
 == Scaricamento mappa in corso
 
@@ -181,9 +170,6 @@ Error
 Error loading demo
 == Errore caricamento demo
 
-FSAA samples
-== Campioni FSAA
-
 Favorite
 == Preferito
 
@@ -192,9 +178,6 @@ Favorites
 
 Feet
 == Piedi
-
-Filter
-== Filtro
 
 Fire
 == Fuoco
@@ -253,12 +236,6 @@ Hook
 Host address
 == Indirizzo host
 
-Hue
-== Tinta
-
-Info
-== Info
-
 Internet
 == Internet
 
@@ -286,12 +263,6 @@ LAN
 Language
 == Lingua
 
-Length:
-== Durata:
-
-Lht.
-== Luminosità
-
 Loading
 == Caricamento
 
@@ -301,20 +272,8 @@ MOTD
 Map
 == Mappa
 
-Map:
-== Mappa:
-
-Max Screenshots
-== Numero massimo di catture
-
-Max demos
-== Numero massimo di demo
-
 Maximum ping:
 == Ping massimo:
-
-Miscellaneous
-== Altro
 
 Mouse sens.
 == Sensibilità
@@ -337,17 +296,8 @@ Mute when not active
 Name
 == Nome
 
-Name plates size
-== Dimensione nomi
-
-Netversion:
-== Versione net
-
 New name:
 == Nuovo nome:
-
-News
-== Novità
 
 Next weapon
 == Arma seguente
@@ -463,20 +413,8 @@ Rename demo
 Reset filter
 == Azzera filtri
 
-Reset to defaults
-== Reimposta
-
-Rifle
-== Laser
-
-Round
-== Turno
-
 Sample rate
 == Frequenza
-
-Sat.
-== Saturazione
 
 Score
 == Punti
@@ -529,9 +467,6 @@ Show name plates
 Show only supported
 == Mostra solo supportati
 
-Size:
-== Dimensione:
-
 Skins
 == Skin
 
@@ -540,9 +475,6 @@ Sound
 
 Sound error
 == Errore suono
-
-Sound volume
-== Volume suono
 
 Spectate
 == Osserva
@@ -610,12 +542,6 @@ Try again
 Type
 == Tipo
 
-Type:
-== Tipo:
-
-UI Color
-== Color interfaccia
-
 Unable to delete the demo
 == Impossibile eliminare la demo
 
@@ -633,9 +559,6 @@ V-Sync
 
 Version
 == Versione
-
-Version:
-== Versione:
 
 Vote command:
 == Comando di voto:
@@ -667,25 +590,388 @@ Yes
 You must restart the game for all settings to take effect.
 == Devi riavviare il gioco per rendere effettive le modifiche.
 
-Your skin
-== La tua skin
-
-no limit
-== senza limiti
-
 ##### needs translation #####
 
+%d player left
+== 
+
+%d player not ready
+== 
+
+%d players left
+== 
+
+%d players not ready
+== 
+
+%d servers, %d players
+== 
+
+'%s' called for vote to kick '%s' (%s)
+== 
+
+'%s' called for vote to move '%s' to spectators (%s)
+== 
+
+'%s' called vote to change server option '%s' (%s)
+== 
+
+'%s' entered and joined the %s
+== 
+
+'%s' has left the game
+== 
+
+'%s' has left the game (%s)
+== 
+
+'%s' joined the %s
+== 
+
+Admin forced server option '%s' (%s)
+== 
+
+Admin forced vote no
+== 
+
+Admin forced vote yes
+== 
+
+Admin moved '%s' to spectator (%s)
+== 
+
+Alp:
+== 
+
+Anti Aliasing
+== 
+
+Are you sure you want to save your skin ? If a skin with this name already exists, it will be replaced.
+== 
+
+Back
+== 
+
+Basic
+== 
+
+Bodies
+== 
+
+Borderless window
+== 
+
+Coloration
+== 
+
+Crc
+== 
+
+Created
+== 
+
+Custom
+== 
+
+Customize
+== 
+
+Decoration
+== 
+
+Demo
+== 
+
+Detail
+== 
+
+Editor
+== 
+
+Eyes
+== 
+
+Format
+== 
+
 Game paused
+== 
+
+Game starts in
+== 
+
+Hands
+== 
+
+Hue:
+== 
+
+Kick voting requires %d players on the server
+== 
+
+Laser
+== 
+
+Length
+== 
+
+Letterbox
+== 
+
+Lgt:
+== 
+
+Local server
+== 
+
+Match
+== 
+
+Max
+== 
+
+Misc
+== 
+
+Netversion
+== 
+
+Normal:
+== 
+
+Only %d active players are allowed
+== 
+
+Patterns
+== 
+
+Personal
+== 
+
+Ready
+== 
+
+Recorded
+== 
+
+Reset
+== 
+
+Resolutions
 == 
 
 Respawn
 == 
 
+Round over
+== 
+
+Round over!
+== 
+
+Sat:
+== 
+
+Save
+== 
+
+Save skin
+== 
+
+Screen
+== 
+
+Server does not allow voting to kick players
+== 
+
+Server does not allow voting to move players to spectators
+== 
+
+Servers
+== 
+
 Show only chat messages from friends
+== 
+
+Size
+== 
+
+Skin
+== 
+
+Skin name
+== 
+
+Spectators aren't allowed to start a vote.
+== 
+
+Standard Gametype
+== 
+
+Tattoos
+== 
+
+Team:
+== 
+
+Teams are locked
+== 
+
+Teams are locked. Time to wait before changing team: %02d:%02d
+== 
+
+Teams were locked
+== 
+
+Teams were unlocked
+== 
+
+Tee
+== 
+
+Texture
+== 
+
+Volume
+== 
+
+Vote aborted
+== 
+
+Vote failed
+== 
+
+Vote passed
+== 
+
+Wait for current vote to end before calling a new one.
+== 
+
+Wait for next round
+== 
+
+Wide
+== 
+
+You must wait %d seconds before making another vote
+== 
+
+blue
+== 
+
+blue team
+== 
+
+game
+== 
+
+red
+== 
+
+red team
+== 
+
+spectators
+== 
+
+wait for more players
 == 
 
 ##### old translations #####
 
+Sat.
+== Saturazione
+
+Miscellaneous
+== Altro
+
+Body
+== Corpo
+
+Max demos
+== Numero massimo di demo
+
+News
+== Novità
+
+FSAA samples
+== Campioni FSAA
+
+%d of %d servers, %d players
+== %d di %d server, %d giocatori
+
+Sound volume
+== Volume suono
+
+Created:
+== Creata:
+
+Max Screenshots
+== Numero massimo di catture
+
+Length:
+== Durata:
+
+Rifle
+== Laser
+
+Netversion:
+== Versione net
+
+Map:
+== Mappa:
+
+Info
+== Info
+
+Hue
+== Tinta
+
+Your skin
+== La tua skin
+
+Size:
+== Dimensione:
+
 ﻿
 == ## translated strings #####
+
+Reset to defaults
+== Reimposta
+
+Display Modes
+== Risoluzioni schermo
+
+Version:
+== Versione:
+
+Round
+== Turno
+
+Lht.
+== Luminosità
+
+UI Color
+== Color interfaccia
+
+Crc:
+== Crc:
+
+Alpha
+== Alpha
+
+no limit
+== senza limiti
+
+Current version: %s
+== Versione attuale: %s
+
+Filter
+== Filtro
+
+Name plates size
+== Dimensione nomi
+
+Type:
+== Tipo:
 

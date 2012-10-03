@@ -1,11 +1,14 @@
+##### authors #####
+#originally created by:
+#	Feca
+#modified by:
+#
+##### /authors #####
 
 ##### translated strings #####
 
 %d Bytes
 == %d Bit
-
-%d of %d servers, %d players
-== %d Szerver, %d Játékos
 
 %d%% loaded
 == %d%% betöltve
@@ -46,9 +49,6 @@ Address
 All
 == Mindenki
 
-Alpha
-== Alpha
-
 Always show name plates
 == Mindig mutassa a névtáblát
 
@@ -75,9 +75,6 @@ Blue team
 
 Blue team wins!
 == A kék csapat nyert!
-
-Body
-== Test
 
 Call vote
 == Szavazás
@@ -121,17 +118,8 @@ Count players only
 Country
 == Ország
 
-Crc:
-== Crc:
-
-Created:
-== Készítette:
-
 Current
 == Aktuális
-
-Current version: %s
-== Aktuális verzió: %s
 
 Custom colors
 == Egyéni színek
@@ -154,9 +142,6 @@ Disconnect
 Disconnected
 == Kilépett
 
-Display Modes
-== Kijelző módok
-
 Downloading map
 == Pálya letöltése
 
@@ -178,9 +163,6 @@ Error
 Error loading demo
 == Hiba a demó betöltésében
 
-FSAA samples
-== FSAA mintáku
-
 Favorite
 == Kedvenc
 
@@ -189,9 +171,6 @@ Favorites
 
 Feet
 == Láb
-
-Filter
-== Szűrő
 
 Fire
 == Tűz
@@ -250,12 +229,6 @@ Hook
 Host address
 == Szerver címe
 
-Hue
-== Színárnyalat
-
-Info
-== Infó
-
 Internet
 == Internet
 
@@ -283,12 +256,6 @@ LAN
 Language
 == Nyelv
 
-Length:
-== Hossza:
-
-Lht.
-== Lht.
-
 Loading
 == Betöltés
 
@@ -298,20 +265,8 @@ MOTD
 Map
 == Pálya
 
-Map:
-== Pálya:
-
-Max Screenshots
-== Maximum Fotó
-
-Max demos
-== Maximum Demó
-
 Maximum ping:
 == Maximum Ping:
-
-Miscellaneous
-== Vegyes
 
 Mouse sens.
 == Egér érzékenysége
@@ -334,17 +289,8 @@ Mute when not active
 Name
 == Név
 
-Name plates size
-== Névtáblák mérete
-
-Netversion:
-== Netes verzió:
-
 New name:
 == Új Név:
-
-News
-== Hírek
 
 Next weapon
 == Következő fegyver
@@ -454,20 +400,8 @@ Rename demo
 Reset filter
 == Szűrő visszaállítása
 
-Reset to defaults
-== Visszaállítás az alapértelmezettre
-
-Rifle
-== Lézer
-
-Round
-== Menet
-
 Sample rate
 == Mintavételi frekvencia
-
-Sat.
-== Sat.
 
 Score
 == Pontszám
@@ -520,9 +454,6 @@ Show name plates
 Show only supported
 == Csak támogatott mutatása
 
-Size:
-== Méret:
-
 Skins
 == Skinek
 
@@ -531,9 +462,6 @@ Sound
 
 Sound error
 == Hang hiba
-
-Sound volume
-== Hangerő
 
 Spectate
 == Megfigyelés
@@ -592,12 +520,6 @@ Try again
 Type
 == Típus
 
-Type:
-== Típus:
-
-UI Color
-== UI Szín
-
 Unable to delete the demo
 == Nem sikerült törölni a demó
 
@@ -615,9 +537,6 @@ V-Sync
 
 Version
 == Verzió
-
-Version:
-== Verzió:
 
 Vote command:
 == Szavazás parancsa:
@@ -649,18 +568,165 @@ Yes
 You must restart the game for all settings to take effect.
 == Újra kell indítani a játékot, a beállítások érvénybe lépéséhez.
 
-Your skin
-== Te skined
-
-no limit
-== Nincs korlát
-
 ##### needs translation #####
+
+%d player left
+== 
+
+%d player not ready
+== 
+
+%d players left
+== 
+
+%d players not ready
+== 
+
+%d servers, %d players
+== 
+
+'%s' called for vote to kick '%s' (%s)
+== 
+
+'%s' called for vote to move '%s' to spectators (%s)
+== 
+
+'%s' called vote to change server option '%s' (%s)
+== 
+
+'%s' entered and joined the %s
+== 
+
+'%s' has left the game
+== 
+
+'%s' has left the game (%s)
+== 
+
+'%s' joined the %s
+== 
+
+Admin forced server option '%s' (%s)
+== 
+
+Admin forced vote no
+== 
+
+Admin forced vote yes
+== 
+
+Admin moved '%s' to spectator (%s)
+== 
+
+Alp:
+== 
+
+Anti Aliasing
+== 
+
+Are you sure you want to save your skin ? If a skin with this name already exists, it will be replaced.
+== 
+
+Back
+== 
+
+Basic
+== 
+
+Bodies
+== 
+
+Borderless window
+== 
+
+Coloration
+== 
+
+Crc
+== 
+
+Created
+== 
+
+Custom
+== 
+
+Customize
+== 
+
+Decoration
+== 
+
+Demo
+== 
 
 Demofile: %s
 == 
 
+Detail
+== 
+
+Editor
+== 
+
+Eyes
+== 
+
+Format
+== 
+
 Game paused
+== 
+
+Game starts in
+== 
+
+Hands
+== 
+
+Hue:
+== 
+
+Kick voting requires %d players on the server
+== 
+
+Laser
+== 
+
+Length
+== 
+
+Letterbox
+== 
+
+Lgt:
+== 
+
+Local server
+== 
+
+Match
+== 
+
+Max
+== 
+
+Misc
+== 
+
+Netversion
+== 
+
+Normal:
+== 
+
+Only %d active players are allowed
+== 
+
+Patterns
+== 
+
+Personal
 == 
 
 Play background music
@@ -669,10 +735,58 @@ Play background music
 Player country:
 == 
 
+Ready
+== 
+
+Recorded
+== 
+
+Reset
+== 
+
+Resolutions
+== 
+
 Respawn
 == 
 
+Round over
+== 
+
+Round over!
+== 
+
+Sat:
+== 
+
+Save
+== 
+
+Save skin
+== 
+
+Screen
+== 
+
+Server does not allow voting to kick players
+== 
+
+Server does not allow voting to move players to spectators
+== 
+
+Servers
+== 
+
 Show only chat messages from friends
+== 
+
+Size
+== 
+
+Skin
+== 
+
+Skin name
 == 
 
 Spectate next
@@ -681,8 +795,176 @@ Spectate next
 Spectate previous
 == 
 
+Spectators aren't allowed to start a vote.
+== 
+
+Standard Gametype
+== 
+
 Strict gametype filter
 == 
 
+Tattoos
+== 
+
+Team:
+== 
+
+Teams are locked
+== 
+
+Teams are locked. Time to wait before changing team: %02d:%02d
+== 
+
+Teams were locked
+== 
+
+Teams were unlocked
+== 
+
+Tee
+== 
+
+Texture
+== 
+
+Volume
+== 
+
+Vote aborted
+== 
+
+Vote failed
+== 
+
+Vote passed
+== 
+
+Wait for current vote to end before calling a new one.
+== 
+
+Wait for next round
+== 
+
+Wide
+== 
+
+You must wait %d seconds before making another vote
+== 
+
+blue
+== 
+
+blue team
+== 
+
+game
+== 
+
+red
+== 
+
+red team
+== 
+
+spectators
+== 
+
+wait for more players
+== 
+
 ##### old translations #####
+
+Sat.
+== Sat.
+
+Miscellaneous
+== Vegyes
+
+Body
+== Test
+
+Max demos
+== Maximum Demó
+
+News
+== Hírek
+
+FSAA samples
+== FSAA mintáku
+
+%d of %d servers, %d players
+== %d Szerver, %d Játékos
+
+Sound volume
+== Hangerő
+
+Created:
+== Készítette:
+
+Max Screenshots
+== Maximum Fotó
+
+Length:
+== Hossza:
+
+Rifle
+== Lézer
+
+Netversion:
+== Netes verzió:
+
+Map:
+== Pálya:
+
+Info
+== Infó
+
+Hue
+== Színárnyalat
+
+Your skin
+== Te skined
+
+Size:
+== Méret:
+
+Reset to defaults
+== Visszaállítás az alapértelmezettre
+
+Display Modes
+== Kijelző módok
+
+Version:
+== Verzió:
+
+Round
+== Menet
+
+Lht.
+== Lht.
+
+UI Color
+== UI Szín
+
+Crc:
+== Crc:
+
+Alpha
+== Alpha
+
+no limit
+== Nincs korlát
+
+Current version: %s
+== Aktuális verzió: %s
+
+Filter
+== Szűrő
+
+Name plates size
+== Névtáblák mérete
+
+Type:
+== Típus:
 

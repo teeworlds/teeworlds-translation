@@ -1,11 +1,14 @@
+##### authors #####
+#originally created by:
+#	MertenNor
+#modified by:
+#	MertenNor		2011-07-02 08:46:16
+##### /authors #####
 
 ##### translated strings #####
 
 %d Bytes
 == %d Bytes
-
-%d of %d servers, %d players
-== %d av %d servere, %d spillere
 
 %d%% loaded
 == %d%% lastet
@@ -46,9 +49,6 @@ Address
 All
 == Alle
 
-Alpha
-== Synlighet
-
 Always show name plates
 == Vis alltid navnskilt
 
@@ -75,9 +75,6 @@ Blue team
 
 Blue team wins!
 == Blått lag vant!
-
-Body
-== Kropp
 
 Call vote
 == Stem
@@ -121,17 +118,8 @@ Count players only
 Country
 == Land
 
-Crc:
-== Crc:
-
-Created:
-== Opprettet:
-
 Current
 == Nåværende
-
-Current version: %s
-== Nåværende versjon: %s
 
 Custom colors
 == Egendefinerte farger
@@ -157,9 +145,6 @@ Disconnect
 Disconnected
 == Frakoblet
 
-Display Modes
-== Skjerm moduser
-
 Downloading map
 == Laster ned banen
 
@@ -181,9 +166,6 @@ Error
 Error loading demo
 == Kunne ikke laste in Demo`en
 
-FSAA samples
-== FSAA prøver
-
 Favorite
 == Favoritt
 
@@ -192,9 +174,6 @@ Favorites
 
 Feet
 == Føtter
-
-Filter
-== Filter
 
 Fire
 == Skyt
@@ -253,12 +232,6 @@ Hook
 Host address
 == Serveradresse
 
-Hue
-== Farge
-
-Info
-== Info
-
 Internet
 == Internett
 
@@ -286,12 +259,6 @@ LAN
 Language
 == Språk
 
-Length:
-== Lengde
-
-Lht.
-== Lysstyrke
-
 Loading
 == Laster inn
 
@@ -301,20 +268,8 @@ MOTD
 Map
 == Bane
 
-Map:
-== Bane:
-
-Max Screenshots
-== Maks antall skjermbilder
-
-Max demos
-== Maks antall demoer
-
 Maximum ping:
 == Maks ping:
-
-Miscellaneous
-== Diverse
 
 Mouse sens.
 == Mushastighet
@@ -337,17 +292,8 @@ Mute when not active
 Name
 == Navn
 
-Name plates size
-== Størrelse på navnskilt
-
-Netversion:
-== Net versjon:
-
 New name:
 == Nytt navn:
-
-News
-== Nyheter
 
 Next weapon
 == Neste Våpen
@@ -463,20 +409,8 @@ Rename demo
 Reset filter
 == Tilbakestill filteret
 
-Reset to defaults
-== Tilbakestill standardinstillinger
-
-Rifle
-== Laser
-
-Round
-== Runde
-
 Sample rate
 == Enkel frekvens
-
-Sat.
-== Metning
 
 Score
 == Poeng
@@ -529,9 +463,6 @@ Show name plates
 Show only supported
 == Vis kompatible
 
-Size:
-== Størrelse:
-
 Skins
 == Utseender
 
@@ -540,9 +471,6 @@ Sound
 
 Sound error
 == Lydfeil
-
-Sound volume
-== Lydvolum
 
 Spectate
 == Se på
@@ -610,12 +538,6 @@ Try again
 Type
 == Type
 
-Type:
-== Type:
-
-UI Color
-== Menyfarge
-
 Unable to delete the demo
 == Kunne ikke slette demoen
 
@@ -633,9 +555,6 @@ V-Sync
 
 Version
 == Versjon
-
-Version:
-== Versjon:
 
 Vote command:
 == Stemmingskommando:
@@ -667,22 +586,385 @@ Yes
 You must restart the game for all settings to take effect.
 == Du må starte spillet på nytt før alle endringene tar effekt.
 
-Your skin
-== Ditt utseende
-
-no limit
-== Ingen begrensninger
-
 ##### needs translation #####
 
+%d player left
+== 
+
+%d player not ready
+== 
+
+%d players left
+== 
+
+%d players not ready
+== 
+
+%d servers, %d players
+== 
+
+'%s' called for vote to kick '%s' (%s)
+== 
+
+'%s' called for vote to move '%s' to spectators (%s)
+== 
+
+'%s' called vote to change server option '%s' (%s)
+== 
+
+'%s' entered and joined the %s
+== 
+
+'%s' has left the game
+== 
+
+'%s' has left the game (%s)
+== 
+
+'%s' joined the %s
+== 
+
+Admin forced server option '%s' (%s)
+== 
+
+Admin forced vote no
+== 
+
+Admin forced vote yes
+== 
+
+Admin moved '%s' to spectator (%s)
+== 
+
+Alp:
+== 
+
+Anti Aliasing
+== 
+
+Are you sure you want to save your skin ? If a skin with this name already exists, it will be replaced.
+== 
+
+Back
+== 
+
+Basic
+== 
+
+Bodies
+== 
+
+Borderless window
+== 
+
+Coloration
+== 
+
+Crc
+== 
+
+Created
+== 
+
+Custom
+== 
+
+Customize
+== 
+
+Decoration
+== 
+
+Demo
+== 
+
+Detail
+== 
+
+Editor
+== 
+
+Eyes
+== 
+
+Format
+== 
+
 Game paused
+== 
+
+Game starts in
+== 
+
+Hands
+== 
+
+Hue:
+== 
+
+Kick voting requires %d players on the server
+== 
+
+Laser
+== 
+
+Length
+== 
+
+Letterbox
+== 
+
+Lgt:
+== 
+
+Local server
+== 
+
+Match
+== 
+
+Max
+== 
+
+Misc
+== 
+
+Netversion
+== 
+
+Normal:
+== 
+
+Only %d active players are allowed
+== 
+
+Patterns
+== 
+
+Personal
+== 
+
+Ready
+== 
+
+Recorded
+== 
+
+Reset
+== 
+
+Resolutions
 == 
 
 Respawn
 == 
 
+Round over
+== 
+
+Round over!
+== 
+
+Sat:
+== 
+
+Save
+== 
+
+Save skin
+== 
+
+Screen
+== 
+
+Server does not allow voting to kick players
+== 
+
+Server does not allow voting to move players to spectators
+== 
+
+Servers
+== 
+
 Show only chat messages from friends
 == 
 
+Size
+== 
+
+Skin
+== 
+
+Skin name
+== 
+
+Spectators aren't allowed to start a vote.
+== 
+
+Standard Gametype
+== 
+
+Tattoos
+== 
+
+Team:
+== 
+
+Teams are locked
+== 
+
+Teams are locked. Time to wait before changing team: %02d:%02d
+== 
+
+Teams were locked
+== 
+
+Teams were unlocked
+== 
+
+Tee
+== 
+
+Texture
+== 
+
+Volume
+== 
+
+Vote aborted
+== 
+
+Vote failed
+== 
+
+Vote passed
+== 
+
+Wait for current vote to end before calling a new one.
+== 
+
+Wait for next round
+== 
+
+Wide
+== 
+
+You must wait %d seconds before making another vote
+== 
+
+blue
+== 
+
+blue team
+== 
+
+game
+== 
+
+red
+== 
+
+red team
+== 
+
+spectators
+== 
+
+wait for more players
+== 
+
 ##### old translations #####
+
+Sat.
+== Metning
+
+Miscellaneous
+== Diverse
+
+Body
+== Kropp
+
+Max demos
+== Maks antall demoer
+
+News
+== Nyheter
+
+FSAA samples
+== FSAA prøver
+
+%d of %d servers, %d players
+== %d av %d servere, %d spillere
+
+Sound volume
+== Lydvolum
+
+Created:
+== Opprettet:
+
+Max Screenshots
+== Maks antall skjermbilder
+
+Length:
+== Lengde
+
+Rifle
+== Laser
+
+Netversion:
+== Net versjon:
+
+Map:
+== Bane:
+
+Info
+== Info
+
+Hue
+== Farge
+
+Your skin
+== Ditt utseende
+
+Size:
+== Størrelse:
+
+Reset to defaults
+== Tilbakestill standardinstillinger
+
+Display Modes
+== Skjerm moduser
+
+Version:
+== Versjon:
+
+Round
+== Runde
+
+Lht.
+== Lysstyrke
+
+UI Color
+== Menyfarge
+
+Crc:
+== Crc:
+
+Alpha
+== Synlighet
+
+no limit
+== Ingen begrensninger
+
+Current version: %s
+== Nåværende versjon: %s
+
+Filter
+== Filter
+
+Name plates size
+== Størrelse på navnskilt
+
+Type:
+== Type:
 

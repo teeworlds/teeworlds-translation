@@ -1,11 +1,15 @@
+##### authors #####
+#originally created by:
+#	ziltoide
+#modified by:
+#	ziltoide		2011-04-06 23:56:54
+#	ziltoide		2011-07-05 18:31:04
+##### /authors #####
 
 ##### translated strings #####
 
 %d Bytes
 == %d tavua
-
-%d of %d servers, %d players
-== %d/%d palvelinta, %d pelaajaa
 
 %d%% loaded
 == %d%% ladattu
@@ -46,9 +50,6 @@ Address
 All
 == Kaikki
 
-Alpha
-== Alfa
-
 Always show name plates
 == Näytä nimikyltit aina
 
@@ -75,9 +76,6 @@ Blue team
 
 Blue team wins!
 == Sininen joukkue voitti!
-
-Body
-== Vartalo
 
 Call vote
 == Aloita äänestys
@@ -121,17 +119,8 @@ Count players only
 Country
 == Maa
 
-Crc:
-== Crc:
-
-Created:
-== Luotu:
-
 Current
 == Nykyinen
-
-Current version: %s
-== Nykyinen versio: %s
 
 Custom colors
 == Omat värit
@@ -157,9 +146,6 @@ Disconnect
 Disconnected
 == Yhteys katkaistu
 
-Display Modes
-== Näyttötilat
-
 Downloading map
 == Ladataan kenttää
 
@@ -181,9 +167,6 @@ Error
 Error loading demo
 == Virhe ladattaessa demoa
 
-FSAA samples
-== FSAA näytteet
-
 Favorite
 == Suosikki
 
@@ -192,9 +175,6 @@ Favorites
 
 Feet
 == Jalat
-
-Filter
-== Suotimet
 
 Fire
 == Ammu
@@ -253,12 +233,6 @@ Hook
 Host address
 == Palvelimen osoite
 
-Hue
-== Värisävy
-
-Info
-== Info
-
 Internet
 == Internet
 
@@ -286,12 +260,6 @@ LAN
 Language
 == Kieli
 
-Length:
-== Pituus:
-
-Lht.
-== Valoisuus
-
 Loading
 == Ladataan
 
@@ -301,20 +269,8 @@ MOTD
 Map
 == Kenttä
 
-Map:
-== Kenttä:
-
-Max Screenshots
-== Kuvankaappausmaksimi
-
-Max demos
-== Demomaksimi
-
 Maximum ping:
 == Maksimiping:
-
-Miscellaneous
-== Sekalaista
 
 Mouse sens.
 == Hiiren herkkyys
@@ -337,17 +293,8 @@ Mute when not active
 Name
 == Nimi
 
-Name plates size
-== Nimikylttien koko
-
-Netversion:
-== Yhteysversio:
-
 New name:
 == Uusi nimi:
-
-News
-== Uutiset
 
 Next weapon
 == Seuraava ase
@@ -463,20 +410,8 @@ Rename demo
 Reset filter
 == Nollaa suotimet
 
-Reset to defaults
-== Palaa oletusasetuksiin
-
-Rifle
-== Kivääri
-
-Round
-== Kierros
-
 Sample rate
 == Näytteenottotaajuus
-
-Sat.
-== Kyllästys
 
 Score
 == Pisteet
@@ -529,9 +464,6 @@ Show name plates
 Show only supported
 == Näytä vain tuetut
 
-Size:
-== Koko:
-
 Skins
 == Ulkonäkö
 
@@ -540,9 +472,6 @@ Sound
 
 Sound error
 == Äänivirhe
-
-Sound volume
-== Äänenvoimakkuus
 
 Spectate
 == Katso
@@ -610,12 +539,6 @@ Try again
 Type
 == Tyyppi
 
-Type:
-== Tyyppi:
-
-UI Color
-== Käyttöliittymäväri
-
 Unable to delete the demo
 == Demon poistaminen ei onnistunut
 
@@ -633,9 +556,6 @@ V-Sync
 
 Version
 == Versio
-
-Version:
-== Versio:
 
 Vote command:
 == Äänestyskäsky:
@@ -667,22 +587,385 @@ Yes
 You must restart the game for all settings to take effect.
 == Sinun täytyy uudelleenkäynnistää peli, jotta kaikki asetukset tulisivat voimaan.
 
-Your skin
-== Sinun ulkonäkösi
-
-no limit
-== ei rajaa
-
 ##### needs translation #####
 
+%d player left
+== 
+
+%d player not ready
+== 
+
+%d players left
+== 
+
+%d players not ready
+== 
+
+%d servers, %d players
+== 
+
+'%s' called for vote to kick '%s' (%s)
+== 
+
+'%s' called for vote to move '%s' to spectators (%s)
+== 
+
+'%s' called vote to change server option '%s' (%s)
+== 
+
+'%s' entered and joined the %s
+== 
+
+'%s' has left the game
+== 
+
+'%s' has left the game (%s)
+== 
+
+'%s' joined the %s
+== 
+
+Admin forced server option '%s' (%s)
+== 
+
+Admin forced vote no
+== 
+
+Admin forced vote yes
+== 
+
+Admin moved '%s' to spectator (%s)
+== 
+
+Alp:
+== 
+
+Anti Aliasing
+== 
+
+Are you sure you want to save your skin ? If a skin with this name already exists, it will be replaced.
+== 
+
+Back
+== 
+
+Basic
+== 
+
+Bodies
+== 
+
+Borderless window
+== 
+
+Coloration
+== 
+
+Crc
+== 
+
+Created
+== 
+
+Custom
+== 
+
+Customize
+== 
+
+Decoration
+== 
+
+Demo
+== 
+
+Detail
+== 
+
+Editor
+== 
+
+Eyes
+== 
+
+Format
+== 
+
 Game paused
+== 
+
+Game starts in
+== 
+
+Hands
+== 
+
+Hue:
+== 
+
+Kick voting requires %d players on the server
+== 
+
+Laser
+== 
+
+Length
+== 
+
+Letterbox
+== 
+
+Lgt:
+== 
+
+Local server
+== 
+
+Match
+== 
+
+Max
+== 
+
+Misc
+== 
+
+Netversion
+== 
+
+Normal:
+== 
+
+Only %d active players are allowed
+== 
+
+Patterns
+== 
+
+Personal
+== 
+
+Ready
+== 
+
+Recorded
+== 
+
+Reset
+== 
+
+Resolutions
 == 
 
 Respawn
 == 
 
+Round over
+== 
+
+Round over!
+== 
+
+Sat:
+== 
+
+Save
+== 
+
+Save skin
+== 
+
+Screen
+== 
+
+Server does not allow voting to kick players
+== 
+
+Server does not allow voting to move players to spectators
+== 
+
+Servers
+== 
+
 Show only chat messages from friends
 == 
 
+Size
+== 
+
+Skin
+== 
+
+Skin name
+== 
+
+Spectators aren't allowed to start a vote.
+== 
+
+Standard Gametype
+== 
+
+Tattoos
+== 
+
+Team:
+== 
+
+Teams are locked
+== 
+
+Teams are locked. Time to wait before changing team: %02d:%02d
+== 
+
+Teams were locked
+== 
+
+Teams were unlocked
+== 
+
+Tee
+== 
+
+Texture
+== 
+
+Volume
+== 
+
+Vote aborted
+== 
+
+Vote failed
+== 
+
+Vote passed
+== 
+
+Wait for current vote to end before calling a new one.
+== 
+
+Wait for next round
+== 
+
+Wide
+== 
+
+You must wait %d seconds before making another vote
+== 
+
+blue
+== 
+
+blue team
+== 
+
+game
+== 
+
+red
+== 
+
+red team
+== 
+
+spectators
+== 
+
+wait for more players
+== 
+
 ##### old translations #####
+
+Sat.
+== Kyllästys
+
+Miscellaneous
+== Sekalaista
+
+Body
+== Vartalo
+
+Max demos
+== Demomaksimi
+
+News
+== Uutiset
+
+FSAA samples
+== FSAA näytteet
+
+%d of %d servers, %d players
+== %d/%d palvelinta, %d pelaajaa
+
+Sound volume
+== Äänenvoimakkuus
+
+Created:
+== Luotu:
+
+Max Screenshots
+== Kuvankaappausmaksimi
+
+Length:
+== Pituus:
+
+Rifle
+== Kivääri
+
+Netversion:
+== Yhteysversio:
+
+Map:
+== Kenttä:
+
+Info
+== Info
+
+Hue
+== Värisävy
+
+Your skin
+== Sinun ulkonäkösi
+
+Size:
+== Koko:
+
+Reset to defaults
+== Palaa oletusasetuksiin
+
+Display Modes
+== Näyttötilat
+
+Version:
+== Versio:
+
+Round
+== Kierros
+
+Lht.
+== Valoisuus
+
+UI Color
+== Käyttöliittymäväri
+
+Crc:
+== Crc:
+
+Alpha
+== Alfa
+
+no limit
+== ei rajaa
+
+Current version: %s
+== Nykyinen versio: %s
+
+Filter
+== Suotimet
+
+Name plates size
+== Nimikylttien koko
+
+Type:
+== Tyyppi:
 

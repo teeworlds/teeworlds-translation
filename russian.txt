@@ -1,11 +1,19 @@
+##### authors #####
+#originally created by:
+#	kaddyd
+#modified by:
+#	carzil		2011-04-05 19:19:06
+#	RaZeR[RT]	2011-04-12 17:57:02
+#	BotanEgg	2011-05-02 19:07:35
+#	Bananbl4	2011-07-07 02:03:04
+#	Arion WT	2011-07-07 09:39:05
+#	Arion WT	2011-08-07 12:16:28
+##### /authors #####
 
 ##### translated strings #####
 
 %d Bytes
 == %d байт
-
-%d of %d servers, %d players
-== %d из %d серверов, %d игроков
 
 %d%% loaded
 == %d%% загружено
@@ -46,9 +54,6 @@ Address
 All
 == Все
 
-Alpha
-== Прозрачн.
-
 Always show name plates
 == Всегда показывать имена игроков
 
@@ -75,9 +80,6 @@ Blue team
 
 Blue team wins!
 == Синие победили!
-
-Body
-== Тело
 
 Call vote
 == Голосовать
@@ -121,17 +123,8 @@ Count players only
 Country
 == Флаг вашей страны
 
-Crc:
-== Crc:
-
-Created:
-== Создан:
-
 Current
 == Текущий
-
-Current version: %s
-== Текущая версия: %s
 
 Custom colors
 == Свои цвета
@@ -157,9 +150,6 @@ Disconnect
 Disconnected
 == Отключено
 
-Display Modes
-== Разрешение экрана
-
 Downloading map
 == Скачивание карты
 
@@ -181,9 +171,6 @@ Error
 Error loading demo
 == ошибка при загрузке демо
 
-FSAA samples
-== Сэмплов FSAA
-
 Favorite
 == Избранный
 
@@ -192,9 +179,6 @@ Favorites
 
 Feet
 == Ноги
-
-Filter
-== Фильтр
 
 Fire
 == Выстрел
@@ -253,12 +237,6 @@ Hook
 Host address
 == Адрес сервера
 
-Hue
-== Оттенок
-
-Info
-== Инфо
-
 Internet
 == Интернет
 
@@ -286,12 +264,6 @@ LAN
 Language
 == Язык
 
-Length:
-== Длина
-
-Lht.
-== Яркость
-
 Loading
 == Загрузка
 
@@ -301,20 +273,8 @@ MOTD
 Map
 == Карта
 
-Map:
-== Карта:
-
-Max Screenshots
-== Максимальное количество снимков
-
-Max demos
-== Максимальное количество демо
-
 Maximum ping:
 == Макс. пинг:
-
-Miscellaneous
-== Дополнительно
 
 Mouse sens.
 == Чувств. мыши
@@ -337,17 +297,8 @@ Mute when not active
 Name
 == Имя
 
-Name plates size
-== Размер
-
-Netversion:
-== Версия:
-
 New name:
 == Новое имя
-
-News
-== Новости
 
 Next weapon
 == След. оружие
@@ -463,20 +414,8 @@ Rename demo
 Reset filter
 == Сбросить фильтры
 
-Reset to defaults
-== Сбросить настройки
-
-Rifle
-== Бластер
-
-Round
-== Раунд
-
 Sample rate
 == Частота
-
-Sat.
-== Контраст
 
 Score
 == Очки
@@ -529,9 +468,6 @@ Show name plates
 Show only supported
 == Показывать только поддерживаемые разрешения экрана
 
-Size:
-== Размер:
-
 Skins
 == Скины
 
@@ -540,9 +476,6 @@ Sound
 
 Sound error
 == Звуковая ошибка
-
-Sound volume
-== Громкость звука
 
 Spectate
 == Наблюдать
@@ -610,12 +543,6 @@ Try again
 Type
 == Тип
 
-Type:
-== Тип:
-
-UI Color
-== Цвет интерфейса
-
 Unable to delete the demo
 == Невозможно удалить демо
 
@@ -633,9 +560,6 @@ V-Sync
 
 Version
 == Версия
-
-Version:
-== Версия:
 
 Vote command:
 == Комманда голосования:
@@ -667,22 +591,385 @@ Yes
 You must restart the game for all settings to take effect.
 == Перезапустите игру для применения изменений.
 
-Your skin
-== Ваш скин
-
-no limit
-== Без лимита
-
 ##### needs translation #####
 
+%d player left
+== 
+
+%d player not ready
+== 
+
+%d players left
+== 
+
+%d players not ready
+== 
+
+%d servers, %d players
+== 
+
+'%s' called for vote to kick '%s' (%s)
+== 
+
+'%s' called for vote to move '%s' to spectators (%s)
+== 
+
+'%s' called vote to change server option '%s' (%s)
+== 
+
+'%s' entered and joined the %s
+== 
+
+'%s' has left the game
+== 
+
+'%s' has left the game (%s)
+== 
+
+'%s' joined the %s
+== 
+
+Admin forced server option '%s' (%s)
+== 
+
+Admin forced vote no
+== 
+
+Admin forced vote yes
+== 
+
+Admin moved '%s' to spectator (%s)
+== 
+
+Alp:
+== 
+
+Anti Aliasing
+== 
+
+Are you sure you want to save your skin ? If a skin with this name already exists, it will be replaced.
+== 
+
+Back
+== 
+
+Basic
+== 
+
+Bodies
+== 
+
+Borderless window
+== 
+
+Coloration
+== 
+
+Crc
+== 
+
+Created
+== 
+
+Custom
+== 
+
+Customize
+== 
+
+Decoration
+== 
+
+Demo
+== 
+
+Detail
+== 
+
+Editor
+== 
+
+Eyes
+== 
+
+Format
+== 
+
 Game paused
+== 
+
+Game starts in
+== 
+
+Hands
+== 
+
+Hue:
+== 
+
+Kick voting requires %d players on the server
+== 
+
+Laser
+== 
+
+Length
+== 
+
+Letterbox
+== 
+
+Lgt:
+== 
+
+Local server
+== 
+
+Match
+== 
+
+Max
+== 
+
+Misc
+== 
+
+Netversion
+== 
+
+Normal:
+== 
+
+Only %d active players are allowed
+== 
+
+Patterns
+== 
+
+Personal
+== 
+
+Ready
+== 
+
+Recorded
+== 
+
+Reset
+== 
+
+Resolutions
 == 
 
 Respawn
 == 
 
+Round over
+== 
+
+Round over!
+== 
+
+Sat:
+== 
+
+Save
+== 
+
+Save skin
+== 
+
+Screen
+== 
+
+Server does not allow voting to kick players
+== 
+
+Server does not allow voting to move players to spectators
+== 
+
+Servers
+== 
+
 Show only chat messages from friends
 == 
 
+Size
+== 
+
+Skin
+== 
+
+Skin name
+== 
+
+Spectators aren't allowed to start a vote.
+== 
+
+Standard Gametype
+== 
+
+Tattoos
+== 
+
+Team:
+== 
+
+Teams are locked
+== 
+
+Teams are locked. Time to wait before changing team: %02d:%02d
+== 
+
+Teams were locked
+== 
+
+Teams were unlocked
+== 
+
+Tee
+== 
+
+Texture
+== 
+
+Volume
+== 
+
+Vote aborted
+== 
+
+Vote failed
+== 
+
+Vote passed
+== 
+
+Wait for current vote to end before calling a new one.
+== 
+
+Wait for next round
+== 
+
+Wide
+== 
+
+You must wait %d seconds before making another vote
+== 
+
+blue
+== 
+
+blue team
+== 
+
+game
+== 
+
+red
+== 
+
+red team
+== 
+
+spectators
+== 
+
+wait for more players
+== 
+
 ##### old translations #####
+
+Sat.
+== Контраст
+
+Miscellaneous
+== Дополнительно
+
+Body
+== Тело
+
+Max demos
+== Максимальное количество демо
+
+News
+== Новости
+
+FSAA samples
+== Сэмплов FSAA
+
+%d of %d servers, %d players
+== %d из %d серверов, %d игроков
+
+Sound volume
+== Громкость звука
+
+Created:
+== Создан:
+
+Max Screenshots
+== Максимальное количество снимков
+
+Length:
+== Длина
+
+Rifle
+== Бластер
+
+Netversion:
+== Версия:
+
+Map:
+== Карта:
+
+Info
+== Инфо
+
+Hue
+== Оттенок
+
+Your skin
+== Ваш скин
+
+Size:
+== Размер:
+
+Reset to defaults
+== Сбросить настройки
+
+Display Modes
+== Разрешение экрана
+
+Version:
+== Версия:
+
+Round
+== Раунд
+
+Lht.
+== Яркость
+
+UI Color
+== Цвет интерфейса
+
+Crc:
+== Crc:
+
+Alpha
+== Прозрачн.
+
+no limit
+== Без лимита
+
+Current version: %s
+== Текущая версия: %s
+
+Filter
+== Фильтр
+
+Name plates size
+== Размер
+
+Type:
+== Тип:
 

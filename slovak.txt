@@ -1,11 +1,14 @@
+##### authors #####
+#originally created by:
+#	Limit and Petr
+#modified by:
+#	LimiT		2011-07-02 20:24:44
+##### /authors #####
 
 ##### translated strings #####
 
 %d Bytes
 == %d Bajtov
-
-%d of %d servers, %d players
-== %d z %d serverov, %d hráčov online
 
 %d%% loaded
 == %d%% načítaných
@@ -46,9 +49,6 @@ Address
 All
 == Všetkým
 
-Alpha
-== Alpha
-
 Always show name plates
 == Vždy zobrazovať menovky
 
@@ -75,9 +75,6 @@ Blue team
 
 Blue team wins!
 == Modrý tým vyhráva!
-
-Body
-== Telo
 
 Call vote
 == Hlasovať
@@ -121,17 +118,8 @@ Count players only
 Country
 == Krajina
 
-Crc:
-== Crc:
-
-Created:
-== Vytvorené:
-
 Current
 == Aktuálne
-
-Current version: %s
-== Aktuálna verzia: %s
 
 Custom colors
 == Vlastné farby
@@ -157,9 +145,6 @@ Disconnect
 Disconnected
 == Prerušené spojenie
 
-Display Modes
-== Možnosti zobrazenia
-
 Downloading map
 == Sťahujem mapu
 
@@ -181,9 +166,6 @@ Error
 Error loading demo
 == Problém s otvorením záznamu
 
-FSAA samples
-== Anti-aliasing
-
 Favorite
 == Obľúbený
 
@@ -192,9 +174,6 @@ Favorites
 
 Feet
 == Nohy
-
-Filter
-== Filter
 
 Fire
 == Streľba
@@ -253,12 +232,6 @@ Hook
 Host address
 == Hostiteľ
 
-Hue
-== Hue
-
-Info
-== Info
-
 Internet
 == Internet
 
@@ -286,12 +259,6 @@ LAN
 Language
 == Jazyk
 
-Length:
-== Dĺžka:
-
-Lht.
-== Lht.
-
 Loading
 == Nahrávam
 
@@ -301,20 +268,8 @@ MOTD
 Map
 == Mapa
 
-Map:
-== Mapa:
-
-Max Screenshots
-== Maximum obrázkov
-
-Max demos
-== Maximum nahrávok
-
 Maximum ping:
 == Maximálny ping:
-
-Miscellaneous
-== Ostatné
 
 Mouse sens.
 == Citlivosť myši
@@ -337,17 +292,8 @@ Mute when not active
 Name
 == Meno
 
-Name plates size
-== Veľkosť menoviek
-
-Netversion:
-== Netversion:
-
 New name:
 == Nové meno:
-
-News
-== Novinky
 
 Next weapon
 == Ďalšia zbraň
@@ -463,20 +409,8 @@ Rename demo
 Reset filter
 == Obnoviť filter
 
-Reset to defaults
-== Vrátiť na pôvodné
-
-Rifle
-== Laser
-
-Round
-== Kolo
-
 Sample rate
 == Sample rate
-
-Sat.
-== Sat.
 
 Score
 == Skóre
@@ -529,9 +463,6 @@ Show name plates
 Show only supported
 == Zobraziť len podporované
 
-Size:
-== Veľkosť:
-
 Skins
 == Skiny
 
@@ -540,9 +471,6 @@ Sound
 
 Sound error
 == Zvuková chyba
-
-Sound volume
-== Hlasitosť
 
 Spectate
 == Pozorovať
@@ -610,12 +538,6 @@ Try again
 Type
 == Typ
 
-Type:
-== Typ:
-
-UI Color
-== Farba prostredia
-
 Unable to delete the demo
 == Nemôžem vymazať záznam
 
@@ -633,9 +555,6 @@ V-Sync
 
 Version
 == Verzia
-
-Version:
-== Verzia:
 
 Vote command:
 == Príkaz hlasu:
@@ -667,22 +586,385 @@ Yes
 You must restart the game for all settings to take effect.
 == Zmeny sa prejavia po reštartovaní hry.
 
-Your skin
-== Váš skin
-
-no limit
-== bez limitu
-
 ##### needs translation #####
 
+%d player left
+== 
+
+%d player not ready
+== 
+
+%d players left
+== 
+
+%d players not ready
+== 
+
+%d servers, %d players
+== 
+
+'%s' called for vote to kick '%s' (%s)
+== 
+
+'%s' called for vote to move '%s' to spectators (%s)
+== 
+
+'%s' called vote to change server option '%s' (%s)
+== 
+
+'%s' entered and joined the %s
+== 
+
+'%s' has left the game
+== 
+
+'%s' has left the game (%s)
+== 
+
+'%s' joined the %s
+== 
+
+Admin forced server option '%s' (%s)
+== 
+
+Admin forced vote no
+== 
+
+Admin forced vote yes
+== 
+
+Admin moved '%s' to spectator (%s)
+== 
+
+Alp:
+== 
+
+Anti Aliasing
+== 
+
+Are you sure you want to save your skin ? If a skin with this name already exists, it will be replaced.
+== 
+
+Back
+== 
+
+Basic
+== 
+
+Bodies
+== 
+
+Borderless window
+== 
+
+Coloration
+== 
+
+Crc
+== 
+
+Created
+== 
+
+Custom
+== 
+
+Customize
+== 
+
+Decoration
+== 
+
+Demo
+== 
+
+Detail
+== 
+
+Editor
+== 
+
+Eyes
+== 
+
+Format
+== 
+
 Game paused
+== 
+
+Game starts in
+== 
+
+Hands
+== 
+
+Hue:
+== 
+
+Kick voting requires %d players on the server
+== 
+
+Laser
+== 
+
+Length
+== 
+
+Letterbox
+== 
+
+Lgt:
+== 
+
+Local server
+== 
+
+Match
+== 
+
+Max
+== 
+
+Misc
+== 
+
+Netversion
+== 
+
+Normal:
+== 
+
+Only %d active players are allowed
+== 
+
+Patterns
+== 
+
+Personal
+== 
+
+Ready
+== 
+
+Recorded
+== 
+
+Reset
+== 
+
+Resolutions
 == 
 
 Respawn
 == 
 
+Round over
+== 
+
+Round over!
+== 
+
+Sat:
+== 
+
+Save
+== 
+
+Save skin
+== 
+
+Screen
+== 
+
+Server does not allow voting to kick players
+== 
+
+Server does not allow voting to move players to spectators
+== 
+
+Servers
+== 
+
 Show only chat messages from friends
 == 
 
+Size
+== 
+
+Skin
+== 
+
+Skin name
+== 
+
+Spectators aren't allowed to start a vote.
+== 
+
+Standard Gametype
+== 
+
+Tattoos
+== 
+
+Team:
+== 
+
+Teams are locked
+== 
+
+Teams are locked. Time to wait before changing team: %02d:%02d
+== 
+
+Teams were locked
+== 
+
+Teams were unlocked
+== 
+
+Tee
+== 
+
+Texture
+== 
+
+Volume
+== 
+
+Vote aborted
+== 
+
+Vote failed
+== 
+
+Vote passed
+== 
+
+Wait for current vote to end before calling a new one.
+== 
+
+Wait for next round
+== 
+
+Wide
+== 
+
+You must wait %d seconds before making another vote
+== 
+
+blue
+== 
+
+blue team
+== 
+
+game
+== 
+
+red
+== 
+
+red team
+== 
+
+spectators
+== 
+
+wait for more players
+== 
+
 ##### old translations #####
+
+Sat.
+== Sat.
+
+Miscellaneous
+== Ostatné
+
+Body
+== Telo
+
+Max demos
+== Maximum nahrávok
+
+News
+== Novinky
+
+FSAA samples
+== Anti-aliasing
+
+%d of %d servers, %d players
+== %d z %d serverov, %d hráčov online
+
+Sound volume
+== Hlasitosť
+
+Created:
+== Vytvorené:
+
+Max Screenshots
+== Maximum obrázkov
+
+Length:
+== Dĺžka:
+
+Rifle
+== Laser
+
+Netversion:
+== Netversion:
+
+Map:
+== Mapa:
+
+Info
+== Info
+
+Hue
+== Hue
+
+Your skin
+== Váš skin
+
+Size:
+== Veľkosť:
+
+Reset to defaults
+== Vrátiť na pôvodné
+
+Display Modes
+== Možnosti zobrazenia
+
+Version:
+== Verzia:
+
+Round
+== Kolo
+
+Lht.
+== Lht.
+
+UI Color
+== Farba prostredia
+
+Crc:
+== Crc:
+
+Alpha
+== Alpha
+
+no limit
+== bez limitu
+
+Current version: %s
+== Aktuálna verzia: %s
+
+Filter
+== Filter
+
+Name plates size
+== Veľkosť menoviek
+
+Type:
+== Typ:
 

@@ -1,11 +1,14 @@
+##### authors #####
+#originally created by:
+#	Evropi
+#modified by:
+#
+##### /authors #####
 
 ##### translated strings #####
 
 %d Bytes
 == %d Bytes
-
-%d of %d servers, %d players
-== %d από %d διακ/στές, %d παίκτες
 
 %d%% loaded
 == %d%% φορτώθηκε
@@ -46,9 +49,6 @@ Address
 All
 == Όλοι
 
-Alpha
-== Άλφα
-
 Always show name plates
 == Πάντα εμφάνιζε τα ψευδώνυμα
 
@@ -75,9 +75,6 @@ Blue team
 
 Blue team wins!
 == Η μπλε ομάδα νίκησε!
-
-Body
-== Σώμα
 
 Call vote
 == Ψηφοφορία
@@ -121,17 +118,8 @@ Count players only
 Country
 == Χώρα
 
-Crc:
-== Crc:
-
-Created:
-== Δημιουργήθηκε:
-
 Current
 == Τρέχουσα
-
-Current version: %s
-== Τρέχουσα έκδοση: %s
 
 Custom colors
 == Προσαρμοσμένα χρώματα
@@ -157,9 +145,6 @@ Disconnect
 Disconnected
 == Αποσυνδέθηκε
 
-Display Modes
-== Ανάλυσεις Οθόνης
-
 Downloading map
 == Λήψη χάρτη
 
@@ -181,9 +166,6 @@ Error
 Error loading demo
 == Σφάλμα φόρτωσης επίδειξης
 
-FSAA samples
-== Δείγματα FSAA
-
 Favorite
 == Αγαπημένος
 
@@ -192,9 +174,6 @@ Favorites
 
 Feet
 == Πόδια
-
-Filter
-== Φίλτρο
 
 Fire
 == Πυρ
@@ -222,6 +201,9 @@ Game info
 
 Game over
 == Τέλος παιχνιδιού
+
+Game paused
+== Παιχνίδι εν παύση
 
 Game type
 == Τύπος παιχνιδιού
@@ -253,12 +235,6 @@ Hook
 Host address
 == Διεύθυνση διακομιστή
 
-Hue
-== Απόχρωση
-
-Info
-== Πληροφορίες
-
 Internet
 == Διαδίκτυο
 
@@ -286,12 +262,6 @@ LAN
 Language
 == Γλώσσα
 
-Length:
-== Διάρκεια:
-
-Lht.
-== Φωτεινότ.
-
 Loading
 == Φόρτωση
 
@@ -301,20 +271,8 @@ MOTD
 Map
 == Χάρτης
 
-Map:
-== Χάρτης:
-
-Max Screenshots
-== Μέγιστος αριθμός στιγμιότυπων
-
-Max demos
-== Μέγιστος αριθμός επιδείξεων
-
 Maximum ping:
 == Μέγιστο ping:
-
-Miscellaneous
-== Διάφορα
 
 Mouse sens.
 == Ταχύτητα δείκτη
@@ -337,17 +295,8 @@ Mute when not active
 Name
 == Όνομα
 
-Name plates size
-== Μήκος ψευδωνύμου
-
-Netversion:
-== Έκδοση:
-
 New name:
 == Νέο όνομα:
-
-News
-== Νέα
 
 Next weapon
 == Επόμενο όπλο
@@ -463,20 +412,11 @@ Rename demo
 Reset filter
 == Αφαίρεση φίλτρου
 
-Reset to defaults
-== Επαναφορά προεπιλογών
-
-Rifle
-== Λέιζερ
-
-Round
-== Γύρος
+Respawn
+== Αναγέννηση
 
 Sample rate
 == Δειγματοληψία
-
-Sat.
-== Κορεσμός
 
 Score
 == Βαθμ.
@@ -526,11 +466,11 @@ Show ingame HUD
 Show name plates
 == Προβολή ψευδωνύμων
 
+Show only chat messages from friends
+== Προβολή μηνυμάτων μόνο από φίλους
+
 Show only supported
 == Προβολή υποστηριζόμενων μόνο
-
-Size:
-== Μέγεθος:
 
 Skins
 == Στολές
@@ -540,9 +480,6 @@ Sound
 
 Sound error
 == Σφάλμα ήχου
-
-Sound volume
-== Ένταση ήχου
 
 Spectate
 == Θέαση
@@ -610,12 +547,6 @@ Try again
 Type
 == Τύπος
 
-Type:
-== Τύπος:
-
-UI Color
-== Χρώμα Μενού
-
 Unable to delete the demo
 == Απέτυχε η διαγραφή της επίδειξης
 
@@ -633,9 +564,6 @@ V-Sync
 
 Version
 == Έκδοση
-
-Version:
-== Έκδοση:
 
 Vote command:
 == Εντολή ψήφου:
@@ -667,22 +595,376 @@ Yes
 You must restart the game for all settings to take effect.
 == Πρέπει να επανεκκινήσετε το παιχνίδι για να εφαρμοστούν όλες οι αλλαγές.
 
+##### needs translation #####
+
+%d player left
+== 
+
+%d player not ready
+== 
+
+%d players left
+== 
+
+%d players not ready
+== 
+
+%d servers, %d players
+== 
+
+'%s' called for vote to kick '%s' (%s)
+== 
+
+'%s' called for vote to move '%s' to spectators (%s)
+== 
+
+'%s' called vote to change server option '%s' (%s)
+== 
+
+'%s' entered and joined the %s
+== 
+
+'%s' has left the game
+== 
+
+'%s' has left the game (%s)
+== 
+
+'%s' joined the %s
+== 
+
+Admin forced server option '%s' (%s)
+== 
+
+Admin forced vote no
+== 
+
+Admin forced vote yes
+== 
+
+Admin moved '%s' to spectator (%s)
+== 
+
+Alp:
+== 
+
+Anti Aliasing
+== 
+
+Are you sure you want to save your skin ? If a skin with this name already exists, it will be replaced.
+== 
+
+Back
+== 
+
+Basic
+== 
+
+Bodies
+== 
+
+Borderless window
+== 
+
+Coloration
+== 
+
+Crc
+== 
+
+Created
+== 
+
+Custom
+== 
+
+Customize
+== 
+
+Decoration
+== 
+
+Demo
+== 
+
+Detail
+== 
+
+Editor
+== 
+
+Eyes
+== 
+
+Format
+== 
+
+Game starts in
+== 
+
+Hands
+== 
+
+Hue:
+== 
+
+Kick voting requires %d players on the server
+== 
+
+Laser
+== 
+
+Length
+== 
+
+Letterbox
+== 
+
+Lgt:
+== 
+
+Local server
+== 
+
+Match
+== 
+
+Max
+== 
+
+Misc
+== 
+
+Netversion
+== 
+
+Normal:
+== 
+
+Only %d active players are allowed
+== 
+
+Patterns
+== 
+
+Personal
+== 
+
+Ready
+== 
+
+Recorded
+== 
+
+Reset
+== 
+
+Resolutions
+== 
+
+Round over
+== 
+
+Round over!
+== 
+
+Sat:
+== 
+
+Save
+== 
+
+Save skin
+== 
+
+Screen
+== 
+
+Server does not allow voting to kick players
+== 
+
+Server does not allow voting to move players to spectators
+== 
+
+Servers
+== 
+
+Size
+== 
+
+Skin
+== 
+
+Skin name
+== 
+
+Spectators aren't allowed to start a vote.
+== 
+
+Standard Gametype
+== 
+
+Tattoos
+== 
+
+Team:
+== 
+
+Teams are locked
+== 
+
+Teams are locked. Time to wait before changing team: %02d:%02d
+== 
+
+Teams were locked
+== 
+
+Teams were unlocked
+== 
+
+Tee
+== 
+
+Texture
+== 
+
+Volume
+== 
+
+Vote aborted
+== 
+
+Vote failed
+== 
+
+Vote passed
+== 
+
+Wait for current vote to end before calling a new one.
+== 
+
+Wait for next round
+== 
+
+Wide
+== 
+
+You must wait %d seconds before making another vote
+== 
+
+blue
+== 
+
+blue team
+== 
+
+game
+== 
+
+red
+== 
+
+red team
+== 
+
+spectators
+== 
+
+wait for more players
+== 
+
+##### old translations #####
+
+Sat.
+== Κορεσμός
+
+Miscellaneous
+== Διάφορα
+
+Body
+== Σώμα
+
+Max demos
+== Μέγιστος αριθμός επιδείξεων
+
+News
+== Νέα
+
+FSAA samples
+== Δείγματα FSAA
+
+%d of %d servers, %d players
+== %d από %d διακ/στές, %d παίκτες
+
+Sound volume
+== Ένταση ήχου
+
+Created:
+== Δημιουργήθηκε:
+
+Max Screenshots
+== Μέγιστος αριθμός στιγμιότυπων
+
+Length:
+== Διάρκεια:
+
+Rifle
+== Λέιζερ
+
+Netversion:
+== Έκδοση:
+
+Map:
+== Χάρτης:
+
+Info
+== Πληροφορίες
+
+Hue
+== Απόχρωση
+
 Your skin
 == Η στολή σας
+
+Size:
+== Μέγεθος:
+
+Reset to defaults
+== Επαναφορά προεπιλογών
+
+Display Modes
+== Ανάλυσεις Οθόνης
+
+Version:
+== Έκδοση:
+
+Round
+== Γύρος
+
+Lht.
+== Φωτεινότ.
+
+UI Color
+== Χρώμα Μενού
+
+Crc:
+== Crc:
+
+Alpha
+== Άλφα
 
 no limit
 == χωρίς όριο
 
-##### needs translation #####
+Current version: %s
+== Τρέχουσα έκδοση: %s
 
-Game paused
-== Παιχνίδι εν παύση
+Filter
+== Φίλτρο
 
-Respawn
-== Αναγέννηση
+Name plates size
+== Μήκος ψευδωνύμου
 
-Show only chat messages from friends
-== Προβολή μηνυμάτων μόνο από φίλους
-
-##### old translations #####
+Type:
+== Τύπος:
 

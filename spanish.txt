@@ -1,10 +1,17 @@
+##### authors #####
+#originally created by:
+#	ReGnuM
+#modified by:
+#	Ninja Style		2011-04-06 23:22:06
+#	Alexandre		2011-07-11 11:30:00
+#	GaBOr			2011-07-15 01:23:39
+#	HeroiAmarelo	2012-08-01 15:52:45
+##### /authors #####
+
 ##### translated strings #####
 
 %d Bytes
 == %d bytes
-
-%d of %d servers, %d players
-== %d de %d servidores, %d jugadores
 
 %d%% loaded
 == %d%% cargado
@@ -45,9 +52,6 @@ Address
 All
 == Todos
 
-Alpha
-== Alpha
-
 Always show name plates
 == Mostrar siempre los apodos
 
@@ -74,9 +78,6 @@ Blue team
 
 Blue team wins!
 == ¡El equipo azul gana!
-
-Body
-== Cuerpo
 
 Call vote
 == Votar
@@ -120,17 +121,8 @@ Count players only
 Country
 == País
 
-Crc:
-== CRC:
-
-Created:
-== Creado:
-
 Current
 == Actual
-
-Current version: %s
-== Versión actual: %s
 
 Custom colors
 == Colores personalizados
@@ -156,9 +148,6 @@ Disconnect
 Disconnected
 == Desconectado
 
-Display Modes
-== Modos de video
-
 Downloading map
 == Descargando mapa
 
@@ -180,9 +169,6 @@ Error
 Error loading demo
 == Error al cargar la demo
 
-FSAA samples
-== Muestras FSAA
-
 Favorite
 == Favorito
 
@@ -191,9 +177,6 @@ Favorites
 
 Feet
 == Pies
-
-Filter
-== Filtro
 
 Fire
 == Disparar
@@ -221,6 +204,9 @@ Game info
 
 Game over
 == Fin de la partida
+
+Game paused
+== Juego en Pausa
 
 Game type
 == Modo
@@ -252,12 +238,6 @@ Hook
 Host address
 == Dirección del host
 
-Hue
-== Matiz
-
-Info
-== Información
-
 Internet
 == Internet
 
@@ -285,12 +265,6 @@ LAN
 Language
 == Idioma
 
-Length:
-== Longitud:
-
-Lht.
-== Luminosidad
-
 Loading
 == Cargando
 
@@ -300,20 +274,8 @@ MOTD
 Map
 == Mapa
 
-Map:
-== Mapa:
-
-Max Screenshots
-== Número máximo de capturas
-
-Max demos
-== Número máximo de demos
-
 Maximum ping:
 == Ping máximo:
-
-Miscellaneous
-== Miscelánea
 
 Mouse sens.
 == Sensibilidad ratón
@@ -336,17 +298,8 @@ Mute when not active
 Name
 == Nombre
 
-Name plates size
-== Tamaño de la fuente de los apodos
-
-Netversion:
-== Versión Net
-
 New name:
 == Nuevo nombre:
-
-News
-== Noticias
 
 Next weapon
 == Arma siguiente
@@ -462,20 +415,11 @@ Rename demo
 Reset filter
 == Resetear filtro
 
-Reset to defaults
-== Resetar por defecto
-
-Rifle
-== Láser
-
-Round
-== Ronda
+Respawn
+== Respawn
 
 Sample rate
 == Frecuencia de muestreo
-
-Sat.
-== Saturación
 
 Score
 == Puntos
@@ -525,11 +469,11 @@ Show ingame HUD
 Show name plates
 == Mostrar apodos
 
+Show only chat messages from friends
+== Recibir mensages solo de amigos
+
 Show only supported
 == Mostrar únicamente modos soportados
-
-Size:
-== Tamaño:
 
 Skins
 == Skins
@@ -539,9 +483,6 @@ Sound
 
 Sound error
 == Error de sonido
-
-Sound volume
-== Volumen de sonido
 
 Spectate
 == Asistir
@@ -609,12 +550,6 @@ Try again
 Type
 == Tipo
 
-Type:
-== Tipo:
-
-UI Color
-== Color de menú
-
 Unable to delete the demo
 == No se pudo eliminar la demo
 
@@ -632,9 +567,6 @@ V-Sync
 
 Version
 == Versión
-
-Version:
-== Versión:
 
 Vote command:
 == Comando de votación:
@@ -666,22 +598,376 @@ Yes
 You must restart the game for all settings to take effect.
 == Debes reiniciar el juego para que los cambios tengan efecto.
 
+##### needs translation #####
+
+%d player left
+== 
+
+%d player not ready
+== 
+
+%d players left
+== 
+
+%d players not ready
+== 
+
+%d servers, %d players
+== 
+
+'%s' called for vote to kick '%s' (%s)
+== 
+
+'%s' called for vote to move '%s' to spectators (%s)
+== 
+
+'%s' called vote to change server option '%s' (%s)
+== 
+
+'%s' entered and joined the %s
+== 
+
+'%s' has left the game
+== 
+
+'%s' has left the game (%s)
+== 
+
+'%s' joined the %s
+== 
+
+Admin forced server option '%s' (%s)
+== 
+
+Admin forced vote no
+== 
+
+Admin forced vote yes
+== 
+
+Admin moved '%s' to spectator (%s)
+== 
+
+Alp:
+== 
+
+Anti Aliasing
+== 
+
+Are you sure you want to save your skin ? If a skin with this name already exists, it will be replaced.
+== 
+
+Back
+== 
+
+Basic
+== 
+
+Bodies
+== 
+
+Borderless window
+== 
+
+Coloration
+== 
+
+Crc
+== 
+
+Created
+== 
+
+Custom
+== 
+
+Customize
+== 
+
+Decoration
+== 
+
+Demo
+== 
+
+Detail
+== 
+
+Editor
+== 
+
+Eyes
+== 
+
+Format
+== 
+
+Game starts in
+== 
+
+Hands
+== 
+
+Hue:
+== 
+
+Kick voting requires %d players on the server
+== 
+
+Laser
+== 
+
+Length
+== 
+
+Letterbox
+== 
+
+Lgt:
+== 
+
+Local server
+== 
+
+Match
+== 
+
+Max
+== 
+
+Misc
+== 
+
+Netversion
+== 
+
+Normal:
+== 
+
+Only %d active players are allowed
+== 
+
+Patterns
+== 
+
+Personal
+== 
+
+Ready
+== 
+
+Recorded
+== 
+
+Reset
+== 
+
+Resolutions
+== 
+
+Round over
+== 
+
+Round over!
+== 
+
+Sat:
+== 
+
+Save
+== 
+
+Save skin
+== 
+
+Screen
+== 
+
+Server does not allow voting to kick players
+== 
+
+Server does not allow voting to move players to spectators
+== 
+
+Servers
+== 
+
+Size
+== 
+
+Skin
+== 
+
+Skin name
+== 
+
+Spectators aren't allowed to start a vote.
+== 
+
+Standard Gametype
+== 
+
+Tattoos
+== 
+
+Team:
+== 
+
+Teams are locked
+== 
+
+Teams are locked. Time to wait before changing team: %02d:%02d
+== 
+
+Teams were locked
+== 
+
+Teams were unlocked
+== 
+
+Tee
+== 
+
+Texture
+== 
+
+Volume
+== 
+
+Vote aborted
+== 
+
+Vote failed
+== 
+
+Vote passed
+== 
+
+Wait for current vote to end before calling a new one.
+== 
+
+Wait for next round
+== 
+
+Wide
+== 
+
+You must wait %d seconds before making another vote
+== 
+
+blue
+== 
+
+blue team
+== 
+
+game
+== 
+
+red
+== 
+
+red team
+== 
+
+spectators
+== 
+
+wait for more players
+== 
+
+##### old translations #####
+
+Sat.
+== Saturación
+
+Miscellaneous
+== Miscelánea
+
+Body
+== Cuerpo
+
+Max demos
+== Número máximo de demos
+
+News
+== Noticias
+
+FSAA samples
+== Muestras FSAA
+
+%d of %d servers, %d players
+== %d de %d servidores, %d jugadores
+
+Sound volume
+== Volumen de sonido
+
+Created:
+== Creado:
+
+Max Screenshots
+== Número máximo de capturas
+
+Length:
+== Longitud:
+
+Rifle
+== Láser
+
+Netversion:
+== Versión Net
+
+Map:
+== Mapa:
+
+Info
+== Información
+
+Hue
+== Matiz
+
 Your skin
 == Tu skin
+
+Size:
+== Tamaño:
+
+Reset to defaults
+== Resetar por defecto
+
+Display Modes
+== Modos de video
+
+Version:
+== Versión:
+
+Round
+== Ronda
+
+Lht.
+== Luminosidad
+
+UI Color
+== Color de menú
+
+Crc:
+== CRC:
+
+Alpha
+== Alpha
 
 no limit
 == sin límite
 
-##### needs translation #####
+Current version: %s
+== Versión actual: %s
 
-Game paused
-== Juego en Pausa
+Filter
+== Filtro
 
-Respawn
-== Respawn
+Name plates size
+== Tamaño de la fuente de los apodos
 
-Show only chat messages from friends
-== Recibir mensages solo de amigos
-
-##### old translations #####
+Type:
+== Tipo:
 
