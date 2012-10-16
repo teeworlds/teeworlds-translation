@@ -574,7 +574,7 @@ Yes
 == Ja
 
 You must restart the game for all settings to take effect.
-== U moet het spel herstarten voordat de veranderingen effect hebben.
+== Je moet het spel herstarten voordat de veranderingen effect hebben.
 
 ##### needs translation #####
 
