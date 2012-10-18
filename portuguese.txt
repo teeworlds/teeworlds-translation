@@ -4,6 +4,7 @@
 #modified by:
 #	HeroiAmarelo		2011-07-15 00:35:23
 #	HeroiAmarelo		2012-08-01 15:47:40
+# HeroiAmarelo    2012-10-18 23:56:32
 ##### /authors #####
 
 ##### translated strings #####
@@ -599,280 +600,280 @@ You must restart the game for all settings to take effect.
 ##### needs translation #####
 
 %d player left
-== 
+== %d jogador saiu
 
 %d player not ready
-== 
+== %d jogador não preparado
 
 %d players left
-== 
+== %d jogadores sairam
 
 %d players not ready
-== 
+== %d jogadores não preparados
 
 %d servers, %d players
-== 
+== %d servidores, %d jogadores
 
 '%s' called for vote to kick '%s' (%s)
-== 
+== '%s' Criou um kick-vote para kickar: '%s' (%s)
 
 '%s' called for vote to move '%s' to spectators (%s)
-== 
+== '%s' Criou um spec-vote para mover o jogador '%s' para spec (%s)
 
 '%s' called vote to change server option '%s' (%s)
-== 
+== '%s' Criou um voto para mudar a opção do servidor '%s' (%s)
 
 '%s' entered and joined the %s
-== 
+== '%s' Entou e juntou-se ao %s
 
 '%s' has left the game
-== 
+== '%s' saiu do jogo
 
 '%s' has left the game (%s)
-== 
+== '%s' saiu do jogo (%s)
 
 '%s' joined the %s
-== 
+== '%s' entrou no %s
 
 Admin forced server option '%s' (%s)
-== 
+== O Admin forçou a server-option '%s' (%s)
 
 Admin forced vote no
-== 
+== O Admin forçou o voto: Sim
 
 Admin forced vote yes
-== 
+== O Admin forçou o voto: Não
 
 Admin moved '%s' to spectator (%s)
-== 
+== O Admin moveu o jogador '%s' para os specs. (%s)
 
 Alp:
-== 
+== Alp;
 
 Anti Aliasing
-== 
+== Anti Aliasing
 
 Are you sure you want to save your skin ? If a skin with this name already exists, it will be replaced.
-== 
+== Tens a serteza que queres guardar a skin? Se já existir uma como o meu nome, ela será substituida.
 
 Back
-== 
+== Voltar
 
 Basic
-== 
+== Básico
 
 Bodies
-== 
+== Corpos
 
 Borderless window
-== 
+== Janela S/ Bordas
 
 Coloration
-== 
+== Coloração
 
 Crc
-== 
+== Crc
 
 Created
-== 
+== Criado
 
 Custom
-== 
+== Personalizado
 
 Customize
-== 
+== Personalizável
 
 Decoration
-== 
+== Decoração
 
 Demo
-== 
+== Demo
 
 Detail
-== 
+== Detalhes
 
 Editor
-== 
+== Editor
 
 Eyes
-== 
+== Olhos
 
 Format
-== 
+== Formato
 
 Game starts in
-== 
+== O jogo começa em
 
 Hands
-== 
+== Mãos
 
 Hue:
-== 
+== Hue:
 
 Kick voting requires %d players on the server
-== 
+== São necessários %d jogadores para fazer um kick vote neste server
 
 Laser
-== 
+== Laser
 
 Length
-== 
+== Comprimento
 
 Letterbox
-== 
+== Letterbox
 
 Lgt:
-== 
+== Lgt:
 
 Local server
-== 
+== Servidor local
 
 Match
-== 
+== Combate
 
 Max
-== 
+== Maximo
 
 Misc
-== 
+== Misc
 
 Netversion
-== 
+== Netversion
 
 Normal:
-== 
+== Normal:
 
 Only %d active players are allowed
-== 
+== Apenas são permitidos %d jogadores ativos 
 
 Patterns
-== 
+== Patterns
 
 Personal
-== 
+== Pessoal
 
 Ready
-== 
+== Preparado
 
 Recorded
-== 
+== A gravar
 
 Reset
-== 
+== Reset
 
 Resolutions
-== 
+== Resoluções
 
 Round over
-== 
+== Fim da ronda
 
 Round over!
-== 
+== Fim da ronda!
 
 Sat:
-== 
+== Sat:
 
 Save
-== 
+== Gravar
 
 Save skin
-== 
+== Gravar skin
 
 Screen
-== 
+== Screen
 
 Server does not allow voting to kick players
-== 
+== O servidor não permite kick-votes
 
 Server does not allow voting to move players to spectators
-== 
+== O servidor não permite spec-votes
 
 Servers
-== 
+== Servidores
 
 Size
-== 
+== Tamanho
 
 Skin
-== 
+== Skin
 
 Skin name
-== 
+== Nome da skin
 
 Spectators aren't allowed to start a vote.
-== 
+== Os specs. não podem começar votes.
 
 Standard Gametype
-== 
+== Tipo de jogo original
 
 Tattoos
-== 
+== Tatuagens
 
 Team:
-== 
+== Equipa:
 
 Teams are locked
-== 
+== As equipas estão bloqueadas
 
 Teams are locked. Time to wait before changing team: %02d:%02d
-== 
+== As equipas estão bloqueadas. Tempo de espera para poder mudar de equipa: %02d:%02d
 
 Teams were locked
-== 
+== As equipas estavam bloqueadas
 
 Teams were unlocked
-== 
+== As equipas estavam desbloqueadas
 
 Tee
-== 
+== Tee
 
 Texture
-== 
+== Textura
 
 Volume
-== 
+== Volume
 
 Vote aborted
-== 
+== Vote cancelado
 
 Vote failed
-== 
+== Vote falhado
 
 Vote passed
-== 
+== Vote aceite
 
 Wait for current vote to end before calling a new one.
-== 
+== Espera que este vote acabe para poderes começar um novo
 
 Wait for next round
-== 
+== Espera pela próxima ronda
 
 Wide
-== 
+== Largura
 
 You must wait %d seconds before making another vote
-== 
+== Tens de esperar %d seg. antes de fazer um novo vote.
 
 blue
-== 
+== azul
 
 blue team
-== 
+== equipa azul
 
 game
-== 
+== jogo
 
 red
-== 
+== vermelho
 
 red team
-== 
+== equipa vermelha
 
 spectators
-== 
+== specs
 
 wait for more players
-== 
+== Espera por mais jogadores
 
 ##### old translations #####
 
