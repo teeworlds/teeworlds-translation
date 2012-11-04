@@ -31,6 +31,15 @@
 %i seconds left
 == %i segundos restantes
 
+'%s' entered and joined the %s
+== '%s' entró y se unió el %s
+
+'%s' has left the game
+== '%s' ha salido del juego
+
+'%s' has left the game (%s)
+== '%s' ha salido del juego (%s)
+
 %s wins!
 == ¡%s gana!
 
@@ -464,7 +473,7 @@ Show friends only
 == Solo mostrar amigos
 
 Show ingame HUD
-== Mostar HUD durante el juego
+== Mostrar HUD durante el juego
 
 Show name plates
 == Mostrar apodos
@@ -622,15 +631,6 @@ You must restart the game for all settings to take effect.
 == 
 
 '%s' called vote to change server option '%s' (%s)
-== 
-
-'%s' entered and joined the %s
-== 
-
-'%s' has left the game
-== 
-
-'%s' has left the game (%s)
 == 
 
 '%s' joined the %s
