@@ -7,9 +7,6 @@
 
 ##### translated strings #####
 
-%d Bytes
-== %d Bit
-
 %d%% loaded
 == %d%% betöltve
 
@@ -75,6 +72,9 @@ Blue team
 
 Blue team wins!
 == A kék csapat nyert!
+
+Body
+== Test
 
 Call vote
 == Szavazás
@@ -172,6 +172,9 @@ Favorites
 Feet
 == Láb
 
+Filter
+== Szűrő
+
 Fire
 == Tűz
 
@@ -226,20 +229,11 @@ High Detail
 Hook
 == Horog
 
-Host address
-== Szerver címe
-
-Internet
-== Internet
-
 Invalid Demo
 == Érvénytelen demó
 
 Join blue
 == Kékhez lépés
-
-Join game
-== Csatlakozás a játékhoz
 
 Join red
 == Piroshoz lépés
@@ -249,9 +243,6 @@ Jump
 
 Kick player
 == Játékos kirúgása
-
-LAN
-== Helyi
 
 Language
 == Nyelv
@@ -288,9 +279,6 @@ Mute when not active
 
 Name
 == Név
-
-New name:
-== Új Név:
 
 Next weapon
 == Következő fegyver
@@ -352,23 +340,14 @@ Prev. weapon
 Quality Textures
 == Minőségi kidolgozás
 
-Quick search:
-== Gyors keresés:
-
 Quit
 == Kilépés
-
-Quit anyway?
-== Mindenképpen kilép?
 
 REC %3d:%02d
 == REC %3d:%02d
 
 Reason:
 == Indok:
-
-Record demo
-== Demó felvétele
 
 Red team
 == Piros csapat
@@ -570,6 +549,9 @@ You must restart the game for all settings to take effect.
 
 ##### needs translation #####
 
+%.3f KiB
+== 
+
 %d player left
 == 
 
@@ -624,7 +606,10 @@ Alp:
 Anti Aliasing
 == 
 
-Are you sure you want to save your skin ? If a skin with this name already exists, it will be replaced.
+Are you sure you want to rename the demo?
+== 
+
+Are you sure you want to save your skin? If a skin with this name already exists, it will be replaced.
 == 
 
 Back
@@ -639,7 +624,7 @@ Bodies
 Borderless window
 == 
 
-Coloration
+Color
 == 
 
 Crc
@@ -681,10 +666,28 @@ Game paused
 Game starts in
 == 
 
+Global
+== 
+
 Hands
 == 
 
+Host address:
+== 
+
 Hue:
+== 
+
+Join
+== 
+
+Joined
+== 
+
+Joined blue
+== 
+
+Joined red
 == 
 
 Kick voting requires %d players on the server
@@ -702,6 +705,9 @@ Letterbox
 Lgt:
 == 
 
+Local
+== 
+
 Local server
 == 
 
@@ -717,13 +723,13 @@ Misc
 Netversion
 == 
 
+Nickname is empty.
+== 
+
 Normal:
 == 
 
 Only %d active players are allowed
-== 
-
-Patterns
 == 
 
 Personal
@@ -736,6 +742,9 @@ Player country:
 == 
 
 Ready
+== 
+
+Record
 == 
 
 Recorded
@@ -768,6 +777,9 @@ Save skin
 Screen
 == 
 
+Search:
+== 
+
 Server does not allow voting to kick players
 == 
 
@@ -786,13 +798,13 @@ Size
 Skin
 == 
 
-Skin name
-== 
-
 Spectate next
 == 
 
 Spectate previous
+== 
+
+Spectating
 == 
 
 Spectators aren't allowed to start a vote.
@@ -802,6 +814,9 @@ Standard Gametype
 == 
 
 Strict gametype filter
+== 
+
+Tattoo
 == 
 
 Tattoos
@@ -875,20 +890,29 @@ wait for more players
 
 ##### old translations #####
 
+New name:
+== Új Név:
+
 Sat.
 == Sat.
 
 Miscellaneous
 == Vegyes
 
-Body
-== Test
+Internet
+== Internet
 
 Max demos
 == Maximum Demó
 
+Quit anyway?
+== Mindenképpen kilép?
+
 News
 == Hírek
+
+Join game
+== Csatlakozás a játékhoz
 
 FSAA samples
 == FSAA mintáku
@@ -896,20 +920,35 @@ FSAA samples
 %d of %d servers, %d players
 == %d Szerver, %d Játékos
 
+LAN
+== Helyi
+
 Sound volume
 == Hangerő
 
 Created:
 == Készítette:
 
+%d Bytes
+== %d Bit
+
 Max Screenshots
 == Maximum Fotó
+
+Record demo
+== Demó felvétele
 
 Length:
 == Hossza:
 
+Skin name
+== 
+
 Rifle
 == Lézer
+
+Patterns
+== 
 
 Netversion:
 == Netes verzió:
@@ -929,6 +968,9 @@ Your skin
 Size:
 == Méret:
 
+Coloration
+== 
+
 Reset to defaults
 == Visszaállítás az alapértelmezettre
 
@@ -944,8 +986,17 @@ Round
 Lht.
 == Lht.
 
+Quick search:
+== Gyors keresés:
+
+Are you sure you want to save your skin ? If a skin with this name already exists, it will be replaced.
+== 
+
 UI Color
 == UI Szín
+
+Host address
+== Szerver címe
 
 Crc:
 == Crc:
@@ -958,9 +1009,6 @@ no limit
 
 Current version: %s
 == Aktuális verzió: %s
-
-Filter
-== Szűrő
 
 Name plates size
 == Névtáblák mérete

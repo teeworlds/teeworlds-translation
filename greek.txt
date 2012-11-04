@@ -7,9 +7,6 @@
 
 ##### translated strings #####
 
-%d Bytes
-== %d Bytes
-
 %d%% loaded
 == %d%% φορτώθηκε
 
@@ -75,6 +72,9 @@ Blue team
 
 Blue team wins!
 == Η μπλε ομάδα νίκησε!
+
+Body
+== Σώμα
 
 Call vote
 == Ψηφοφορία
@@ -175,6 +175,9 @@ Favorites
 Feet
 == Πόδια
 
+Filter
+== Φίλτρο
+
 Fire
 == Πυρ
 
@@ -232,20 +235,11 @@ High Detail
 Hook
 == Γάντζος
 
-Host address
-== Διεύθυνση διακομιστή
-
-Internet
-== Διαδίκτυο
-
 Invalid Demo
 == Άκυρη Επίδειξη
 
 Join blue
 == Μπλε
-
-Join game
-== Συμμετοχή
 
 Join red
 == Κόκκινοι
@@ -255,9 +249,6 @@ Jump
 
 Kick player
 == Αποβολή παίκτη
-
-LAN
-== Τοπικά
 
 Language
 == Γλώσσα
@@ -294,9 +285,6 @@ Mute when not active
 
 Name
 == Όνομα
-
-New name:
-== Νέο όνομα:
 
 Next weapon
 == Επόμενο όπλο
@@ -364,23 +352,14 @@ Prev. weapon
 Quality Textures
 == Ποιότητα Υφής
 
-Quick search:
-== Γρήγορη αναζήτηση:
-
 Quit
 == Έξοδος
-
-Quit anyway?
-== Έξοδος οπωσδήποτε;
 
 REC %3d:%02d
 == REC %3d:%02d
 
 Reason:
 == Αιτία:
-
-Record demo
-== Εγγ. επίδειξης
 
 Red team
 == Κόκκινη ομάδα
@@ -597,6 +576,9 @@ You must restart the game for all settings to take effect.
 
 ##### needs translation #####
 
+%.3f KiB
+== 
+
 %d player left
 == 
 
@@ -651,7 +633,10 @@ Alp:
 Anti Aliasing
 == 
 
-Are you sure you want to save your skin ? If a skin with this name already exists, it will be replaced.
+Are you sure you want to rename the demo?
+== 
+
+Are you sure you want to save your skin? If a skin with this name already exists, it will be replaced.
 == 
 
 Back
@@ -666,7 +651,7 @@ Bodies
 Borderless window
 == 
 
-Coloration
+Color
 == 
 
 Crc
@@ -702,10 +687,28 @@ Format
 Game starts in
 == 
 
+Global
+== 
+
 Hands
 == 
 
+Host address:
+== 
+
 Hue:
+== 
+
+Join
+== 
+
+Joined
+== 
+
+Joined blue
+== 
+
+Joined red
 == 
 
 Kick voting requires %d players on the server
@@ -723,6 +726,9 @@ Letterbox
 Lgt:
 == 
 
+Local
+== 
+
 Local server
 == 
 
@@ -738,19 +744,22 @@ Misc
 Netversion
 == 
 
+Nickname is empty.
+== 
+
 Normal:
 == 
 
 Only %d active players are allowed
 == 
 
-Patterns
-== 
-
 Personal
 == 
 
 Ready
+== 
+
+Record
 == 
 
 Recorded
@@ -780,6 +789,9 @@ Save skin
 Screen
 == 
 
+Search:
+== 
+
 Server does not allow voting to kick players
 == 
 
@@ -795,13 +807,16 @@ Size
 Skin
 == 
 
-Skin name
+Spectating
 == 
 
 Spectators aren't allowed to start a vote.
 == 
 
 Standard Gametype
+== 
+
+Tattoo
 == 
 
 Tattoos
@@ -875,20 +890,29 @@ wait for more players
 
 ##### old translations #####
 
+New name:
+== Νέο όνομα:
+
 Sat.
 == Κορεσμός
 
 Miscellaneous
 == Διάφορα
 
-Body
-== Σώμα
+Internet
+== Διαδίκτυο
 
 Max demos
 == Μέγιστος αριθμός επιδείξεων
 
+Quit anyway?
+== Έξοδος οπωσδήποτε;
+
 News
 == Νέα
+
+Join game
+== Συμμετοχή
 
 FSAA samples
 == Δείγματα FSAA
@@ -896,20 +920,35 @@ FSAA samples
 %d of %d servers, %d players
 == %d από %d διακ/στές, %d παίκτες
 
+LAN
+== Τοπικά
+
 Sound volume
 == Ένταση ήχου
 
 Created:
 == Δημιουργήθηκε:
 
+%d Bytes
+== %d Bytes
+
 Max Screenshots
 == Μέγιστος αριθμός στιγμιότυπων
+
+Record demo
+== Εγγ. επίδειξης
 
 Length:
 == Διάρκεια:
 
+Skin name
+== 
+
 Rifle
 == Λέιζερ
+
+Patterns
+== 
 
 Netversion:
 == Έκδοση:
@@ -929,6 +968,9 @@ Your skin
 Size:
 == Μέγεθος:
 
+Coloration
+== 
+
 Reset to defaults
 == Επαναφορά προεπιλογών
 
@@ -944,8 +986,17 @@ Round
 Lht.
 == Φωτεινότ.
 
+Quick search:
+== Γρήγορη αναζήτηση:
+
+Are you sure you want to save your skin ? If a skin with this name already exists, it will be replaced.
+== 
+
 UI Color
 == Χρώμα Μενού
+
+Host address
+== Διεύθυνση διακομιστή
 
 Crc:
 == Crc:
@@ -958,9 +1009,6 @@ no limit
 
 Current version: %s
 == Τρέχουσα έκδοση: %s
-
-Filter
-== Φίλτρο
 
 Name plates size
 == Μήκος ψευδωνύμου

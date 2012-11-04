@@ -13,9 +13,6 @@
 
 ##### translated strings #####
 
-%d Bytes
-== %d octeți
-
 %d%% loaded
 == %d%% încărcat
 
@@ -81,6 +78,9 @@ Blue team
 
 Blue team wins!
 == Echipa albastră a câștigat!
+
+Body
+== Corp
 
 Call vote
 == Votează
@@ -181,6 +181,9 @@ Favorites
 Feet
 == Picioare
 
+Filter
+== Filtre
+
 Fire
 == Foc
 
@@ -238,20 +241,11 @@ High Detail
 Hook
 == Cârlig
 
-Host address
-== Adresa gazdei
-
-Internet
-== Internet
-
 Invalid Demo
 == Demo nevalid
 
 Join blue
 == La albaștri
-
-Join game
-== Intră în joc
 
 Join red
 == La roșii
@@ -261,9 +255,6 @@ Jump
 
 Kick player
 == Dă afară jucător
-
-LAN
-== Rețea
 
 Language
 == Limba
@@ -300,9 +291,6 @@ Mute when not active
 
 Name
 == Nume
-
-New name:
-== Nume nou:
 
 Next weapon
 == Arma următoare
@@ -370,23 +358,14 @@ Prev. weapon
 Quality Textures
 == Texturi de înaltă calitate
 
-Quick search:
-== Căutare rapidă:
-
 Quit
 == Ieșire
-
-Quit anyway?
-== Ieși oricum?
 
 REC %3d:%02d
 == REC %3d:%02d
 
 Reason:
 == Motiv:
-
-Record demo
-== Înreg. demo
 
 Red team
 == Echipa roșie
@@ -603,6 +582,9 @@ You must restart the game for all settings to take effect.
 
 ##### needs translation #####
 
+%.3f KiB
+== 
+
 %d player left
 == 
 
@@ -657,7 +639,10 @@ Alp:
 Anti Aliasing
 == 
 
-Are you sure you want to save your skin ? If a skin with this name already exists, it will be replaced.
+Are you sure you want to rename the demo?
+== 
+
+Are you sure you want to save your skin? If a skin with this name already exists, it will be replaced.
 == 
 
 Back
@@ -672,7 +657,7 @@ Bodies
 Borderless window
 == 
 
-Coloration
+Color
 == 
 
 Crc
@@ -708,10 +693,28 @@ Format
 Game starts in
 == 
 
+Global
+== 
+
 Hands
 == 
 
+Host address:
+== 
+
 Hue:
+== 
+
+Join
+== 
+
+Joined
+== 
+
+Joined blue
+== 
+
+Joined red
 == 
 
 Kick voting requires %d players on the server
@@ -729,6 +732,9 @@ Letterbox
 Lgt:
 == 
 
+Local
+== 
+
 Local server
 == 
 
@@ -744,19 +750,22 @@ Misc
 Netversion
 == 
 
+Nickname is empty.
+== 
+
 Normal:
 == 
 
 Only %d active players are allowed
 == 
 
-Patterns
-== 
-
 Personal
 == 
 
 Ready
+== 
+
+Record
 == 
 
 Recorded
@@ -786,6 +795,9 @@ Save skin
 Screen
 == 
 
+Search:
+== 
+
 Server does not allow voting to kick players
 == 
 
@@ -801,13 +813,16 @@ Size
 Skin
 == 
 
-Skin name
+Spectating
 == 
 
 Spectators aren't allowed to start a vote.
 == 
 
 Standard Gametype
+== 
+
+Tattoo
 == 
 
 Tattoos
@@ -881,20 +896,29 @@ wait for more players
 
 ##### old translations #####
 
+New name:
+== Nume nou:
+
 Sat.
 == Saturație
 
 Miscellaneous
 == Diverse
 
-Body
-== Corp
+Internet
+== Internet
 
 Max demos
 == Număr maxim de demo-uri
 
+Quit anyway?
+== Ieși oricum?
+
 News
 == Știri
+
+Join game
+== Intră în joc
 
 FSAA samples
 == Eșantioane FSAA
@@ -902,20 +926,35 @@ FSAA samples
 %d of %d servers, %d players
 == %d/%d servere, %d jucători
 
+LAN
+== Rețea
+
 Sound volume
 == Volum sunet
 
 Created:
 == Creată la data:
 
+%d Bytes
+== %d octeți
+
 Max Screenshots
 == Număr maxim de capturi de ecran
+
+Record demo
+== Înreg. demo
 
 Length:
 == Durată:
 
+Skin name
+== 
+
 Rifle
 == Carabină
+
+Patterns
+== 
 
 Netversion:
 == Cod rețea:
@@ -935,6 +974,9 @@ Your skin
 Size:
 == Dimensiunea:
 
+Coloration
+== 
+
 Reset to defaults
 == Setări implicite
 
@@ -950,8 +992,17 @@ Round
 Lht.
 == Luminozitate
 
+Quick search:
+== Căutare rapidă:
+
+Are you sure you want to save your skin ? If a skin with this name already exists, it will be replaced.
+== 
+
 UI Color
 == Culoare meniu
+
+Host address
+== Adresa gazdei
 
 Crc:
 == Suma de control:
@@ -964,9 +1015,6 @@ no limit
 
 Current version: %s
 == Versiunea actuală: %s
-
-Filter
-== Filtre
 
 Name plates size
 == Dimensiune nume placă

@@ -10,9 +10,6 @@
 
 ##### translated strings #####
 
-%d Bytes
-== %d Bayt
-
 %d%% loaded
 == %d%% yüklendi
 
@@ -78,6 +75,9 @@ Blue team
 
 Blue team wins!
 == Mavi takım kazandı!
+
+Body
+== Gövde
 
 Call vote
 == Oylama başlat
@@ -178,6 +178,9 @@ Favorites
 Feet
 == Ayak
 
+Filter
+== Filtre
+
 Fire
 == Ateş
 
@@ -232,20 +235,11 @@ High Detail
 Hook
 == Kanca
 
-Host address
-== Sunucu adresi
-
-Internet
-== Internet
-
 Invalid Demo
 == Geçersiz Demo
 
 Join blue
 == Maviye katıl
-
-Join game
-== Oyuna katıl
 
 Join red
 == Kırmızıya katıl
@@ -255,9 +249,6 @@ Jump
 
 Kick player
 == Oyuncuyu At
-
-LAN
-== LAN
 
 Language
 == Dil
@@ -294,9 +285,6 @@ Mute when not active
 
 Name
 == İsim
-
-New name:
-== Yeni isim :
 
 Next weapon
 == Sonraki silah
@@ -361,23 +349,14 @@ Prev. weapon
 Quality Textures
 == Kaliteli dolgular
 
-Quick search:
-== Hızlı Arama :
-
 Quit
 == Çıkış
-
-Quit anyway?
-== Çıkmak istediğinize emin misiniz?
 
 REC %3d:%02d
 == REC %3d:%02d
 
 Reason:
 == Neden :
-
-Record demo
-== Demo kaydet
 
 Red team
 == Kırmızı takım
@@ -588,6 +567,9 @@ You must restart the game for all settings to take effect.
 
 ##### needs translation #####
 
+%.3f KiB
+== 
+
 %d player left
 == 
 
@@ -642,7 +624,10 @@ Alp:
 Anti Aliasing
 == 
 
-Are you sure you want to save your skin ? If a skin with this name already exists, it will be replaced.
+Are you sure you want to rename the demo?
+== 
+
+Are you sure you want to save your skin? If a skin with this name already exists, it will be replaced.
 == 
 
 Back
@@ -657,7 +642,7 @@ Bodies
 Borderless window
 == 
 
-Coloration
+Color
 == 
 
 Crc
@@ -696,10 +681,28 @@ Game paused
 Game starts in
 == 
 
+Global
+== 
+
 Hands
 == 
 
+Host address:
+== 
+
 Hue:
+== 
+
+Join
+== 
+
+Joined
+== 
+
+Joined blue
+== 
+
+Joined red
 == 
 
 Kick voting requires %d players on the server
@@ -717,6 +720,9 @@ Letterbox
 Lgt:
 == 
 
+Local
+== 
+
 Local server
 == 
 
@@ -732,13 +738,13 @@ Misc
 Netversion
 == 
 
+Nickname is empty.
+== 
+
 Normal:
 == 
 
 Only %d active players are allowed
-== 
-
-Patterns
 == 
 
 Personal
@@ -748,6 +754,9 @@ Player country:
 == 
 
 Ready
+== 
+
+Record
 == 
 
 Recorded
@@ -780,6 +789,9 @@ Save skin
 Screen
 == 
 
+Search:
+== 
+
 Server does not allow voting to kick players
 == 
 
@@ -798,13 +810,16 @@ Size
 Skin
 == 
 
-Skin name
+Spectating
 == 
 
 Spectators aren't allowed to start a vote.
 == 
 
 Standard Gametype
+== 
+
+Tattoo
 == 
 
 Tattoos
@@ -878,20 +893,29 @@ wait for more players
 
 ##### old translations #####
 
+New name:
+== Yeni isim :
+
 Sat.
 == Doygunluk
 
 Miscellaneous
 == Çeşitli
 
-Body
-== Gövde
+Internet
+== Internet
 
 Max demos
 == Maksimum Demo Sayısı
 
+Quit anyway?
+== Çıkmak istediğinize emin misiniz?
+
 News
 == Haberler
+
+Join game
+== Oyuna katıl
 
 FSAA samples
 == FSAA örnekleri
@@ -899,20 +923,35 @@ FSAA samples
 %d of %d servers, %d players
 == %d/%d sunucu, %d oyuncu
 
+LAN
+== LAN
+
 Sound volume
 == Ses yüksekliği
 
 Created:
 == Yaratıldı:
 
+%d Bytes
+== %d Bayt
+
 Max Screenshots
 == Maksimum Ekran Alıntısı Sayısı
+
+Record demo
+== Demo kaydet
 
 Length:
 == Uzunluk:
 
+Skin name
+== 
+
 Rifle
 == Lazer
+
+Patterns
+== 
 
 Netversion:
 == Netversion :
@@ -932,6 +971,9 @@ Your skin
 Size:
 == Boyut:
 
+Coloration
+== 
+
 ﻿
 == ## translated strings #####
 
@@ -950,8 +992,17 @@ Round
 Lht.
 == Parlaklık
 
+Quick search:
+== Hızlı Arama :
+
+Are you sure you want to save your skin ? If a skin with this name already exists, it will be replaced.
+== 
+
 UI Color
 == Menü rengi
+
+Host address
+== Sunucu adresi
 
 Crc:
 == Crc:
@@ -964,9 +1015,6 @@ no limit
 
 Current version: %s
 == Mevcut versiyon: %s
-
-Filter
-== Filtre
 
 Name plates size
 == Boyut

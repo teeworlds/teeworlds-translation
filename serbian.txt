@@ -9,9 +9,6 @@
 
 ##### translated strings #####
 
-%d Bytes
-== %d Bajtova
-
 %d%% loaded
 == %d%% učitano
 
@@ -77,6 +74,9 @@ Blue team
 
 Blue team wins!
 == Plavi tim je pobedio!
+
+Body
+== Telo
 
 Call vote
 == Glasanje
@@ -177,6 +177,9 @@ Favorites
 Feet
 == Stopala
 
+Filter
+== Filter
+
 Fire
 == Pucaj
 
@@ -231,20 +234,11 @@ High Detail
 Hook
 == Kuka
 
-Host address
-== Adresa servera
-
-Internet
-== Internet
-
 Invalid Demo
 == Neispravan demo-snimak
 
 Join blue
 == U plavi tim
-
-Join game
-== Uključi se u igru
 
 Join red
 == U crveni tim
@@ -254,9 +248,6 @@ Jump
 
 Kick player
 == Izbaci igrača iz igre
-
-LAN
-== LAN
 
 Language
 == Jezik
@@ -293,9 +284,6 @@ Mute when not active
 
 Name
 == Ime
-
-New name:
-== Novo ime:
 
 Next weapon
 == Sledeće oružje
@@ -363,23 +351,14 @@ Prev. weapon
 Quality Textures
 == Visokokvalitetne teksture
 
-Quick search:
-== Brza pretraga:
-
 Quit
 == Izlaz
-
-Quit anyway?
-== Izlaz?
 
 REC %3d:%02d
 == REC %3d:%02d
 
 Reason:
 == Razlog:
-
-Record demo
-== Snimi demo
 
 Red team
 == Crveni tim
@@ -590,6 +569,9 @@ You must restart the game for all settings to take effect.
 
 ##### needs translation #####
 
+%.3f KiB
+== 
+
 %d player left
 == 
 
@@ -644,7 +626,10 @@ Alp:
 Anti Aliasing
 == 
 
-Are you sure you want to save your skin ? If a skin with this name already exists, it will be replaced.
+Are you sure you want to rename the demo?
+== 
+
+Are you sure you want to save your skin? If a skin with this name already exists, it will be replaced.
 == 
 
 Back
@@ -659,7 +644,7 @@ Bodies
 Borderless window
 == 
 
-Coloration
+Color
 == 
 
 Crc
@@ -698,10 +683,28 @@ Game paused
 Game starts in
 == 
 
+Global
+== 
+
 Hands
 == 
 
+Host address:
+== 
+
 Hue:
+== 
+
+Join
+== 
+
+Joined
+== 
+
+Joined blue
+== 
+
+Joined red
 == 
 
 Kick voting requires %d players on the server
@@ -719,6 +722,9 @@ Letterbox
 Lgt:
 == 
 
+Local
+== 
+
 Local server
 == 
 
@@ -734,19 +740,22 @@ Misc
 Netversion
 == 
 
+Nickname is empty.
+== 
+
 Normal:
 == 
 
 Only %d active players are allowed
 == 
 
-Patterns
-== 
-
 Personal
 == 
 
 Ready
+== 
+
+Record
 == 
 
 Recorded
@@ -779,6 +788,9 @@ Save skin
 Screen
 == 
 
+Search:
+== 
+
 Server does not allow voting to kick players
 == 
 
@@ -797,13 +809,16 @@ Size
 Skin
 == 
 
-Skin name
+Spectating
 == 
 
 Spectators aren't allowed to start a vote.
 == 
 
 Standard Gametype
+== 
+
+Tattoo
 == 
 
 Tattoos
@@ -877,20 +892,29 @@ wait for more players
 
 ##### old translations #####
 
+New name:
+== Novo ime:
+
 Sat.
 == Zasić.
 
 Miscellaneous
 == Razno
 
-Body
-== Telo
+Internet
+== Internet
 
 Max demos
 == Maksimalan broj demo-a
 
+Quit anyway?
+== Izlaz?
+
 News
 == Novosti
+
+Join game
+== Uključi se u igru
 
 FSAA samples
 == FSAA samples
@@ -898,20 +922,35 @@ FSAA samples
 %d of %d servers, %d players
 == %d od %d server(a), %d igrač(a)
 
+LAN
+== LAN
+
 Sound volume
 == Jačina zvuka
 
 Created:
 == Kreirano:
 
+%d Bytes
+== %d Bajtova
+
 Max Screenshots
 == Maksimalan broj screenshot-ova
+
+Record demo
+== Snimi demo
 
 Length:
 == Dužina:
 
+Skin name
+== 
+
 Rifle
 == Puška
+
+Patterns
+== 
 
 Netversion:
 == Net verzija:
@@ -931,6 +970,9 @@ Your skin
 Size:
 == Veličina:
 
+Coloration
+== 
+
 Reset to defaults
 == Resetuj podešavanja
 
@@ -946,8 +988,17 @@ Round
 Lht.
 == Svetl.
 
+Quick search:
+== Brza pretraga:
+
+Are you sure you want to save your skin ? If a skin with this name already exists, it will be replaced.
+== 
+
 UI Color
 == Boja menija
+
+Host address
+== Adresa servera
 
 Crc:
 == Crc:
@@ -960,9 +1011,6 @@ no limit
 
 Current version: %s
 == Trenutna verzija: %s
-
-Filter
-== Filter
 
 Name plates size
 == Veličina pločice za ime

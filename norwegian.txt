@@ -7,9 +7,6 @@
 
 ##### translated strings #####
 
-%d Bytes
-== %d Bytes
-
 %d%% loaded
 == %d%% lastet
 
@@ -75,6 +72,9 @@ Blue team
 
 Blue team wins!
 == Blått lag vant!
+
+Body
+== Kropp
 
 Call vote
 == Stem
@@ -175,6 +175,9 @@ Favorites
 Feet
 == Føtter
 
+Filter
+== Filter
+
 Fire
 == Skyt
 
@@ -229,20 +232,11 @@ High Detail
 Hook
 == Gripe tang
 
-Host address
-== Serveradresse
-
-Internet
-== Internett
-
 Invalid Demo
 == Ugyldig Demo
 
 Join blue
 == Bli med blå
-
-Join game
-== Bli med i spillet
 
 Join red
 == Bli med rød
@@ -252,9 +246,6 @@ Jump
 
 Kick player
 == Kast ut spiller
-
-LAN
-== LAN
 
 Language
 == Språk
@@ -291,9 +282,6 @@ Mute when not active
 
 Name
 == Navn
-
-New name:
-== Nytt navn:
 
 Next weapon
 == Neste Våpen
@@ -361,23 +349,14 @@ Prev. weapon
 Quality Textures
 == Teksturkvalitet
 
-Quick search:
-== Raskt Søk:
-
 Quit
 == Avslutt
-
-Quit anyway?
-== Avslutt uansett?
 
 REC %3d:%02d
 == REC %3d:%02d
 
 Reason:
 == Grunn:
-
-Record demo
-== Ta opp demo
 
 Red team
 == Rødt lag
@@ -588,6 +567,9 @@ You must restart the game for all settings to take effect.
 
 ##### needs translation #####
 
+%.3f KiB
+== 
+
 %d player left
 == 
 
@@ -642,7 +624,10 @@ Alp:
 Anti Aliasing
 == 
 
-Are you sure you want to save your skin ? If a skin with this name already exists, it will be replaced.
+Are you sure you want to rename the demo?
+== 
+
+Are you sure you want to save your skin? If a skin with this name already exists, it will be replaced.
 == 
 
 Back
@@ -657,7 +642,7 @@ Bodies
 Borderless window
 == 
 
-Coloration
+Color
 == 
 
 Crc
@@ -696,10 +681,28 @@ Game paused
 Game starts in
 == 
 
+Global
+== 
+
 Hands
 == 
 
+Host address:
+== 
+
 Hue:
+== 
+
+Join
+== 
+
+Joined
+== 
+
+Joined blue
+== 
+
+Joined red
 == 
 
 Kick voting requires %d players on the server
@@ -717,6 +720,9 @@ Letterbox
 Lgt:
 == 
 
+Local
+== 
+
 Local server
 == 
 
@@ -732,19 +738,22 @@ Misc
 Netversion
 == 
 
+Nickname is empty.
+== 
+
 Normal:
 == 
 
 Only %d active players are allowed
 == 
 
-Patterns
-== 
-
 Personal
 == 
 
 Ready
+== 
+
+Record
 == 
 
 Recorded
@@ -777,6 +786,9 @@ Save skin
 Screen
 == 
 
+Search:
+== 
+
 Server does not allow voting to kick players
 == 
 
@@ -795,13 +807,16 @@ Size
 Skin
 == 
 
-Skin name
+Spectating
 == 
 
 Spectators aren't allowed to start a vote.
 == 
 
 Standard Gametype
+== 
+
+Tattoo
 == 
 
 Tattoos
@@ -875,20 +890,29 @@ wait for more players
 
 ##### old translations #####
 
+New name:
+== Nytt navn:
+
 Sat.
 == Metning
 
 Miscellaneous
 == Diverse
 
-Body
-== Kropp
+Internet
+== Internett
 
 Max demos
 == Maks antall demoer
 
+Quit anyway?
+== Avslutt uansett?
+
 News
 == Nyheter
+
+Join game
+== Bli med i spillet
 
 FSAA samples
 == FSAA prøver
@@ -896,20 +920,35 @@ FSAA samples
 %d of %d servers, %d players
 == %d av %d servere, %d spillere
 
+LAN
+== LAN
+
 Sound volume
 == Lydvolum
 
 Created:
 == Opprettet:
 
+%d Bytes
+== %d Bytes
+
 Max Screenshots
 == Maks antall skjermbilder
+
+Record demo
+== Ta opp demo
 
 Length:
 == Lengde
 
+Skin name
+== 
+
 Rifle
 == Laser
+
+Patterns
+== 
 
 Netversion:
 == Net versjon:
@@ -929,6 +968,9 @@ Your skin
 Size:
 == Størrelse:
 
+Coloration
+== 
+
 Reset to defaults
 == Tilbakestill standardinstillinger
 
@@ -944,8 +986,17 @@ Round
 Lht.
 == Lysstyrke
 
+Quick search:
+== Raskt Søk:
+
+Are you sure you want to save your skin ? If a skin with this name already exists, it will be replaced.
+== 
+
 UI Color
 == Menyfarge
+
+Host address
+== Serveradresse
 
 Crc:
 == Crc:
@@ -958,9 +1009,6 @@ no limit
 
 Current version: %s
 == Nåværende versjon: %s
-
-Filter
-== Filter
 
 Name plates size
 == Størrelse på navnskilt

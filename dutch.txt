@@ -18,9 +18,6 @@
 
 ##### translated strings #####
 
-%d Bytes
-== %d Bytes
-
 %d%% loaded
 == %d%% is geladen
 
@@ -86,6 +83,9 @@ Blue team
 
 Blue team wins!
 == Blauwe team wint!
+
+Body
+== Lichaam
 
 Call vote
 == Stem
@@ -186,6 +186,9 @@ Favorites
 Feet
 == Voeten
 
+Filter
+== Filter
+
 Fire
 == Schieten
 
@@ -240,20 +243,11 @@ High Detail
 Hook
 == Haak
 
-Host address
-== Server adres
-
-Internet
-== Internet
-
 Invalid Demo
 == Ongeldige demo
 
 Join blue
 == Ga bij blauw
-
-Join game
-== Binnenkomen
 
 Join red
 == Ga bij rood
@@ -263,9 +257,6 @@ Jump
 
 Kick player
 == Kick speler
-
-LAN
-== LAN
 
 Language
 == Taal
@@ -302,9 +293,6 @@ Mute when not active
 
 Name
 == Naam
-
-New name:
-== Nieuwe naam:
 
 Next weapon
 == Volgend wapen
@@ -372,23 +360,14 @@ Prev. weapon
 Quality Textures
 == Structuurkwaliteit
 
-Quick search:
-== Snel zoeken:
-
 Quit
 == Afsluiten
-
-Quit anyway?
-== Toch afsluiten?
 
 REC %3d:%02d
 == REC %3d:%02d
 
 Reason:
 == Reden:
-
-Record demo
-== Neem demo op
 
 Red team
 == Rode team
@@ -599,6 +578,9 @@ You must restart the game for all settings to take effect.
 
 ##### needs translation #####
 
+%.3f KiB
+== 
+
 %d player left
 == 
 
@@ -653,7 +635,10 @@ Alp:
 Anti Aliasing
 == 
 
-Are you sure you want to save your skin ? If a skin with this name already exists, it will be replaced.
+Are you sure you want to rename the demo?
+== 
+
+Are you sure you want to save your skin? If a skin with this name already exists, it will be replaced.
 == 
 
 Back
@@ -668,7 +653,7 @@ Bodies
 Borderless window
 == 
 
-Coloration
+Color
 == 
 
 Crc
@@ -707,10 +692,28 @@ Game paused
 Game starts in
 == 
 
+Global
+== 
+
 Hands
 == 
 
+Host address:
+== 
+
 Hue:
+== 
+
+Join
+== 
+
+Joined
+== 
+
+Joined blue
+== 
+
+Joined red
 == 
 
 Kick voting requires %d players on the server
@@ -728,6 +731,9 @@ Letterbox
 Lgt:
 == 
 
+Local
+== 
+
 Local server
 == 
 
@@ -743,19 +749,22 @@ Misc
 Netversion
 == 
 
+Nickname is empty.
+== 
+
 Normal:
 == 
 
 Only %d active players are allowed
 == 
 
-Patterns
-== 
-
 Personal
 == 
 
 Ready
+== 
+
+Record
 == 
 
 Recorded
@@ -788,6 +797,9 @@ Save skin
 Screen
 == 
 
+Search:
+== 
+
 Server does not allow voting to kick players
 == 
 
@@ -806,13 +818,16 @@ Size
 Skin
 == 
 
-Skin name
+Spectating
 == 
 
 Spectators aren't allowed to start a vote.
 == 
 
 Standard Gametype
+== 
+
+Tattoo
 == 
 
 Tattoos
@@ -886,20 +901,29 @@ wait for more players
 
 ##### old translations #####
 
+New name:
+== Nieuwe naam:
+
 Sat.
 == Verz.
 
 Miscellaneous
 == Diverse
 
-Body
-== Lichaam
+Internet
+== Internet
 
 Max demos
 == Maximaal aantal demo's
 
+Quit anyway?
+== Toch afsluiten?
+
 News
 == Nieuws
+
+Join game
+== Binnenkomen
 
 FSAA samples
 == FSAA samples
@@ -907,20 +931,35 @@ FSAA samples
 %d of %d servers, %d players
 == %d van %d Servers, %d spelers
 
+LAN
+== LAN
+
 Sound volume
 == Volume
 
 Created:
 == Gemaakt:
 
+%d Bytes
+== %d Bytes
+
 Max Screenshots
 == Maximaal aantal schermafbeeldingen
+
+Record demo
+== Neem demo op
 
 Length:
 == Lengte:
 
+Skin name
+== 
+
 Rifle
 == Laser
+
+Patterns
+== 
 
 Netversion:
 == Netversie:
@@ -940,6 +979,9 @@ Your skin
 Size:
 == Grootte:
 
+Coloration
+== 
+
 Reset to defaults
 == Standaardinstellingen
 
@@ -955,8 +997,17 @@ Round
 Lht.
 == Licht
 
+Quick search:
+== Snel zoeken:
+
+Are you sure you want to save your skin ? If a skin with this name already exists, it will be replaced.
+== 
+
 UI Color
 == UI kleur
+
+Host address
+== Server adres
 
 Crc:
 == Crc:
@@ -969,9 +1020,6 @@ no limit
 
 Current version: %s
 == Huidige versie: %s
-
-Filter
-== Filter
 
 Name plates size
 == Grootte naamplaat

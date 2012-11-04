@@ -7,8 +7,20 @@
 
 ##### translated strings #####
 
-%d Bytes
-== %d байт
+%d player left
+== %d оюнчу чыкты
+
+%d player not ready
+== %d оюнчу даяр эмес
+
+%d players left
+== %d оюнчу чыкты
+
+%d players not ready
+== %d оюнчу даяр эмес
+
+%d servers, %d players
+== %d сервер, %d оюнчу
 
 %d%% loaded
 == %d%% жүктөлдү
@@ -31,6 +43,27 @@
 %s wins!
 == %s утту!
 
+'%s' called for vote to kick '%s' (%s)
+== '%s' '%s' оюнчуну кууп чыгарууга добуш берди (%s)
+
+'%s' called for vote to move '%s' to spectators (%s)
+== '%s' '%s' оюнчуну байкоочуларга көчүргөнгө добуш берди (%s)
+
+'%s' called vote to change server option '%s' (%s)
+== '%s' '%s' сервердин опциясын өзгөрткөнгө добуш берди (%s)
+
+'%s' entered and joined the %s
+== '%s' кирип %sна кошулду
+
+'%s' has left the game
+== '%s' оюндан чыгып кетти
+
+'%s' has left the game (%s)
+== '%s' оюндан чыгып кетти (%s)
+
+'%s' joined the %s
+== '%s' %s командасына кошулду
+
 -Page %d-
 == -%d бет-
 
@@ -46,11 +79,29 @@ Add Friend
 Address
 == Дарек
 
+Admin forced server option '%s' (%s)
+== Админ '%s' сервер опциясын мажбурлады (%s)
+
+Admin forced vote no
+== Админ мажбурлап жок деп добуш берди
+
+Admin forced vote yes
+== Админ мажбурлап ооба деп добуш берди
+
+Admin moved '%s' to spectator (%s)
+== Админ '%s' оюнчуну байкоочуга көчүрдү (%s)
+
 All
 == Баары
 
+Alp:
+== Алф:
+
 Always show name plates
 == Оюнчулардын атын дайыма көрсөтүү
+
+Anti Aliasing
+== Тегиздөө
 
 Are you sure that you want to delete the demo?
 == Демону өчүрөсүзбү?
@@ -70,11 +121,26 @@ Automatically record demos
 Automatically take game over screenshot
 == Оюндун жыйынтыгын сүрөткө тартуу
 
+Back
+== Артка
+
+Basic
+== Негизги
+
 Blue team
 == Көк командасы
 
 Blue team wins!
 == Көктөр утту!
+
+Bodies
+== Денелер
+
+Body
+== Дене
+
+Borderless window
+== Чек арасыз терезе
 
 Call vote
 == Добуш берүү
@@ -118,17 +184,35 @@ Count players only
 Country
 == Өлкөңүздүн желеги
 
+Crc
+== Crc
+
+Created
+== Жаратылды
+
 Current
 == Кезектеги
 
+Custom
+== Башкача
+
 Custom colors
 == Башкача түстөр
+
+Customize
+== Ырастоо
+
+Decoration
+== Жасалга
 
 Delete
 == Өчүрүү
 
 Delete demo
 == Демону өчүрүү
+
+Demo
+== Демо
 
 Demo details
 == Демо жөнүндө:
@@ -138,6 +222,9 @@ Demofile: %s
 
 Demos
 == Демолор
+
+Detail
+== Деталь
 
 Disconnect
 == Өчүрүү
@@ -154,6 +241,9 @@ Draw!
 Dynamic Camera
 == Динамикалык камера
 
+Editor
+== Редактор
+
 Emoticon
 == Эмотикон
 
@@ -166,6 +256,9 @@ Error
 Error loading demo
 == Демонун жүктөө катасы
 
+Eyes
+== Көз
+
 Favorite
 == Тандалма
 
@@ -175,6 +268,9 @@ Favorites
 Feet
 == Бут
 
+Filter
+== Фильтр
+
 Fire
 == Атуу
 
@@ -183,6 +279,9 @@ Folder
 
 Force vote
 == Тездетүү
+
+Format
+== Формат
 
 Free-View
 == Эркин сереп
@@ -205,6 +304,9 @@ Game over
 Game paused
 == Оюн паузага коюлду
 
+Game starts in
+== Оюн башталган убакыты
+
 Game type
 == Оюн түрү
 
@@ -223,6 +325,9 @@ Grenade
 Hammer
 == Барскан
 
+Hands
+== Кол
+
 Has people playing
 == Бош эмес сервер
 
@@ -232,20 +337,14 @@ High Detail
 Hook
 == Илмек
 
-Host address
-== Сервер дареги
-
-Internet
-== Интернет
+Hue:
+== Түс:
 
 Invalid Demo
 == Жарабас демо
 
 Join blue
 == Көккө
-
-Join game
-== Ойноо
 
 Join red
 == Кызылга
@@ -256,14 +355,29 @@ Jump
 Kick player
 == Оюнчуну чыгаруу
 
-LAN
-== LAN
+Kick voting requires %d players on the server
+== Оюнчуну кууп чыгарыш үчүн серверде %d оюнчу керек
 
 Language
 == Тил
 
+Laser
+== Лазер
+
+Length
+== Узундук
+
+Letterbox
+== Леттербокс
+
+Lgt:
+== Ачк:
+
 Loading
 == Жүктөө
+
+Local server
+== Жердик сервер
 
 MOTD
 == Күндүн билдирмеси
@@ -271,8 +385,17 @@ MOTD
 Map
 == Карта
 
+Match
+== Матч
+
+Max
+== Эң көп
+
 Maximum ping:
 == Пинг жогорчеги:
+
+Misc
+== Ар башка
 
 Mouse sens.
 == Чычкан сез.
@@ -295,8 +418,8 @@ Mute when not active
 Name
 == Ат
 
-New name:
-== Жаңы ат:
+Netversion
+== Версия
 
 Next weapon
 == Кийинки курал
@@ -316,8 +439,14 @@ No servers found
 No servers match your filter criteria
 == Сиздин фильтриңизге туура келген серверлер жок
 
+Normal:
+== Жөнөкөй:
+
 Ok
 == OK
+
+Only %d active players are allowed
+== %d гана активдүү оюнчуга мүмкүндүк берилет
 
 Open
 == Ачуу
@@ -330,6 +459,9 @@ Password
 
 Password incorrect
 == Сырсөз
+
+Personal
+== Өздүк
 
 Ping
 == Пинг
@@ -364,23 +496,20 @@ Prev. weapon
 Quality Textures
 == Сапаттуу текстуралар
 
-Quick search:
-== Тез издөө:
-
 Quit
 == Чыгуу
-
-Quit anyway?
-== Баар деле чыгасызбы?
 
 REC %3d:%02d
 == REC %3d:%02d
 
+Ready
+== Даяр
+
 Reason:
 == Себеп:
 
-Record demo
-== Демо жазуу
+Recorded
+== Жазылды
 
 Red team
 == Кызыл командасы
@@ -409,14 +538,35 @@ Rename
 Rename demo
 == Демонун атын өзгөртүү
 
+Reset
+== Түшүрүү
+
 Reset filter
 == Фильтрды түшүрүү
+
+Resolutions
+== Чечимдер
 
 Respawn
 == Кайра жаралуу
 
+Round over
+== Раунд бүттү
+
+Round over!
+== Раунд бүттү!
+
 Sample rate
 == Жыштык
+
+Sat:
+== Кан:
+
+Save
+== Сактоо
+
+Save skin
+== Терини сактоо
 
 Score
 == Упай
@@ -430,6 +580,9 @@ Score limit
 Scoreboard
 == Табло
 
+Screen
+== Экран
+
 Screenshot
 == Экран сүрөтү
 
@@ -439,6 +592,12 @@ Server address:
 Server details
 == Сервер жөнүндө
 
+Server does not allow voting to kick players
+== Серверден оюнчуларды кууп чыгарса болбойт
+
+Server does not allow voting to move players to spectators
+== Серверден оюнчуларды байкоочуга көчүрсө болбойт
+
 Server filter
 == Сервер фильтри
 
@@ -447,6 +606,9 @@ Server info
 
 Server not full
 == Сервер толук эмес
+
+Servers
+== Серверлер
 
 Settings
 == Ырастоолор
@@ -472,6 +634,12 @@ Show only chat messages from friends
 Show only supported
 == Колдолгон чечимдерди гана көрсөтүү
 
+Size
+== Өлчөм
+
+Skin
+== Тери
+
 Skins
 == Терилер
 
@@ -496,6 +664,12 @@ Spectator mode
 Spectators
 == Байкоочулар
 
+Spectators aren't allowed to start a vote.
+== Байкоочуларга добуш берсе болбойт
+
+Standard Gametype
+== Стандарттуу оюн түрү
+
 Standard gametype
 == Стандарттуу оюн түрү
 
@@ -514,14 +688,38 @@ Sudden Death
 Switch weapon on pickup
 == Көтөрүлгөн куралга которуу
 
+Tattoos
+== Татулар
+
 Team
 == Команда
 
 Team chat
 == Команданын чаты
 
+Team:
+== Команда:
+
+Teams are locked
+== Командалар блоктолду
+
+Teams are locked. Time to wait before changing team: %02d:%02d
+== Командалар блоктолду. Команданы алмаштыруу алдындагы күтүү убакыты: %02d:%02d
+
+Teams were locked
+== Командалар блоктолду
+
+Teams were unlocked
+== Командалар блоктон алынды
+
+Tee
+== Ти
+
 Teeworlds %s is out! Download it at www.teeworlds.com!
 == Teeworlds %s чыкты! www.teeworlds.com сайтынан жүктөңүз!
+
+Texture
+== Текстура
 
 Texture Compression
 == Текстуралык кысылыш
@@ -565,20 +763,38 @@ V-Sync
 Version
 == Версия
 
+Volume
+== Катуулук
+
+Vote aborted
+== Добуш үзүлдү
+
 Vote command:
 == Добуш б. командасы:
 
 Vote description:
 == Добуш б. баяндамасы:
 
+Vote failed
+== Добуш оңунан чыккан жок
+
 Vote no
 == Каршы
+
+Vote passed
+== Добуш өттү
 
 Vote yes
 == Макул
 
 Voting
 == Добуш берүү
+
+Wait for current vote to end before calling a new one.
+== Жаңы добушту баштаар алдында кезектеги добуштун аягын күтүңүз.
+
+Wait for next round
+== Кийинки раундду күтүңүз
 
 Warmup
 == Даярдануу
@@ -589,265 +805,14 @@ Weapon
 Welcome to Teeworlds
 == Teeworlds'ко кош келиңиз!
 
+Wide
+== Жазы
+
 Yes
 == Ооба
 
 You must restart the game for all settings to take effect.
 == Өзгөртүүлөрдү колдонуу үчүн, оюнду кайтадан жүргүзүш керек.
-
-##### needs translation #####
-
-%d player left
-== %d оюнчу чыкты
-
-%d player not ready
-== %d оюнчу даяр эмес
-
-%d players left
-== %d оюнчу чыкты
-
-%d players not ready
-== %d оюнчу даяр эмес
-
-%d servers, %d players
-== %d сервер, %d оюнчу
-
-'%s' called for vote to kick '%s' (%s)
-== '%s' '%s' оюнчуну кууп чыгарууга добуш берди (%s)
-
-'%s' called for vote to move '%s' to spectators (%s)
-== '%s' '%s' оюнчуну байкоочуларга көчүргөнгө добуш берди (%s)
-
-'%s' called vote to change server option '%s' (%s)
-== '%s' '%s' сервердин опциясын өзгөрткөнгө добуш берди (%s)
-
-'%s' entered and joined the %s
-== '%s' кирип %sна кошулду
-
-'%s' has left the game
-== '%s' оюндан чыгып кетти
-
-'%s' has left the game (%s)
-== '%s' оюндан чыгып кетти (%s)
-
-'%s' joined the %s
-== '%s' %s командасына кошулду
-
-Admin forced server option '%s' (%s)
-== Админ '%s' сервер опциясын мажбурлады (%s)
-
-Admin forced vote no
-== Админ мажбурлап жок деп добуш берди
-
-Admin forced vote yes
-== Админ мажбурлап ооба деп добуш берди
-
-Admin moved '%s' to spectator (%s)
-== Админ '%s' оюнчуну байкоочуга көчүрдү (%s)
-
-Alp:
-== Алф:
-
-Anti Aliasing
-== Тегиздөө
-
-Are you sure you want to save your skin ? If a skin with this name already exists, it will be replaced.
-== Бул ат бош эмес, эгер сактасаңыз эски териңиз жаңы тери менен алмаштырылып калат.
-
-Back
-== Артка
-
-Basic
-== Негизги
-
-Bodies
-== Денелер
-
-Borderless window
-== Чек арасыз терезе
-
-Coloration
-== Түс
-
-Crc
-== Crc
-
-Created
-== Жаратылды
-
-Custom
-== Башкача
-
-Customize
-== Ырастоо
-
-Decoration
-== Жасалга
-
-Demo
-== Демо
-
-Detail
-== Деталь
-
-Editor
-== Редактор
-
-Eyes
-== Көз
-
-Format
-== Формат
-
-Game starts in
-== Оюн башталган убакыты
-
-Hands
-== Кол
-
-Hue:
-== Түс:
-
-Kick voting requires %d players on the server
-== Оюнчуну кууп чыгарыш үчүн серверде %d оюнчу керек
-
-Laser
-== Лазер
-
-Length
-== Узундук
-
-Letterbox
-== Леттербокс
-
-Lgt:
-== Ачк:
-
-Local server
-== Жердик сервер
-
-Match
-== Матч
-
-Max
-== Эң көп
-
-Misc
-== Ар башка
-
-Netversion
-== Версия
-
-Normal:
-== Жөнөкөй:
-
-Only %d active players are allowed
-== %d гана активдүү оюнчуга мүмкүндүк берилет
-
-Patterns
-== Шаблондор
-
-Personal
-== Өздүк
-
-Ready
-== Даяр
-
-Recorded
-== Жазылды
-
-Reset
-== Түшүрүү
-
-Resolutions
-== Чечимдер
-
-Round over
-== Раунд бүттү
-
-Round over!
-== Раунд бүттү!
-
-Sat:
-== Кан:
-
-Save
-== Сактоо
-
-Save skin
-== Терини сактоо
-
-Screen
-== Экран
-
-Server does not allow voting to kick players
-== Серверден оюнчуларды кууп чыгарса болбойт
-
-Server does not allow voting to move players to spectators
-== Серверден оюнчуларды байкоочуга көчүрсө болбойт
-
-Servers
-== Серверлер
-
-Size
-== Өлчөм
-
-Skin
-== Тери
-
-Skin name
-== Тери аты
-
-Spectators aren't allowed to start a vote.
-== Байкоочуларга добуш берсе болбойт
-
-Standard Gametype
-== Стандарттуу оюн түрү
-
-Tattoos
-== Татулар
-
-Team:
-== Команда:
-
-Teams are locked
-== Командалар блоктолду
-
-Teams are locked. Time to wait before changing team: %02d:%02d
-== Командалар блоктолду. Команданы алмаштыруу алдындагы күтүү убакыты: %02d:%02d
-
-Teams were locked
-== Командалар блоктолду
-
-Teams were unlocked
-== Командалар блоктон алынды
-
-Tee
-== Ти
-
-Texture
-== Текстура
-
-Volume
-== Катуулук
-
-Vote aborted
-== Добуш үзүлдү
-
-Vote failed
-== Добуш оңунан чыккан жок
-
-Vote passed
-== Добуш өттү
-
-Wait for current vote to end before calling a new one.
-== Жаңы добушту баштаар алдында кезектеги добуштун аягын күтүңүз.
-
-Wait for next round
-== Кийинки раундду күтүңүз
-
-Wide
-== Жазы
 
 You must wait %d seconds before making another vote
 == Башка добушту башташ үчүн, сиз %d секунда күтүшүңүз керек
@@ -873,7 +838,60 @@ spectators
 wait for more players
 == дагы оюнчуларды күтүңүз
 
+##### needs translation #####
+
+%.3f KiB
+== 
+
+Are you sure you want to rename the demo?
+== 
+
+Are you sure you want to save your skin? If a skin with this name already exists, it will be replaced.
+== 
+
+Color
+== 
+
+Global
+== 
+
+Host address:
+== 
+
+Join
+== 
+
+Joined
+== 
+
+Joined blue
+== 
+
+Joined red
+== 
+
+Local
+== 
+
+Nickname is empty.
+== 
+
+Record
+== 
+
+Search:
+== 
+
+Spectating
+== 
+
+Tattoo
+== 
+
 ##### old translations #####
+
+New name:
+== Жаңы ат:
 
 Sat.
 == Кан.
@@ -881,14 +899,20 @@ Sat.
 Miscellaneous
 == Кошумча
 
-Body
-== Дене
+Internet
+== Интернет
 
 Max demos
 == Демолордун жогорчеги
 
+Quit anyway?
+== Баар деле чыгасызбы?
+
 News
 == Жаңылыктар
+
+Join game
+== Ойноо
 
 FSAA samples
 == FSAA сэмплдери
@@ -896,20 +920,35 @@ FSAA samples
 %d of %d servers, %d players
 == %d/%d сервер, %d оюнчу
 
+LAN
+== LAN
+
 Sound volume
 == Үндүн катуулугу
 
 Created:
 == Жаратылды:
 
+%d Bytes
+== %d байт
+
 Max Screenshots
 == Экран сүрөттөрүнүн жогорчеги
+
+Record demo
+== Демо жазуу
 
 Length:
 == Узундук:
 
+Skin name
+== Тери аты
+
 Rifle
 == Лазер
+
+Patterns
+== Шаблондор
 
 Netversion:
 == Версия:
@@ -929,6 +968,9 @@ Your skin
 Size:
 == Өлчөм:
 
+Coloration
+== Түс
+
 Reset to defaults
 == Ырастоолорду түшүрүү
 
@@ -944,8 +986,17 @@ Round
 Lht.
 == Ачык түс.
 
+Quick search:
+== Тез издөө:
+
+Are you sure you want to save your skin ? If a skin with this name already exists, it will be replaced.
+== Бул ат бош эмес, эгер сактасаңыз эски териңиз жаңы тери менен алмаштырылып калат.
+
 UI Color
 == Интерфейс түсү
+
+Host address
+== Сервер дареги
 
 Crc:
 == Crc:
@@ -958,9 +1009,6 @@ no limit
 
 Current version: %s
 == Кезектеги версия: %s
-
-Filter
-== Фильтр
 
 Name plates size
 == Өлчөм

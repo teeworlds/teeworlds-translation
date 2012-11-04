@@ -15,9 +15,6 @@
 
 ##### translated strings #####
 
-%d Bytes
-== %d Bytes
-
 %d%% loaded
 == %d%% carregado
 
@@ -83,6 +80,9 @@ Blue team
 
 Blue team wins!
 == Vitória do time azul!
+
+Body
+== Corpo
 
 Call vote
 == Votar
@@ -183,6 +183,9 @@ Favorites
 Feet
 == Pés
 
+Filter
+== Filtro
+
 Fire
 == Atirar
 
@@ -240,20 +243,11 @@ High Detail
 Hook
 == Gancho
 
-Host address
-== Endereço do servidor
-
-Internet
-== Internet
-
 Invalid Demo
 == Demo inválido
 
 Join blue
 == Azul
-
-Join game
-== Entrar no jogo
 
 Join red
 == Vermelho
@@ -263,9 +257,6 @@ Jump
 
 Kick player
 == Expulsar jogador
-
-LAN
-== LAN
 
 Language
 == Idioma
@@ -302,9 +293,6 @@ Mute when not active
 
 Name
 == Nome
-
-New name:
-== Novo nome:
 
 Next weapon
 == Próxima arma
@@ -372,23 +360,14 @@ Prev. weapon
 Quality Textures
 == Texturas de qualidade
 
-Quick search:
-== Pesquisa rápida:
-
 Quit
 == Sair
-
-Quit anyway?
-== Sair mesmo assim?
 
 REC %3d:%02d
 == REC %3d:%02d
 
 Reason:
 == Motivo:
-
-Record demo
-== Gravar demo
 
 Red team
 == Time vermelho
@@ -605,6 +584,9 @@ You must restart the game for all settings to take effect.
 
 ##### needs translation #####
 
+%.3f KiB
+== 
+
 %d player left
 == 
 
@@ -659,7 +641,10 @@ Alp:
 Anti Aliasing
 == 
 
-Are you sure you want to save your skin ? If a skin with this name already exists, it will be replaced.
+Are you sure you want to rename the demo?
+== 
+
+Are you sure you want to save your skin? If a skin with this name already exists, it will be replaced.
 == 
 
 Back
@@ -674,7 +659,7 @@ Bodies
 Borderless window
 == 
 
-Coloration
+Color
 == 
 
 Crc
@@ -710,10 +695,28 @@ Format
 Game starts in
 == 
 
+Global
+== 
+
 Hands
 == 
 
+Host address:
+== 
+
 Hue:
+== 
+
+Join
+== 
+
+Joined
+== 
+
+Joined blue
+== 
+
+Joined red
 == 
 
 Kick voting requires %d players on the server
@@ -731,6 +734,9 @@ Letterbox
 Lgt:
 == 
 
+Local
+== 
+
 Local server
 == 
 
@@ -746,19 +752,22 @@ Misc
 Netversion
 == 
 
+Nickname is empty.
+== 
+
 Normal:
 == 
 
 Only %d active players are allowed
 == 
 
-Patterns
-== 
-
 Personal
 == 
 
 Ready
+== 
+
+Record
 == 
 
 Recorded
@@ -788,6 +797,9 @@ Save skin
 Screen
 == 
 
+Search:
+== 
+
 Server does not allow voting to kick players
 == 
 
@@ -803,13 +815,16 @@ Size
 Skin
 == 
 
-Skin name
+Spectating
 == 
 
 Spectators aren't allowed to start a vote.
 == 
 
 Standard Gametype
+== 
+
+Tattoo
 == 
 
 Tattoos
@@ -883,20 +898,29 @@ wait for more players
 
 ##### old translations #####
 
+New name:
+== Novo nome:
+
 Sat.
 == Saturação
 
 Miscellaneous
 == Diversos
 
-Body
-== Corpo
+Internet
+== Internet
 
 Max demos
 == Máximo de demos
 
+Quit anyway?
+== Sair mesmo assim?
+
 News
 == Novidades
+
+Join game
+== Entrar no jogo
 
 FSAA samples
 == Amostras FSAA
@@ -904,20 +928,35 @@ FSAA samples
 %d of %d servers, %d players
 == %d de %d servidores, %d jogadores
 
+LAN
+== LAN
+
 Sound volume
 == Volume do som
 
 Created:
 == Criado:
 
+%d Bytes
+== %d Bytes
+
 Max Screenshots
 == Máximo de capturas de tela
+
+Record demo
+== Gravar demo
 
 Length:
 == Duração:
 
+Skin name
+== 
+
 Rifle
 == Laser
+
+Patterns
+== 
 
 Netversion:
 == Netversion
@@ -937,6 +976,9 @@ Your skin
 Size:
 == Tamanho:
 
+Coloration
+== 
+
 Reset to defaults
 == Resetar configurações
 
@@ -952,8 +994,17 @@ Round
 Lht.
 == Luminos.
 
+Quick search:
+== Pesquisa rápida:
+
+Are you sure you want to save your skin ? If a skin with this name already exists, it will be replaced.
+== 
+
 UI Color
 == Cor do menu
+
+Host address
+== Endereço do servidor
 
 Crc:
 == Crc:
@@ -966,9 +1017,6 @@ no limit
 
 Current version: %s
 == Versão atual: %s
-
-Filter
-== Filtro
 
 Name plates size
 == Tamanho dos apelidos

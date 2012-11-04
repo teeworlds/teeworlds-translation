@@ -8,9 +8,6 @@
 
 ##### translated strings #####
 
-%d Bytes
-== %d tavua
-
 %d%% loaded
 == %d%% ladattu
 
@@ -76,6 +73,9 @@ Blue team
 
 Blue team wins!
 == Sininen joukkue voitti!
+
+Body
+== Vartalo
 
 Call vote
 == Aloita äänestys
@@ -176,6 +176,9 @@ Favorites
 Feet
 == Jalat
 
+Filter
+== Suotimet
+
 Fire
 == Ammu
 
@@ -230,20 +233,11 @@ High Detail
 Hook
 == Koukku
 
-Host address
-== Palvelimen osoite
-
-Internet
-== Internet
-
 Invalid Demo
 == Epäkelpo demo
 
 Join blue
 == Liity sinisiin
-
-Join game
-== Liity peliin
 
 Join red
 == Liity punaisiin
@@ -253,9 +247,6 @@ Jump
 
 Kick player
 == Potkaise pelaaja
-
-LAN
-== LAN
 
 Language
 == Kieli
@@ -292,9 +283,6 @@ Mute when not active
 
 Name
 == Nimi
-
-New name:
-== Uusi nimi:
 
 Next weapon
 == Seuraava ase
@@ -362,23 +350,14 @@ Prev. weapon
 Quality Textures
 == Hyvälaatuiset tekstuurit
 
-Quick search:
-== Pikahaku:
-
 Quit
 == Lopeta
-
-Quit anyway?
-== Lopeta siitä huolimatta?
 
 REC %3d:%02d
 == REC %3d:%02d
 
 Reason:
 == Syy:
-
-Record demo
-== Nauhoita demo
 
 Red team
 == Punainen joukkue
@@ -589,6 +568,9 @@ You must restart the game for all settings to take effect.
 
 ##### needs translation #####
 
+%.3f KiB
+== 
+
 %d player left
 == 
 
@@ -643,7 +625,10 @@ Alp:
 Anti Aliasing
 == 
 
-Are you sure you want to save your skin ? If a skin with this name already exists, it will be replaced.
+Are you sure you want to rename the demo?
+== 
+
+Are you sure you want to save your skin? If a skin with this name already exists, it will be replaced.
 == 
 
 Back
@@ -658,7 +643,7 @@ Bodies
 Borderless window
 == 
 
-Coloration
+Color
 == 
 
 Crc
@@ -697,10 +682,28 @@ Game paused
 Game starts in
 == 
 
+Global
+== 
+
 Hands
 == 
 
+Host address:
+== 
+
 Hue:
+== 
+
+Join
+== 
+
+Joined
+== 
+
+Joined blue
+== 
+
+Joined red
 == 
 
 Kick voting requires %d players on the server
@@ -718,6 +721,9 @@ Letterbox
 Lgt:
 == 
 
+Local
+== 
+
 Local server
 == 
 
@@ -733,19 +739,22 @@ Misc
 Netversion
 == 
 
+Nickname is empty.
+== 
+
 Normal:
 == 
 
 Only %d active players are allowed
 == 
 
-Patterns
-== 
-
 Personal
 == 
 
 Ready
+== 
+
+Record
 == 
 
 Recorded
@@ -778,6 +787,9 @@ Save skin
 Screen
 == 
 
+Search:
+== 
+
 Server does not allow voting to kick players
 == 
 
@@ -796,13 +808,16 @@ Size
 Skin
 == 
 
-Skin name
+Spectating
 == 
 
 Spectators aren't allowed to start a vote.
 == 
 
 Standard Gametype
+== 
+
+Tattoo
 == 
 
 Tattoos
@@ -876,20 +891,29 @@ wait for more players
 
 ##### old translations #####
 
+New name:
+== Uusi nimi:
+
 Sat.
 == Kyllästys
 
 Miscellaneous
 == Sekalaista
 
-Body
-== Vartalo
+Internet
+== Internet
 
 Max demos
 == Demomaksimi
 
+Quit anyway?
+== Lopeta siitä huolimatta?
+
 News
 == Uutiset
+
+Join game
+== Liity peliin
 
 FSAA samples
 == FSAA näytteet
@@ -897,20 +921,35 @@ FSAA samples
 %d of %d servers, %d players
 == %d/%d palvelinta, %d pelaajaa
 
+LAN
+== LAN
+
 Sound volume
 == Äänenvoimakkuus
 
 Created:
 == Luotu:
 
+%d Bytes
+== %d tavua
+
 Max Screenshots
 == Kuvankaappausmaksimi
+
+Record demo
+== Nauhoita demo
 
 Length:
 == Pituus:
 
+Skin name
+== 
+
 Rifle
 == Kivääri
+
+Patterns
+== 
 
 Netversion:
 == Yhteysversio:
@@ -930,6 +969,9 @@ Your skin
 Size:
 == Koko:
 
+Coloration
+== 
+
 Reset to defaults
 == Palaa oletusasetuksiin
 
@@ -945,8 +987,17 @@ Round
 Lht.
 == Valoisuus
 
+Quick search:
+== Pikahaku:
+
+Are you sure you want to save your skin ? If a skin with this name already exists, it will be replaced.
+== 
+
 UI Color
 == Käyttöliittymäväri
+
+Host address
+== Palvelimen osoite
 
 Crc:
 == Crc:
@@ -959,9 +1010,6 @@ no limit
 
 Current version: %s
 == Nykyinen versio: %s
-
-Filter
-== Suotimet
 
 Name plates size
 == Nimikylttien koko

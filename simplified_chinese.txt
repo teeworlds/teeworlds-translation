@@ -7,9 +7,6 @@
 
 ##### translated strings #####
 
-%d Bytes
-== %d 字节
-
 %d%% loaded
 == 已加载 %d%%
 
@@ -75,6 +72,9 @@ Blue team
 
 Blue team wins!
 == 蓝队胜利!
+
+Body
+== 身体
 
 Call vote
 == 发起投票
@@ -175,6 +175,9 @@ Favorites
 Feet
 == 脚
 
+Filter
+== 过滤器
+
 Fire
 == 开火
 
@@ -232,20 +235,11 @@ High Detail
 Hook
 == 钩子
 
-Host address
-== 主机地址
-
-Internet
-== 因特网
-
 Invalid Demo
 == 无效的录像
 
 Join blue
 == 加入蓝队
-
-Join game
-== 加入游戏
 
 Join red
 == 加入红队
@@ -255,9 +249,6 @@ Jump
 
 Kick player
 == 踢除玩家
-
-LAN
-== 局域网
 
 Language
 == 语言
@@ -294,9 +285,6 @@ Mute when not active
 
 Name
 == 名字
-
-New name:
-== 新名字:
 
 Next weapon
 == 下一个武器
@@ -364,23 +352,14 @@ Prev. weapon
 Quality Textures
 == 高品质纹理
 
-Quick search:
-== 快速搜索:
-
 Quit
 == 退出
-
-Quit anyway?
-== 无论如何都要退出吗?
 
 REC %3d:%02d
 == REC %3d:%02d
 
 Reason:
 == 理由:
-
-Record demo
-== 录制录像
 
 Red team
 == 红队
@@ -597,6 +576,9 @@ You must restart the game for all settings to take effect.
 
 ##### needs translation #####
 
+%.3f KiB
+== 
+
 %d player left
 == 
 
@@ -651,7 +633,10 @@ Alp:
 Anti Aliasing
 == 
 
-Are you sure you want to save your skin ? If a skin with this name already exists, it will be replaced.
+Are you sure you want to rename the demo?
+== 
+
+Are you sure you want to save your skin? If a skin with this name already exists, it will be replaced.
 == 
 
 Back
@@ -666,7 +651,7 @@ Bodies
 Borderless window
 == 
 
-Coloration
+Color
 == 
 
 Crc
@@ -702,10 +687,28 @@ Format
 Game starts in
 == 
 
+Global
+== 
+
 Hands
 == 
 
+Host address:
+== 
+
 Hue:
+== 
+
+Join
+== 
+
+Joined
+== 
+
+Joined blue
+== 
+
+Joined red
 == 
 
 Kick voting requires %d players on the server
@@ -723,6 +726,9 @@ Letterbox
 Lgt:
 == 
 
+Local
+== 
+
 Local server
 == 
 
@@ -738,19 +744,22 @@ Misc
 Netversion
 == 
 
+Nickname is empty.
+== 
+
 Normal:
 == 
 
 Only %d active players are allowed
 == 
 
-Patterns
-== 
-
 Personal
 == 
 
 Ready
+== 
+
+Record
 == 
 
 Recorded
@@ -780,6 +789,9 @@ Save skin
 Screen
 == 
 
+Search:
+== 
+
 Server does not allow voting to kick players
 == 
 
@@ -795,13 +807,16 @@ Size
 Skin
 == 
 
-Skin name
+Spectating
 == 
 
 Spectators aren't allowed to start a vote.
 == 
 
 Standard Gametype
+== 
+
+Tattoo
 == 
 
 Tattoos
@@ -875,20 +890,29 @@ wait for more players
 
 ##### old translations #####
 
+New name:
+== 新名字:
+
 Sat.
 == 饱和度
 
 Miscellaneous
 == 杂项
 
-Body
-== 身体
+Internet
+== 因特网
 
 Max demos
 == 最大录像数
 
+Quit anyway?
+== 无论如何都要退出吗?
+
 News
 == 新闻
+
+Join game
+== 加入游戏
 
 FSAA samples
 == 全屏抗锯齿(FSAA)采样倍数
@@ -896,20 +920,35 @@ FSAA samples
 %d of %d servers, %d players
 == %d / %d 个服务器, %d 个玩家
 
+LAN
+== 局域网
+
 Sound volume
 == 音量
 
 Created:
 == 已创建:
 
+%d Bytes
+== %d 字节
+
 Max Screenshots
 == 最大截图数
+
+Record demo
+== 录制录像
 
 Length:
 == 长度:
 
+Skin name
+== 
+
 Rifle
 == 激光枪
+
+Patterns
+== 
 
 Netversion:
 == 网络版本
@@ -929,6 +968,9 @@ Your skin
 Size:
 == 尺寸:
 
+Coloration
+== 
+
 Reset to defaults
 == 恢复默认设置
 
@@ -944,8 +986,17 @@ Round
 Lht.
 == 亮度
 
+Quick search:
+== 快速搜索:
+
+Are you sure you want to save your skin ? If a skin with this name already exists, it will be replaced.
+== 
+
 UI Color
 == 界面颜色
+
+Host address
+== 主机地址
 
 Crc:
 == Crc校验码:
@@ -958,9 +1009,6 @@ no limit
 
 Current version: %s
 == 当前版本: %s
-
-Filter
-== 过滤器
 
 Name plates size
 == 名字板尺寸

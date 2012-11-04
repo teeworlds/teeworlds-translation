@@ -7,9 +7,6 @@
 
 ##### translated strings #####
 
-%d Bytes
-== %d Bajtov
-
 %d%% loaded
 == %d%% načítaných
 
@@ -75,6 +72,9 @@ Blue team
 
 Blue team wins!
 == Modrý tým vyhráva!
+
+Body
+== Telo
 
 Call vote
 == Hlasovať
@@ -175,6 +175,9 @@ Favorites
 Feet
 == Nohy
 
+Filter
+== Filter
+
 Fire
 == Streľba
 
@@ -229,20 +232,11 @@ High Detail
 Hook
 == Hook/Lano
 
-Host address
-== Hostiteľ
-
-Internet
-== Internet
-
 Invalid Demo
 == Neplatný Záznam
 
 Join blue
 == K modrým
-
-Join game
-== Hrať
 
 Join red
 == K červeným
@@ -252,9 +246,6 @@ Jump
 
 Kick player
 == Vyhodiť hráča
-
-LAN
-== LAN
 
 Language
 == Jazyk
@@ -291,9 +282,6 @@ Mute when not active
 
 Name
 == Meno
-
-New name:
-== Nové meno:
 
 Next weapon
 == Ďalšia zbraň
@@ -361,23 +349,14 @@ Prev. weapon
 Quality Textures
 == Kvalitné textúry
 
-Quick search:
-== Hľadanie:
-
 Quit
 == Ukončiť
-
-Quit anyway?
-== Aj tak ukončiť?
 
 REC %3d:%02d
 == REC %3d:%02d
 
 Reason:
 == Dôvod:
-
-Record demo
-== Nahrávať
 
 Red team
 == Červený tým
@@ -588,6 +567,9 @@ You must restart the game for all settings to take effect.
 
 ##### needs translation #####
 
+%.3f KiB
+== 
+
 %d player left
 == 
 
@@ -642,7 +624,10 @@ Alp:
 Anti Aliasing
 == 
 
-Are you sure you want to save your skin ? If a skin with this name already exists, it will be replaced.
+Are you sure you want to rename the demo?
+== 
+
+Are you sure you want to save your skin? If a skin with this name already exists, it will be replaced.
 == 
 
 Back
@@ -657,7 +642,7 @@ Bodies
 Borderless window
 == 
 
-Coloration
+Color
 == 
 
 Crc
@@ -696,10 +681,28 @@ Game paused
 Game starts in
 == 
 
+Global
+== 
+
 Hands
 == 
 
+Host address:
+== 
+
 Hue:
+== 
+
+Join
+== 
+
+Joined
+== 
+
+Joined blue
+== 
+
+Joined red
 == 
 
 Kick voting requires %d players on the server
@@ -717,6 +720,9 @@ Letterbox
 Lgt:
 == 
 
+Local
+== 
+
 Local server
 == 
 
@@ -732,19 +738,22 @@ Misc
 Netversion
 == 
 
+Nickname is empty.
+== 
+
 Normal:
 == 
 
 Only %d active players are allowed
 == 
 
-Patterns
-== 
-
 Personal
 == 
 
 Ready
+== 
+
+Record
 == 
 
 Recorded
@@ -777,6 +786,9 @@ Save skin
 Screen
 == 
 
+Search:
+== 
+
 Server does not allow voting to kick players
 == 
 
@@ -795,13 +807,16 @@ Size
 Skin
 == 
 
-Skin name
+Spectating
 == 
 
 Spectators aren't allowed to start a vote.
 == 
 
 Standard Gametype
+== 
+
+Tattoo
 == 
 
 Tattoos
@@ -875,20 +890,29 @@ wait for more players
 
 ##### old translations #####
 
+New name:
+== Nové meno:
+
 Sat.
 == Sat.
 
 Miscellaneous
 == Ostatné
 
-Body
-== Telo
+Internet
+== Internet
 
 Max demos
 == Maximum nahrávok
 
+Quit anyway?
+== Aj tak ukončiť?
+
 News
 == Novinky
+
+Join game
+== Hrať
 
 FSAA samples
 == Anti-aliasing
@@ -896,20 +920,35 @@ FSAA samples
 %d of %d servers, %d players
 == %d z %d serverov, %d hráčov online
 
+LAN
+== LAN
+
 Sound volume
 == Hlasitosť
 
 Created:
 == Vytvorené:
 
+%d Bytes
+== %d Bajtov
+
 Max Screenshots
 == Maximum obrázkov
+
+Record demo
+== Nahrávať
 
 Length:
 == Dĺžka:
 
+Skin name
+== 
+
 Rifle
 == Laser
+
+Patterns
+== 
 
 Netversion:
 == Netversion:
@@ -929,6 +968,9 @@ Your skin
 Size:
 == Veľkosť:
 
+Coloration
+== 
+
 Reset to defaults
 == Vrátiť na pôvodné
 
@@ -944,8 +986,17 @@ Round
 Lht.
 == Lht.
 
+Quick search:
+== Hľadanie:
+
+Are you sure you want to save your skin ? If a skin with this name already exists, it will be replaced.
+== 
+
 UI Color
 == Farba prostredia
+
+Host address
+== Hostiteľ
 
 Crc:
 == Crc:
@@ -958,9 +1009,6 @@ no limit
 
 Current version: %s
 == Aktuálna verzia: %s
-
-Filter
-== Filter
 
 Name plates size
 == Veľkosť menoviek

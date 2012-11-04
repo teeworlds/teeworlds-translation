@@ -7,9 +7,6 @@
 
 ##### translated strings #####
 
-%d Bytes
-== %d Байтове
-
 %d%% loaded
 == %d%% заредено
 
@@ -75,6 +72,9 @@ Blue team
 
 Blue team wins!
 == Отбор Сини печели!
+
+Body
+== Тяло
 
 Call vote
 == Гласувай
@@ -175,6 +175,9 @@ Favorites
 Feet
 == Крака
 
+Filter
+== Филтър
+
 Fire
 == Стрелба
 
@@ -229,20 +232,11 @@ High Detail
 Hook
 == Верига
 
-Host address
-== Адрес на сървъра
-
-Internet
-== Интернет
-
 Invalid Demo
 == Невалидно Демо
 
 Join blue
 == Влез син
-
-Join game
-== Влез
 
 Join red
 == Влез червен
@@ -252,9 +246,6 @@ Jump
 
 Kick player
 == Кикни играч
-
-LAN
-== ЛАН
 
 Language
 == Език
@@ -291,9 +282,6 @@ Mute when not active
 
 Name
 == Име
-
-New name:
-== Ново име:
 
 Next weapon
 == След. оръжие
@@ -361,23 +349,14 @@ Prev. weapon
 Quality Textures
 == Качествени Текстури
 
-Quick search:
-== Бързо Търсене:
-
 Quit
 == Изход
-
-Quit anyway?
-== Излезни все пак?
 
 REC %3d:%02d
 == Записани %3d:%02d
 
 Reason:
 == Причина:
-
-Record demo
-== Запиши демо
 
 Red team
 == Отбор Червени
@@ -585,6 +564,9 @@ You must restart the game for all settings to take effect.
 
 ##### needs translation #####
 
+%.3f KiB
+== 
+
 %d player left
 == 
 
@@ -639,7 +621,10 @@ Alp:
 Anti Aliasing
 == 
 
-Are you sure you want to save your skin ? If a skin with this name already exists, it will be replaced.
+Are you sure you want to rename the demo?
+== 
+
+Are you sure you want to save your skin? If a skin with this name already exists, it will be replaced.
 == 
 
 Back
@@ -654,7 +639,7 @@ Bodies
 Borderless window
 == 
 
-Coloration
+Color
 == 
 
 Crc
@@ -693,10 +678,28 @@ Game paused
 Game starts in
 == 
 
+Global
+== 
+
 Hands
 == 
 
+Host address:
+== 
+
 Hue:
+== 
+
+Join
+== 
+
+Joined
+== 
+
+Joined blue
+== 
+
+Joined red
 == 
 
 Kick voting requires %d players on the server
@@ -714,6 +717,9 @@ Letterbox
 Lgt:
 == 
 
+Local
+== 
+
 Local server
 == 
 
@@ -729,19 +735,22 @@ Misc
 Netversion
 == 
 
+Nickname is empty.
+== 
+
 Normal:
 == 
 
 Only %d active players are allowed
 == 
 
-Patterns
-== 
-
 Personal
 == 
 
 Ready
+== 
+
+Record
 == 
 
 Recorded
@@ -774,6 +783,9 @@ Save skin
 Screen
 == 
 
+Search:
+== 
+
 Server does not allow voting to kick players
 == 
 
@@ -792,16 +804,19 @@ Size
 Skin
 == 
 
-Skin name
+Spectate previous
 == 
 
-Spectate previous
+Spectating
 == 
 
 Spectators aren't allowed to start a vote.
 == 
 
 Standard Gametype
+== 
+
+Tattoo
 == 
 
 Tattoos
@@ -875,20 +890,29 @@ wait for more players
 
 ##### old translations #####
 
+New name:
+== Ново име:
+
 Sat.
 == Контраст
 
 Miscellaneous
 == Допълнителни
 
-Body
-== Тяло
+Internet
+== Интернет
 
 Max demos
 == Максимум Демота
 
+Quit anyway?
+== Излезни все пак?
+
 News
 == Новини
+
+Join game
+== Влез
 
 FSAA samples
 == FSAA семпли
@@ -896,20 +920,35 @@ FSAA samples
 %d of %d servers, %d players
 == %d/%d сървъри, %d играчи
 
+LAN
+== ЛАН
+
 Sound volume
 == Сила на звука
 
 Created:
 == Създаден:
 
+%d Bytes
+== %d Байтове
+
 Max Screenshots
 == Максимум Снимки
+
+Record demo
+== Запиши демо
 
 Length:
 == Дължина:
 
+Skin name
+== 
+
 Rifle
 == Лазер
+
+Patterns
+== 
 
 Netversion:
 == Версия:
@@ -929,6 +968,9 @@ Your skin
 Size:
 == Размер
 
+Coloration
+== 
+
 Reset to defaults
 == Рестартирай настройките
 
@@ -944,8 +986,17 @@ Round
 Lht.
 == Яркост
 
+Quick search:
+== Бързо Търсене:
+
+Are you sure you want to save your skin ? If a skin with this name already exists, it will be replaced.
+== 
+
 UI Color
 == Цвят на Интерфейса
+
+Host address
+== Адрес на сървъра
 
 Crc:
 == Crc:
@@ -958,9 +1009,6 @@ no limit
 
 Current version: %s
 == Текуща версия: %s
-
-Filter
-== Филтър
 
 Name plates size
 == Размер на лентата с имената
