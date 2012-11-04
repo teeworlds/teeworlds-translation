@@ -2,7 +2,7 @@
 #originally created by:
 #	chingis
 #modified by:
-#
+#	chingis			2012-10-27 00:50:58
 ##### /authors #####
 
 ##### translated strings #####

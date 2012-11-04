@@ -6,6 +6,7 @@
 #	Alexandre		2011-07-11 11:30:00
 #	GaBOr			2011-07-15 01:23:39
 #	HeroiAmarelo	2012-08-01 15:52:45
+#	Mortcheck		2012-11-03 22:58:43
 ##### /authors #####
 
 ##### translated strings #####
