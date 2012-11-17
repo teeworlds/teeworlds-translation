@@ -44,16 +44,16 @@
 == %s утту!
 
 '%s' called for vote to kick '%s' (%s)
-== '%s' '%s' оюнчуну кууп чыгарууга добуш берди (%s)
+== '%s' '%s' оюнчуну кууп чыгаруу үчүн добуш берди (%s)
 
 '%s' called for vote to move '%s' to spectators (%s)
-== '%s' '%s' оюнчуну байкоочуларга көчүргөнгө добуш берди (%s)
+== '%s' '%s' оюнчуну байкоочуларга көчүрүү үчүн добуш берди (%s)
 
 '%s' called vote to change server option '%s' (%s)
-== '%s' '%s' сервердин опциясын өзгөрткөнгө добуш берди (%s)
+== '%s' '%s' сервер опциясына алмаштыруу үчүн добуш берди (%s)
 
 '%s' entered and joined the %s
-== '%s' кирип %sна кошулду
+== '%s' кирип %s тарабына кошулду
 
 '%s' has left the game
 == '%s' оюндан чыгып кетти
@@ -62,7 +62,7 @@
 == '%s' оюндан чыгып кетти (%s)
 
 '%s' joined the %s
-== '%s' %s командасына кошулду
+== '%s' %s тарабына кошулду
 
 -Page %d-
 == -%d бет-
@@ -83,10 +83,10 @@ Admin forced server option '%s' (%s)
 == Админ '%s' сервер опциясын мажбурлады (%s)
 
 Admin forced vote no
-== Админ мажбурлап жок деп добуш берди
+== Админ мажбурлап «жок» деп добуш берди
 
 Admin forced vote yes
-== Админ мажбурлап ооба деп добуш берди
+== Админ мажбурлап «ооба» деп добуш берди
 
 Admin moved '%s' to spectator (%s)
 == Админ '%s' оюнчуну байкоочуга көчүрдү (%s)
@@ -110,16 +110,16 @@ Are you sure that you want to quit?
 == Оюндан чыгасызбы?
 
 Are you sure that you want to remove the player from your friends list?
-== Ушул оюнчуну достор тизмесинен өчүрүп салууну аныктайсызбы?
+== Оюнчуну достор тизмесинен өчүрүп салууну аныктайсызбы?
 
 As this is the first time you launch the game, please enter your nick name below. It's recommended that you check the settings to adjust them to your liking before joining a server.
-== Бул оюндун биринчи жүргүзүлүшү болгону үчүн, төмөн жакка такма атыңызды киргизип, жана ырастоолорду текшерип коюңуз.
+== Сиз оюнду биринчи жолу жүргүздүңүз, төмөн жакка такма атыңызды киргизиңиз, жана ырастоолорду текшерип коюңуз.
 
 Automatically record demos
-== Автоматтуу түрдө демолорду жазуу
+== Автоматтуу түрдө демолорду жаздыруу
 
 Automatically take game over screenshot
-== Оюндун жыйынтыгын сүрөткө тартуу
+== Оюн бүткөндө автоматуу түрдө экранды тартуу
 
 Back
 == Артка
@@ -128,7 +128,7 @@ Basic
 == Негизги
 
 Blue team
-== Көк командасы
+== Көктөр
 
 Blue team wins!
 == Көктөр утту!
@@ -161,7 +161,7 @@ Close
 == Чыгуу
 
 Compatible version
-== Анык версиясы
+== Батышуучу версия
 
 Connect
 == Туташуу
@@ -182,7 +182,7 @@ Count players only
 == Оюнчуларды гана саноо
 
 Country
-== Өлкөңүздүн желеги
+== Өлкө
 
 Crc
 == Crc
@@ -197,7 +197,7 @@ Custom
 == Башкача
 
 Custom colors
-== Башкача түстөр
+== Тапшырылма түстөр
 
 Customize
 == Ырастоо
@@ -254,10 +254,10 @@ Error
 == Ката
 
 Error loading demo
-== Демонун жүктөө катасы
+== Демону жүктөө катасы
 
 Eyes
-== Көз
+== Көздөр
 
 Favorite
 == Тандалма
@@ -296,7 +296,7 @@ Game
 == Оюн
 
 Game info
-== Оюн тууралуу
+== Оюн жөнүндө
 
 Game over
 == Оюн бүттү
@@ -326,7 +326,7 @@ Hammer
 == Барскан
 
 Hands
-== Кол
+== Колдор
 
 Has people playing
 == Бош эмес сервер
@@ -341,7 +341,7 @@ Hue:
 == Түс:
 
 Invalid Demo
-== Жарабас демо
+== Туура эмес демо
 
 Join blue
 == Көккө
@@ -395,7 +395,7 @@ Maximum ping:
 == Пинг жогорчеги:
 
 Misc
-== Ар башка
+== Кошумча
 
 Mouse sens.
 == Чычкан сез.
@@ -419,7 +419,7 @@ Name
 == Ат
 
 Netversion
-== Версия
+== Накта версиясы
 
 Next weapon
 == Кийинки курал
@@ -479,13 +479,13 @@ Player
 == Оюнчу
 
 Player country:
-== Оюнчунун өлкөсү:
+== Өлкө:
 
 Player options
 == Оюнчунун опциялары
 
 Players
-== Оюнчулар
+== Оюнчу
 
 Please balance teams!
 == Командаларды баланстаңыз!
@@ -500,7 +500,7 @@ Quit
 == Чыгуу
 
 REC %3d:%02d
-== REC %3d:%02d
+== ЖАЗУУ %3d:%02d
 
 Ready
 == Даяр
@@ -512,7 +512,7 @@ Recorded
 == Жазылды
 
 Red team
-== Кызыл командасы
+== Кызылдар
 
 Red team wins!
 == Кызылдар утту!
@@ -542,7 +542,7 @@ Reset
 == Түшүрүү
 
 Reset filter
-== Фильтрды түшүрүү
+== Фильтрди түшүрүү
 
 Resolutions
 == Чечимдер
@@ -566,7 +566,7 @@ Save
 == Сактоо
 
 Save skin
-== Терини сактоо
+== Сактоо
 
 Score
 == Упай
@@ -593,10 +593,10 @@ Server details
 == Сервер жөнүндө
 
 Server does not allow voting to kick players
-== Серверден оюнчуларды кууп чыгарса болбойт
+== Серверден оюнчуларды кууп чыгарууга болбойт
 
 Server does not allow voting to move players to spectators
-== Серверден оюнчуларды байкоочуга көчүрсө болбойт
+== Серверден оюнчуларды байкоочуларга көчүрүүгө болбойт
 
 Server filter
 == Сервер фильтри
@@ -608,7 +608,7 @@ Server not full
 == Сервер толук эмес
 
 Servers
-== Серверлер
+== Сервер
 
 Settings
 == Ырастоолор
@@ -629,7 +629,7 @@ Show name plates
 == Оюнчулардын такма аттарын көрсөтүү
 
 Show only chat messages from friends
-== Достордон гана чат билдирмелерди көрсөтүү
+== Достордун гана чат билдирмелерин көрсөтүү
 
 Show only supported
 == Колдолгон чечимдерди гана көрсөтүү
@@ -680,13 +680,13 @@ Stop record
 == Токтотуу
 
 Strict gametype filter
-== Оюн түрүнүн так фильтри
+== Так оюн түр фильтри
 
 Sudden Death
-== Тез өлүм
+== Тез өлүү
 
 Switch weapon on pickup
-== Көтөрүлгөн куралга которуу
+== Терилген куралга автоматтуу түрдө которуу
 
 Tattoos
 == Татулар
@@ -728,7 +728,7 @@ The audio device couldn't be initialised.
 == Аудио орнотмону инициализациялап алуу оңунан чыккан жок.
 
 The server is running a non-standard tuning on a pure game type.
-== Бул сервер стандартту эмес ырастоолор менен таза оюн түрүндө иштеп жатат.
+== Бул сервер стандарттуу эмес ырастоолор менен таза оюн түрүндө иштеп жатат.
 
 There's an unsaved map in the editor, you might want to save it before you quit the game.
 == Редактордо сакталбаган карта бар, аны оюндан чыгаар алдында сактасаңыз болот.
@@ -812,7 +812,7 @@ Yes
 == Ооба
 
 You must restart the game for all settings to take effect.
-== Өзгөртүүлөрдү колдонуу үчүн, оюнду кайтадан жүргүзүш керек.
+== Өзгөртүүлөр күчкө кириш үчүн, оюнду кайтадан жүргүзүш керек.
 
 You must wait %d seconds before making another vote
 == Башка добушту башташ үчүн, сиз %d секунда күтүшүңүз керек
@@ -821,7 +821,7 @@ blue
 == көк
 
 blue team
-== көк командасы
+== көктөр
 
 game
 == оюн
@@ -830,7 +830,7 @@ red
 == кызыл
 
 red team
-== кызыл командасы
+== кызылдар
 
 spectators
 == байкоочулар
@@ -841,52 +841,52 @@ wait for more players
 ##### needs translation #####
 
 %.3f KiB
-== 
+== %.3f КиБ
 
 Are you sure you want to rename the demo?
-== 
+== Демонун атын өзгөртөсүзбү?
 
 Are you sure you want to save your skin? If a skin with this name already exists, it will be replaced.
-== 
+== Бул файл аты бош эмес, эгер сактоону улантсаңыз эски териңиз жаңы тери менен алмаштырылат.
 
 Color
-== 
+== Түс
 
 Global
-== 
+== Жалпы
 
 Host address:
-== 
+== Хост дареги:
 
 Join
-== 
+== Кошулуу
 
 Joined
-== 
+== Кошулдуңуз
 
 Joined blue
-== 
+== Көккө кошулдуңуз
 
 Joined red
-== 
+== Кызылга кошулдуңуз
 
 Local
-== 
+== Жердик
 
 Nickname is empty.
-== 
+== Такма ат бош.
 
 Record
-== 
+== Жазуу
 
 Search:
-== 
+== Издөө:
 
 Spectating
-== 
+== Байкоо
 
 Tattoo
-== 
+== Тату
 
 ##### old translations #####
 
@@ -924,7 +924,7 @@ LAN
 == LAN
 
 Sound volume
-== Үндүн катуулугу
+== Үн катуулугу
 
 Created:
 == Жаратылды:
@@ -990,7 +990,7 @@ Quick search:
 == Тез издөө:
 
 Are you sure you want to save your skin ? If a skin with this name already exists, it will be replaced.
-== Бул ат бош эмес, эгер сактасаңыз эски териңиз жаңы тери менен алмаштырылып калат.
+== Сиз бул терини сактайсызбы? Эгер теринин аты бош эмес болуп калса, анда эски тери жаңы менен алмаштырылат.
 
 UI Color
 == Интерфейс түсү
