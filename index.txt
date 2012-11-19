@@ -53,6 +53,14 @@ italian
 == Italiano
 == 380
 
+Japanese
+== 日本語
+== 392
+
+korean
+== 한국어
+== 410
+
 kyrgyz
 == Кыргызча
 == 417
