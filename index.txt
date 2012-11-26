@@ -21,6 +21,10 @@ czech
 == Česky
 == 203
 
+chuvash
+== Чăвашла
+== 643
+
 danish
 == Dansk
 == 208
