@@ -907,9 +907,6 @@ Internet
 Max demos
 == Maksimalan broj demo-a
 
-Quit anyway?
-== Izlaz?
-
 News
 == Novosti
 
@@ -922,23 +919,14 @@ FSAA samples
 %d of %d servers, %d players
 == %d od %d server(a), %d igrač(a)
 
-LAN
-== LAN
-
 Sound volume
 == Jačina zvuka
 
 Created:
 == Kreirano:
 
-%d Bytes
-== %d Bajtova
-
 Max Screenshots
 == Maksimalan broj screenshot-ova
-
-Record demo
-== Snimi demo
 
 Length:
 == Dužina:
@@ -958,11 +946,20 @@ Netversion:
 Map:
 == Mapa:
 
+%d Bytes
+== %d Bajtova
+
+Coloration
+== 
+
 Info
 == Info
 
 Hue
 == Nijansa
+
+Record demo
+== Snimi demo
 
 Your skin
 == Vaš izgled
@@ -970,11 +967,11 @@ Your skin
 Size:
 == Veličina:
 
-Coloration
-== 
-
 Reset to defaults
 == Resetuj podešavanja
+
+Quit anyway?
+== Izlaz?
 
 Display Modes
 == Rezolucija i način prikaza
@@ -988,11 +985,11 @@ Round
 Lht.
 == Svetl.
 
+no limit
+== bez ograničenja
+
 Quick search:
 == Brza pretraga:
-
-Are you sure you want to save your skin ? If a skin with this name already exists, it will be replaced.
-== 
 
 UI Color
 == Boja menija
@@ -1006,11 +1003,14 @@ Crc:
 Alpha
 == Provid.
 
-no limit
-== bez ograničenja
+Are you sure you want to save your skin ? If a skin with this name already exists, it will be replaced.
+== 
 
 Current version: %s
 == Trenutna verzija: %s
+
+LAN
+== LAN
 
 Name plates size
 == Veličina pločice za ime

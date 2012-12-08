@@ -896,13 +896,16 @@ New name:
 Sat.
 == Контраст.
 
-Miscellaneous
-== Додатково
+Max demos
+== 
 
 Internet
 == Інтернет
 
-Max demos
+News
+== Новини
+
+Are you sure you want to save your skin ? If a skin with this name already exists, it will be replaced.
 == 
 
 Rifle
@@ -914,31 +917,22 @@ Join game
 %d of %d servers, %d players
 == %d/%d серверів, %d гравців
 
-LAN
-== LAN
-
 Sound volume
 == Гучність звуку
 
-News
-== Новини
-
-Your skin
-== Ваш скін
-
-%d Bytes
+Created:
 == 
 
 Max Screenshots
 == 
 
-Record demo
-== Запис демо
-
 Length:
 == 
 
 Skin name
+== 
+
+Coloration
 == 
 
 Patterns
@@ -953,6 +947,12 @@ Map:
 FSAA samples
 == Семплів FSAA
 
+Your skin
+== Ваш скін
+
+%d Bytes
+== 
+
 Info
 == Інфо
 
@@ -962,8 +962,8 @@ Version:
 Hue
 == Відтінок
 
-Coloration
-== 
+Miscellaneous
+== Додатково
 
 Reset to defaults
 == Скинути налаштування
@@ -980,11 +980,11 @@ Round
 Lht.
 == Яскравість
 
+no limit
+== 
+
 Quick search:
 == Швидкий пошук:
-
-Are you sure you want to save your skin ? If a skin with this name already exists, it will be replaced.
-== 
 
 Size:
 == 
@@ -998,17 +998,17 @@ Host address
 Crc:
 == 
 
-Created:
-== 
-
 Alpha
 == Прозор..
 
-no limit
-== 
-
 Current version: %s
 == Поточна версія: %s
+
+LAN
+== LAN
+
+Record demo
+== Запис демо
 
 Name plates size
 == 

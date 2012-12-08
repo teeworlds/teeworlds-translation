@@ -890,47 +890,38 @@ Tattoo
 
 ##### old translations #####
 
-New name:
-== Жаңы ат:
-
-Sat.
-== Кан.
-
-Miscellaneous
-== Кошумча
-
 Internet
 == Интернет
 
 Max demos
 == Демолордун жогорчеги
 
-Quit anyway?
-== Баар деле чыгасызбы?
+Are you sure you want to save your skin ? If a skin with this name already exists, it will be replaced.
+== Бул ат бош эмес, эгер сактасаңыз эски териңиз жаңы тери менен алмаштырылып калат.
 
 News
 == Жаңылыктар
 
+Sat.
+== Кан.
+
 Join game
 == Ойноо
 
-FSAA samples
-== FSAA сэмплдери
+Patterns
+== Шаблондор
+
+New name:
+== Жаңы ат:
 
 %d of %d servers, %d players
 == %d/%d сервер, %d оюнчу
-
-LAN
-== LAN
 
 Sound volume
 == Үндүн катуулугу
 
 Created:
 == Жаратылды:
-
-%d Bytes
-== %d байт
 
 Max Screenshots
 == Экран сүрөттөрүнүн жогорчеги
@@ -947,20 +938,29 @@ Skin name
 Rifle
 == Лазер
 
-Patterns
-== Шаблондор
-
 Netversion:
 == Версия:
 
 Map:
 == Карта:
 
+FSAA samples
+== FSAA сэмплдери
+
+%d Bytes
+== %d байт
+
+Coloration
+== Түс
+
 Info
 == Маалымат
 
-Hue
-== Түс
+Miscellaneous
+== Кошумча
+
+Lht.
+== Ачык түс.
 
 Your skin
 == Сиздин териңиз
@@ -968,11 +968,11 @@ Your skin
 Size:
 == Өлчөм:
 
-Coloration
-== Түс
-
 Reset to defaults
 == Ырастоолорду түшүрүү
+
+Quit anyway?
+== Баар деле чыгасызбы?
 
 Display Modes
 == Экран чечими
@@ -983,14 +983,11 @@ Version:
 Round
 == Раунд
 
-Lht.
-== Ачык түс.
+no limit
+== лимитсиз
 
 Quick search:
 == Тез издөө:
-
-Are you sure you want to save your skin ? If a skin with this name already exists, it will be replaced.
-== Бул ат бош эмес, эгер сактасаңыз эски териңиз жаңы тери менен алмаштырылып калат.
 
 UI Color
 == Интерфейс түсү
@@ -998,17 +995,20 @@ UI Color
 Host address
 == Сервер дареги
 
+Hue
+== Түс
+
 Crc:
 == Crc:
 
 Alpha
 == Альфа
 
-no limit
-== лимитсиз
-
 Current version: %s
 == Кезектеги версия: %s
+
+LAN
+== LAN
 
 Name plates size
 == Өлчөм

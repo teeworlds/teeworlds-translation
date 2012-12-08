@@ -57,7 +57,7 @@ italian
 == Italiano
 == 380
 
-Japanese
+japanese
 == 日本語
 == 392
 

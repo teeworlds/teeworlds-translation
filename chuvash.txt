@@ -1,10 +1,11 @@
+##### authors #####
+#originally created by:
+#	Watz
+#modified by:
+#
+##### /authors #####
+
 ##### translated strings #####
-
-%d Bytes
-== %d байт
-
-%d of %d servers, %d players
-== %d серв. %d тупнă, %d çын
 
 %d%% loaded
 == %d%% тиенĕ
@@ -44,9 +45,6 @@ Address
 
 All
 == Пурте
-
-Alpha
-== Тăрă
 
 Always show name plates
 == Вылякансен ятсене кăтартма
@@ -103,7 +101,7 @@ Connect
 == Çых
 
 Connecting to
-== Çыхăну 
+== Çыхăну
 
 Connection Problems...
 == Çыхăну проблемасем
@@ -120,17 +118,8 @@ Count players only
 Country
 == Çĕрĕн ялавĕ
 
-Crc:
-== Crc:
-
-Created:
-== Хайланă:
-
 Current
 == Хальхи
-
-Current version: %s
-== Хальхи версие: %s
 
 Custom colors
 == Усă кураканăн тĕсĕсем
@@ -139,7 +128,7 @@ Delete
 == Шăлса тасатма
 
 Delete demo
-== Демо шăлса тасатма 
+== Демо шăлса тасатма
 
 Demo details
 == Демо тĕплĕсем
@@ -155,9 +144,6 @@ Disconnect
 
 Disconnected
 == Çыхăну чарăнчĕ
-
-Display Modes
-== Экран режимсем
 
 Downloading map
 == Карта илӳ
@@ -179,9 +165,6 @@ Error
 
 Error loading demo
 == Демо илĕвĕн йăнăш
-
-FSAA samples
-== FSAA якату
 
 Favorite
 == Суйланни
@@ -249,26 +232,11 @@ High Detail
 Hook
 == Çекĕл
 
-Host address
-== Сервер адресĕ
-
-Hue
-== Тĕс сĕмĕ
-
-Info
-== Пĕлтерӳ
-
-Internet
-== Интернет
-
 Invalid Demo
 == Тĕрĕс мар демо
 
 Join blue
 == Кăваксемпе!
-
-Join game
-== Выляма
 
 Join red
 == Хĕрлĕсемпе!
@@ -279,17 +247,8 @@ Jump
 Kick player
 == Вылякана бан
 
-LAN
-== LAN
-
 Language
 == Чĕлхе
-
-Length:
-== Вăрăмăш
-
-Lht.
-== Çутăллăх
 
 Loading
 == Кĕт, тархасшăн
@@ -300,20 +259,8 @@ MOTD
 Map
 == Карта
 
-Map:
-== Карта:
-
-Max Screenshots
-== Ӳкерчĕксен чи пысăк хисепĕ
-
-Max demos
-== Чи пысăк демо хисепĕ
-
 Maximum ping:
 == Чи пысăк пинг:
-
-Miscellaneous
-== Хушнисем
 
 Mouse sens.
 == Шăшин туйăмлăх
@@ -335,18 +282,6 @@ Mute when not active
 
 Name
 == Ят
-
-Name plates size
-== Пысăкăш
-
-Netversion:
-== Версия:
-
-New name:
-== Çĕн ят
-
-News
-== Хыпарсем
 
 Next weapon
 == Тепĕр хĕç-пăшал
@@ -391,7 +326,7 @@ Play
 == Пăхма
 
 Play background music
-== Кĕвви 
+== Кĕвви
 
 Player
 == Вылякан
@@ -414,23 +349,14 @@ Prev. weapon
 Quality Textures
 == Лайăх текстурасем
 
-Quick search:
-== Хăвăрт шырав:
-
 Quit
 == Туху
-
-Quit anyway?
-== Туху?
 
 REC %3d:%02d
 == REC %3d:%02d
 
 Reason:
 == Сăлтав:
-
-Record demo
-== Демо çыр
 
 Red team
 == Хĕрлĕ ушкăн
@@ -462,20 +388,8 @@ Rename demo
 Reset filter
 == Фильтрсене тасат
 
-Reset to defaults
-== Йĕркелӳ тасат
-
-Rifle
-== Бластер
-
-Round
-== Раунд
-
 Sample rate
 == Тăтăшлăх
-
-Sat.
-== Контраст
 
 Score
 == Паллă
@@ -528,9 +442,6 @@ Show name plates
 Show only supported
 == Ĕçлекен экран режимĕсем анчах
 
-Size:
-== Пыçăкăш:
-
 Skins
 == Сăнсем
 
@@ -539,9 +450,6 @@ Sound
 
 Sound error
 == Сасă йăнăш
-
-Sound volume
-== Сасă янравлăш
 
 Spectate
 == Пăхма
@@ -582,9 +490,6 @@ Team
 Team chat
 == Ушкăнри калаçу
 
-Teeworlds %s is out! Download it at [url=http://www.teeworlds.com]www.teeworlds.com[/url]!
-== Тухрĕ Teeworlds %s! Кунта: [url=http://www.teeworlds.com]www.teeworlds.com[/url]!
-
 Texture Compression
 == Текстур хĕсӳ
 
@@ -609,12 +514,6 @@ Try again
 Type
 == Тĕс
 
-Type:
-== Тĕс:
-
-UI Color
-== Интерфейс тĕсĕ
-
 Unable to delete the demo
 == Демо тĕплеме пултараймасть
 
@@ -633,14 +532,14 @@ V-Sync
 Version
 == Версие
 
-Version:
-== Версие:
-
 Vote command:
 == Суйлав хушу:
 
 Vote description:
 == Суйлав пирки:
+
+Vote failed
+== Суйлу ватнă
 
 Vote no
 == Хирĕç
@@ -666,15 +565,445 @@ Yes
 You must restart the game for all settings to take effect.
 == Режим улăштарма валли вăйă сӳнтер тата каллер яр
 
+##### needs translation #####
+
+%.3f KiB
+== 
+
+%d player left
+== 
+
+%d player not ready
+== 
+
+%d players left
+== 
+
+%d players not ready
+== 
+
+%d servers, %d players
+== 
+
+'%s' called for vote to kick '%s' (%s)
+== 
+
+'%s' called for vote to move '%s' to spectators (%s)
+== 
+
+'%s' called vote to change server option '%s' (%s)
+== 
+
+'%s' entered and joined the %s
+== 
+
+'%s' has left the game
+== 
+
+'%s' has left the game (%s)
+== 
+
+'%s' joined the %s
+== 
+
+Admin forced server option '%s' (%s)
+== 
+
+Admin forced vote no
+== 
+
+Admin forced vote yes
+== 
+
+Admin moved '%s' to spectator (%s)
+== 
+
+Alp:
+== 
+
+Anti Aliasing
+== 
+
+Are you sure you want to rename the demo?
+== 
+
+Are you sure you want to save your skin? If a skin with this name already exists, it will be replaced.
+== 
+
+Back
+== 
+
+Basic
+== 
+
+Bodies
+== 
+
+Borderless window
+== 
+
+Color
+== 
+
+Crc
+== 
+
+Created
+== 
+
+Custom
+== 
+
+Customize
+== 
+
+Decoration
+== 
+
+Demo
+== 
+
+Detail
+== 
+
+Editor
+== 
+
+Eyes
+== 
+
+Format
+== 
+
+Game paused
+== 
+
+Game starts in
+== 
+
+Global
+== 
+
+Hands
+== 
+
+Host address:
+== 
+
+Hue:
+== 
+
+Join
+== 
+
+Joined
+== 
+
+Joined blue
+== 
+
+Joined red
+== 
+
+Kick voting requires %d players on the server
+== 
+
+Laser
+== 
+
+Length
+== 
+
+Letterbox
+== 
+
+Lgt:
+== 
+
+Local
+== 
+
+Local server
+== 
+
+Match
+== 
+
+Max
+== 
+
+Misc
+== 
+
+Netversion
+== 
+
+Nickname is empty.
+== 
+
+Normal:
+== 
+
+Only %d active players are allowed
+== 
+
+Personal
+== 
+
+Ready
+== 
+
+Record
+== 
+
+Recorded
+== 
+
+Reset
+== 
+
+Resolutions
+== 
+
+Respawn
+== 
+
+Round over
+== 
+
+Round over!
+== 
+
+Sat:
+== 
+
+Save
+== 
+
+Save skin
+== 
+
+Screen
+== 
+
+Search:
+== 
+
+Server does not allow voting to kick players
+== 
+
+Server does not allow voting to move players to spectators
+== 
+
+Servers
+== 
+
+Show only chat messages from friends
+== 
+
+Size
+== 
+
+Skin
+== 
+
+Spectating
+== 
+
+Spectators aren't allowed to start a vote.
+== 
+
+Standard Gametype
+== 
+
+Tattoo
+== 
+
+Tattoos
+== 
+
+Team:
+== 
+
+Teams are locked
+== 
+
+Teams are locked. Time to wait before changing team: %02d:%02d
+== 
+
+Teams were locked
+== 
+
+Teams were unlocked
+== 
+
+Tee
+== 
+
+Teeworlds %s is out! Download it at www.teeworlds.com!
+== 
+
+Texture
+== 
+
+Volume
+== 
+
+Vote aborted
+== 
+
+Vote passed
+== 
+
+Wait for current vote to end before calling a new one.
+== 
+
+Wait for next round
+== 
+
+Wide
+== 
+
+You must wait %d seconds before making another vote
+== 
+
+blue
+== 
+
+blue team
+== 
+
+game
+== 
+
+red
+== 
+
+red team
+== 
+
+spectators
+== 
+
+wait for more players
+== 
+
+##### old translations #####
+
+New name:
+== Çĕн ят
+
+Max demos
+== Чи пысăк демо хисепĕ
+
+Internet
+== Интернет
+
+Round
+== Раунд
+
+Quit anyway?
+== Туху?
+
+News
+== Хыпарсем
+
+Join game
+== Выляма
+
+Crc:
+== Crc:
+
+FSAA samples
+== FSAA якату
+
+Sat.
+== Контраст
+
+LAN
+== LAN
+
+Sound volume
+== Сасă янравлăш
+
+Created:
+== Хайланă:
+
+%d Bytes
+== %d байт
+
+Record demo
+== Демо çыр
+
+%d of %d servers, %d players
+== %d серв. %d тупнă, %d çын
+
+Miscellaneous
+== Хушнисем
+
+Netversion:
+== Версия:
+
+Info
+== Пĕлтерӳ
+
+UI Color
+== Интерфейс тĕсĕ
+
+Max Screenshots
+== Ӳкерчĕксен чи пысăк хисепĕ
+
+Size:
+== Пыçăкăш:
+
+Hue
+== Тĕс сĕмĕ
+
 Your skin
 == Санăн сăн
+
+Reset to defaults
+== Йĕркелӳ тасат
+
+Rifle
+== Бластер
+
+Display Modes
+== Экран режимсем
+
+Version:
+== Версие:
+
+Map:
+== Карта:
+
+Lht.
+== Çутăллăх
+
+Quick search:
+== Хăвăрт шырав:
+
+Teeworlds %s is out! Download it at [url=http://www.teeworlds.com]www.teeworlds.com[/url]!
+== Тухрĕ Teeworlds %s! Кунта: [url=http://www.teeworlds.com]www.teeworlds.com[/url]!
+
+Host address
+== Сервер адресĕ
+
+Alpha
+== Тăрă
+
+Length:
+== Вăрăмăш
 
 no limit
 == Лимитсăр
 
-Vote failed
-== Суйлу ватнă
+Current version: %s
+== Хальхи версие: %s
 
-##### needs translation #####
+Name plates size
+== Пысăкăш
 
-##### old translations #####
+Type:
+== Тĕс:
+

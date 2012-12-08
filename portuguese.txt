@@ -892,47 +892,38 @@ Tattoo
 
 ##### old translations #####
 
-New name:
-== Novo nome:
-
-Sat.
-== Sat.
-
-Miscellaneous
-== Diversos
-
 Internet
 == Internet
 
 Max demos
 == Demos maximas
 
-Quit anyway?
-== Sair na mesma?
+Are you sure you want to save your skin ? If a skin with this name already exists, it will be replaced.
+== Tens a serteza que queres guardar a skin? Se já existir uma como o meu nome, ela será substituida.
 
 News
 == Notícias
 
+Sat.
+== Sat.
+
 Join game
 == Entrar no jogo
 
-FSAA samples
-== Amostras FSAA
+Patterns
+== Patterns
+
+New name:
+== Novo nome:
 
 %d of %d servers, %d players
 == %d de %d servidores, %d jogadores
-
-LAN
-== LAN
 
 Sound volume
 == Volume
 
 Created:
 == Criado:
-
-%d Bytes
-== %d Bytes
 
 Max Screenshots
 == Máx. de Capturas de Tela
@@ -949,20 +940,29 @@ Skin name
 Rifle
 == Laser
 
-Patterns
-== Patterns
-
 Netversion:
 == Netversion
 
 Map:
 == Mapa:
 
+FSAA samples
+== Amostras FSAA
+
+%d Bytes
+== %d Bytes
+
+Coloration
+== Coloração
+
 Info
 == Info.
 
-Hue
-== Matiz
+Miscellaneous
+== Diversos
+
+Lht.
+== Luz
 
 Your skin
 == A tua skin
@@ -970,11 +970,11 @@ Your skin
 Size:
 == Tamanho:
 
-Coloration
-== Coloração
-
 Reset to defaults
 == Pôr como defeito
+
+Quit anyway?
+== Sair na mesma?
 
 Display Modes
 == Modos de exibição
@@ -985,14 +985,11 @@ Version:
 Round
 == Ronda
 
-Lht.
-== Luz
+no limit
+== sem limite
 
 Quick search:
 == Busca rápida:
-
-Are you sure you want to save your skin ? If a skin with this name already exists, it will be replaced.
-== Tens a serteza que queres guardar a skin? Se já existir uma como o meu nome, ela será substituida.
 
 UI Color
 == Cor do menu
@@ -1000,17 +997,20 @@ UI Color
 Host address
 == Endereço do Host
 
+Hue
+== Matiz
+
 Crc:
 == Crc:
 
 Alpha
 == Alpha
 
-no limit
-== sem limite
-
 Current version: %s
 == Versão atual : %s
+
+LAN
+== LAN
 
 Name plates size
 == Caracteres maximos nos nicks

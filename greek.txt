@@ -905,9 +905,6 @@ Internet
 Max demos
 == Μέγιστος αριθμός επιδείξεων
 
-Quit anyway?
-== Έξοδος οπωσδήποτε;
-
 News
 == Νέα
 
@@ -920,23 +917,14 @@ FSAA samples
 %d of %d servers, %d players
 == %d από %d διακ/στές, %d παίκτες
 
-LAN
-== Τοπικά
-
 Sound volume
 == Ένταση ήχου
 
 Created:
 == Δημιουργήθηκε:
 
-%d Bytes
-== %d Bytes
-
 Max Screenshots
 == Μέγιστος αριθμός στιγμιότυπων
-
-Record demo
-== Εγγ. επίδειξης
 
 Length:
 == Διάρκεια:
@@ -956,11 +944,20 @@ Netversion:
 Map:
 == Χάρτης:
 
+%d Bytes
+== %d Bytes
+
+Coloration
+== 
+
 Info
 == Πληροφορίες
 
 Hue
 == Απόχρωση
+
+Record demo
+== Εγγ. επίδειξης
 
 Your skin
 == Η στολή σας
@@ -968,11 +965,11 @@ Your skin
 Size:
 == Μέγεθος:
 
-Coloration
-== 
-
 Reset to defaults
 == Επαναφορά προεπιλογών
+
+Quit anyway?
+== Έξοδος οπωσδήποτε;
 
 Display Modes
 == Ανάλυσεις Οθόνης
@@ -986,11 +983,11 @@ Round
 Lht.
 == Φωτεινότ.
 
+no limit
+== χωρίς όριο
+
 Quick search:
 == Γρήγορη αναζήτηση:
-
-Are you sure you want to save your skin ? If a skin with this name already exists, it will be replaced.
-== 
 
 UI Color
 == Χρώμα Μενού
@@ -1004,11 +1001,14 @@ Crc:
 Alpha
 == Άλφα
 
-no limit
-== χωρίς όριο
+Are you sure you want to save your skin ? If a skin with this name already exists, it will be replaced.
+== 
 
 Current version: %s
 == Τρέχουσα έκδοση: %s
+
+LAN
+== Τοπικά
 
 Name plates size
 == Μήκος ψευδωνύμου

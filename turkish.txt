@@ -908,9 +908,6 @@ Internet
 Max demos
 == Maksimum Demo Sayısı
 
-Quit anyway?
-== Çıkmak istediğinize emin misiniz?
-
 News
 == Haberler
 
@@ -923,23 +920,14 @@ FSAA samples
 %d of %d servers, %d players
 == %d/%d sunucu, %d oyuncu
 
-LAN
-== LAN
-
 Sound volume
 == Ses yüksekliği
 
 Created:
 == Yaratıldı:
 
-%d Bytes
-== %d Bayt
-
 Max Screenshots
 == Maksimum Ekran Alıntısı Sayısı
-
-Record demo
-== Demo kaydet
 
 Length:
 == Uzunluk:
@@ -959,11 +947,20 @@ Netversion:
 Map:
 == Harita:
 
+%d Bytes
+== %d Bayt
+
+Coloration
+== 
+
 Info
 == Bilgi
 
 Hue
 == Renk
+
+Record demo
+== Demo kaydet
 
 Your skin
 == Sizin görünüşünüz
@@ -971,14 +968,14 @@ Your skin
 Size:
 == Boyut:
 
-Coloration
-== 
-
 ﻿
 == ## translated strings #####
 
 Reset to defaults
 == Varsayılanlara getir
+
+Quit anyway?
+== Çıkmak istediğinize emin misiniz?
 
 Display Modes
 == Çözünürlük
@@ -992,11 +989,11 @@ Round
 Lht.
 == Parlaklık
 
+no limit
+== limit yok
+
 Quick search:
 == Hızlı Arama :
-
-Are you sure you want to save your skin ? If a skin with this name already exists, it will be replaced.
-== 
 
 UI Color
 == Menü rengi
@@ -1010,11 +1007,14 @@ Crc:
 Alpha
 == Şeffaflık
 
-no limit
-== limit yok
+Are you sure you want to save your skin ? If a skin with this name already exists, it will be replaced.
+== 
 
 Current version: %s
 == Mevcut versiyon: %s
+
+LAN
+== LAN
 
 Name plates size
 == Boyut

@@ -905,9 +905,6 @@ Internet
 Max demos
 == Maximum nahrávok
 
-Quit anyway?
-== Aj tak ukončiť?
-
 News
 == Novinky
 
@@ -920,23 +917,14 @@ FSAA samples
 %d of %d servers, %d players
 == %d z %d serverov, %d hráčov online
 
-LAN
-== LAN
-
 Sound volume
 == Hlasitosť
 
 Created:
 == Vytvorené:
 
-%d Bytes
-== %d Bajtov
-
 Max Screenshots
 == Maximum obrázkov
-
-Record demo
-== Nahrávať
 
 Length:
 == Dĺžka:
@@ -956,11 +944,20 @@ Netversion:
 Map:
 == Mapa:
 
+%d Bytes
+== %d Bajtov
+
+Coloration
+== 
+
 Info
 == Info
 
 Hue
 == Hue
+
+Record demo
+== Nahrávať
 
 Your skin
 == Váš skin
@@ -968,11 +965,11 @@ Your skin
 Size:
 == Veľkosť:
 
-Coloration
-== 
-
 Reset to defaults
 == Vrátiť na pôvodné
+
+Quit anyway?
+== Aj tak ukončiť?
 
 Display Modes
 == Možnosti zobrazenia
@@ -986,11 +983,11 @@ Round
 Lht.
 == Lht.
 
+no limit
+== bez limitu
+
 Quick search:
 == Hľadanie:
-
-Are you sure you want to save your skin ? If a skin with this name already exists, it will be replaced.
-== 
 
 UI Color
 == Farba prostredia
@@ -1004,11 +1001,14 @@ Crc:
 Alpha
 == Alpha
 
-no limit
-== bez limitu
+Are you sure you want to save your skin ? If a skin with this name already exists, it will be replaced.
+== 
 
 Current version: %s
 == Aktuálna verzia: %s
+
+LAN
+== LAN
 
 Name plates size
 == Veľkosť menoviek

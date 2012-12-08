@@ -911,9 +911,6 @@ Internet
 Max demos
 == Număr maxim de demo-uri
 
-Quit anyway?
-== Ieși oricum?
-
 News
 == Știri
 
@@ -926,23 +923,14 @@ FSAA samples
 %d of %d servers, %d players
 == %d/%d servere, %d jucători
 
-LAN
-== Rețea
-
 Sound volume
 == Volum sunet
 
 Created:
 == Creată la data:
 
-%d Bytes
-== %d octeți
-
 Max Screenshots
 == Număr maxim de capturi de ecran
-
-Record demo
-== Înreg. demo
 
 Length:
 == Durată:
@@ -962,11 +950,20 @@ Netversion:
 Map:
 == Harta:
 
+%d Bytes
+== %d octeți
+
+Coloration
+== 
+
 Info
 == Informații
 
 Hue
 == Tentă
+
+Record demo
+== Înreg. demo
 
 Your skin
 == Costumul tău
@@ -974,11 +971,11 @@ Your skin
 Size:
 == Dimensiunea:
 
-Coloration
-== 
-
 Reset to defaults
 == Setări implicite
+
+Quit anyway?
+== Ieși oricum?
 
 Display Modes
 == Moduri de afișare
@@ -992,11 +989,11 @@ Round
 Lht.
 == Luminozitate
 
+no limit
+== fără limită
+
 Quick search:
 == Căutare rapidă:
-
-Are you sure you want to save your skin ? If a skin with this name already exists, it will be replaced.
-== 
 
 UI Color
 == Culoare meniu
@@ -1010,11 +1007,14 @@ Crc:
 Alpha
 == Alfa
 
-no limit
-== fără limită
+Are you sure you want to save your skin ? If a skin with this name already exists, it will be replaced.
+== 
 
 Current version: %s
 == Versiunea actuală: %s
+
+LAN
+== Rețea
 
 Name plates size
 == Dimensiune nume placă

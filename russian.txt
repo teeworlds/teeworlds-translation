@@ -910,9 +910,6 @@ Internet
 Max demos
 == Максимальное количество демо
 
-Quit anyway?
-== Выйти?
-
 News
 == Новости
 
@@ -925,23 +922,14 @@ FSAA samples
 %d of %d servers, %d players
 == %d из %d серверов, %d игроков
 
-LAN
-== LAN
-
 Sound volume
 == Громкость звука
 
 Created:
 == Создан:
 
-%d Bytes
-== %d байт
-
 Max Screenshots
 == Максимальное количество снимков
-
-Record demo
-== Записать демо
 
 Length:
 == Длина
@@ -961,11 +949,20 @@ Netversion:
 Map:
 == Карта:
 
+%d Bytes
+== %d байт
+
+Coloration
+== 
+
 Info
 == Инфо
 
 Hue
 == Оттенок
+
+Record demo
+== Записать демо
 
 Your skin
 == Ваш скин
@@ -973,11 +970,11 @@ Your skin
 Size:
 == Размер:
 
-Coloration
-== 
-
 Reset to defaults
 == Сбросить настройки
+
+Quit anyway?
+== Выйти?
 
 Display Modes
 == Разрешение экрана
@@ -991,11 +988,11 @@ Round
 Lht.
 == Яркость
 
+no limit
+== Без лимита
+
 Quick search:
 == Быстрый поиск:
-
-Are you sure you want to save your skin ? If a skin with this name already exists, it will be replaced.
-== 
 
 UI Color
 == Цвет интерфейса
@@ -1009,11 +1006,14 @@ Crc:
 Alpha
 == Прозрачн.
 
-no limit
-== Без лимита
+Are you sure you want to save your skin ? If a skin with this name already exists, it will be replaced.
+== 
 
 Current version: %s
 == Текущая версия: %s
+
+LAN
+== LAN
 
 Name plates size
 == Размер

@@ -906,9 +906,6 @@ Internet
 Max demos
 == Demomaksimi
 
-Quit anyway?
-== Lopeta siitä huolimatta?
-
 News
 == Uutiset
 
@@ -921,23 +918,14 @@ FSAA samples
 %d of %d servers, %d players
 == %d/%d palvelinta, %d pelaajaa
 
-LAN
-== LAN
-
 Sound volume
 == Äänenvoimakkuus
 
 Created:
 == Luotu:
 
-%d Bytes
-== %d tavua
-
 Max Screenshots
 == Kuvankaappausmaksimi
-
-Record demo
-== Nauhoita demo
 
 Length:
 == Pituus:
@@ -957,11 +945,20 @@ Netversion:
 Map:
 == Kenttä:
 
+%d Bytes
+== %d tavua
+
+Coloration
+== 
+
 Info
 == Info
 
 Hue
 == Värisävy
+
+Record demo
+== Nauhoita demo
 
 Your skin
 == Sinun ulkonäkösi
@@ -969,11 +966,11 @@ Your skin
 Size:
 == Koko:
 
-Coloration
-== 
-
 Reset to defaults
 == Palaa oletusasetuksiin
+
+Quit anyway?
+== Lopeta siitä huolimatta?
 
 Display Modes
 == Näyttötilat
@@ -987,11 +984,11 @@ Round
 Lht.
 == Valoisuus
 
+no limit
+== ei rajaa
+
 Quick search:
 == Pikahaku:
-
-Are you sure you want to save your skin ? If a skin with this name already exists, it will be replaced.
-== 
 
 UI Color
 == Käyttöliittymäväri
@@ -1005,11 +1002,14 @@ Crc:
 Alpha
 == Alfa
 
-no limit
-== ei rajaa
+Are you sure you want to save your skin ? If a skin with this name already exists, it will be replaced.
+== 
 
 Current version: %s
 == Nykyinen versio: %s
+
+LAN
+== LAN
 
 Name plates size
 == Nimikylttien koko

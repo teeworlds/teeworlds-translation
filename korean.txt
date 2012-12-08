@@ -1,8 +1,11 @@
-%d Bytes
-== %d Bytes
+##### authors #####
+#originally created by:
+#	ksgcln72
+#modified by:
+#
+##### /authors #####
 
-%d of %d servers, %d players
-== %d/%d 서버, %d 플레이어
+##### translated strings #####
 
 %d%% loaded
 == %d%% 로딩...
@@ -42,9 +45,6 @@ Address
 
 All
 == 모두
-
-Alpha
-== 알파
 
 Always show name plates
 == 항상 이름표시
@@ -118,17 +118,8 @@ Count players only
 Country
 == 국가
 
-Crc:
-== Crc:
-
-Created:
-== Created:
-
 Current
 == 현재
-
-Current version: %s
-== 현재 버전: %s
 
 Custom colors
 == 사용자 정의 색상
@@ -151,9 +142,6 @@ Disconnect
 Disconnected
 == 연결 끊김
 
-Display Modes
-== 디스플레이 모드
-
 Downloading map
 == 맵 다운로드 중
 
@@ -174,9 +162,6 @@ Error
 
 Error loading demo
 == 데모 로딩 에러
-
-FSAA samples
-== FSAA 샘플
 
 Favorite
 == 즐겨찾기
@@ -244,26 +229,11 @@ High Detail
 Hook
 == 갈고리
 
-Host address
-== 호스트 주소
-
-Hue
-== 색조
-
-Info
-== 정보
-
-Internet
-== 인터넷
-
 Invalid Demo
 == 잘못된 데모
 
 Join blue
 == 블루팀에 참가
-
-Join game
-== 게임 참가
 
 Join red
 == 레드팀에 참가
@@ -274,17 +244,8 @@ Jump
 Kick player
 == 플레이어 추방
 
-LAN
-== 랜
-
 Language
 == 언어
-
-Length:
-== 길이:
-
-Lht.
-== 명도
 
 Loading
 == 로딩
@@ -295,20 +256,8 @@ MOTD
 Map
 == 맵
 
-Map:
-== 맵:
-
-Max Screenshots
-== 최대 스크린샷
-
-Max demos
-== 최대 데모
-
 Maximum ping:
 == 최대 핑
-
-Miscellaneous
-== 여러가지
 
 Mouse sens.
 == 미우스 감도
@@ -330,18 +279,6 @@ Mute when not active
 
 Name
 == 이름
-
-Name plates size
-== 크기
-
-Netversion:
-== 넷 버전:
-
-New name:
-== 새 이름:
-
-News
-== 뉴스
 
 Next weapon
 == 다음 무기
@@ -403,23 +340,14 @@ Prev. weapon
 Quality Textures
 == 텍스처 품질
 
-Quick search:
-== 빠른 검색:
-
 Quit
 == 종료
-
-Quit anyway?
-== 종료하시겠습니까?
 
 REC %3d:%02d
 == 녹화 %3d:%02d
 
 Reason:
 == 이유:
-
-Record demo
-== 데모 녹화
 
 Red team
 == 레드팀
@@ -451,20 +379,8 @@ Rename demo
 Reset filter
 == 필터 초기화
 
-Reset to defaults
-== 초기화
-
-Rifle
-== 레이저
-
-Round
-== 라운드
-
 Sample rate
 == 샘플링 속도
-
-Sat.
-== 채도
 
 Score
 == 점수
@@ -517,9 +433,6 @@ Show name plates
 Show only supported
 == 지원하는 해상도 표시
 
-Size:
-== 사이즈:
-
 Skins
 == 스킨
 
@@ -528,9 +441,6 @@ Sound
 
 Sound error
 == 소리 오류
-
-Sound volume
-== 소리 크기
 
 Spectate
 == 관전
@@ -592,12 +502,6 @@ Try again
 Type
 == 종류
 
-Type:
-== 종류:
-
-UI Color
-== 메뉴 색깔
-
 Unable to delete the demo
 == 데모를 삭제할 수 없음
 
@@ -615,9 +519,6 @@ V-Sync
 
 Version
 == 버전
-
-Version:
-== 버전:
 
 Vote command:
 == 투표 명령:
@@ -649,8 +550,457 @@ Yes
 You must restart the game for all settings to take effect.
 == 설정을 적용하기 위해선 게임을 다시 시작해야 합니다.
 
+##### needs translation #####
+
+%.3f KiB
+== 
+
+%d player left
+== 
+
+%d player not ready
+== 
+
+%d players left
+== 
+
+%d players not ready
+== 
+
+%d servers, %d players
+== 
+
+'%s' called for vote to kick '%s' (%s)
+== 
+
+'%s' called for vote to move '%s' to spectators (%s)
+== 
+
+'%s' called vote to change server option '%s' (%s)
+== 
+
+'%s' entered and joined the %s
+== 
+
+'%s' has left the game
+== 
+
+'%s' has left the game (%s)
+== 
+
+'%s' joined the %s
+== 
+
+Admin forced server option '%s' (%s)
+== 
+
+Admin forced vote no
+== 
+
+Admin forced vote yes
+== 
+
+Admin moved '%s' to spectator (%s)
+== 
+
+Alp:
+== 
+
+Anti Aliasing
+== 
+
+Are you sure you want to rename the demo?
+== 
+
+Are you sure you want to save your skin? If a skin with this name already exists, it will be replaced.
+== 
+
+Back
+== 
+
+Basic
+== 
+
+Bodies
+== 
+
+Borderless window
+== 
+
+Color
+== 
+
+Crc
+== 
+
+Created
+== 
+
+Custom
+== 
+
+Customize
+== 
+
+Decoration
+== 
+
+Demo
+== 
+
+Demofile: %s
+== 
+
+Detail
+== 
+
+Editor
+== 
+
+Eyes
+== 
+
+Format
+== 
+
+Game paused
+== 
+
+Game starts in
+== 
+
+Global
+== 
+
+Hands
+== 
+
+Host address:
+== 
+
+Hue:
+== 
+
+Join
+== 
+
+Joined
+== 
+
+Joined blue
+== 
+
+Joined red
+== 
+
+Kick voting requires %d players on the server
+== 
+
+Laser
+== 
+
+Length
+== 
+
+Letterbox
+== 
+
+Lgt:
+== 
+
+Local
+== 
+
+Local server
+== 
+
+Match
+== 
+
+Max
+== 
+
+Misc
+== 
+
+Netversion
+== 
+
+Nickname is empty.
+== 
+
+Normal:
+== 
+
+Only %d active players are allowed
+== 
+
+Personal
+== 
+
+Play background music
+== 
+
+Player country:
+== 
+
+Ready
+== 
+
+Record
+== 
+
+Recorded
+== 
+
+Reset
+== 
+
+Resolutions
+== 
+
+Respawn
+== 
+
+Round over
+== 
+
+Round over!
+== 
+
+Sat:
+== 
+
+Save
+== 
+
+Save skin
+== 
+
+Screen
+== 
+
+Search:
+== 
+
+Server does not allow voting to kick players
+== 
+
+Server does not allow voting to move players to spectators
+== 
+
+Servers
+== 
+
+Show only chat messages from friends
+== 
+
+Size
+== 
+
+Skin
+== 
+
+Spectate next
+== 
+
+Spectate previous
+== 
+
+Spectating
+== 
+
+Spectators aren't allowed to start a vote.
+== 
+
+Standard Gametype
+== 
+
+Tattoo
+== 
+
+Tattoos
+== 
+
+Team:
+== 
+
+Teams are locked
+== 
+
+Teams are locked. Time to wait before changing team: %02d:%02d
+== 
+
+Teams were locked
+== 
+
+Teams were unlocked
+== 
+
+Tee
+== 
+
+Texture
+== 
+
+Volume
+== 
+
+Vote aborted
+== 
+
+Vote failed
+== 
+
+Vote passed
+== 
+
+Wait for current vote to end before calling a new one.
+== 
+
+Wait for next round
+== 
+
+Wide
+== 
+
+You must wait %d seconds before making another vote
+== 
+
+blue
+== 
+
+blue team
+== 
+
+game
+== 
+
+red
+== 
+
+red team
+== 
+
+spectators
+== 
+
+wait for more players
+== 
+
+##### old translations #####
+
+New name:
+== 새 이름:
+
+Max demos
+== 최대 데모
+
+Internet
+== 인터넷
+
+Round
+== 라운드
+
+Quit anyway?
+== 종료하시겠습니까?
+
+News
+== 뉴스
+
+Join game
+== 게임 참가
+
+Crc:
+== Crc:
+
+FSAA samples
+== FSAA 샘플
+
+Sat.
+== 채도
+
+LAN
+== 랜
+
+Sound volume
+== 소리 크기
+
+Created:
+== Created:
+
+%d Bytes
+== %d Bytes
+
+Record demo
+== 데모 녹화
+
+%d of %d servers, %d players
+== %d/%d 서버, %d 플레이어
+
+Miscellaneous
+== 여러가지
+
+Netversion:
+== 넷 버전:
+
+Info
+== 정보
+
+UI Color
+== 메뉴 색깔
+
 Your skin
 == 당신의 스킨
 
+Max Screenshots
+== 최대 스크린샷
+
+Size:
+== 사이즈:
+
+Hue
+== 색조
+
+Reset to defaults
+== 초기화
+
+Rifle
+== 레이저
+
+Display Modes
+== 디스플레이 모드
+
+Version:
+== 버전:
+
+Map:
+== 맵:
+
+Lht.
+== 명도
+
+Quick search:
+== 빠른 검색:
+
+Host address
+== 호스트 주소
+
+Alpha
+== 알파
+
+Length:
+== 길이:
+
 no limit
 == 제한 없음
+
+Current version: %s
+== 현재 버전: %s
+
+Name plates size
+== 크기
+
+Type:
+== 종류:
+

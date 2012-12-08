@@ -905,9 +905,6 @@ Internet
 Max demos
 == 最大录像数
 
-Quit anyway?
-== 无论如何都要退出吗?
-
 News
 == 新闻
 
@@ -920,23 +917,14 @@ FSAA samples
 %d of %d servers, %d players
 == %d / %d 个服务器, %d 个玩家
 
-LAN
-== 局域网
-
 Sound volume
 == 音量
 
 Created:
 == 已创建:
 
-%d Bytes
-== %d 字节
-
 Max Screenshots
 == 最大截图数
-
-Record demo
-== 录制录像
 
 Length:
 == 长度:
@@ -956,11 +944,20 @@ Netversion:
 Map:
 == 地图:
 
+%d Bytes
+== %d 字节
+
+Coloration
+== 
+
 Info
 == 信息
 
 Hue
 == 色调
+
+Record demo
+== 录制录像
 
 Your skin
 == 你的皮肤
@@ -968,11 +965,11 @@ Your skin
 Size:
 == 尺寸:
 
-Coloration
-== 
-
 Reset to defaults
 == 恢复默认设置
+
+Quit anyway?
+== 无论如何都要退出吗?
 
 Display Modes
 == 显示模式
@@ -986,11 +983,11 @@ Round
 Lht.
 == 亮度
 
+no limit
+== 无限制
+
 Quick search:
 == 快速搜索:
-
-Are you sure you want to save your skin ? If a skin with this name already exists, it will be replaced.
-== 
 
 UI Color
 == 界面颜色
@@ -1004,11 +1001,14 @@ Crc:
 Alpha
 == 透明度
 
-no limit
-== 无限制
+Are you sure you want to save your skin ? If a skin with this name already exists, it will be replaced.
+== 
 
 Current version: %s
 == 当前版本: %s
+
+LAN
+== 局域网
 
 Name plates size
 == 名字板尺寸

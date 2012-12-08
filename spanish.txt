@@ -909,9 +909,6 @@ Internet
 Max demos
 == Número máximo de demos
 
-Quit anyway?
-== ¿Salir de todos modos?
-
 News
 == Noticias
 
@@ -924,23 +921,14 @@ FSAA samples
 %d of %d servers, %d players
 == %d de %d servidores, %d jugadores
 
-LAN
-== LAN
-
 Sound volume
 == Volumen de sonido
 
 Created:
 == Creado:
 
-%d Bytes
-== %d bytes
-
 Max Screenshots
 == Número máximo de capturas
-
-Record demo
-== Grabar demo
 
 Length:
 == Longitud:
@@ -960,11 +948,20 @@ Netversion:
 Map:
 == Mapa:
 
+%d Bytes
+== %d bytes
+
+Coloration
+== 
+
 Info
 == Información
 
 Hue
 == Matiz
+
+Record demo
+== Grabar demo
 
 Your skin
 == Tu skin
@@ -972,11 +969,11 @@ Your skin
 Size:
 == Tamaño:
 
-Coloration
-== 
-
 Reset to defaults
 == Resetar por defecto
+
+Quit anyway?
+== ¿Salir de todos modos?
 
 Display Modes
 == Modos de video
@@ -990,11 +987,11 @@ Round
 Lht.
 == Luminosidad
 
+no limit
+== sin límite
+
 Quick search:
 == Búsqueda rápida:
-
-Are you sure you want to save your skin ? If a skin with this name already exists, it will be replaced.
-== 
 
 UI Color
 == Color de menú
@@ -1008,11 +1005,14 @@ Crc:
 Alpha
 == Alpha
 
-no limit
-== sin límite
+Are you sure you want to save your skin ? If a skin with this name already exists, it will be replaced.
+== 
 
 Current version: %s
 == Versión actual: %s
+
+LAN
+== LAN
 
 Name plates size
 == Tamaño de la fuente de los apodos

@@ -14,6 +14,7 @@
 #	Vijfhoek		2011-05-02 18:09:31
 #	Syntax Error	2011-07-02 20:09:24
 #	Yared Hufkens	2012-02-03 19:57:59
+#	Yared Hufkens	2012-12-08 10:51:30
 ##### /authors #####
 
 ##### translated strings #####
@@ -916,9 +917,6 @@ Internet
 Max demos
 == Maximaal aantal demo's
 
-Quit anyway?
-== Toch afsluiten?
-
 News
 == Nieuws
 
@@ -931,23 +929,14 @@ FSAA samples
 %d of %d servers, %d players
 == %d van %d Servers, %d spelers
 
-LAN
-== LAN
-
 Sound volume
 == Volume
 
 Created:
 == Gemaakt:
 
-%d Bytes
-== %d Bytes
-
 Max Screenshots
 == Maximaal aantal schermafbeeldingen
-
-Record demo
-== Neem demo op
 
 Length:
 == Lengte:
@@ -967,11 +956,20 @@ Netversion:
 Map:
 == Kaart:
 
+%d Bytes
+== %d Bytes
+
+Coloration
+== 
+
 Info
 == Info
 
 Hue
 == Tint
+
+Record demo
+== Neem demo op
 
 Your skin
 == Jouw skin
@@ -979,11 +977,11 @@ Your skin
 Size:
 == Grootte:
 
-Coloration
-== 
-
 Reset to defaults
 == Standaardinstellingen
+
+Quit anyway?
+== Toch afsluiten?
 
 Display Modes
 == Laat modes zien
@@ -997,11 +995,11 @@ Round
 Lht.
 == Licht
 
+no limit
+== ongelimiteerd
+
 Quick search:
 == Snel zoeken:
-
-Are you sure you want to save your skin ? If a skin with this name already exists, it will be replaced.
-== 
 
 UI Color
 == UI kleur
@@ -1015,11 +1013,14 @@ Crc:
 Alpha
 == Alpha
 
-no limit
-== ongelimiteerd
+Are you sure you want to save your skin ? If a skin with this name already exists, it will be replaced.
+== 
 
 Current version: %s
 == Huidige versie: %s
+
+LAN
+== LAN
 
 Name plates size
 == Grootte naamplaat

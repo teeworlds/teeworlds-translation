@@ -906,9 +906,6 @@ Internet
 Max demos
 == Max antal demon
 
-Quit anyway?
-== Avsluta i alla fall?
-
 News
 == Nyheter
 
@@ -921,23 +918,14 @@ FSAA samples
 %d of %d servers, %d players
 == %d av %d servrar, %d spelare
 
-LAN
-== LAN
-
 Sound volume
 == Volym
 
 Created:
 == Skapad:
 
-%d Bytes
-== %d Bytes
-
 Max Screenshots
 == Max antal skärmdumpar
-
-Record demo
-== Spela in demo
 
 Length:
 == Längd
@@ -957,11 +945,20 @@ Netversion:
 Map:
 == Bana
 
+%d Bytes
+== %d Bytes
+
+Coloration
+== 
+
 Info
 == Info
 
 Hue
 == Nyans
+
+Record demo
+== Spela in demo
 
 Your skin
 == Ditt skin
@@ -969,11 +966,11 @@ Your skin
 Size:
 == Storlek:
 
-Coloration
-== 
-
 Reset to defaults
 == Återställ till standard
+
+Quit anyway?
+== Avsluta i alla fall?
 
 Display Modes
 == Skärmlägen
@@ -987,11 +984,11 @@ Round
 Lht.
 == Ljusstyrka
 
+no limit
+== Ingen gräns
+
 Quick search:
 == Snabbsök:
-
-Are you sure you want to save your skin ? If a skin with this name already exists, it will be replaced.
-== 
 
 UI Color
 == Gränssnittfärg
@@ -1005,11 +1002,14 @@ Crc:
 Alpha
 == Alpha
 
-no limit
-== Ingen gräns
+Are you sure you want to save your skin ? If a skin with this name already exists, it will be replaced.
+== 
 
 Current version: %s
 == Nuvarande version: %s
+
+LAN
+== LAN
 
 Name plates size
 == Storlek på namnskyltar

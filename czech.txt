@@ -908,9 +908,6 @@ Internet
 Max demos
 == Maximální počet záznamů
 
-Quit anyway?
-== Opravdu odejít?
-
 News
 == Novinky
 
@@ -923,23 +920,14 @@ FSAA samples
 %d of %d servers, %d players
 == Serverů: %d z %d, Hráčů: %d
 
-LAN
-== LAN
-
 Sound volume
 == Hlasitost
 
 Created:
 == Vytvořeno:
 
-%d Bytes
-== %d Bajtů
-
 Max Screenshots
 == Maximální počet vyfocených obrazovek
-
-Record demo
-== Zaznamenat
 
 Length:
 == Délka:
@@ -959,11 +947,20 @@ Netversion:
 Map:
 == Mapa:
 
+%d Bytes
+== %d Bajtů
+
+Coloration
+== 
+
 Info
 == Info
 
 Hue
 == Tón
+
+Record demo
+== Zaznamenat
 
 Your skin
 == Zvolený vzhled
@@ -971,11 +968,11 @@ Your skin
 Size:
 == Velikost:
 
-Coloration
-== 
-
 Reset to defaults
 == Obnovit výchozí
+
+Quit anyway?
+== Opravdu odejít?
 
 Display Modes
 == Režimy zobrazení
@@ -989,11 +986,11 @@ Round
 Lht.
 == Jas
 
+no limit
+== neomezeno
+
 Quick search:
 == Vyhledávání:
-
-Are you sure you want to save your skin ? If a skin with this name already exists, it will be replaced.
-== 
 
 UI Color
 == Barvy uživatelského rozhraní
@@ -1007,11 +1004,14 @@ Crc:
 Alpha
 == Alfa
 
-no limit
-== neomezeno
+Are you sure you want to save your skin ? If a skin with this name already exists, it will be replaced.
+== 
 
 Current version: %s
 == Aktuální verze: %s
+
+LAN
+== LAN
 
 Name plates size
 == Velikost jmen

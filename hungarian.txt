@@ -896,17 +896,11 @@ New name:
 Sat.
 == Sat.
 
-Miscellaneous
-== Vegyes
-
 Internet
 == Internet
 
 Max demos
 == Maximum Demó
-
-Quit anyway?
-== Mindenképpen kilép?
 
 News
 == Hírek
@@ -920,23 +914,14 @@ FSAA samples
 %d of %d servers, %d players
 == %d Szerver, %d Játékos
 
-LAN
-== Helyi
-
 Sound volume
 == Hangerő
 
 Created:
 == Készítette:
 
-%d Bytes
-== %d Bit
-
 Max Screenshots
 == Maximum Fotó
-
-Record demo
-== Demó felvétele
 
 Length:
 == Hossza:
@@ -956,11 +941,20 @@ Netversion:
 Map:
 == Pálya:
 
+%d Bytes
+== %d Bit
+
+Coloration
+== 
+
 Info
 == Infó
 
-Hue
-== Színárnyalat
+Miscellaneous
+== Vegyes
+
+Record demo
+== Demó felvétele
 
 Your skin
 == Te skined
@@ -968,11 +962,11 @@ Your skin
 Size:
 == Méret:
 
-Coloration
-== 
-
 Reset to defaults
 == Visszaállítás az alapértelmezettre
+
+Quit anyway?
+== Mindenképpen kilép?
 
 Display Modes
 == Kijelző módok
@@ -986,11 +980,11 @@ Round
 Lht.
 == Lht.
 
+no limit
+== Nincs korlát
+
 Quick search:
 == Gyors keresés:
-
-Are you sure you want to save your skin ? If a skin with this name already exists, it will be replaced.
-== 
 
 UI Color
 == UI Szín
@@ -998,17 +992,23 @@ UI Color
 Host address
 == Szerver címe
 
+Hue
+== Színárnyalat
+
 Crc:
 == Crc:
 
 Alpha
 == Alpha
 
-no limit
-== Nincs korlát
+Are you sure you want to save your skin ? If a skin with this name already exists, it will be replaced.
+== 
 
 Current version: %s
 == Aktuális verzió: %s
+
+LAN
+== Helyi
 
 Name plates size
 == Névtáblák mérete

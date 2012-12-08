@@ -905,9 +905,6 @@ Internet
 Max demos
 == Max antal demoer
 
-Quit anyway?
-== Afslut alligevel?
-
 News
 == Nyheder
 
@@ -920,23 +917,14 @@ FSAA samples
 %d of %d servers, %d players
 == %d af %d servere, %d spillere
 
-LAN
-== LAN
-
 Sound volume
 == Lydstyrke
 
 Created:
 == Lavet:
 
-%d Bytes
-== %d Bytes
-
 Max Screenshots
 == Max antal screenshots
-
-Record demo
-== Optag demo
 
 Length:
 == Længde
@@ -956,11 +944,20 @@ Netversion:
 Map:
 == Bane
 
+%d Bytes
+== %d Bytes
+
+Coloration
+== 
+
 Info
 == Info
 
 Hue
 == Farve
+
+Record demo
+== Optag demo
 
 Your skin
 == Dit udseende
@@ -968,11 +965,11 @@ Your skin
 Size:
 == Størrelse:
 
-Coloration
-== 
-
 Reset to defaults
 == Sæt til standard
+
+Quit anyway?
+== Afslut alligevel?
 
 Display Modes
 == Skærmopløsning
@@ -986,11 +983,11 @@ Round
 Lht.
 == Lys
 
+no limit
+== Ingen grænse
+
 Quick search:
 == Hurtig søg:
-
-Are you sure you want to save your skin ? If a skin with this name already exists, it will be replaced.
-== 
 
 UI Color
 == Brugergrænseflade farve
@@ -1004,11 +1001,14 @@ Crc:
 Alpha
 == Alpha
 
-no limit
-== Ingen grænse
+Are you sure you want to save your skin ? If a skin with this name already exists, it will be replaced.
+== 
 
 Current version: %s
 == Nuværende version: %s
+
+LAN
+== LAN
 
 Name plates size
 == Størrelse på navneskilte
