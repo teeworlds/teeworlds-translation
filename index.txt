@@ -1,118 +1,147 @@
-
-##### language indices #####
-
-belarusian
-== Беларуская
-== 112
-
-bosnian
-== Bosanski
-== 70
-
-brazilian_portuguese
-== Português brasileiro
-== 76
-
-bulgarian
-== Български
-== 100
-
-czech
-== Česky
-== 203
-
-chuvash
-== Чăвашла
-== 643
-
-danish
-== Dansk
-== 208
-
-dutch
-== Nederlands
-== 528
-
-finnish
-== Suomi
-== 246
-
-french
-== Français
-== 250
-
-german
-== Deutsch
-== 276
-
-greek
-== Ελληνικά
-== 300
-
-hungarian
-== Magyar
-== 348
-
-italian
-== Italiano
-== 380
-
-japanese
-== 日本語
-== 392
-
-korean
-== 한국어
-== 410
-
-kyrgyz
-== Кыргызча
-== 417
-
-norwegian
-== Norsk
-== 578
-
-polish
-== Polski
-== 616
-
-portuguese
-== Português
-== 620
-
-romanian
-== Română
-== 642
-
-russian
-== Русский
-== 643
-
-serbian
-== Srpski
-== 688
-
-slovak
-== Slovensky
-== 703
-
-spanish
-== Español
-== 724
-
-swedish
-== Svenska
-== 752
-
-turkish
-== Türkçe
-== 792
-
-ukrainian
-== Українська
-== 804
-
-simplified_chinese
-== 简体中文
-== 156
+{"language indices": [
+	{
+		"file": "belarusian",
+		"name": "Беларуская",
+		"code": 112
+	},
+	{
+		"file": "bosnian",
+		"name": "Bosanski",
+		"code": 70
+	},
+	{
+		"file": "brazilian_portuguese",
+		"name": "Português brasileiro",
+		"code": 76
+	},
+	{
+		"file": "bulgarian",
+		"name": "Български",
+		"cosde": 100
+	},
+	{
+		"file": "czech",
+		"name": "Česky",
+		"code": 203
+	},
+	{
+		"file": "chuvash",
+		"name": "Чăвашла",
+		"code": 643
+	},
+	{
+		"file": "danish",
+		"name": "Dansk",
+		"code": 208
+	},
+	{
+		"file": "dutch",
+		"name": "Nederlands",
+		"code": 528
+	},
+	{
+		"file": "finnish",
+		"name": "Suomi",
+		"code": 246
+	},
+	{
+		"file": "french",
+		"name": "Français",
+		"code": 250
+	},
+	{
+		"file": "german",
+		"name": "Deutsch",
+		"code": 276
+	},
+	{
+		"file": "greek",
+		"name": "Ελληνικά",
+		"code": 300
+	},
+	{
+		"file": "hungarian",
+		"name": "Magyar",
+		"code": 348
+	},
+	{
+		"file": "italian",
+		"name": "Italiano",
+		"code": 380
+	},
+	{
+		"file": "japanese",
+		"name": "日本語",
+		"code": 392
+	},
+	{
+		"file": "korean",
+		"name": "한국어",
+		"code": 410
+	},
+	{
+		"file": "kyrgyz",
+		"name": "Кыргызча",
+		"code": 417
+	},
+	{
+		"file": "norwegian",
+		"name": "Norsk",
+		"code": 578
+	},
+	{
+		"file": "polish",
+		"name": "Polski",
+		"code": 616
+	},
+	{
+		"file": "portuguese",
+		"name": "Português",
+		"code": 620
+	},
+	{
+		"file": "romanian",
+		"name": "Română",
+		"code": 642
+	},
+	{
+		"file": "russian",
+		"name": "Русский",
+		"code": 643
+	},
+	{
+		"file": "serbian",
+		"name": "Srpski",
+		"code": 688
+	},
+	{
+		"file": "slovak",
+		"name": "Slovensky",
+		"code": 703
+	},
+	{
+		"file": "spanish",
+		"name": "Español",
+		"code": 724
+	},
+	{
+		"file": "swedish",
+		"name": "Svenska",
+		"code": 752
+	},
+	{
+		"file": "turkish",
+		"name": "Türkçe",
+		"code": 792
+	},
+	{
+		"file": "ukrainian",
+		"name": "Українська",
+		"code": 804
+	},
+	{
+		"file": "simplified_chinese",
+		"name": "简体中文",
+		"code": 156
+	}]
+}
