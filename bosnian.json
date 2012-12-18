@@ -1,0 +1,1363 @@
+{"authors": {
+	"originally created by": "***",
+	"modified by": [
+		"***			2011-01-05 18:48:00",
+		"***			2011-04-12 17:53:42",
+		"***			2011-07-04 23:31:22"
+	]},
+"translated strings": [
+	{
+		"or": "%d%% loaded",
+		"tr": "Učitano %d%%"
+	},
+	{
+		"or": "%ds left",
+		"tr": "Još %ds"
+	},
+	{
+		"or": "%i minute left",
+		"tr": "Preostalo: %i min."
+	},
+	{
+		"or": "%i minutes left",
+		"tr": "Preostalo: %i min."
+	},
+	{
+		"or": "%i second left",
+		"tr": "Preostalo: %i sek."
+	},
+	{
+		"or": "%i seconds left",
+		"tr": "Preostalo: %i sek."
+	},
+	{
+		"or": "%s wins!",
+		"tr": "%s je pobijedio!"
+	},
+	{
+		"or": "-Page %d-",
+		"tr": "-Strana %d-"
+	},
+	{
+		"or": "Abort",
+		"tr": "Prekini"
+	},
+	{
+		"or": "Add",
+		"tr": "Dodaj"
+	},
+	{
+		"or": "Add Friend",
+		"tr": "Dodaj prijatelja"
+	},
+	{
+		"or": "Address",
+		"tr": "Adresa"
+	},
+	{
+		"or": "All",
+		"tr": "Svi"
+	},
+	{
+		"or": "Always show name plates",
+		"tr": "Uvijek prikaži imena igrača"
+	},
+	{
+		"or": "Are you sure that you want to delete the demo?",
+		"tr": "Jeste li sigurni da želite obrisati demo-snimak?"
+	},
+	{
+		"or": "Are you sure that you want to quit?",
+		"tr": "Jeste li sigurni da želite izići?"
+	},
+	{
+		"or": "Are you sure that you want to remove the player from your friends list?",
+		"tr": "Da li ste sigurni da želite ukloniti igrača iz vaše liste prijatelja?"
+	},
+	{
+		"or": "As this is the first time you launch the game, please enter your nick name below. It's recommended that you check the settings to adjust them to your liking before joining a server.",
+		"tr": "Pošto prvi put pokrećete igru, molimo da ispod unesete Vaš nadimak (nick). Preporučujemo da provjerite postavke i podesite ih prema Vašem ukusu prije nego se konektujete na server."
+	},
+	{
+		"or": "Automatically record demos",
+		"tr": "Automatski demo-snimci"
+	},
+	{
+		"or": "Automatically take game over screenshot",
+		"tr": "Automatski screenshot po završetku igre"
+	},
+	{
+		"or": "Blue team",
+		"tr": "Plavi tim"
+	},
+	{
+		"or": "Blue team wins!",
+		"tr": "Plavi tim je pobijedio!"
+	},
+	{
+		"or": "Body",
+		"tr": "Tijelo"
+	},
+	{
+		"or": "Call vote",
+		"tr": "Glasanje"
+	},
+	{
+		"or": "Change settings",
+		"tr": "Izmijeni postavke"
+	},
+	{
+		"or": "Chat",
+		"tr": "Chat"
+	},
+	{
+		"or": "Clan",
+		"tr": "Klan"
+	},
+	{
+		"or": "Client",
+		"tr": "Klijent"
+	},
+	{
+		"or": "Close",
+		"tr": "Zatvori"
+	},
+	{
+		"or": "Compatible version",
+		"tr": "Kompatibilna verzija"
+	},
+	{
+		"or": "Connect",
+		"tr": "Konektuj"
+	},
+	{
+		"or": "Connecting to",
+		"tr": "Konektujem na"
+	},
+	{
+		"or": "Connection Problems...",
+		"tr": "Problemi sa konekcijom..."
+	},
+	{
+		"or": "Console",
+		"tr": "Konzola"
+	},
+	{
+		"or": "Controls",
+		"tr": "Kontrole"
+	},
+	{
+		"or": "Count players only",
+		"tr": "Izbroj samo igrače"
+	},
+	{
+		"or": "Country",
+		"tr": "Država"
+	},
+	{
+		"or": "Current",
+		"tr": "Current"
+	},
+	{
+		"or": "Custom colors",
+		"tr": "Vlastite boje"
+	},
+	{
+		"or": "Delete",
+		"tr": "Obriši"
+	},
+	{
+		"or": "Delete demo",
+		"tr": "Brisanje demo-snimka"
+	},
+	{
+		"or": "Demo details",
+		"tr": "Podaci o demo-snimku"
+	},
+	{
+		"or": "Demofile: %s",
+		"tr": "Demo-snimak: %s"
+	},
+	{
+		"or": "Demos",
+		"tr": "Demo"
+	},
+	{
+		"or": "Disconnect",
+		"tr": "Diskonektuj"
+	},
+	{
+		"or": "Disconnected",
+		"tr": "Diskonektovan"
+	},
+	{
+		"or": "Downloading map",
+		"tr": "Preuzimam mapu"
+	},
+	{
+		"or": "Draw!",
+		"tr": "Neriješeno!"
+	},
+	{
+		"or": "Dynamic Camera",
+		"tr": "Dinamička kamera"
+	},
+	{
+		"or": "Emoticon",
+		"tr": "Emoticon"
+	},
+	{
+		"or": "Enter",
+		"tr": "Započni"
+	},
+	{
+		"or": "Error",
+		"tr": "Greška"
+	},
+	{
+		"or": "Error loading demo",
+		"tr": "Došlo je do greške pri učitavanju demo-snimka"
+	},
+	{
+		"or": "Favorite",
+		"tr": "Omiljeni"
+	},
+	{
+		"or": "Favorites",
+		"tr": "Omiljeni"
+	},
+	{
+		"or": "Feet",
+		"tr": "Stopala"
+	},
+	{
+		"or": "Fire",
+		"tr": "Pucanje"
+	},
+	{
+		"or": "Folder",
+		"tr": "Direktorij"
+	},
+	{
+		"or": "Force vote",
+		"tr": "Obavezno glasanje"
+	},
+	{
+		"or": "Free-View",
+		"tr": "Slobodan pogled"
+	},
+	{
+		"or": "Friends",
+		"tr": "Prijatelji"
+	},
+	{
+		"or": "Fullscreen",
+		"tr": "Čitav ekran"
+	},
+	{
+		"or": "Game",
+		"tr": "Igra"
+	},
+	{
+		"or": "Game info",
+		"tr": "O igri"
+	},
+	{
+		"or": "Game over",
+		"tr": "Igra je završena"
+	},
+	{
+		"or": "Game type",
+		"tr": "Tip igre"
+	},
+	{
+		"or": "Game types:",
+		"tr": "Tipovi igre:"
+	},
+	{
+		"or": "General",
+		"tr": "Opće"
+	},
+	{
+		"or": "Graphics",
+		"tr": "Grafika"
+	},
+	{
+		"or": "Grenade",
+		"tr": "Granate"
+	},
+	{
+		"or": "Hammer",
+		"tr": "Čekić"
+	},
+	{
+		"or": "Has people playing",
+		"tr": "Server nije prazan"
+	},
+	{
+		"or": "High Detail",
+		"tr": "Visoki detalji"
+	},
+	{
+		"or": "Hook",
+		"tr": "Lanac"
+	},
+	{
+		"or": "Invalid Demo",
+		"tr": "Neispravan demo-snimak"
+	},
+	{
+		"or": "Join blue",
+		"tr": "U plavi tim"
+	},
+	{
+		"or": "Join red",
+		"tr": "U crveni tim"
+	},
+	{
+		"or": "Jump",
+		"tr": "Skok"
+	},
+	{
+		"or": "Kick player",
+		"tr": "Izbaci igrača iz igre"
+	},
+	{
+		"or": "Language",
+		"tr": "Jezik"
+	},
+	{
+		"or": "Loading",
+		"tr": "Učitavam"
+	},
+	{
+		"or": "MOTD",
+		"tr": "Poruka dana"
+	},
+	{
+		"or": "Map",
+		"tr": "Mapa"
+	},
+	{
+		"or": "Maximum ping:",
+		"tr": "Maksimalan ping:"
+	},
+	{
+		"or": "Mouse sens.",
+		"tr": "Osjetljivost miša"
+	},
+	{
+		"or": "Move left",
+		"tr": "Nalijevo"
+	},
+	{
+		"or": "Move player to spectators",
+		"tr": "Izbaci igrača u posmatrače"
+	},
+	{
+		"or": "Move right",
+		"tr": "Nadesno"
+	},
+	{
+		"or": "Movement",
+		"tr": "Kretanje"
+	},
+	{
+		"or": "Mute when not active",
+		"tr": "Bez zvuka prilikom neaktivnosti"
+	},
+	{
+		"or": "Name",
+		"tr": "Ime"
+	},
+	{
+		"or": "Next weapon",
+		"tr": "Sljedeće oružje"
+	},
+	{
+		"or": "Nickname",
+		"tr": "Nadimak"
+	},
+	{
+		"or": "No",
+		"tr": "Ne"
+	},
+	{
+		"or": "No password",
+		"tr": "Bez lozinke"
+	},
+	{
+		"or": "No servers found",
+		"tr": "Nije pronađen nijedan server"
+	},
+	{
+		"or": "No servers match your filter criteria",
+		"tr": "Nijedan server ne odgovara zadatom kriteriju"
+	},
+	{
+		"or": "Ok",
+		"tr": "OK"
+	},
+	{
+		"or": "Open",
+		"tr": "Otvori"
+	},
+	{
+		"or": "Parent Folder",
+		"tr": "Prethodni direktorij"
+	},
+	{
+		"or": "Password",
+		"tr": "Lozinka"
+	},
+	{
+		"or": "Password incorrect",
+		"tr": "Pogrešna lozinka"
+	},
+	{
+		"or": "Ping",
+		"tr": "Ping"
+	},
+	{
+		"or": "Pistol",
+		"tr": "Pištolj"
+	},
+	{
+		"or": "Play",
+		"tr": "Pogledaj"
+	},
+	{
+		"or": "Play background music",
+		"tr": "Pozadinska muzika"
+	},
+	{
+		"or": "Player",
+		"tr": "Igrač"
+	},
+	{
+		"or": "Player country:",
+		"tr": "Država"
+	},
+	{
+		"or": "Player options",
+		"tr": "Postavke igrača"
+	},
+	{
+		"or": "Players",
+		"tr": "Igrači"
+	},
+	{
+		"or": "Please balance teams!",
+		"tr": "Molim uravnotežite timove!"
+	},
+	{
+		"or": "Prev. weapon",
+		"tr": "Prethodno oružje"
+	},
+	{
+		"or": "Quality Textures",
+		"tr": "Visokokvalitetne teksture"
+	},
+	{
+		"or": "Quit",
+		"tr": "Izlaz"
+	},
+	{
+		"or": "REC %3d:%02d",
+		"tr": "%3d:%02d"
+	},
+	{
+		"or": "Reason:",
+		"tr": "Razlog:"
+	},
+	{
+		"or": "Red team",
+		"tr": "Crveni tim"
+	},
+	{
+		"or": "Red team wins!",
+		"tr": "Crveni tim je pobijedio!"
+	},
+	{
+		"or": "Refresh",
+		"tr": "Osvježi"
+	},
+	{
+		"or": "Refreshing master servers",
+		"tr": "Osvježavam glavne servere"
+	},
+	{
+		"or": "Remote console",
+		"tr": "Udaljena konzola"
+	},
+	{
+		"or": "Remove",
+		"tr": "Ukloni"
+	},
+	{
+		"or": "Remove friend",
+		"tr": "Ukloni prijatelja"
+	},
+	{
+		"or": "Rename",
+		"tr": "Preimenuj"
+	},
+	{
+		"or": "Rename demo",
+		"tr": "Preimenuj demo-snimak"
+	},
+	{
+		"or": "Reset filter",
+		"tr": "Poništi filter"
+	},
+	{
+		"or": "Sample rate",
+		"tr": "Frekvencija"
+	},
+	{
+		"or": "Score",
+		"tr": "Rezultat"
+	},
+	{
+		"or": "Score board",
+		"tr": "Bodovi"
+	},
+	{
+		"or": "Score limit",
+		"tr": "Max. bodova"
+	},
+	{
+		"or": "Scoreboard",
+		"tr": "Bodovi"
+	},
+	{
+		"or": "Screenshot",
+		"tr": "Screenshot"
+	},
+	{
+		"or": "Server address:",
+		"tr": "Adresa servera:"
+	},
+	{
+		"or": "Server details",
+		"tr": "Podaci o serveru"
+	},
+	{
+		"or": "Server filter",
+		"tr": "Filter servera"
+	},
+	{
+		"or": "Server info",
+		"tr": "O Serveru"
+	},
+	{
+		"or": "Server not full",
+		"tr": "Server nije pun"
+	},
+	{
+		"or": "Settings",
+		"tr": "Postavke"
+	},
+	{
+		"or": "Shotgun",
+		"tr": "Pumparica"
+	},
+	{
+		"or": "Show chat",
+		"tr": "Prikaži chat"
+	},
+	{
+		"or": "Show friends only",
+		"tr": "Prikaži prijatelje"
+	},
+	{
+		"or": "Show ingame HUD",
+		"tr": "Prikaži HUD"
+	},
+	{
+		"or": "Show name plates",
+		"tr": "Prikaži imena igrača"
+	},
+	{
+		"or": "Show only supported",
+		"tr": "Prikaži samo podržane"
+	},
+	{
+		"or": "Skins",
+		"tr": "Izgled"
+	},
+	{
+		"or": "Sound",
+		"tr": "Zvuk"
+	},
+	{
+		"or": "Sound error",
+		"tr": "Problem sa zvukom"
+	},
+	{
+		"or": "Spectate",
+		"tr": "Posmatraj"
+	},
+	{
+		"or": "Spectate next",
+		"tr": "Posmatraj narednog"
+	},
+	{
+		"or": "Spectate previous",
+		"tr": "Posmatraj prethodnog"
+	},
+	{
+		"or": "Spectator mode",
+		"tr": "Posmatrački mod"
+	},
+	{
+		"or": "Spectators",
+		"tr": "Posmatrači"
+	},
+	{
+		"or": "Standard gametype",
+		"tr": "Standardni tip igre"
+	},
+	{
+		"or": "Standard map",
+		"tr": "Standardna mapa"
+	},
+	{
+		"or": "Stop record",
+		"tr": "Prekini snimanje"
+	},
+	{
+		"or": "Strict gametype filter",
+		"tr": "Striktan filter tipa igre"
+	},
+	{
+		"or": "Sudden Death",
+		"tr": "Iznenadna smrt"
+	},
+	{
+		"or": "Switch weapon on pickup",
+		"tr": "Aktiviraj novo oružje prilikom uzimanja"
+	},
+	{
+		"or": "Team",
+		"tr": "Tim"
+	},
+	{
+		"or": "Team chat",
+		"tr": "Timski chat"
+	},
+	{
+		"or": "Teeworlds %s is out! Download it at www.teeworlds.com!",
+		"tr": "Teeworld %s je objavljen! Preuzmi ga na www.teeworlds.com!"
+	},
+	{
+		"or": "Texture Compression",
+		"tr": "Kompresija tekstura"
+	},
+	{
+		"or": "The audio device couldn't be initialised.",
+		"tr": "Audio-uređaj nije moguće pokrenuti."
+	},
+	{
+		"or": "The server is running a non-standard tuning on a pure game type.",
+		"tr": "Server sadrži nestandardne postavke."
+	},
+	{
+		"or": "There's an unsaved map in the editor, you might want to save it before you quit the game.",
+		"tr": "Mapa u editoru nije memorisana, možda je želite memorisati prije nego izađete iz igre."
+	},
+	{
+		"or": "Time limit",
+		"tr": "Max. vremena"
+	},
+	{
+		"or": "Time limit: %d min",
+		"tr": "Max. vremena: %d min."
+	},
+	{
+		"or": "Try again",
+		"tr": "Pokušaj ponovo"
+	},
+	{
+		"or": "Type",
+		"tr": "Tip"
+	},
+	{
+		"or": "Unable to delete the demo",
+		"tr": "Demo-snimak nije moguće obrisati"
+	},
+	{
+		"or": "Unable to rename the demo",
+		"tr": "Demo-snimak nije moguće preimenovati"
+	},
+	{
+		"or": "Use sounds",
+		"tr": "Aktiviraj zvuk"
+	},
+	{
+		"or": "Use team colors for name plates",
+		"tr": "Koristi timsku boju u prikazu imena"
+	},
+	{
+		"or": "V-Sync",
+		"tr": "V-Sync"
+	},
+	{
+		"or": "Version",
+		"tr": "Verzija"
+	},
+	{
+		"or": "Vote command:",
+		"tr": "Komanda za glasanje:"
+	},
+	{
+		"or": "Vote description:",
+		"tr": "Opis glasanja:"
+	},
+	{
+		"or": "Vote no",
+		"tr": "Ne"
+	},
+	{
+		"or": "Vote yes",
+		"tr": "Da"
+	},
+	{
+		"or": "Voting",
+		"tr": "Glasanje"
+	},
+	{
+		"or": "Warmup",
+		"tr": "Zagrijavanje"
+	},
+	{
+		"or": "Weapon",
+		"tr": "Oružje"
+	},
+	{
+		"or": "Welcome to Teeworlds",
+		"tr": "Dobrodošli u Teeworlds"
+	},
+	{
+		"or": "Yes",
+		"tr": "Da"
+	},
+	{
+		"or": "You must restart the game for all settings to take effect.",
+		"tr": "Morate ponovo pokrenuti igru da bi sve postavke bile primijenjene."
+	}],
+"needs translation": [
+	{
+		"or": "%.3f KiB",
+		"tr": ""
+	},
+	{
+		"or": "%d player left",
+		"tr": ""
+	},
+	{
+		"or": "%d player not ready",
+		"tr": ""
+	},
+	{
+		"or": "%d players left",
+		"tr": ""
+	},
+	{
+		"or": "%d players not ready",
+		"tr": ""
+	},
+	{
+		"or": "%d servers, %d players",
+		"tr": ""
+	},
+	{
+		"or": "'%s' called for vote to kick '%s' (%s)",
+		"tr": ""
+	},
+	{
+		"or": "'%s' called for vote to move '%s' to spectators (%s)",
+		"tr": ""
+	},
+	{
+		"or": "'%s' called vote to change server option '%s' (%s)",
+		"tr": ""
+	},
+	{
+		"or": "'%s' entered and joined the %s",
+		"tr": ""
+	},
+	{
+		"or": "'%s' has left the game",
+		"tr": ""
+	},
+	{
+		"or": "'%s' has left the game (%s)",
+		"tr": ""
+	},
+	{
+		"or": "'%s' joined the %s",
+		"tr": ""
+	},
+	{
+		"or": "Admin forced server option '%s' (%s)",
+		"tr": ""
+	},
+	{
+		"or": "Admin forced vote no",
+		"tr": ""
+	},
+	{
+		"or": "Admin forced vote yes",
+		"tr": ""
+	},
+	{
+		"or": "Admin moved '%s' to spectator (%s)",
+		"tr": ""
+	},
+	{
+		"or": "Alp:",
+		"tr": ""
+	},
+	{
+		"or": "Anti Aliasing",
+		"tr": ""
+	},
+	{
+		"or": "Are you sure you want to rename the demo?",
+		"tr": ""
+	},
+	{
+		"or": "Are you sure you want to save your skin? If a skin with this name already exists, it will be replaced.",
+		"tr": ""
+	},
+	{
+		"or": "Back",
+		"tr": ""
+	},
+	{
+		"or": "Basic",
+		"tr": ""
+	},
+	{
+		"or": "Bodies",
+		"tr": ""
+	},
+	{
+		"or": "Borderless window",
+		"tr": ""
+	},
+	{
+		"or": "Browser",
+		"tr": ""
+	},
+	{
+		"or": "Color",
+		"tr": ""
+	},
+	{
+		"or": "Crc",
+		"tr": ""
+	},
+	{
+		"or": "Created",
+		"tr": ""
+	},
+	{
+		"or": "Custom",
+		"tr": ""
+	},
+	{
+		"or": "Customize",
+		"tr": ""
+	},
+	{
+		"or": "Decoration",
+		"tr": ""
+	},
+	{
+		"or": "Demo",
+		"tr": ""
+	},
+	{
+		"or": "Detail",
+		"tr": ""
+	},
+	{
+		"or": "Editor",
+		"tr": ""
+	},
+	{
+		"or": "Eyes",
+		"tr": ""
+	},
+	{
+		"or": "Format",
+		"tr": ""
+	},
+	{
+		"or": "Game paused",
+		"tr": ""
+	},
+	{
+		"or": "Game starts in",
+		"tr": ""
+	},
+	{
+		"or": "Global",
+		"tr": ""
+	},
+	{
+		"or": "Hands",
+		"tr": ""
+	},
+	{
+		"or": "Host address:",
+		"tr": ""
+	},
+	{
+		"or": "Hue:",
+		"tr": ""
+	},
+	{
+		"or": "Join",
+		"tr": ""
+	},
+	{
+		"or": "Joined",
+		"tr": ""
+	},
+	{
+		"or": "Joined blue",
+		"tr": ""
+	},
+	{
+		"or": "Joined red",
+		"tr": ""
+	},
+	{
+		"or": "Kick voting requires %d players on the server",
+		"tr": ""
+	},
+	{
+		"or": "Laser",
+		"tr": ""
+	},
+	{
+		"or": "Length",
+		"tr": ""
+	},
+	{
+		"or": "Letterbox",
+		"tr": ""
+	},
+	{
+		"or": "Lgt:",
+		"tr": ""
+	},
+	{
+		"or": "Local",
+		"tr": ""
+	},
+	{
+		"or": "Local server",
+		"tr": ""
+	},
+	{
+		"or": "Match",
+		"tr": ""
+	},
+	{
+		"or": "Max",
+		"tr": ""
+	},
+	{
+		"or": "Misc",
+		"tr": ""
+	},
+	{
+		"or": "Netversion",
+		"tr": ""
+	},
+	{
+		"or": "Nickname is empty.",
+		"tr": ""
+	},
+	{
+		"or": "Normal:",
+		"tr": ""
+	},
+	{
+		"or": "Only %d active players are allowed",
+		"tr": ""
+	},
+	{
+		"or": "Personal",
+		"tr": ""
+	},
+	{
+		"or": "Ready",
+		"tr": ""
+	},
+	{
+		"or": "Record",
+		"tr": ""
+	},
+	{
+		"or": "Recorded",
+		"tr": ""
+	},
+	{
+		"or": "Reset",
+		"tr": ""
+	},
+	{
+		"or": "Resolutions",
+		"tr": ""
+	},
+	{
+		"or": "Respawn",
+		"tr": ""
+	},
+	{
+		"or": "Round over",
+		"tr": ""
+	},
+	{
+		"or": "Round over!",
+		"tr": ""
+	},
+	{
+		"or": "Sat:",
+		"tr": ""
+	},
+	{
+		"or": "Save",
+		"tr": ""
+	},
+	{
+		"or": "Save skin",
+		"tr": ""
+	},
+	{
+		"or": "Screen",
+		"tr": ""
+	},
+	{
+		"or": "Search:",
+		"tr": ""
+	},
+	{
+		"or": "Server does not allow voting to kick players",
+		"tr": ""
+	},
+	{
+		"or": "Server does not allow voting to move players to spectators",
+		"tr": ""
+	},
+	{
+		"or": "Servers",
+		"tr": ""
+	},
+	{
+		"or": "Show only chat messages from friends",
+		"tr": ""
+	},
+	{
+		"or": "Size",
+		"tr": ""
+	},
+	{
+		"or": "Skin",
+		"tr": ""
+	},
+	{
+		"or": "Spectating",
+		"tr": ""
+	},
+	{
+		"or": "Spectators aren't allowed to start a vote.",
+		"tr": ""
+	},
+	{
+		"or": "Standard Gametype",
+		"tr": ""
+	},
+	{
+		"or": "Tattoo",
+		"tr": ""
+	},
+	{
+		"or": "Tattoos",
+		"tr": ""
+	},
+	{
+		"or": "Team:",
+		"tr": ""
+	},
+	{
+		"or": "Teams are locked",
+		"tr": ""
+	},
+	{
+		"or": "Teams are locked. Time to wait before changing team: %02d:%02d",
+		"tr": ""
+	},
+	{
+		"or": "Teams were locked",
+		"tr": ""
+	},
+	{
+		"or": "Teams were unlocked",
+		"tr": ""
+	},
+	{
+		"or": "Tee",
+		"tr": ""
+	},
+	{
+		"or": "Texture",
+		"tr": ""
+	},
+	{
+		"or": "Volume",
+		"tr": ""
+	},
+	{
+		"or": "Vote aborted",
+		"tr": ""
+	},
+	{
+		"or": "Vote failed",
+		"tr": ""
+	},
+	{
+		"or": "Vote passed",
+		"tr": ""
+	},
+	{
+		"or": "Wait for current vote to end before calling a new one.",
+		"tr": ""
+	},
+	{
+		"or": "Wait for next round",
+		"tr": ""
+	},
+	{
+		"or": "Wide",
+		"tr": ""
+	},
+	{
+		"or": "You must wait %d seconds before making another vote",
+		"tr": ""
+	},
+	{
+		"or": "blue",
+		"tr": ""
+	},
+	{
+		"or": "blue team",
+		"tr": ""
+	},
+	{
+		"or": "game",
+		"tr": ""
+	},
+	{
+		"or": "locked",
+		"tr": ""
+	},
+	{
+		"or": "no players",
+		"tr": ""
+	},
+	{
+		"or": "red",
+		"tr": ""
+	},
+	{
+		"or": "red team",
+		"tr": ""
+	},
+	{
+		"or": "spectators",
+		"tr": ""
+	},
+	{
+		"or": "wait for more players",
+		"tr": ""
+	}],
+"old translations": [
+	{
+		"or": "New name:",
+		"tr": "Novo ime:"
+	},
+	{
+		"or": "Sat.",
+		"tr": "Zasić."
+	},
+	{
+		"or": "Miscellaneous",
+		"tr": "Razno"
+	},
+	{
+		"or": "Internet",
+		"tr": "Internet"
+	},
+	{
+		"or": "Max demos",
+		"tr": "Maximalan broj demo-snimaka"
+	},
+	{
+		"or": "News",
+		"tr": "Novosti"
+	},
+	{
+		"or": "Join game",
+		"tr": "Uključi se u igru"
+	},
+	{
+		"or": "FSAA samples",
+		"tr": "FSAA samples"
+	},
+	{
+		"or": "%d of %d servers, %d players",
+		"tr": "%d od %d server(a), %d igrač(a)"
+	},
+	{
+		"or": "Sound volume",
+		"tr": "Jačina zvuka"
+	},
+	{
+		"or": "Created:",
+		"tr": "Kreirano:"
+	},
+	{
+		"or": "Max Screenshots",
+		"tr": "Maksimalan broj screenshot-a"
+	},
+	{
+		"or": "Length:",
+		"tr": "Dužina:"
+	},
+	{
+		"or": "Skin name",
+		"tr": ""
+	},
+	{
+		"or": "Rifle",
+		"tr": "Laser"
+	},
+	{
+		"or": "Patterns",
+		"tr": ""
+	},
+	{
+		"or": "Netversion:",
+		"tr": "Net-verzija:"
+	},
+	{
+		"or": "Map:",
+		"tr": "Mapa:"
+	},
+	{
+		"or": "%d Bytes",
+		"tr": "%d bytes"
+	},
+	{
+		"or": "Coloration",
+		"tr": ""
+	},
+	{
+		"or": "Info",
+		"tr": "Info"
+	},
+	{
+		"or": "Hue",
+		"tr": "Nijans."
+	},
+	{
+		"or": "Record demo",
+		"tr": "Snimi demo"
+	},
+	{
+		"or": "Your skin",
+		"tr": "Vaš izgled"
+	},
+	{
+		"or": "Size:",
+		"tr": "Veličina:"
+	},
+	{
+		"or": "Reset to defaults",
+		"tr": "Vrati na početne postavke"
+	},
+	{
+		"or": "Quit anyway?",
+		"tr": "Izlaz?"
+	},
+	{
+		"or": "Display Modes",
+		"tr": "Rezolucija i način prikaza"
+	},
+	{
+		"or": "Version:",
+		"tr": "Verzija:"
+	},
+	{
+		"or": "Round",
+		"tr": "Runda"
+	},
+	{
+		"or": "Lht.",
+		"tr": "Svjetl."
+	},
+	{
+		"or": "no limit",
+		"tr": "bez ograničenja"
+	},
+	{
+		"or": "Quick search:",
+		"tr": "Brza pretraga:"
+	},
+	{
+		"or": "UI Color",
+		"tr": "Boja menija"
+	},
+	{
+		"or": "Host address",
+		"tr": "Adresa servera"
+	},
+	{
+		"or": "Crc:",
+		"tr": "Crc:"
+	},
+	{
+		"or": "Alpha",
+		"tr": "Provid."
+	},
+	{
+		"or": "Are you sure you want to save your skin ? If a skin with this name already exists, it will be replaced.",
+		"tr": ""
+	},
+	{
+		"or": "Current version: %s",
+		"tr": "Trenutna verzija: %s"
+	},
+	{
+		"or": "Filter",
+		"tr": "Filter"
+	},
+	{
+		"or": "LAN",
+		"tr": "LAN"
+	},
+	{
+		"or": "Name plates size",
+		"tr": "Veličina podloge za ime"
+	},
+	{
+		"or": "Type:",
+		"tr": "Tip:"
+	}]
+}
