@@ -54,19 +54,19 @@
 	},
 	{
 		"or": "'%s' called for vote to kick '%s' (%s)",
-		"tr": "'%s' '%s' оюнчуну кууп чыгарууга добуш берди (%s)"
+		"tr": "'%s' '%s' оюнчусун кууп чыгарууга добуш берди (%s)"
 	},
 	{
 		"or": "'%s' called for vote to move '%s' to spectators (%s)",
-		"tr": "'%s' '%s' оюнчуну байкоочуларга көчүргөнгө добуш берди (%s)"
+		"tr": "'%s' '%s' оюнчусун байкоочуларга ташууга добуш берди (%s)"
 	},
 	{
 		"or": "'%s' called vote to change server option '%s' (%s)",
-		"tr": "'%s' '%s' сервердин опциясын өзгөрткөнгө добуш берди (%s)"
+		"tr": "'%s' '%s' сервер параметрине добуш берип өзгөртүү үчүн чакырды (%s)"
 	},
 	{
 		"or": "'%s' entered and joined the %s",
-		"tr": "'%s' кирип %sна кошулду"
+		"tr": "'%s' кирип %s кошулду"
 	},
 	{
 		"or": "'%s' has left the game",
@@ -78,15 +78,15 @@
 	},
 	{
 		"or": "'%s' joined the %s",
-		"tr": "'%s' %s командасына кошулду"
+		"tr": "'%s' %s кошулду"
 	},
 	{
 		"or": "-Page %d-",
-		"tr": "-%d бет-"
+		"tr": "-%d барак-"
 	},
 	{
 		"or": "Abort",
-		"tr": "Айнуу"
+		"tr": "Жокко чыгаруу"
 	},
 	{
 		"or": "Add",
@@ -102,7 +102,7 @@
 	},
 	{
 		"or": "Admin forced server option '%s' (%s)",
-		"tr": "Админ '%s' сервер опциясын мажбурлады (%s)"
+		"tr": "Админ '%s' сервер параметрин мажбурлады (%s)"
 	},
 	{
 		"or": "Admin forced vote no",
@@ -114,7 +114,7 @@
 	},
 	{
 		"or": "Admin moved '%s' to spectator (%s)",
-		"tr": "Админ '%s' оюнчуну байкоочуга көчүрдү (%s)"
+		"tr": "Админ '%s' оюнчусун байкоочуга ташыды (%s)"
 	},
 	{
 		"or": "All",
@@ -134,15 +134,15 @@
 	},
 	{
 		"or": "Are you sure that you want to delete the demo?",
-		"tr": "Демону өчүрөсүзбү?"
+		"tr": "Сиз анык эле демону өчүрүүнү каалайсызбы?"
 	},
 	{
 		"or": "Are you sure that you want to quit?",
-		"tr": "Оюндан чыгасызбы?"
+		"tr": "Сиз анык эле оюндан чыгасызбы?"
 	},
 	{
 		"or": "Are you sure that you want to remove the player from your friends list?",
-		"tr": "Ушул оюнчуну достор тизмесинен өчүрүп салууну аныктайсызбы?"
+		"tr": "Сиз анык эле бул оюнчуну достор тизмесинен өчүрүүнү каалайсызбы?"
 	},
 	{
 		"or": "As this is the first time you launch the game, please enter your nick name below. It's recommended that you check the settings to adjust them to your liking before joining a server.",
@@ -210,7 +210,7 @@
 	},
 	{
 		"or": "Compatible version",
-		"tr": "Анык версиясы"
+		"tr": "Батышуучу версиясы"
 	},
 	{
 		"or": "Connect",
@@ -306,7 +306,7 @@
 	},
 	{
 		"or": "Downloading map",
-		"tr": "Картаны жүктөө"
+		"tr": "Картаны жүктөп алуу"
 	},
 	{
 		"or": "Draw!",
@@ -334,7 +334,7 @@
 	},
 	{
 		"or": "Error loading demo",
-		"tr": "Демонун жүктөө катасы"
+		"tr": "Демону жүктөө учурундагы ката"
 	},
 	{
 		"or": "Eyes",
@@ -386,7 +386,7 @@
 	},
 	{
 		"or": "Game info",
-		"tr": "Оюн тууралуу"
+		"tr": "Оюн жөнүндө"
 	},
 	{
 		"or": "Game over",
@@ -394,11 +394,11 @@
 	},
 	{
 		"or": "Game paused",
-		"tr": "Оюн паузага коюлду"
+		"tr": "Оюн бир азга токтотулду"
 	},
 	{
 		"or": "Game starts in",
-		"tr": "Оюн башталган убакыты"
+		"tr": "Оюнду баштоо"
 	},
 	{
 		"or": "Game type",
@@ -466,7 +466,7 @@
 	},
 	{
 		"or": "Kick voting requires %d players on the server",
-		"tr": "Оюнчуну кууп чыгарыш үчүн серверде %d оюнчу керек"
+		"tr": "Оюнчуну кууп чыгаруу үчүн серверде %d оюнчу талап кылынат"
 	},
 	{
 		"or": "Language",
@@ -514,11 +514,11 @@
 	},
 	{
 		"or": "Maximum ping:",
-		"tr": "Пинг жогорчеги:"
+		"tr": "Пингдин максимуму:"
 	},
 	{
 		"or": "Misc",
-		"tr": "Ар башка"
+		"tr": "Кошумча"
 	},
 	{
 		"or": "Mouse sens.",
@@ -530,7 +530,7 @@
 	},
 	{
 		"or": "Move player to spectators",
-		"tr": "Оюнчуну байкоочуга көчүрүү"
+		"tr": "Оюнчуну байкоочуга ташуу"
 	},
 	{
 		"or": "Move right",
@@ -538,7 +538,7 @@
 	},
 	{
 		"or": "Movement",
-		"tr": "Жылуу"
+		"tr": "Аракет"
 	},
 	{
 		"or": "Mute when not active",
@@ -578,7 +578,7 @@
 	},
 	{
 		"or": "Normal:",
-		"tr": "Жөнөкөй:"
+		"tr": "Нормалдуу:"
 	},
 	{
 		"or": "Ok",
@@ -586,7 +586,7 @@
 	},
 	{
 		"or": "Only %d active players are allowed",
-		"tr": "%d гана активдүү оюнчуга мүмкүндүк берилет"
+		"tr": "%d активдүү оюнчуга гана уруксат берилет"
 	},
 	{
 		"or": "Open",
@@ -594,7 +594,7 @@
 	},
 	{
 		"or": "Parent Folder",
-		"tr": "Энелик папка"
+		"tr": "Ата-энелик папка"
 	},
 	{
 		"or": "Password",
@@ -618,7 +618,7 @@
 	},
 	{
 		"or": "Play",
-		"tr": "Көрүү"
+		"tr": "Ойноо"
 	},
 	{
 		"or": "Play background music",
@@ -638,7 +638,7 @@
 	},
 	{
 		"or": "Players",
-		"tr": "Оюнчулар"
+		"tr": "Оюнчу."
 	},
 	{
 		"or": "Please balance teams!",
@@ -646,7 +646,7 @@
 	},
 	{
 		"or": "Prev. weapon",
-		"tr": "Абалкы курал"
+		"tr": "Мурунку курал"
 	},
 	{
 		"or": "Quality Textures",
@@ -658,7 +658,7 @@
 	},
 	{
 		"or": "REC %3d:%02d",
-		"tr": "REC %3d:%02d"
+		"tr": "ЖАЗУУ %3d:%02d"
 	},
 	{
 		"or": "Ready",
@@ -714,7 +714,7 @@
 	},
 	{
 		"or": "Reset filter",
-		"tr": "Фильтрды түшүрүү"
+		"tr": "Фильтрди түшүрүү"
 	},
 	{
 		"or": "Resolutions",
@@ -722,7 +722,7 @@
 	},
 	{
 		"or": "Respawn",
-		"tr": "Кайра жаралуу"
+		"tr": "Респаун"
 	},
 	{
 		"or": "Round over",
@@ -758,7 +758,7 @@
 	},
 	{
 		"or": "Score limit",
-		"tr": "Упай лимити"
+		"tr": "Упай боюнча чектөө"
 	},
 	{
 		"or": "Scoreboard",
@@ -778,15 +778,15 @@
 	},
 	{
 		"or": "Server details",
-		"tr": "Сервер жөнүндө"
+		"tr": "Сервер деталдары"
 	},
 	{
 		"or": "Server does not allow voting to kick players",
-		"tr": "Серверден оюнчуларды кууп чыгарса болбойт"
+		"tr": "Сервер, оюнчуларды кууп чыгаруу добушка уруксат бербейт"
 	},
 	{
 		"or": "Server does not allow voting to move players to spectators",
-		"tr": "Серверден оюнчуларды байкоочуга көчүрсө болбойт"
+		"tr": "Сервер, оюнчуларды байкоочуга ташуу добушка уруксат бербейт"
 	},
 	{
 		"or": "Server filter",
@@ -830,7 +830,7 @@
 	},
 	{
 		"or": "Show only chat messages from friends",
-		"tr": "Достордон гана чат билдирмелерди көрсөтүү"
+		"tr": "Достордун гана чат билдирүүлөрүн көрсөтүү"
 	},
 	{
 		"or": "Show only supported",
@@ -866,7 +866,7 @@
 	},
 	{
 		"or": "Spectate previous",
-		"tr": "Абалкыны байкоо"
+		"tr": "Мурункуну байкоо"
 	},
 	{
 		"or": "Spectator mode",
@@ -878,7 +878,7 @@
 	},
 	{
 		"or": "Spectators aren't allowed to start a vote.",
-		"tr": "Байкоочуларга добуш берсе болбойт"
+		"tr": "Байкоочуларда добушту баштоо мүмкүнкүнчүлүктөрү жок"
 	},
 	{
 		"or": "Standard Gametype",
@@ -946,7 +946,7 @@
 	},
 	{
 		"or": "Teeworlds %s is out! Download it at www.teeworlds.com!",
-		"tr": "Teeworlds %s чыкты! www.teeworlds.com сайтынан жүктөңүз!"
+		"tr": "Teeworlds %s чыкты! www.teeworlds.com сайтынан жүктөп алыңыз!"
 	},
 	{
 		"or": "Texture",
@@ -958,7 +958,7 @@
 	},
 	{
 		"or": "The audio device couldn't be initialised.",
-		"tr": "Аудио орнотмону инициализациялап алуу оңунан чыккан жок."
+		"tr": "Аудио түзмөктү инициализациялап алууга мүмкүн эмес."
 	},
 	{
 		"or": "The server is running a non-standard tuning on a pure game type.",
@@ -970,11 +970,11 @@
 	},
 	{
 		"or": "Time limit",
-		"tr": "Убакыт лимити"
+		"tr": "Убакыт боюнча чектөө"
 	},
 	{
 		"or": "Time limit: %d min",
-		"tr": "Убакыт лимити: %d мүн."
+		"tr": "Убакыт боюнча чектөө: %d мүн."
 	},
 	{
 		"or": "Try again",
@@ -998,7 +998,7 @@
 	},
 	{
 		"or": "Use team colors for name plates",
-		"tr": "Аттарга команданын түсүн колдонуу"
+		"tr": "Аттар үчүн команданын түсүн колдонуу"
 	},
 	{
 		"or": "V-Sync",
@@ -1074,35 +1074,35 @@
 	},
 	{
 		"or": "You must restart the game for all settings to take effect.",
-		"tr": "Өзгөртүүлөрдү колдонуу үчүн, оюнду кайтадан жүргүзүш керек."
+		"tr": "Өзгөртүүлөрдү колдонуу үчүн, оюнду кайтадан жүргүзүү керек."
 	},
 	{
 		"or": "You must wait %d seconds before making another vote",
-		"tr": "Башка добушту башташ үчүн, сиз %d секунда күтүшүңүз керек"
+		"tr": "Башка добушту баштоо үчүн, сиз %d секунда күтүшүңүз керек"
 	},
 	{
 		"or": "blue",
-		"tr": "көк"
+		"tr": "көккө"
 	},
 	{
 		"or": "blue team",
-		"tr": "көк командасы"
+		"tr": "көк командасына"
 	},
 	{
 		"or": "game",
-		"tr": "оюн"
+		"tr": "оюнга"
 	},
 	{
 		"or": "red",
-		"tr": "кызыл"
+		"tr": "кызылга"
 	},
 	{
 		"or": "red team",
-		"tr": "кызыл командасы"
+		"tr": "кызыл командасына"
 	},
 	{
 		"or": "spectators",
-		"tr": "байкоочулар"
+		"tr": "байкоочуларга"
 	},
 	{
 		"or": "wait for more players",
@@ -1111,79 +1111,79 @@
 "needs translation": [
 	{
 		"or": "%.3f KiB",
-		"tr": ""
+		"tr": "%.3f КиБ"
 	},
 	{
 		"or": "Are you sure you want to rename the demo?",
-		"tr": ""
+		"tr": "Сиз анык эле демонун атын өзгөрткүңүз келеби?"
 	},
 	{
 		"or": "Are you sure you want to save your skin? If a skin with this name already exists, it will be replaced.",
-		"tr": ""
+		"tr": "Сиз анык эле териңизди сактаңыз келеби? Эгер эчак эле мындай аты менен тери бар болуп калса, анда ал алмаштырылат."
 	},
 	{
 		"or": "Browser",
-		"tr": ""
+		"tr": "Браузер"
 	},
 	{
 		"or": "Color",
-		"tr": ""
+		"tr": "Түс"
 	},
 	{
 		"or": "Global",
-		"tr": ""
+		"tr": "Глобалдык"
 	},
 	{
 		"or": "Host address:",
-		"tr": ""
+		"tr": "Дарек"
 	},
 	{
 		"or": "Join",
-		"tr": ""
+		"tr": "Кошулуу"
 	},
 	{
 		"or": "Joined",
-		"tr": ""
+		"tr": "Кошулду"
 	},
 	{
 		"or": "Joined blue",
-		"tr": ""
+		"tr": "Көккө кошулду"
 	},
 	{
 		"or": "Joined red",
-		"tr": ""
+		"tr": "Кызылга кошулду"
 	},
 	{
 		"or": "Local",
-		"tr": ""
+		"tr": "Жердик"
 	},
 	{
 		"or": "Nickname is empty.",
-		"tr": ""
+		"tr": "Такма ат бош"
 	},
 	{
 		"or": "Record",
-		"tr": ""
+		"tr": "Жазуу"
 	},
 	{
 		"or": "Search:",
-		"tr": ""
+		"tr": "Издөө:"
 	},
 	{
 		"or": "Spectating",
-		"tr": ""
+		"tr": "Байкоо"
 	},
 	{
 		"or": "Tattoo",
-		"tr": ""
+		"tr": "Тату"
 	},
 	{
 		"or": "locked",
-		"tr": ""
+		"tr": "блоктолду"
 	},
 	{
 		"or": "no players",
-		"tr": ""
+		"tr": "оюнчулар жок"
 	}],
 "old translations": [
 	{
