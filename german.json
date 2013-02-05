@@ -16,7 +16,8 @@
 		"andi103		2011-05-03 23:25:20",
 		"heinrich5991	2011-07-02 09:10:21",
 		"Yared Hufkens	2012-02-03 19:57:59",
-		"andi103		2012-07-14 11:31:11"
+		"andi103		2012-07-14 11:31:11",
+		"[TeeKnight]Patrick[GER]	2013-02-05 12:15:00"
 	]},
 "translated strings": [
 	{
@@ -794,7 +795,7 @@
 	},
 	{
 		"or": "%d servers, %d players",
-		"tr": ""
+		"tr": "%d Server, %d Spieler"
 	},
 	{
 		"or": "'%s' called for vote to kick '%s' (%s)",
@@ -850,15 +851,15 @@
 	},
 	{
 		"or": "Are you sure you want to rename the demo?",
-		"tr": ""
+		"tr": "Bist du sicher, dass du diese Demo umbenennen möchtest?"
 	},
 	{
 		"or": "Are you sure you want to save your skin? If a skin with this name already exists, it will be replaced.",
-		"tr": ""
+		"tr": "Bist du sicher, dass du deinen Skin speichern möchtest? Falls ein ein bereits vorhandener Skin den gleichen Namen hat, wird dieser ersetzt."
 	},
 	{
 		"or": "Back",
-		"tr": ""
+		"tr": "Zurück"
 	},
 	{
 		"or": "Basic",
@@ -866,7 +867,7 @@
 	},
 	{
 		"or": "Bodies",
-		"tr": ""
+		"tr": "Körper"
 	},
 	{
 		"or": "Borderless window",
@@ -878,7 +879,7 @@
 	},
 	{
 		"or": "Color",
-		"tr": ""
+		"tr": "Farbe"
 	},
 	{
 		"or": "Crc",
@@ -886,11 +887,11 @@
 	},
 	{
 		"or": "Created",
-		"tr": ""
+		"tr": "Erstellt"
 	},
 	{
 		"or": "Custom",
-		"tr": ""
+		"tr": "Anpassen"
 	},
 	{
 		"or": "Customize",
@@ -902,7 +903,7 @@
 	},
 	{
 		"or": "Demo",
-		"tr": ""
+		"tr": "Demo"
 	},
 	{
 		"or": "Detail",
@@ -914,7 +915,7 @@
 	},
 	{
 		"or": "Eyes",
-		"tr": ""
+		"tr": "Augen"
 	},
 	{
 		"or": "Format",
@@ -922,7 +923,7 @@
 	},
 	{
 		"or": "Game starts in",
-		"tr": ""
+		"tr": "Spiel beginnt in"
 	},
 	{
 		"or": "Global",
@@ -930,7 +931,7 @@
 	},
 	{
 		"or": "Hands",
-		"tr": ""
+		"tr": "Hände"
 	},
 	{
 		"or": "Host address:",
@@ -942,7 +943,7 @@
 	},
 	{
 		"or": "Join",
-		"tr": ""
+		"tr": "Beitreten"
 	},
 	{
 		"or": "Joined",
@@ -962,11 +963,11 @@
 	},
 	{
 		"or": "Laser",
-		"tr": ""
+		"tr": "Laser"
 	},
 	{
 		"or": "Length",
-		"tr": ""
+		"tr": "Länge"
 	},
 	{
 		"or": "Letterbox",
@@ -978,11 +979,11 @@
 	},
 	{
 		"or": "Local",
-		"tr": ""
+		"tr": "Lokal"
 	},
 	{
 		"or": "Local server",
-		"tr": ""
+		"tr": "Lokaler Server"
 	},
 	{
 		"or": "Match",
@@ -1002,7 +1003,7 @@
 	},
 	{
 		"or": "Nickname is empty.",
-		"tr": ""
+		"tr": "Spielername ist leer."
 	},
 	{
 		"or": "Normal:",
@@ -1010,7 +1011,7 @@
 	},
 	{
 		"or": "Only %d active players are allowed",
-		"tr": ""
+		"tr": "Nur %d aktiven Spielern ist es erlaubt"
 	},
 	{
 		"or": "Personal",
@@ -1018,19 +1019,19 @@
 	},
 	{
 		"or": "Ready",
-		"tr": ""
+		"tr": "Bereit"
 	},
 	{
 		"or": "Record",
-		"tr": ""
+		"tr": "Aufnehmen"
 	},
 	{
 		"or": "Recorded",
-		"tr": ""
+		"tr": "Aufgenommen"
 	},
 	{
 		"or": "Reset",
-		"tr": ""
+		"tr": "Zurücksetzten"
 	},
 	{
 		"or": "Resolutions",
@@ -1050,11 +1051,11 @@
 	},
 	{
 		"or": "Save",
-		"tr": ""
+		"tr": "Speichern"
 	},
 	{
 		"or": "Save skin",
-		"tr": ""
+		"tr": "Speichere Skin"
 	},
 	{
 		"or": "Screen",
@@ -1062,11 +1063,11 @@
 	},
 	{
 		"or": "Search:",
-		"tr": ""
+		"tr": "Suche"
 	},
 	{
 		"or": "Server does not allow voting to kick players",
-		"tr": ""
+		"tr": "Server erlaubt es nicht, Spieler zu kicken"
 	},
 	{
 		"or": "Server does not allow voting to move players to spectators",
@@ -1078,11 +1079,11 @@
 	},
 	{
 		"or": "Size",
-		"tr": ""
+		"tr": "Größe"
 	},
 	{
 		"or": "Skin",
-		"tr": ""
+		"tr": "Skin"
 	},
 	{
 		"or": "Spectating",
@@ -1094,19 +1095,19 @@
 	},
 	{
 		"or": "Standard Gametype",
-		"tr": ""
+		"tr": "Standart Gametype"
 	},
 	{
 		"or": "Tattoo",
-		"tr": ""
+		"tr": "Tattoo"
 	},
 	{
 		"or": "Tattoos",
-		"tr": ""
+		"tr": "Tattoos"
 	},
 	{
 		"or": "Team:",
-		"tr": ""
+		"tr": "Team"
 	},
 	{
 		"or": "Teams are locked",
@@ -1126,7 +1127,7 @@
 	},
 	{
 		"or": "Tee",
-		"tr": ""
+		"tr": "Tee"
 	},
 	{
 		"or": "Texture",
@@ -1134,7 +1135,7 @@
 	},
 	{
 		"or": "Volume",
-		"tr": ""
+		"tr": "Lautstärke"
 	},
 	{
 		"or": "Vote aborted",
@@ -1166,15 +1167,15 @@
 	},
 	{
 		"or": "blue",
-		"tr": ""
+		"tr": "blau"
 	},
 	{
 		"or": "blue team",
-		"tr": ""
+		"tr": "blaues Team"
 	},
 	{
 		"or": "game",
-		"tr": ""
+		"tr": "Spiel"
 	},
 	{
 		"or": "locked",
@@ -1182,15 +1183,15 @@
 	},
 	{
 		"or": "no players",
-		"tr": ""
+		"tr": "keine Spieler"
 	},
 	{
 		"or": "red",
-		"tr": ""
+		"tr": "rot"
 	},
 	{
 		"or": "red team",
-		"tr": ""
+		"tr": "rotes Team"
 	},
 	{
 		"or": "spectators",
