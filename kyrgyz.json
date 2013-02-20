@@ -1,9 +1,14 @@
 {"authors": {
 	"originally created by": "chingis",
 	"modified by": [
-		"chingis			2012-10-27 00:50:58"
+		"chingis			2012-10-27 00:50:58",
+		"chingis			2013-01-10 11:13:34"
 	]},
 "translated strings": [
+	{
+		"or": "%.3f KiB",
+		"tr": "%.3f КиБ"
+	},
 	{
 		"or": "%d player left",
 		"tr": "%d оюнчу чыкты"
@@ -145,6 +150,14 @@
 		"tr": "Сиз анык эле бул оюнчуну достор тизмесинен өчүрүүнү каалайсызбы?"
 	},
 	{
+		"or": "Are you sure you want to rename the demo?",
+		"tr": "Сиз анык эле демонун атын өзгөрткүңүз келеби?"
+	},
+	{
+		"or": "Are you sure you want to save your skin? If a skin with this name already exists, it will be replaced.",
+		"tr": "Сиз анык эле териңизди сактаңыз келеби? Эгер эчак эле мындай аты менен тери бар болуп калса, анда ал алмаштырылат."
+	},
+	{
 		"or": "As this is the first time you launch the game, please enter your nick name below. It's recommended that you check the settings to adjust them to your liking before joining a server.",
 		"tr": "Бул оюндун биринчи жүргүзүлүшү болгону үчүн, төмөн жакка такма атыңызды киргизип, жана ырастоолорду текшерип коюңуз."
 	},
@@ -173,16 +186,12 @@
 		"tr": "Көктөр утту!"
 	},
 	{
-		"or": "Bodies",
-		"tr": "Денелер"
-	},
-	{
-		"or": "Body",
-		"tr": "Дене"
-	},
-	{
 		"or": "Borderless window",
 		"tr": "Чек арасыз терезе"
+	},
+	{
+		"or": "Browser",
+		"tr": "Браузер"
 	},
 	{
 		"or": "Call vote",
@@ -207,6 +216,10 @@
 	{
 		"or": "Close",
 		"tr": "Чыгуу"
+	},
+	{
+		"or": "Color",
+		"tr": "Түс"
 	},
 	{
 		"or": "Compatible version",
@@ -263,10 +276,6 @@
 	{
 		"or": "Customize",
 		"tr": "Ырастоо"
-	},
-	{
-		"or": "Decoration",
-		"tr": "Жасалга"
 	},
 	{
 		"or": "Delete",
@@ -337,20 +346,12 @@
 		"tr": "Демону жүктөө учурундагы ката"
 	},
 	{
-		"or": "Eyes",
-		"tr": "Көз"
-	},
-	{
 		"or": "Favorite",
 		"tr": "Тандалма"
 	},
 	{
 		"or": "Favorites",
 		"tr": "Тандалмалар"
-	},
-	{
-		"or": "Feet",
-		"tr": "Бут"
 	},
 	{
 		"or": "Fire",
@@ -413,6 +414,10 @@
 		"tr": "Жалпы"
 	},
 	{
+		"or": "Global",
+		"tr": "Глобалдык"
+	},
+	{
 		"or": "Graphics",
 		"tr": "Графика"
 	},
@@ -423,10 +428,6 @@
 	{
 		"or": "Hammer",
 		"tr": "Барскан"
-	},
-	{
-		"or": "Hands",
-		"tr": "Кол"
 	},
 	{
 		"or": "Has people playing",
@@ -441,6 +442,10 @@
 		"tr": "Илмек"
 	},
 	{
+		"or": "Host address:",
+		"tr": "Дарек"
+	},
+	{
 		"or": "Hue:",
 		"tr": "Түс:"
 	},
@@ -449,12 +454,28 @@
 		"tr": "Жарабас демо"
 	},
 	{
+		"or": "Join",
+		"tr": "Кошулуу"
+	},
+	{
 		"or": "Join blue",
 		"tr": "Көккө"
 	},
 	{
 		"or": "Join red",
 		"tr": "Кызылга"
+	},
+	{
+		"or": "Joined",
+		"tr": "Кошулду"
+	},
+	{
+		"or": "Joined blue",
+		"tr": "Көккө кошулду"
+	},
+	{
+		"or": "Joined red",
+		"tr": "Кызылга кошулду"
 	},
 	{
 		"or": "Jump",
@@ -491,6 +512,10 @@
 	{
 		"or": "Loading",
 		"tr": "Жүктөө"
+	},
+	{
+		"or": "Local",
+		"tr": "Жердик"
 	},
 	{
 		"or": "Local server",
@@ -559,6 +584,10 @@
 	{
 		"or": "Nickname",
 		"tr": "Такма ат"
+	},
+	{
+		"or": "Nickname is empty.",
+		"tr": "Такма ат бош"
 	},
 	{
 		"or": "No",
@@ -669,6 +698,10 @@
 		"tr": "Себеп:"
 	},
 	{
+		"or": "Record",
+		"tr": "Жазуу"
+	},
+	{
 		"or": "Recorded",
 		"tr": "Жазылды"
 	},
@@ -773,6 +806,10 @@
 		"tr": "Экран сүрөтү"
 	},
 	{
+		"or": "Search:",
+		"tr": "Издөө:"
+	},
+	{
 		"or": "Server address:",
 		"tr": "Сервер дареги:"
 	},
@@ -869,6 +906,10 @@
 		"tr": "Мурункуну байкоо"
 	},
 	{
+		"or": "Spectating",
+		"tr": "Байкоо"
+	},
+	{
 		"or": "Spectator mode",
 		"tr": "Байкоочу режими"
 	},
@@ -907,10 +948,6 @@
 	{
 		"or": "Switch weapon on pickup",
 		"tr": "Көтөрүлгөн куралга которуу"
-	},
-	{
-		"or": "Tattoos",
-		"tr": "Татулар"
 	},
 	{
 		"or": "Team",
@@ -1093,6 +1130,14 @@
 		"tr": "оюнга"
 	},
 	{
+		"or": "locked",
+		"tr": "блоктолду"
+	},
+	{
+		"or": "no players",
+		"tr": "оюнчулар жок"
+	},
+	{
 		"or": "red",
 		"tr": "кызылга"
 	},
@@ -1109,86 +1154,15 @@
 		"tr": "дагы оюнчуларды күтүңүз"
 	}],
 "needs translation": [
-	{
-		"or": "%.3f KiB",
-		"tr": "%.3f КиБ"
-	},
-	{
-		"or": "Are you sure you want to rename the demo?",
-		"tr": "Сиз анык эле демонун атын өзгөрткүңүз келеби?"
-	},
-	{
-		"or": "Are you sure you want to save your skin? If a skin with this name already exists, it will be replaced.",
-		"tr": "Сиз анык эле териңизди сактаңыз келеби? Эгер эчак эле мындай аты менен тери бар болуп калса, анда ал алмаштырылат."
-	},
-	{
-		"or": "Browser",
-		"tr": "Браузер"
-	},
-	{
-		"or": "Color",
-		"tr": "Түс"
-	},
-	{
-		"or": "Global",
-		"tr": "Глобалдык"
-	},
-	{
-		"or": "Host address:",
-		"tr": "Дарек"
-	},
-	{
-		"or": "Join",
-		"tr": "Кошулуу"
-	},
-	{
-		"or": "Joined",
-		"tr": "Кошулду"
-	},
-	{
-		"or": "Joined blue",
-		"tr": "Көккө кошулду"
-	},
-	{
-		"or": "Joined red",
-		"tr": "Кызылга кошулду"
-	},
-	{
-		"or": "Local",
-		"tr": "Жердик"
-	},
-	{
-		"or": "Nickname is empty.",
-		"tr": "Такма ат бош"
-	},
-	{
-		"or": "Record",
-		"tr": "Жазуу"
-	},
-	{
-		"or": "Search:",
-		"tr": "Издөө:"
-	},
-	{
-		"or": "Spectating",
-		"tr": "Байкоо"
-	},
-	{
-		"or": "Tattoo",
-		"tr": "Тату"
-	},
-	{
-		"or": "locked",
-		"tr": "блоктолду"
-	},
-	{
-		"or": "no players",
-		"tr": "оюнчулар жок"
-	}],
+],
 "old translations": [
 	{
 		"or": "Internet",
 		"tr": "Интернет"
+	},
+	{
+		"or": "Body",
+		"tr": "Дене"
 	},
 	{
 		"or": "Max demos",
@@ -1197,6 +1171,10 @@
 	{
 		"or": "Are you sure you want to save your skin ? If a skin with this name already exists, it will be replaced.",
 		"tr": "Бул ат бош эмес, эгер сактасаңыз эски териңиз жаңы тери менен алмаштырылып калат."
+	},
+	{
+		"or": "Hands",
+		"tr": "Кол"
 	},
 	{
 		"or": "News",
@@ -1217,6 +1195,10 @@
 	{
 		"or": "New name:",
 		"tr": "Жаңы ат:"
+	},
+	{
+		"or": "Bodies",
+		"tr": "Денелер"
 	},
 	{
 		"or": "%d of %d servers, %d players",
@@ -1265,6 +1247,10 @@
 	{
 		"or": "%d Bytes",
 		"tr": "%d байт"
+	},
+	{
+		"or": "Tattoo",
+		"tr": "Тату"
 	},
 	{
 		"or": "Info",
@@ -1319,12 +1305,24 @@
 		"tr": "Тез издөө:"
 	},
 	{
+		"or": "Feet",
+		"tr": "Бут"
+	},
+	{
+		"or": "Eyes",
+		"tr": "Көз"
+	},
+	{
 		"or": "UI Color",
 		"tr": "Интерфейс түсү"
 	},
 	{
 		"or": "Host address",
 		"tr": "Сервер дареги"
+	},
+	{
+		"or": "Tattoos",
+		"tr": "Татулар"
 	},
 	{
 		"or": "Hue",
@@ -1353,6 +1351,10 @@
 	{
 		"or": "Name plates size",
 		"tr": "Өлчөм"
+	},
+	{
+		"or": "Decoration",
+		"tr": "Жасалга"
 	},
 	{
 		"or": "Type:",
