@@ -42,7 +42,7 @@
 	},
 	{
 		"or": "%s wins!",
-		"tr": "%s wint!"
+		"tr": "%s wins"
 	},
 	{
 		"or": "-Page %d-",
@@ -58,7 +58,7 @@
 	},
 	{
 		"or": "Add Friend",
-		"tr": "Voeg vriend toe"
+		"tr": "Vriend toevoegen"
 	},
 	{
 		"or": "Address",
