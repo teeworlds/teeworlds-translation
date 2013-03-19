@@ -5,7 +5,7 @@
 		"Alexandre		2011-07-11 11:30:00",
 		"GaBOr			2011-07-15 01:23:39",
 		"HeroiAmarelo	2012-08-01 15:52:45",
-		"Mortcheck		2012-11-03 22:58:43"
+		"Mortchek		2012-11-03 22:58:43"
 	]},
 "translated strings": [
 	{
@@ -25,6 +25,22 @@
 		"tr": "%i minutos restantes"
 	},
 	{
+		"or": "%d player left",
+		"tr": "%d jugador restante"
+	},
+	{
+		"or": "%d player not ready",
+		"tr": "%d jugador no listo"
+	},
+	{
+		"or": "%d players left",
+		"tr": "%d jugadores restantes"
+	},
+	{
+		"or": "%d players not ready",
+		"tr": "%d jugadores no listos"
+	},
+	{
 		"or": "%i second left",
 		"tr": "%i segundo restante"
 	},
@@ -37,6 +53,14 @@
 		"tr": "¡%s gana!"
 	},
 	{
+		"or": "'%s' called for vote to move '%s' to spectators (%s)",
+		"tr": "'%s' inició una votación para mover '%s' a espectadores (%s)"
+	},
+	{
+		"or": "'%s' called vote to change server option '%s' (%s)",
+		"tr": "'%s' inició una votación para cambiar la opción del servidor '%s' (%s)"
+	},
+	{
 		"or": "'%s' entered and joined the %s",
 		"tr": "'%s' entró y se unió el %s"
 	},
@@ -47,6 +71,10 @@
 	{
 		"or": "'%s' has left the game (%s)",
 		"tr": "'%s' ha salido del juego (%s)"
+	},
+	{
+		"or": "'%s' joined the %s",
+		"tr": "'%s' se unió el %s"
 	},
 	{
 		"or": "-Page %d-",
@@ -69,6 +97,22 @@
 		"tr": "Dirección"
 	},
 	{
+		"or": "Admin forced server option '%s' (%s)",
+		"tr": "El admin forzó la opción del servidor '%s' (%s)"
+	},
+	{
+		"or": "Admin forced vote no",
+		"tr": "El admin forzó la votación no"
+	},
+	{
+		"or": "Admin forced vote yes",
+		"tr": "El admin forzó la votación sí"
+	},
+	{
+		"or": "Admin moved '%s' to spectator (%s)",
+		"tr": "El admin movió '%s' a espectadores (%s)"
+	},
+	{
 		"or": "All",
 		"tr": "Todos"
 	},
@@ -87,6 +131,10 @@
 	{
 		"or": "Are you sure that you want to remove the player from your friends list?",
 		"tr": "¿Estás seguro de que quieres eliminar a este jugador de la lista de amigos?"
+	},
+	{
+		"or": "Are you sure you want to rename the demo?",
+		"tr": "¿Estás seguro de que quieres renombrar la demo?"
 	},
 	{
 		"or": "As this is the first time you launch the game, please enter your nick name below. It's recommended that you check the settings to adjust them to your liking before joining a server.",
@@ -341,6 +389,10 @@
 		"tr": "Expulsar jugador"
 	},
 	{
+		"or": "Kick voting requires %d players on the server",
+		"tr": "Votar para expulsar un jugador requiere %d jugadores en el servidor"
+	},
+	{
 		"or": "Language",
 		"tr": "Idioma"
 	},
@@ -415,6 +467,10 @@
 	{
 		"or": "Ok",
 		"tr": "Aceptar"
+	},
+	{
+		"or": "Only %d active players are allowed",
+		"tr": "Solos %d jugadores activos son permitidos"
 	},
 	{
 		"or": "Open",
@@ -565,6 +621,14 @@
 		"tr": "Detalles del servidor"
 	},
 	{
+		"or": "Server does not allow voting to kick players",
+		"tr": "El servidor no permite votar para expulsar jugadores"
+	},
+	{
+		"or": "Server does not allow voting to move players to spectators",
+		"tr": "El servidor no permite votar para mover jugadores a espectadores"
+	},
+	{
 		"or": "Server filter",
 		"tr": "Filtro del servidor"
 	},
@@ -575,6 +639,10 @@
 	{
 		"or": "Server not full",
 		"tr": "Servidor sin llenar"
+	},
+	{
+		"or": "Servers",
+		"tr": "Servidores"
 	},
 	{
 		"or": "Settings",
@@ -633,12 +701,20 @@
 		"tr": "Observar anterior"
 	},
 	{
+		"or": "Spectating",
+		"tr": "Espectadores"
+	},
+	{
 		"or": "Spectator mode",
 		"tr": "Modo espectador"
 	},
 	{
 		"or": "Spectators",
 		"tr": "Espectadores"
+	},
+	{
+		"or": "Spectators aren't allowed to start a vote.",
+		"tr": "Los espectadores no son permitidos iniciar una votación."
 	},
 	{
 		"or": "Standard gametype",
@@ -665,12 +741,24 @@
 		"tr": "Cambiar al arma recogida"
 	},
 	{
+		"or": "Tattoo",
+		"tr": "Tatuaje"
+	},
+	{
+		"or": "Tattoos",
+		"tr": "Tatuajes"
+	},
+	{
 		"or": "Team",
 		"tr": "Equipo"
 	},
 	{
 		"or": "Team chat",
 		"tr": "En equipo"
+	},
+	{
+		"or": "Team:",
+		"tr": "Equipo:"
 	},
 	{
 		"or": "Teeworlds %s is out! Download it at www.teeworlds.com!",
@@ -733,6 +821,10 @@
 		"tr": "Versión"
 	},
 	{
+		"or": "Vote aborted",
+		"tr": "La votación fue cancelado"
+	},
+	{
 		"or": "Vote command:",
 		"tr": "Comando de votación:"
 	},
@@ -741,8 +833,16 @@
 		"tr": "Descripción de la votación:"
 	},
 	{
+		"or": "Vote failed",
+		"tr": "La votación fracasó"
+	},
+	{
 		"or": "Vote no",
 		"tr": "Votar no"
+	},
+	{
+		"or": "Vote passed",
+		"tr": "La votación fue aprobada"
 	},
 	{
 		"or": "Vote yes",
@@ -771,26 +871,34 @@
 	{
 		"or": "You must restart the game for all settings to take effect.",
 		"tr": "Debes reiniciar el juego para que los cambios tengan efecto."
+	},
+	{
+		"or": "You must wait %d seconds before making another vote",
+		"tr": "Debes esperar %d segundos antes de iniciar otra votación"
+	},
+	{
+		"or": "blue",
+		"tr": "azul"
+	},
+	{
+		"or": "blue team",
+		"tr": "equipo azul"
+	},
+	{
+		"or": "red",
+		"tr": "rojo"
+	},
+	{
+		"or": "red team",
+		"tr": "equipo rojo"
+	},
+	{
+		"or": "spectators",
+		"tr": "espectadores"
 	}],
 "needs translation": [
 	{
 		"or": "%.3f KiB",
-		"tr": ""
-	},
-	{
-		"or": "%d player left",
-		"tr": ""
-	},
-	{
-		"or": "%d player not ready",
-		"tr": ""
-	},
-	{
-		"or": "%d players left",
-		"tr": ""
-	},
-	{
-		"or": "%d players not ready",
 		"tr": ""
 	},
 	{
@@ -802,43 +910,11 @@
 		"tr": ""
 	},
 	{
-		"or": "'%s' called for vote to move '%s' to spectators (%s)",
-		"tr": ""
-	},
-	{
-		"or": "'%s' called vote to change server option '%s' (%s)",
-		"tr": ""
-	},
-	{
-		"or": "'%s' joined the %s",
-		"tr": ""
-	},
-	{
-		"or": "Admin forced server option '%s' (%s)",
-		"tr": ""
-	},
-	{
-		"or": "Admin forced vote no",
-		"tr": ""
-	},
-	{
-		"or": "Admin forced vote yes",
-		"tr": ""
-	},
-	{
-		"or": "Admin moved '%s' to spectator (%s)",
-		"tr": ""
-	},
-	{
 		"or": "Alp:",
 		"tr": ""
 	},
 	{
 		"or": "Anti Aliasing",
-		"tr": ""
-	},
-	{
-		"or": "Are you sure you want to rename the demo?",
 		"tr": ""
 	},
 	{
@@ -946,10 +1022,6 @@
 		"tr": ""
 	},
 	{
-		"or": "Kick voting requires %d players on the server",
-		"tr": ""
-	},
-	{
 		"or": "Laser",
 		"tr": ""
 	},
@@ -995,10 +1067,6 @@
 	},
 	{
 		"or": "Normal:",
-		"tr": ""
-	},
-	{
-		"or": "Only %d active players are allowed",
 		"tr": ""
 	},
 	{
@@ -1054,18 +1122,6 @@
 		"tr": ""
 	},
 	{
-		"or": "Server does not allow voting to kick players",
-		"tr": ""
-	},
-	{
-		"or": "Server does not allow voting to move players to spectators",
-		"tr": ""
-	},
-	{
-		"or": "Servers",
-		"tr": ""
-	},
-	{
 		"or": "Size",
 		"tr": ""
 	},
@@ -1074,27 +1130,7 @@
 		"tr": ""
 	},
 	{
-		"or": "Spectating",
-		"tr": ""
-	},
-	{
-		"or": "Spectators aren't allowed to start a vote.",
-		"tr": ""
-	},
-	{
 		"or": "Standard Gametype",
-		"tr": ""
-	},
-	{
-		"or": "Tattoo",
-		"tr": ""
-	},
-	{
-		"or": "Tattoos",
-		"tr": ""
-	},
-	{
-		"or": "Team:",
 		"tr": ""
 	},
 	{
@@ -1126,18 +1162,6 @@
 		"tr": ""
 	},
 	{
-		"or": "Vote aborted",
-		"tr": ""
-	},
-	{
-		"or": "Vote failed",
-		"tr": ""
-	},
-	{
-		"or": "Vote passed",
-		"tr": ""
-	},
-	{
 		"or": "Wait for current vote to end before calling a new one.",
 		"tr": ""
 	},
@@ -1150,18 +1174,6 @@
 		"tr": ""
 	},
 	{
-		"or": "You must wait %d seconds before making another vote",
-		"tr": ""
-	},
-	{
-		"or": "blue",
-		"tr": ""
-	},
-	{
-		"or": "blue team",
-		"tr": ""
-	},
-	{
 		"or": "game",
 		"tr": ""
 	},
@@ -1171,18 +1183,6 @@
 	},
 	{
 		"or": "no players",
-		"tr": ""
-	},
-	{
-		"or": "red",
-		"tr": ""
-	},
-	{
-		"or": "red team",
-		"tr": ""
-	},
-	{
-		"or": "spectators",
 		"tr": ""
 	},
 	{
