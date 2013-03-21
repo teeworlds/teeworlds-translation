@@ -1111,15 +1111,15 @@
 	},
 	{
 		"or": "Teams are locked",
-		"tr": "Teams sind gerschlossen"
+		"tr": "Teams sind gesperrt"
 	},
 	{
 		"or": "Teams are locked. Time to wait before changing team: %02d:%02d",
-		"tr": "Teams sind geschlossen. Zeit bis zum erlaubten Teamwechsel: %02d:%02d"
+		"tr": "Teams sind gesperrt. Zeit bis zum erlaubten Teamwechsel: %02d:%02d"
 	},
 	{
 		"or": "Teams were locked",
-		"tr": "Teams wurden geschlossen"
+		"tr": "Teams wurden gesperrt"
 	},
 	{
 		"or": "Teams were unlocked",
@@ -1155,11 +1155,11 @@
 	},
 	{
 		"or": "You must wait %d seconds before making another vote",
-		"tr": "Du musst %d warten, bevor du eine neue Abstimmung starten darfst"
+		"tr": "Du musst %d Sekunden warten, bevor du eine neue Abstimmung starten darfst"
 	},
 	{
 		"or": "locked",
-		"tr": "geschlossen"
+		"tr": "gesperrt"
 	},
 	{
 		"or": "spectators",
