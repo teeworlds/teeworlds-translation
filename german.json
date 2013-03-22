@@ -987,7 +987,7 @@
 	},
 	{
 		"or": "Borderless window",
-		"tr": "Randloses Bild"
+		"tr": "Randloses Fenster"
 	},
 	{
 		"or": "Browser",
@@ -1043,7 +1043,7 @@
 	},
 	{
 		"or": "Letterbox",
-		"tr": "Briefkasten"
+		"tr": "Letterbox"
 	},
 	{
 		"or": "Lgt:",
@@ -1051,7 +1051,7 @@
 	},
 	{
 		"or": "Match",
-		"tr": "Passen"
+		"tr": "Spiel"
 	},
 	{
 		"or": "Max",
@@ -1059,7 +1059,7 @@
 	},
 	{
 		"or": "Misc",
-		"tr": "Misc"
+		"tr": "Verschiedenes"
 	},
 	{
 		"or": "Netversion",
@@ -1067,7 +1067,7 @@
 	},
 	{
 		"or": "Normal:",
-		"tr": "Normla"
+		"tr": "Normal"
 	},
 	{
 		"or": "Personal",
@@ -1167,7 +1167,7 @@
 	},
 	{
 		"or": "wait for more players",
-		"tr": "Für mehr Spieler warten"
+		"tr": "Auf mehr Spieler warten"
 	}
 	"needs translation": [
 	],
