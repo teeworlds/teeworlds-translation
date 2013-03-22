@@ -908,267 +908,269 @@
 		"or": "red team",
 		"tr": "rotes Team"
 	}],
-"needs translation": [
+
 	{
 		"or": "%.3f KiB",
 		"tr": ""
 	},
 	{
 		"or": "%d player left",
-		"tr": ""
+		"tr": "%d Spieler übrig"
 	},
 	{
 		"or": "%d player not ready",
-		"tr": ""
+		"tr": "%d Spieler nicht bereit"
 	},
 	{
 		"or": "%d players left",
-		"tr": ""
+		"tr": "%d Spieler übrig"
 	},
 	{
 		"or": "%d players not ready",
-		"tr": ""
+		"tr": "%d Spieler nicht bereit"
 	},
 	{
 		"or": "'%s' called for vote to kick '%s' (%s)",
-		"tr": ""
+		"tr": "'%s' startete eine Abstimmung um '%s' zu kicken (%s)"
 	},
 	{
 		"or": "'%s' called for vote to move '%s' to spectators (%s)",
-		"tr": ""
+		"tr": "'%s' startete eine Abstimmung um '%s' zu Zuschauern zu bewegen (%s)"
 	},
 	{
 		"or": "'%s' called vote to change server option '%s' (%s)",
-		"tr": ""
+		"tr": "'%s' startete eine Abstimmung zum Ändern der Option '%s' (%s)"
 	},
 	{
 		"or": "'%s' entered and joined the %s",
-		"tr": ""
+		"tr": "'%s' betrat und trat %s bei"
 	},
 	{
 		"or": "'%s' has left the game",
-		"tr": ""
+		"tr": "'%s' hat das Spiel verlassen"
 	},
 	{
 		"or": "'%s' has left the game (%s)",
-		"tr": ""
+		"tr": "'%s' hat das Spiel verlassen"
 	},
 	{
 		"or": "'%s' joined the %s",
-		"tr": ""
+		"tr": "'%s' betrat das %s"
 	},
 	{
 		"or": "Admin forced server option '%s' (%s)",
-		"tr": ""
+		"tr": "Admin erzwang die Server Option '%s' (%s)"
 	},
 	{
 		"or": "Admin forced vote no",
-		"tr": ""
+		"tr": "Admin erzwang Nein Vote"
 	},
 	{
 		"or": "Admin forced vote yes",
-		"tr": ""
+		"tr": "Admin erzwang Ja Vote"
 	},
 	{
 		"or": "Admin moved '%s' to spectator (%s)",
-		"tr": ""
+		"tr": "Admin hat '%s' zum Zuschauer bewegt (%s)"
 	},
 	{
 		"or": "Alp:",
-		"tr": ""
+		"tr": "Alp:"
 	},
 	{
 		"or": "Anti Aliasing",
-		"tr": ""
+		"tr": "Anti Aliasing"
 	},
 	{
 		"or": "Basic",
-		"tr": ""
+		"tr": "Basis"
 	},
 	{
 		"or": "Borderless window",
-		"tr": ""
+		"tr": "Randloses Fenster"
 	},
 	{
 		"or": "Browser",
-		"tr": ""
+		"tr": "Browser"
 	},
 	{
 		"or": "Crc",
-		"tr": ""
+		"tr": "Crc"
 	},
 	{
 		"or": "Customize",
-		"tr": ""
+		"tr": "Anpassen"
 	},
 	{
 		"or": "Detail",
-		"tr": ""
+		"tr": "Detail"
 	},
 	{
 		"or": "Editor",
-		"tr": ""
+		"tr": "Editor"
 	},
 	{
 		"or": "Format",
-		"tr": ""
+		"tr": "Format"
 	},
 	{
 		"or": "Global",
-		"tr": ""
+		"tr": "Global"
 	},
 	{
 		"or": "Host address:",
-		"tr": ""
+		"tr": "Host Addresse"
 	},
 	{
 		"or": "Hue:",
-		"tr": ""
+		"tr": "Hue:"
 	},
 	{
 		"or": "Joined",
-		"tr": ""
+		"tr": "Betrat"
 	},
 	{
 		"or": "Joined blue",
-		"tr": ""
+		"tr": "Betrat blau"
 	},
 	{
 		"or": "Joined red",
-		"tr": ""
+		"tr": "Betrat rot"
 	},
 	{
 		"or": "Kick voting requires %d players on the server",
-		"tr": ""
+		"tr": "Kick Abstimmung benötigt %d Spieler"
 	},
 	{
 		"or": "Letterbox",
-		"tr": ""
+		"tr": "Letterbox"
 	},
 	{
 		"or": "Lgt:",
-		"tr": ""
+		"tr": "Lgt:"
 	},
 	{
 		"or": "Match",
-		"tr": ""
+		"tr": "Spiel"
 	},
 	{
 		"or": "Max",
-		"tr": ""
+		"tr": "Max"
 	},
 	{
 		"or": "Misc",
-		"tr": ""
+		"tr": "Verschiedenes"
 	},
 	{
 		"or": "Netversion",
-		"tr": ""
+		"tr": "Netversion"
 	},
 	{
 		"or": "Normal:",
-		"tr": ""
+		"tr": "Normal"
 	},
 	{
 		"or": "Personal",
-		"tr": ""
+		"tr": "Persönlich"
 	},
 	{
 		"or": "Resolutions",
-		"tr": ""
+		"tr": "Auflösung"
 	},
 	{
 		"or": "Round over",
-		"tr": ""
+		"tr": "Runde vorbei"
 	},
 	{
 		"or": "Round over!",
-		"tr": ""
+		"tr": "Rund vorbei"
 	},
 	{
 		"or": "Sat:",
-		"tr": ""
+		"tr": "Sat:"
 	},
 	{
 		"or": "Screen",
-		"tr": ""
+		"tr": "Bild"
 	},
 	{
 		"or": "Server does not allow voting to move players to spectators",
-		"tr": ""
+		"tr": "Server erlaubt nicht Spieler zu Zuschauern zu bewegen"
 	},
 	{
 		"or": "Servers",
-		"tr": ""
+		"tr": "Server"
 	},
 	{
 		"or": "Spectating",
-		"tr": ""
+		"tr": "Zuschauen"
 	},
 	{
 		"or": "Spectators aren't allowed to start a vote.",
-		"tr": ""
+		"tr": "Zuschauer dürfen keine Abstimmung starten"
 	},
 	{
 		"or": "Teams are locked",
-		"tr": ""
+		"tr": "Teams sind gesperrt"
 	},
 	{
 		"or": "Teams are locked. Time to wait before changing team: %02d:%02d",
-		"tr": ""
+		"tr": "Teams sind gesperrt. Zeit bis zum erlaubten Teamwechsel: %02d:%02d"
 	},
 	{
 		"or": "Teams were locked",
-		"tr": ""
+		"tr": "Teams wurden gesperrt"
 	},
 	{
 		"or": "Teams were unlocked",
-		"tr": ""
+		"tr": "Teams wurden geöffnet"
 	},
 	{
 		"or": "Texture",
-		"tr": ""
+		"tr": "Texture"
 	},
 	{
 		"or": "Vote aborted",
-		"tr": ""
+		"tr": "Abstimmung abgebrochen"
 	},
 	{
 		"or": "Vote failed",
-		"tr": ""
+		"tr": "Abstimmung gescheitert"
 	},
 	{
 		"or": "Vote passed",
-		"tr": ""
+		"tr": "Abstimmung erfolgreich"
 	},
 	{
 		"or": "Wait for current vote to end before calling a new one.",
-		"tr": ""
+		"tr": "Bis zum Ende der aktuellen Abstimmung warten, bevor eine neue gestartet werden kann"
 	},
 	{
 		"or": "Wait for next round",
-		"tr": ""
+		"tr": "Für nächste Runde warten"
 	},
 	{
 		"or": "Wide",
-		"tr": ""
+		"tr": "Wide"
 	},
 	{
 		"or": "You must wait %d seconds before making another vote",
-		"tr": ""
+		"tr": "Du musst %d Sekunden warten, bevor du eine neue Abstimmung starten darfst"
 	},
 	{
 		"or": "locked",
-		"tr": ""
+		"tr": "gesperrt"
 	},
 	{
 		"or": "spectators",
-		"tr": ""
+		"tr": "Zuschauer"
 	},
 	{
 		"or": "wait for more players",
-		"tr": ""
-	}],
+		"tr": "Auf mehr Spieler warten"
+	}
+	"needs translation": [
+	],
 "old translations": [
 	{
 		"or": "New name:",
