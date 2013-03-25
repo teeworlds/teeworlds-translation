@@ -751,35 +751,35 @@
 	},
 	{
 		"or": "%d player left",
-		"tr": ""
+		"tr": "%d гулец выйшаў"
 	},
 	{
 		"or": "%d player not ready",
-		"tr": ""
+		"tr": "%d гулец не гатовы "
 	},
 	{
 		"or": "%d players left",
-		"tr": ""
+		"tr": "%d гульцоў выйшла"
 	},
 	{
 		"or": "%d players not ready",
-		"tr": ""
+		"tr": "%d гульцоў не гатова"
 	},
 	{
 		"or": "%d servers, %d players",
-		"tr": ""
+		"tr": "%d сервераў, %d гульцоў"
 	},
 	{
 		"or": "'%s' called for vote to kick '%s' (%s)",
-		"tr": ""
+		"tr": "%s' выклікаў галасаванне, каб забаніць '%s' (%s)"
 	},
 	{
 		"or": "'%s' called for vote to move '%s' to spectators (%s)",
-		"tr": ""
+		"tr": ""%s' выклікаў галасаванне, каб перанесьці '%s' ў назіральнікі (%s)"
 	},
 	{
 		"or": "'%s' called vote to change server option '%s' (%s)",
-		"tr": ""
+		"tr": "%s' выклікаў галасаванне, каб змяніць налады сервера'%s' (%s)"
 	},
 	{
 		"or": "'%s' entered and joined the %s",
