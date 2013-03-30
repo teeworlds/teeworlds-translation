@@ -9,8 +9,8 @@
 		"slinack				2011-07-03 00:23:26",
 		"Ryomou Hentai Girl	2011-07-11 11:33:42",
 		"Isadora				2011-07-20 21:47:11",
-		"HeroiAmarelo		2012-08-01 15:50:18"
-		"Rafael Ferreira        2013-03-29 16:16:35"
+		"HeroiAmarelo		2012-08-01 15:50:18",
+		"Rafael Ferreira        2013-03-30 16:52:33"
 	]},
 "translated strings": [
 	{
@@ -75,7 +75,7 @@
 	},
 	{
 		"or": "Are you sure that you want to quit?",
-		"tr": "Você tem certeza que deseja sair?"
+		"tr": "Tem certeza que deseja sair?"
 	},
 	{
 		"or": "Are you sure that you want to remove the player from your friends list?",
@@ -539,7 +539,7 @@
 	},
 	{
 		"or": "Score limit",
-		"tr": "Pontuação máx."
+		"tr": "Limite de pontuação"
 	},
 	{
 		"or": "Scoreboard",
@@ -847,7 +847,7 @@
 	},
 	{
 		"or": "Are you sure you want to save your skin? If a skin with this name already exists, it will be replaced.",
-		"tr": "Tem certeza que deseja salvar sua skin? Se uma sking com este nome já existir, ela será substituída."
+		"tr": "Tem certeza que deseja salvar sua skin? Se uma skin com este nome já existir, ela será substituída."
 	},
 	{
 		"or": "Back",
@@ -927,7 +927,7 @@
 	},
 	{
 		"or": "Host address:",
-		"tr": "Endereço do servidor:"
+		"tr": "Servidor:"
 	},
 	{
 		"or": "Hue:",
@@ -943,11 +943,11 @@
 	},
 	{
 		"or": "Joined blue",
-		"tr": "Entrou no azul"
+		"tr": "Azul"
 	},
 	{
 		"or": "Joined red",
-		"tr": "Entrou no vermelho"
+		"tr": "Vermelho"
 	},
 	{
 		"or": "Kick voting requires %d players on the server",
@@ -1083,7 +1083,7 @@
 	},
 	{
 		"or": "Spectators aren't allowed to start a vote.",
-		"tr": "Observadores não são permitido para iniciar uma votação."
+		"tr": "Observadores não podem iniciar uma votação."
 	},
 	{
 		"or": "Standard Gametype",
@@ -1107,7 +1107,7 @@
 	},
 	{
 		"or": "Teams are locked. Time to wait before changing team: %02d:%02d",
-		"tr": "Times estão travados. Hora de esperar até alteração de time : %02d:%02d"
+		"tr": "Times estão travados. Tempo de espera até a troca de time : %02d:%02d"
 	},
 	{
 		"or": "Teams were locked",
@@ -1147,7 +1147,7 @@
 	},
 	{
 		"or": "Wait for next round",
-		"tr": "Espere pel próxima rodada"
+		"tr": "Espere pela próxima rodada"
 	},
 	{
 		"or": "Wide",
