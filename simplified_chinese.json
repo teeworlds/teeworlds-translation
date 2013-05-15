@@ -1,7 +1,7 @@
 {"authors": {
 	"originally created by": "MK124",
 	"modified by": [
-		""
+		"TsFreddie"
 	]},
 "translated strings": [
 	{
@@ -10,7 +10,7 @@
 	},
 	{
 		"or": "%ds left",
-		"tr": "%ds 离开了"
+		"tr": "还剩%d秒"
 	},
 	{
 		"or": "%i minute left",
@@ -58,7 +58,7 @@
 	},
 	{
 		"or": "Always show name plates",
-		"tr": "总是显示名字板"
+		"tr": "总是显示名字"
 	},
 	{
 		"or": "Are you sure that you want to delete the demo?",
@@ -134,7 +134,7 @@
 	},
 	{
 		"or": "Connection Problems...",
-		"tr": "连接出现问题..."
+		"tr": "连接中断..."
 	},
 	{
 		"or": "Console",
@@ -334,7 +334,7 @@
 	},
 	{
 		"or": "MOTD",
-		"tr": "每日通告"
+		"tr": "公告板"
 	},
 	{
 		"or": "Map",
