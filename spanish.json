@@ -5,7 +5,8 @@
 		"Alexandre		2011-07-11 11:30:00",
 		"GaBOr			2011-07-15 01:23:39",
 		"HeroiAmarelo	2012-08-01 15:52:45",
-		"Mortchek		2012-11-03 22:58:43"
+		"Mortchek		2012-11-03 22:58:43",
+		"GaBOr			2013-05-18 17:38:24",
 	]},
 "translated strings": [
 	{
@@ -30,7 +31,7 @@
 	},
 	{
 		"or": "%d player not ready",
-		"tr": "%d jugador no listo"
+		"tr": "%d jugador no está listo"
 	},
 	{
 		"or": "%d players left",
@@ -38,7 +39,7 @@
 	},
 	{
 		"or": "%d players not ready",
-		"tr": "%d jugadores no listos"
+		"tr": "%d jugadores no están listos"
 	},
 	{
 		"or": "%i second left",
@@ -66,15 +67,15 @@
 	},
 	{
 		"or": "'%s' has left the game",
-		"tr": "'%s' ha salido del juego"
+		"tr": "'%s' ha abandonado el juego"
 	},
 	{
 		"or": "'%s' has left the game (%s)",
-		"tr": "'%s' ha salido del juego (%s)"
+		"tr": "'%s' ha abandonado el juego (%s)"
 	},
 	{
 		"or": "'%s' joined the %s",
-		"tr": "'%s' se unió el %s"
+		"tr": "'%s' se unió a %s"
 	},
 	{
 		"or": "-Page %d-",
@@ -98,19 +99,19 @@
 	},
 	{
 		"or": "Admin forced server option '%s' (%s)",
-		"tr": "El admin forzó la opción del servidor '%s' (%s)"
+		"tr": "El administrador forzó la opción del servidor '%s' (%s)"
 	},
 	{
 		"or": "Admin forced vote no",
-		"tr": "El admin forzó la votación no"
+		"tr": "El administrador forzó la votación no"
 	},
 	{
 		"or": "Admin forced vote yes",
-		"tr": "El admin forzó la votación sí"
+		"tr": "El administrador forzó la votación sí"
 	},
 	{
 		"or": "Admin moved '%s' to spectator (%s)",
-		"tr": "El admin movió '%s' a espectadores (%s)"
+		"tr": "El administrador movió '%s' a espectadores (%s)"
 	},
 	{
 		"or": "All",
@@ -138,7 +139,7 @@
 	},
 	{
 		"or": "As this is the first time you launch the game, please enter your nick name below. It's recommended that you check the settings to adjust them to your liking before joining a server.",
-		"tr": "Como es la primera vez que abres el juego, por favor, introduce tu apodo. Es recomendable que verifiques tu configuración y ajustes las preferencias antes de unirte a un servidor."
+		"tr": "Como es la primera vez que inicias el juego, por favor, introduce tu apodo. Es recomendable que verifiques tu configuración y ajustes las preferencias antes de unirte a un servidor."
 	},
 	{
 		"or": "Automatically record demos",
@@ -210,7 +211,7 @@
 	},
 	{
 		"or": "Count players only",
-		"tr": "Solo contar jugadores"
+		"tr": "Sólo contar jugadores"
 	},
 	{
 		"or": "Country",
@@ -226,11 +227,11 @@
 	},
 	{
 		"or": "Delete",
-		"tr": "Borrar"
+		"tr": "Eliminar"
 	},
 	{
 		"or": "Delete demo",
-		"tr": "Borrar demo"
+		"tr": "Eliminar demo"
 	},
 	{
 		"or": "Demo details",
@@ -330,7 +331,7 @@
 	},
 	{
 		"or": "Game paused",
-		"tr": "Juego en Pausa"
+		"tr": "Juego en pausa"
 	},
 	{
 		"or": "Game type",
@@ -350,7 +351,7 @@
 	},
 	{
 		"or": "Grenade",
-		"tr": "Granada"
+		"tr": "Lanzagranadas"
 	},
 	{
 		"or": "Hammer",
@@ -358,11 +359,11 @@
 	},
 	{
 		"or": "Has people playing",
-		"tr": "Hay gente jugando"
+		"tr": "Con gente jugando"
 	},
 	{
 		"or": "High Detail",
-		"tr": "Mas detalles (HD)"
+		"tr": "Alta calidad (HD)"
 	},
 	{
 		"or": "Hook",
@@ -390,7 +391,7 @@
 	},
 	{
 		"or": "Kick voting requires %d players on the server",
-		"tr": "Votar para expulsar un jugador requiere %d jugadores en el servidor"
+		"tr": "Votar una expulsión requiere %d jugadores en el servidor"
 	},
 	{
 		"or": "Language",
@@ -414,7 +415,7 @@
 	},
 	{
 		"or": "Mouse sens.",
-		"tr": "Sensibilidad ratón"
+		"tr": "Sensibilidad"
 	},
 	{
 		"or": "Move left",
@@ -434,7 +435,7 @@
 	},
 	{
 		"or": "Mute when not active",
-		"tr": "Silenciar si no está activo"
+		"tr": "Silenciar si el juego no está activo"
 	},
 	{
 		"or": "Name",
@@ -470,7 +471,7 @@
 	},
 	{
 		"or": "Only %d active players are allowed",
-		"tr": "Solos %d jugadores activos son permitidos"
+		"tr": "Sólo se permite %d jugadores activos"
 	},
 	{
 		"or": "Open",
@@ -486,7 +487,7 @@
 	},
 	{
 		"or": "Password incorrect",
-		"tr": "Contraseña incorreta"
+		"tr": "Contraseña incorrecta"
 	},
 	{
 		"or": "Ping",
@@ -498,7 +499,7 @@
 	},
 	{
 		"or": "Play",
-		"tr": "Reproducir"
+		"tr": "Jugar"
 	},
 	{
 		"or": "Play background music",
@@ -586,11 +587,11 @@
 	},
 	{
 		"or": "Respawn",
-		"tr": "Respawn"
+		"tr": "Renacer"
 	},
 	{
 		"or": "Sample rate",
-		"tr": "Frecuencia de muestreo"
+		"tr": "Frec. muestreo"
 	},
 	{
 		"or": "Score",
@@ -602,7 +603,7 @@
 	},
 	{
 		"or": "Score limit",
-		"tr": "Límite puntos"
+		"tr": "Límite de puntos"
 	},
 	{
 		"or": "Scoreboard",
@@ -670,7 +671,7 @@
 	},
 	{
 		"or": "Show only chat messages from friends",
-		"tr": "Recibir mensages solo de amigos"
+		"tr": "Recibir mensages sólo de amigos"
 	},
 	{
 		"or": "Show only supported",
@@ -714,7 +715,7 @@
 	},
 	{
 		"or": "Spectators aren't allowed to start a vote.",
-		"tr": "Los espectadores no son permitidos iniciar una votación."
+		"tr": "No se permite que los espectadores inicien una votación."
 	},
 	{
 		"or": "Standard gametype",
@@ -726,7 +727,7 @@
 	},
 	{
 		"or": "Stop record",
-		"tr": "Detener grabación"
+		"tr": "Detener"
 	},
 	{
 		"or": "Strict gametype filter",
@@ -754,7 +755,7 @@
 	},
 	{
 		"or": "Team chat",
-		"tr": "En equipo"
+		"tr": "Conversación (al equipo)"
 	},
 	{
 		"or": "Team:",
@@ -762,7 +763,7 @@
 	},
 	{
 		"or": "Teeworlds %s is out! Download it at www.teeworlds.com!",
-		"tr": "¡Teeworlds %s ha salido! ¡Descárgalo desde www.teeworlds.com!"
+		"tr": "¡Teeworlds %s ya ha salido! ¡Descárgalo desde www.teeworlds.com!"
 	},
 	{
 		"or": "Texture Compression",
@@ -822,7 +823,7 @@
 	},
 	{
 		"or": "Vote aborted",
-		"tr": "La votación fue cancelado"
+		"tr": "La votación fue cancelada"
 	},
 	{
 		"or": "Vote command:",
@@ -838,7 +839,7 @@
 	},
 	{
 		"or": "Vote no",
-		"tr": "Votar no"
+		"tr": "Votar NO"
 	},
 	{
 		"or": "Vote passed",
@@ -846,7 +847,7 @@
 	},
 	{
 		"or": "Vote yes",
-		"tr": "Votar sí"
+		"tr": "Votar SÍ"
 	},
 	{
 		"or": "Voting",
@@ -870,7 +871,7 @@
 	},
 	{
 		"or": "You must restart the game for all settings to take effect.",
-		"tr": "Debes reiniciar el juego para que los cambios tengan efecto."
+		"tr": "Reinicia el juego para que los cambios tengan efecto."
 	},
 	{
 		"or": "You must wait %d seconds before making another vote",
@@ -895,300 +896,301 @@
 	{
 		"or": "spectators",
 		"tr": "espectadores"
-	}],
-"needs translation": [
+	},
 	{
 		"or": "%.3f KiB",
-		"tr": ""
+		"tr": "%.3f kb"
 	},
 	{
 		"or": "%d servers, %d players",
-		"tr": ""
+		"tr": "%d servidores, %d jugadores"
 	},
 	{
 		"or": "'%s' called for vote to kick '%s' (%s)",
-		"tr": ""
+		"tr": "'%s' ha votado expulsar a '%s' (%s)"
 	},
 	{
 		"or": "Alp:",
-		"tr": ""
+		"tr": "Transparencia:"
 	},
 	{
 		"or": "Anti Aliasing",
-		"tr": ""
+		"tr": "Anti-Aliasing"
 	},
 	{
 		"or": "Are you sure you want to save your skin? If a skin with this name already exists, it will be replaced.",
-		"tr": ""
+		"tr": "¿Estás seguro de que quieres guardar tu skin? Si un skin con este nombre ya existiese, será remplazado."
 	},
 	{
 		"or": "Back",
-		"tr": ""
+		"tr": "Atrás"
 	},
 	{
 		"or": "Basic",
-		"tr": ""
+		"tr": "Básico"
 	},
 	{
 		"or": "Bodies",
-		"tr": ""
+		"tr": "Cuerpos"
 	},
 	{
 		"or": "Borderless window",
-		"tr": ""
+		"tr": "Ventana sin bordes"
 	},
 	{
 		"or": "Browser",
-		"tr": ""
+		"tr": "Navegador"
 	},
 	{
 		"or": "Color",
-		"tr": ""
+		"tr": "Color"
 	},
 	{
 		"or": "Crc",
-		"tr": ""
+		"tr": "CRC"
 	},
 	{
 		"or": "Created",
-		"tr": ""
+		"tr": "Creado"
 	},
 	{
 		"or": "Custom",
-		"tr": ""
+		"tr": "Personalizado"
 	},
 	{
 		"or": "Customize",
-		"tr": ""
+		"tr": "Personalizar"
 	},
 	{
 		"or": "Decoration",
-		"tr": ""
+		"tr": "Decoración"
 	},
 	{
 		"or": "Demo",
-		"tr": ""
+		"tr": "Demo"
 	},
 	{
 		"or": "Detail",
-		"tr": ""
+		"tr": "Detalles"
 	},
 	{
 		"or": "Editor",
-		"tr": ""
+		"tr": "Editor"
 	},
 	{
 		"or": "Eyes",
-		"tr": ""
+		"tr": "Ojos"
 	},
 	{
 		"or": "Format",
-		"tr": ""
+		"tr": "Formato"
 	},
 	{
 		"or": "Game starts in",
-		"tr": ""
+		"tr": "El juego comienza en"
 	},
 	{
 		"or": "Global",
-		"tr": ""
+		"tr": "Global"
 	},
 	{
 		"or": "Hands",
-		"tr": ""
+		"tr": "Manos"
 	},
 	{
 		"or": "Host address:",
-		"tr": ""
+		"tr": "Dirección host:"
 	},
 	{
 		"or": "Hue:",
-		"tr": ""
+		"tr": "HUE:"
 	},
 	{
 		"or": "Join",
-		"tr": ""
+		"tr": "Unirse"
 	},
 	{
 		"or": "Joined",
-		"tr": ""
+		"tr": "Unido"
 	},
 	{
 		"or": "Joined blue",
-		"tr": ""
+		"tr": "Unido a azul"
 	},
 	{
 		"or": "Joined red",
-		"tr": ""
+		"tr": "Unido a rojo"
 	},
 	{
 		"or": "Laser",
-		"tr": ""
+		"tr": "Láser"
 	},
 	{
 		"or": "Length",
-		"tr": ""
+		"tr": "Longitud"
 	},
 	{
 		"or": "Letterbox",
-		"tr": ""
+		"tr": "Formato estrecho"
 	},
 	{
 		"or": "Lgt:",
-		"tr": ""
+		"tr": "Luminosidad:"
 	},
 	{
 		"or": "Local",
-		"tr": ""
+		"tr": "Local"
 	},
 	{
 		"or": "Local server",
-		"tr": ""
+		"tr": "Servidor local"
 	},
 	{
 		"or": "Match",
-		"tr": ""
+		"tr": "Partida"
 	},
 	{
 		"or": "Max",
-		"tr": ""
+		"tr": "Máx"
 	},
 	{
 		"or": "Misc",
-		"tr": ""
+		"tr": "Miscelánea"
 	},
 	{
 		"or": "Netversion",
-		"tr": ""
+		"tr": "Netversion"
 	},
 	{
 		"or": "Nickname is empty.",
-		"tr": ""
+		"tr": "El apodo se encuentra vacío."
 	},
 	{
 		"or": "Normal:",
-		"tr": ""
+		"tr": "Normal:"
 	},
 	{
 		"or": "Personal",
-		"tr": ""
+		"tr": "Personal"
 	},
 	{
 		"or": "Ready",
-		"tr": ""
+		"tr": "Listo"
 	},
 	{
 		"or": "Record",
-		"tr": ""
+		"tr": "Grabar"
 	},
 	{
 		"or": "Recorded",
-		"tr": ""
+		"tr": "Grabaciones"
 	},
 	{
 		"or": "Reset",
-		"tr": ""
+		"tr": "Reiniciar"
 	},
 	{
 		"or": "Resolutions",
-		"tr": ""
+		"tr": "Resoluciones"
 	},
 	{
 		"or": "Round over",
-		"tr": ""
+		"tr": "Ronda terminada"
 	},
 	{
 		"or": "Round over!",
-		"tr": ""
+		"tr": "¡Ronda terminada!"
 	},
 	{
 		"or": "Sat:",
-		"tr": ""
+		"tr": "Saturación:"
 	},
 	{
 		"or": "Save",
-		"tr": ""
+		"tr": "Guardar"
 	},
 	{
 		"or": "Save skin",
-		"tr": ""
+		"tr": "Guardar piel"
 	},
 	{
 		"or": "Screen",
-		"tr": ""
+		"tr": "Pantalla"
 	},
 	{
 		"or": "Search:",
-		"tr": ""
+		"tr": "Búsqueda:"
 	},
 	{
 		"or": "Size",
-		"tr": ""
+		"tr": "Tamaño"
 	},
 	{
 		"or": "Skin",
-		"tr": ""
+		"tr": "Piel"
 	},
 	{
 		"or": "Standard Gametype",
-		"tr": ""
+		"tr": "Tipo de juego estándar"
 	},
 	{
 		"or": "Teams are locked",
-		"tr": ""
+		"tr": "Equipos bloqueados"
 	},
 	{
 		"or": "Teams are locked. Time to wait before changing team: %02d:%02d",
-		"tr": ""
+		"tr": "Los equipos están bloqueados. Tiempo de espera previo a cambiar equipo: %02d:%02d"
 	},
 	{
 		"or": "Teams were locked",
-		"tr": ""
+		"tr": "Los equipos se han bloqueado"
 	},
 	{
 		"or": "Teams were unlocked",
-		"tr": ""
+		"tr": "Los equipos se han desbloqueado"
 	},
 	{
 		"or": "Tee",
-		"tr": ""
+		"tr": "Tee"
 	},
 	{
 		"or": "Texture",
-		"tr": ""
+		"tr": "Textura"
 	},
 	{
 		"or": "Volume",
-		"tr": ""
+		"tr": "Volumen"
 	},
 	{
 		"or": "Wait for current vote to end before calling a new one.",
-		"tr": ""
+		"tr": "Espera a que termine la votación actual antes de iniciar una nueva."
 	},
 	{
 		"or": "Wait for next round",
-		"tr": ""
+		"tr": "Espera a la siguiente ronda"
 	},
 	{
 		"or": "Wide",
-		"tr": ""
+		"tr": "Panorámico"
 	},
 	{
 		"or": "game",
-		"tr": ""
+		"tr": "juego"
 	},
 	{
 		"or": "locked",
-		"tr": ""
+		"tr": "bloqueado"
 	},
 	{
 		"or": "no players",
-		"tr": ""
+		"tr": "sin jugadores"
 	},
 	{
 		"or": "wait for more players",
-		"tr": ""
+		"tr": "espera a más jugadores"
 	}],
+"needs translation": [
+	],
 "old translations": [
 	{
 		"or": "New name:",
@@ -1244,7 +1246,7 @@
 	},
 	{
 		"or": "Skin name",
-		"tr": ""
+		"tr": "Nombre de skin"
 	},
 	{
 		"or": "Rifle",
@@ -1252,11 +1254,11 @@
 	},
 	{
 		"or": "Patterns",
-		"tr": ""
+		"tr": "Patrones"
 	},
 	{
 		"or": "Netversion:",
-		"tr": "Versión Net"
+		"tr": "Netversion:"
 	},
 	{
 		"or": "Map:",
@@ -1268,7 +1270,7 @@
 	},
 	{
 		"or": "Coloration",
-		"tr": ""
+		"tr": "Coloración"
 	},
 	{
 		"or": "Info",
@@ -1340,7 +1342,7 @@
 	},
 	{
 		"or": "Are you sure you want to save your skin ? If a skin with this name already exists, it will be replaced.",
-		"tr": ""
+		"tr": "¿Estás seguro de que quieres guardar tu skin? Si un skin con este nombre ya existiese, será remplazado."
 	},
 	{
 		"or": "Current version: %s",
