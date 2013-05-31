@@ -1,7 +1,7 @@
 {"authors": {
 	"originally created by": "arionwt1997",
-	"modified by": [ "Frost"
-		""
+	"modified by": [
+		"Frost			2013-05-02 17:53:19"
 	]},
 "translated strings": [
 	{
@@ -743,8 +743,7 @@
 	{
 		"or": "You must restart the game for all settings to take effect.",
 		"tr": "Перазапусціце гульню для ўжывання змен."
-	}],
-"needs translation": [
+	},
 	{
 		"or": "%.3f KiB",
 		"tr": "%.3f KiB"
@@ -1185,6 +1184,8 @@
 		"or": "wait for more players",
 		"tr": "Чакайце больш гульцоў"
 	}],
+"needs translation": [
+	],
 "old translations": [
 	{
 		"or": "New name:",

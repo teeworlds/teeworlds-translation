@@ -3,14 +3,14 @@
 	"modified by": [
 		"yemDX				2010-05-29 17:22:42",
 		"yemDX				2010-05-30 02:51:34",
-		"slinack				2010-06-02 20:57:46",
-		"slinack				2011-05-02 18:24:12",
-		"Isadora				2011-05-09 17:26:02",
-		"slinack				2011-07-03 00:23:26",
+		"slinack			2010-06-02 20:57:46",
+		"slinack			2011-05-02 18:24:12",
+		"Isadora			2011-05-09 17:26:02",
+		"slinack			2011-07-03 00:23:26",
 		"Ryomou Hentai Girl	2011-07-11 11:33:42",
-		"Isadora				2011-07-20 21:47:11",
+		"Isadora			2011-07-20 21:47:11",
 		"HeroiAmarelo		2012-08-01 15:50:18",
-		"Rafael Ferreira        2013-03-30 16:52:33"
+		"Rafael Ferreira	2013-03-30 16:52:33"
 	]},
 "translated strings": [
 	{
@@ -791,35 +791,35 @@
 	},
 	{
 		"or": "'%s' called for vote to kick '%s' (%s)",
-		"tr": "\"%s\" convocou votação para expulsar \"%s\" (%s)"
+		"tr": "'%s' convocou votação para expulsar '%s' (%s)"
 	},
 	{
 		"or": "'%s' called for vote to move '%s' to spectators (%s)",
-		"tr": "\"%s\" convocou votação para mover \"%s\" para observador (%s)"
+		"tr": "'%s' convocou votação para mover '%s' para observador (%s)"
 	},
 	{
 		"or": "'%s' called vote to change server option '%s' (%s)",
-		"tr": "\"%s\" convocou votação para mudar opção \"%s\" do observador (%s)"
+		"tr": "'%s' convocou votação para mudar opção '%s' do observador (%s)"
 	},
 	{
 		"or": "'%s' entered and joined the %s",
-		"tr": "\"%s\" entrou no %s"
+		"tr": "'%s' entrou no %s"
 	},
 	{
 		"or": "'%s' has left the game",
-		"tr": "\"%s\" saiu do jogo"
+		"tr": "'%s' saiu do jogo"
 	},
 	{
 		"or": "'%s' has left the game (%s)",
-		"tr": "\"%s\" saiu do jogo (%s)"
+		"tr": "'%s' saiu do jogo (%s)"
 	},
 	{
 		"or": "'%s' joined the %s",
-		"tr": "\"%s\" entrou no %s"
+		"tr": "'%s' entrou no %s"
 	},
 	{
 		"or": "Admin forced server option '%s' (%s)",
-		"tr": "Administrador forçou a opção \"%s\" do servidor (%s)"
+		"tr": "Administrador forçou a opção '%s' do servidor (%s)"
 	},
 	{
 		"or": "Admin forced vote no",
@@ -831,7 +831,7 @@
 	},
 	{
 		"or": "Admin moved '%s' to spectator (%s)",
-		"tr": "Administrador moveu \"%s\" para observador (%s)"
+		"tr": "Administrador moveu '%s' para observador (%s)"
 	},
 	{
 		"or": "Alp:",
