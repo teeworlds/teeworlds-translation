@@ -1,6 +1,6 @@
 {"authors": {
 	"originally created by": "arionwt1997",
-	"modified by": [
+	"modified by": [ "Frost"
 		""
 	]},
 "translated strings": [
@@ -54,7 +54,7 @@
 	},
 	{
 		"or": "All",
-		"tr": "Усё"
+		"tr": "Усім"
 	},
 	{
 		"or": "Always show name plates",
@@ -74,7 +74,7 @@
 	},
 	{
 		"or": "As this is the first time you launch the game, please enter your nick name below. It's recommended that you check the settings to adjust them to your liking before joining a server.",
-		"tr": "Бо гэта ваш першы запуск гульні, калі ласка, увядзіце свой нік у поле ніжэй. Таксама рекоммендуется праверыць налады гульні і памяняць некаторыя з іх перад тым, як пачаць гуляць."
+		"tr": "Бо гэта ваш першы запуск гульні, калі ласка, увядзіце свой нік у поле ніжэй. Таксама рэкамендуецца праверыць налады гульні і памяняць некаторыя з іх перад тым, як пачаць гуляць."
 	},
 	{
 		"or": "Automatically record demos",
@@ -214,7 +214,7 @@
 	},
 	{
 		"or": "Error loading demo",
-		"tr": "памылка пры загрузцы дэма"
+		"tr": "Памылка пры загрузцы дэма"
 	},
 	{
 		"or": "Favorite",
@@ -370,7 +370,7 @@
 	},
 	{
 		"or": "Next weapon",
-		"tr": "След. зброя"
+		"tr": "Наступ. зброя"
 	},
 	{
 		"or": "Nickname",
@@ -394,7 +394,7 @@
 	},
 	{
 		"or": "Ok",
-		"tr": "ОК"
+		"tr": "ОK"
 	},
 	{
 		"or": "Open",
@@ -410,7 +410,7 @@
 	},
 	{
 		"or": "Password incorrect",
-		"tr": "Пароль"
+		"tr": "Пароль "
 	},
 	{
 		"or": "Ping",
@@ -450,7 +450,7 @@
 	},
 	{
 		"or": "Prev. weapon",
-		"tr": "Прад. зброя"
+		"tr": "Папяр. зброя"
 	},
 	{
 		"or": "Quality Textures",
@@ -458,7 +458,7 @@
 	},
 	{
 		"or": "Quit",
-		"tr": "Выйсце"
+		"tr": "Выйсці"
 	},
 	{
 		"or": "REC %3d:%02d",
@@ -534,7 +534,7 @@
 	},
 	{
 		"or": "Server address:",
-		"tr": "Адрас сервера"
+		"tr": "Адрас сервера:"
 	},
 	{
 		"or": "Server details",
@@ -674,7 +674,7 @@
 	},
 	{
 		"or": "Try again",
-		"tr": "ОК"
+		"tr": "Паспрабуйце яшчэ раз"
 	},
 	{
 		"or": "Type",
@@ -747,448 +747,448 @@
 "needs translation": [
 	{
 		"or": "%.3f KiB",
-		"tr": ""
+		"tr": "%.3f KiB"
 	},
 	{
 		"or": "%d player left",
-		"tr": ""
+		"tr": "%d гулец выйшаў"
 	},
 	{
 		"or": "%d player not ready",
-		"tr": ""
+		"tr": "%d гулец не гатовы"
 	},
 	{
 		"or": "%d players left",
-		"tr": ""
+		"tr": "%d гульцоў выйшла"
 	},
 	{
 		"or": "%d players not ready",
-		"tr": ""
+		"tr": "%d гульцоў не гатова"
 	},
 	{
 		"or": "%d servers, %d players",
-		"tr": ""
+		"tr": "%d сервераў, %d гульцоў"
 	},
 	{
 		"or": "'%s' called for vote to kick '%s' (%s)",
-		"tr": ""
+		"tr": "'%s' выклікаў галасаванне, каб забаніць '%s' (%s)"
 	},
 	{
 		"or": "'%s' called for vote to move '%s' to spectators (%s)",
-		"tr": ""
+		"tr": "'%s' выклікаў галасаванне, каб перанесьці '%s' ў назіральнікі (%s)"
 	},
 	{
 		"or": "'%s' called vote to change server option '%s' (%s)",
-		"tr": ""
+		"tr": "'%s' выклікаў галасаванне, каб змяніць налады сервера'%s' (%s)"
 	},
 	{
 		"or": "'%s' entered and joined the %s",
-		"tr": ""
+		"tr": "'%s' увайшоў і далучыўся %s"
 	},
 	{
 		"or": "'%s' has left the game",
-		"tr": ""
+		"tr": "'%s' выйшаў з гульні"
 	},
 	{
 		"or": "'%s' has left the game (%s)",
-		"tr": ""
+		"tr": "'%s' выйшаў з гульні (%s)"
 	},
 	{
 		"or": "'%s' joined the %s",
-		"tr": ""
+		"tr": "'%s' далучыўся %s"
 	},
 	{
 		"or": "Admin forced server option '%s' (%s)",
-		"tr": ""
+		"tr": "Адміністратар вымушаны прымусова змяніць опцыі сервера '%s' (%s)"
 	},
 	{
 		"or": "Admin forced vote no",
-		"tr": ""
+		"tr": "Адміністратар вымушаны галасаваць не"
 	},
 	{
 		"or": "Admin forced vote yes",
-		"tr": ""
+		"tr": "Адміністратар вымушаны галасаваць так"
 	},
 	{
 		"or": "Admin moved '%s' to spectator (%s)",
-		"tr": ""
+		"tr": "Адміністратар перанёс '%s' ў назіральнікі (%s)"
 	},
 	{
 		"or": "Alp:",
-		"tr": ""
+		"tr": "Alp:"
 	},
 	{
 		"or": "Anti Aliasing",
-		"tr": ""
+		"tr": "Згладжванне тэкстур"
 	},
 	{
 		"or": "Are you sure you want to rename the demo?",
-		"tr": ""
+		"tr": "Вы ўпэўнены, што жадаеце пераназваць дэма?"
 	},
 	{
 		"or": "Are you sure you want to save your skin? If a skin with this name already exists, it will be replaced.",
-		"tr": ""
+		"tr": "Вы ўпэўнены, што жадаеце захаваць ваш скін? Калі скін з такой назвай ужо існуе, ён будзе заменены."
 	},
 	{
 		"or": "Back",
-		"tr": ""
+		"tr": "Назад"
 	},
 	{
 		"or": "Basic",
-		"tr": ""
+		"tr": "Асноўны"
 	},
 	{
 		"or": "Bodies",
-		"tr": ""
+		"tr": "Тулава"
 	},
 	{
 		"or": "Borderless window",
-		"tr": ""
+		"tr": "Бязмежнае акно"
 	},
 	{
 		"or": "Browser",
-		"tr": ""
+		"tr": "Браўзэр"
 	},
 	{
 		"or": "Color",
-		"tr": ""
+		"tr": "Колер"
 	},
 	{
 		"or": "Crc",
-		"tr": ""
+		"tr": "Crc"
 	},
 	{
 		"or": "Created",
-		"tr": ""
+		"tr": "Створаны"
 	},
 	{
 		"or": "Custom",
-		"tr": ""
+		"tr": "Вырабленыя"
 	},
 	{
 		"or": "Customize",
-		"tr": ""
+		"tr": "Вырабіць"
 	},
 	{
 		"or": "Decoration",
-		"tr": ""
+		"tr": "Упрыгожванне"
 	},
 	{
 		"or": "Demo",
-		"tr": ""
+		"tr": "Дэма"
 	},
 	{
 		"or": "Detail",
-		"tr": ""
+		"tr": "Дэталі"
 	},
 	{
 		"or": "Editor",
-		"tr": ""
+		"tr": "Рэдактар"
 	},
 	{
 		"or": "Eyes",
-		"tr": ""
+		"tr": "Вочы"
 	},
 	{
 		"or": "Format",
-		"tr": ""
+		"tr": "Фармат"
 	},
 	{
 		"or": "Game paused",
-		"tr": ""
+		"tr": "Гульня прыпынена"
 	},
 	{
 		"or": "Game starts in",
-		"tr": ""
+		"tr": "Гульня пачынаецца ў"
 	},
 	{
 		"or": "Global",
-		"tr": ""
+		"tr": "Глабальны"
 	},
 	{
 		"or": "Hands",
-		"tr": ""
+		"tr": "Рукі"
 	},
 	{
 		"or": "Host address:",
-		"tr": ""
+		"tr": "Адрас сервера:"
 	},
 	{
 		"or": "Hue:",
-		"tr": ""
+		"tr": "Адценне:"
 	},
 	{
 		"or": "Join",
-		"tr": ""
+		"tr": "Далучыцца"
 	},
 	{
 		"or": "Joined",
-		"tr": ""
+		"tr": "Далучыўся"
 	},
 	{
 		"or": "Joined blue",
-		"tr": ""
+		"tr": "Далучыўся да сініх"
 	},
 	{
 		"or": "Joined red",
-		"tr": ""
+		"tr": "Далучыўся да чырвоных"
 	},
 	{
 		"or": "Kick voting requires %d players on the server",
-		"tr": ""
+		"tr": "Галасаванне патрабуецца %d гульцоў на серверы"
 	},
 	{
 		"or": "Laser",
-		"tr": ""
+		"tr": "Лазер"
 	},
 	{
 		"or": "Length",
-		"tr": ""
+		"tr": "Даўжыня"
 	},
 	{
 		"or": "Letterbox",
-		"tr": ""
+		"tr": "Лэтэрбоксінг"
 	},
 	{
 		"or": "Lgt:",
-		"tr": ""
+		"tr": "Lgt:"
 	},
 	{
 		"or": "Local",
-		"tr": ""
+		"tr": "Лакальны"
 	},
 	{
 		"or": "Local server",
-		"tr": ""
+		"tr": "Лакальны сервер"
 	},
 	{
 		"or": "Match",
-		"tr": ""
+		"tr": "Матч"
 	},
 	{
 		"or": "Max",
-		"tr": ""
+		"tr": "Максімальны"
 	},
 	{
 		"or": "Misc",
-		"tr": ""
+		"tr": "Рознае"
 	},
 	{
 		"or": "Netversion",
-		"tr": ""
+		"tr": "Чыстая версія"
 	},
 	{
 		"or": "Nickname is empty.",
-		"tr": ""
+		"tr": "Нік пусты."
 	},
 	{
 		"or": "Normal:",
-		"tr": ""
+		"tr": "Нармальны:"
 	},
 	{
 		"or": "Only %d active players are allowed",
-		"tr": ""
+		"tr": "Толькі %d актыўных гульцоў дазволены"
 	},
 	{
 		"or": "Personal",
-		"tr": ""
+		"tr": "Асабісты"
 	},
 	{
 		"or": "Ready",
-		"tr": ""
+		"tr": "Гатовы"
 	},
 	{
 		"or": "Record",
-		"tr": ""
+		"tr": "Запіс"
 	},
 	{
 		"or": "Recorded",
-		"tr": ""
+		"tr": "Запісаны"
 	},
 	{
 		"or": "Reset",
-		"tr": ""
+		"tr": "Скід"
 	},
 	{
 		"or": "Resolutions",
-		"tr": ""
+		"tr": "Рэзалюцыі"
 	},
 	{
 		"or": "Respawn",
-		"tr": ""
+		"tr": "Рэспаўн"
 	},
 	{
 		"or": "Round over",
-		"tr": ""
+		"tr": "Раунд скончаны"
 	},
 	{
 		"or": "Round over!",
-		"tr": ""
+		"tr": "Раунд скончаны!"
 	},
 	{
 		"or": "Sat:",
-		"tr": ""
+		"tr": "Sat:"
 	},
 	{
 		"or": "Save",
-		"tr": ""
+		"tr": "Захаваць"
 	},
 	{
 		"or": "Save skin",
-		"tr": ""
+		"tr": "Захаваць скін"
 	},
 	{
 		"or": "Screen",
-		"tr": ""
+		"tr": "Здымак"
 	},
 	{
 		"or": "Search:",
-		"tr": ""
+		"tr": "Шукаць"
 	},
 	{
 		"or": "Server does not allow voting to kick players",
-		"tr": ""
+		"tr": "Сервер не дапускае галасаванне для кіка гульцоў"
 	},
 	{
 		"or": "Server does not allow voting to move players to spectators",
-		"tr": ""
+		"tr": "Сервер не дазваляе галасаванне, каб перамясціць гульцоў у  назіральнікі"
 	},
 	{
 		"or": "Servers",
-		"tr": ""
+		"tr": "Серверы"
 	},
 	{
 		"or": "Show only chat messages from friends",
-		"tr": ""
+		"tr": "Паказаць толькі чат паведамленні ад сяброў"
 	},
 	{
 		"or": "Size",
-		"tr": ""
+		"tr": "Памер"
 	},
 	{
 		"or": "Skin",
-		"tr": ""
+		"tr": "Скін"
 	},
 	{
 		"or": "Spectating",
-		"tr": ""
+		"tr": "Назіраць"
 	},
 	{
 		"or": "Spectators aren't allowed to start a vote.",
-		"tr": ""
+		"tr": "Назіральнікі не дапускаюцца, каб пачаць галасаванне."
 	},
 	{
 		"or": "Standard Gametype",
-		"tr": ""
+		"tr": "Стандартны тып гульні"
 	},
 	{
 		"or": "Tattoo",
-		"tr": ""
+		"tr": "Тату"
 	},
 	{
 		"or": "Tattoos",
-		"tr": ""
+		"tr": "Тату"
 	},
 	{
 		"or": "Team:",
-		"tr": ""
+		"tr": "Каманда"
 	},
 	{
 		"or": "Teams are locked",
-		"tr": ""
+		"tr": "Каманды будуць зачыненыя."
 	},
 	{
 		"or": "Teams are locked. Time to wait before changing team: %02d:%02d",
-		"tr": ""
+		"tr": "Каманды будуць зачыненыя. Час чакання перад зменай каманды:%02d:%02d"
 	},
 	{
 		"or": "Teams were locked",
-		"tr": ""
+		"tr": "Каманды былі зачыненыя"
 	},
 	{
 		"or": "Teams were unlocked",
-		"tr": ""
+		"tr": "Каманды былі разблакаваныя"
 	},
 	{
 		"or": "Tee",
-		"tr": ""
+		"tr": "Калабок"
 	},
 	{
 		"or": "Texture",
-		"tr": ""
+		"tr": "Тэкстуры"
 	},
 	{
 		"or": "Volume",
-		"tr": ""
+		"tr": "Аб'ём"
 	},
 	{
 		"or": "Vote aborted",
-		"tr": ""
+		"tr": "Галасаванне перапынена"
 	},
 	{
 		"or": "Vote failed",
-		"tr": ""
+		"tr": "Прагаласаваць не атрымалася"
 	},
 	{
 		"or": "Vote passed",
-		"tr": ""
+		"tr": "Галасаванне завяршылася"
 	},
 	{
 		"or": "Wait for current vote to end before calling a new one.",
-		"tr": ""
+		"tr": "Пачакайце для дадзенага галасавання ў канец перад выклікам новай."
 	},
 	{
 		"or": "Wait for next round",
-		"tr": ""
+		"tr": "Дачакайцеся наступнага раўнду"
 	},
 	{
 		"or": "Wide",
-		"tr": ""
+		"tr": "Шырокі"
 	},
 	{
 		"or": "You must wait %d seconds before making another vote",
-		"tr": ""
+		"tr": "Вы павінны пачакаць %d секунд, перш чым рабіць яшчэ адно галасаванне"
 	},
 	{
 		"or": "blue",
-		"tr": ""
+		"tr": "Сінія"
 	},
 	{
 		"or": "blue team",
-		"tr": ""
+		"tr": "Сіняя каманда"
 	},
 	{
 		"or": "game",
-		"tr": ""
+		"tr": "Гульня"
 	},
 	{
 		"or": "locked",
-		"tr": ""
+		"tr": "Зачынена"
 	},
 	{
 		"or": "no players",
-		"tr": ""
+		"tr": "Няма гульцоў"
 	},
 	{
 		"or": "red",
-		"tr": ""
+		"tr": "Чырвоныя"
 	},
 	{
 		"or": "red team",
-		"tr": ""
+		"tr": "Чырвоная каманда"
 	},
 	{
 		"or": "spectators",
-		"tr": ""
+		"tr": "Назіральнікі"
 	},
 	{
 		"or": "wait for more players",
-		"tr": ""
+		"tr": "Чакайце больш гульцоў"
 	}],
 "old translations": [
 	{
 		"or": "New name:",
-		"tr": "Новае імя"
+		"tr": "Новае імя:"
 	},
 	{
 		"or": "Sat.",
@@ -1240,7 +1240,7 @@
 	},
 	{
 		"or": "Skin name",
-		"tr": ""
+		"tr": "Назва скіна"
 	},
 	{
 		"or": "Rifle",
@@ -1248,7 +1248,7 @@
 	},
 	{
 		"or": "Patterns",
-		"tr": ""
+		"tr": "Шаблоны"
 	},
 	{
 		"or": "Netversion:",
@@ -1264,7 +1264,7 @@
 	},
 	{
 		"or": "Coloration",
-		"tr": ""
+		"tr": "Афарбоўка"
 	},
 	{
 		"or": "Info",
@@ -1336,7 +1336,7 @@
 	},
 	{
 		"or": "Are you sure you want to save your skin ? If a skin with this name already exists, it will be replaced.",
-		"tr": ""
+		"tr": "Вы ўпэўненыя, што вы хочаце захаваць ваш скін? Калі скін з такой назвай ужо існуе, ён будзе заменены."
 	},
 	{
 		"or": "Current version: %s",
