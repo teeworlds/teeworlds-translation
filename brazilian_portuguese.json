@@ -9,7 +9,8 @@
 		"slinack				2011-07-03 00:23:26",
 		"Ryomou Hentai Girl	2011-07-11 11:33:42",
 		"Isadora				2011-07-20 21:47:11",
-		"HeroiAmarelo		2012-08-01 15:50:18"
+		"HeroiAmarelo		2012-08-01 15:50:18",
+		"Rafael Ferreira        2013-03-30 16:52:33"
 	]},
 "translated strings": [
 	{
@@ -38,7 +39,7 @@
 	},
 	{
 		"or": "%s wins!",
-		"tr": "%s vence!"
+		"tr": "Vitória de %s!"
 	},
 	{
 		"or": "-Page %d-",
@@ -74,7 +75,7 @@
 	},
 	{
 		"or": "Are you sure that you want to quit?",
-		"tr": "Você tem certeza que deseja sair?"
+		"tr": "Tem certeza que deseja sair?"
 	},
 	{
 		"or": "Are you sure that you want to remove the player from your friends list?",
@@ -362,7 +363,7 @@
 	},
 	{
 		"or": "Move player to spectators",
-		"tr": "Mover jogador para espectadores"
+		"tr": "Mover jogador para observadores"
 	},
 	{
 		"or": "Move right",
@@ -370,7 +371,7 @@
 	},
 	{
 		"or": "Movement",
-		"tr": "Movimento"
+		"tr": "Movimentação"
 	},
 	{
 		"or": "Mute when not active",
@@ -434,7 +435,7 @@
 	},
 	{
 		"or": "Play",
-		"tr": "Assistir"
+		"tr": "Jogar"
 	},
 	{
 		"or": "Play background music",
@@ -522,7 +523,7 @@
 	},
 	{
 		"or": "Respawn",
-		"tr": "Respawn"
+		"tr": "Reaparecer"
 	},
 	{
 		"or": "Sample rate",
@@ -538,7 +539,7 @@
 	},
 	{
 		"or": "Score limit",
-		"tr": "Pontuação máx."
+		"tr": "Limite de pontuação"
 	},
 	{
 		"or": "Scoreboard",
@@ -626,11 +627,11 @@
 	},
 	{
 		"or": "Spectator mode",
-		"tr": "Modo espectador"
+		"tr": "Modo observador"
 	},
 	{
 		"or": "Spectators",
-		"tr": "Espectadores"
+		"tr": "Observadores"
 	},
 	{
 		"or": "Standard gametype",
@@ -650,7 +651,7 @@
 	},
 	{
 		"or": "Sudden Death",
-		"tr": "Morte Súbita"
+		"tr": "Morte súbita"
 	},
 	{
 		"or": "Switch weapon on pickup",
@@ -670,7 +671,7 @@
 	},
 	{
 		"or": "Texture Compression",
-		"tr": "Compressão de textura"
+		"tr": "Compressão da textura"
 	},
 	{
 		"or": "The audio device couldn't be initialised.",
@@ -734,11 +735,11 @@
 	},
 	{
 		"or": "Vote no",
-		"tr": "Votar Não"
+		"tr": "Votar não"
 	},
 	{
 		"or": "Vote yes",
-		"tr": "Votar Sim"
+		"tr": "Votar sim"
 	},
 	{
 		"or": "Voting",
@@ -763,436 +764,436 @@
 	{
 		"or": "You must restart the game for all settings to take effect.",
 		"tr": "Você deve reiniciar o jogo para que todas as alterações tenham efeito."
-	}],
-"needs translation": [
+	},
 	{
 		"or": "%.3f KiB",
-		"tr": ""
+		"tr": "%.3f KB"
 	},
 	{
 		"or": "%d player left",
-		"tr": ""
+		"tr": "Falta %d jogador"
 	},
 	{
 		"or": "%d player not ready",
-		"tr": ""
+		"tr": "%d jogador não está pronto"
 	},
 	{
 		"or": "%d players left",
-		"tr": ""
+		"tr": "Faltam %d jogadores"
 	},
 	{
 		"or": "%d players not ready",
-		"tr": ""
+		"tr": "%d jogadores não estão prontos"
 	},
 	{
 		"or": "%d servers, %d players",
-		"tr": ""
+		"tr": "%d servidores, %d jogadores"
 	},
 	{
 		"or": "'%s' called for vote to kick '%s' (%s)",
-		"tr": ""
+		"tr": "\"%s\" convocou votação para expulsar \"%s\" (%s)"
 	},
 	{
 		"or": "'%s' called for vote to move '%s' to spectators (%s)",
-		"tr": ""
+		"tr": "\"%s\" convocou votação para mover \"%s\" para observador (%s)"
 	},
 	{
 		"or": "'%s' called vote to change server option '%s' (%s)",
-		"tr": ""
+		"tr": "\"%s\" convocou votação para mudar opção \"%s\" do observador (%s)"
 	},
 	{
 		"or": "'%s' entered and joined the %s",
-		"tr": ""
+		"tr": "\"%s\" entrou no %s"
 	},
 	{
 		"or": "'%s' has left the game",
-		"tr": ""
+		"tr": "\"%s\" saiu do jogo"
 	},
 	{
 		"or": "'%s' has left the game (%s)",
-		"tr": ""
+		"tr": "\"%s\" saiu do jogo (%s)"
 	},
 	{
 		"or": "'%s' joined the %s",
-		"tr": ""
+		"tr": "\"%s\" entrou no %s"
 	},
 	{
 		"or": "Admin forced server option '%s' (%s)",
-		"tr": ""
+		"tr": "Administrador forçou a opção \"%s\" do servidor (%s)"
 	},
 	{
 		"or": "Admin forced vote no",
-		"tr": ""
+		"tr": "Administrador forçou votação não"
 	},
 	{
 		"or": "Admin forced vote yes",
-		"tr": ""
+		"tr": "Administrador forçou votação sim"
 	},
 	{
 		"or": "Admin moved '%s' to spectator (%s)",
-		"tr": ""
+		"tr": "Administrador moveu \"%s\" para observador (%s)"
 	},
 	{
 		"or": "Alp:",
-		"tr": ""
+		"tr": "Alp:"
 	},
 	{
 		"or": "Anti Aliasing",
-		"tr": ""
+		"tr": "Suavização"
 	},
 	{
 		"or": "Are you sure you want to rename the demo?",
-		"tr": ""
+		"tr": "Tem certeza que deseja renomear o demo?"
 	},
 	{
 		"or": "Are you sure you want to save your skin? If a skin with this name already exists, it will be replaced.",
-		"tr": ""
+		"tr": "Tem certeza que deseja salvar sua skin? Se uma skin com este nome já existir, ela será substituída."
 	},
 	{
 		"or": "Back",
-		"tr": ""
+		"tr": "Voltar"
 	},
 	{
 		"or": "Basic",
-		"tr": ""
+		"tr": "Básico"
 	},
 	{
 		"or": "Bodies",
-		"tr": ""
+		"tr": "Corpos"
 	},
 	{
 		"or": "Borderless window",
-		"tr": ""
+		"tr": "Janela sem borda"
 	},
 	{
 		"or": "Browser",
-		"tr": ""
+		"tr": "Navegador"
 	},
 	{
 		"or": "Color",
-		"tr": ""
+		"tr": "Cor"
 	},
 	{
 		"or": "Crc",
-		"tr": ""
+		"tr": "Crc"
 	},
 	{
 		"or": "Created",
-		"tr": ""
+		"tr": "Criado"
 	},
 	{
 		"or": "Custom",
-		"tr": ""
+		"tr": "Personalizado"
 	},
 	{
 		"or": "Customize",
-		"tr": ""
+		"tr": "Personalizar"
 	},
 	{
 		"or": "Decoration",
-		"tr": ""
+		"tr": "Decoração"
 	},
 	{
 		"or": "Demo",
-		"tr": ""
+		"tr": "Demo"
 	},
 	{
 		"or": "Detail",
-		"tr": ""
+		"tr": "Detalhes"
 	},
 	{
 		"or": "Editor",
-		"tr": ""
+		"tr": "Editor"
 	},
 	{
 		"or": "Eyes",
-		"tr": ""
+		"tr": "Olhos"
 	},
 	{
 		"or": "Format",
-		"tr": ""
+		"tr": "Formato"
 	},
 	{
 		"or": "Game starts in",
-		"tr": ""
+		"tr": "Jogo começa em"
 	},
 	{
 		"or": "Global",
-		"tr": ""
+		"tr": "Global"
 	},
 	{
 		"or": "Hands",
-		"tr": ""
+		"tr": "Mãos"
 	},
 	{
 		"or": "Host address:",
-		"tr": ""
+		"tr": "Servidor:"
 	},
 	{
 		"or": "Hue:",
-		"tr": ""
+		"tr": "Matiz:"
 	},
 	{
 		"or": "Join",
-		"tr": ""
+		"tr": "Entrar"
 	},
 	{
 		"or": "Joined",
-		"tr": ""
+		"tr": "Entrou"
 	},
 	{
 		"or": "Joined blue",
-		"tr": ""
+		"tr": "Azul"
 	},
 	{
 		"or": "Joined red",
-		"tr": ""
+		"tr": "Vermelho"
 	},
 	{
 		"or": "Kick voting requires %d players on the server",
-		"tr": ""
+		"tr": "Votação para expulsar requer %d jogadores no servidor"
 	},
 	{
 		"or": "Laser",
-		"tr": ""
+		"tr": "Laser"
 	},
 	{
 		"or": "Length",
-		"tr": ""
+		"tr": "Duração"
 	},
 	{
 		"or": "Letterbox",
-		"tr": ""
+		"tr": "Letterbox"
 	},
 	{
 		"or": "Lgt:",
-		"tr": ""
+		"tr": "Lgt:"
 	},
 	{
 		"or": "Local",
-		"tr": ""
+		"tr": "Local"
 	},
 	{
 		"or": "Local server",
-		"tr": ""
+		"tr": "Servidor local"
 	},
 	{
 		"or": "Match",
-		"tr": ""
+		"tr": "Partida"
 	},
 	{
 		"or": "Max",
-		"tr": ""
+		"tr": "Máx"
 	},
 	{
 		"or": "Misc",
-		"tr": ""
+		"tr": "Diversos"
 	},
 	{
 		"or": "Netversion",
-		"tr": ""
+		"tr": "Netversion"
 	},
 	{
 		"or": "Nickname is empty.",
-		"tr": ""
+		"tr": "Apelido está vazido."
 	},
 	{
 		"or": "Normal:",
-		"tr": ""
+		"tr": "Normal:"
 	},
 	{
 		"or": "Only %d active players are allowed",
-		"tr": ""
+		"tr": "Apenas %d jogadores ativos são permitidos"
 	},
 	{
 		"or": "Personal",
-		"tr": ""
+		"tr": "Pessoal"
 	},
 	{
 		"or": "Ready",
-		"tr": ""
+		"tr": "Pronto"
 	},
 	{
 		"or": "Record",
-		"tr": ""
+		"tr": "Gravar"
 	},
 	{
 		"or": "Recorded",
-		"tr": ""
+		"tr": "Gravado"
 	},
 	{
 		"or": "Reset",
-		"tr": ""
+		"tr": "Reiniciar"
 	},
 	{
 		"or": "Resolutions",
-		"tr": ""
+		"tr": "Resoluções"
 	},
 	{
 		"or": "Round over",
-		"tr": ""
+		"tr": "Acabar rodada"
 	},
 	{
 		"or": "Round over!",
-		"tr": ""
+		"tr": "Rodada acabou!"
 	},
 	{
 		"or": "Sat:",
-		"tr": ""
+		"tr": "Sat:"
 	},
 	{
 		"or": "Save",
-		"tr": ""
+		"tr": "Salvar"
 	},
 	{
 		"or": "Save skin",
-		"tr": ""
+		"tr": "Salvar skin"
 	},
 	{
 		"or": "Screen",
-		"tr": ""
+		"tr": "Tela"
 	},
 	{
 		"or": "Search:",
-		"tr": ""
+		"tr": "Pesquisar:"
 	},
 	{
 		"or": "Server does not allow voting to kick players",
-		"tr": ""
+		"tr": "Servidor não permite votação para expulsar jogadores"
 	},
 	{
 		"or": "Server does not allow voting to move players to spectators",
-		"tr": ""
+		"tr": "Servidor não permite votação para mover jogadores para observadores"
 	},
 	{
 		"or": "Servers",
-		"tr": ""
+		"tr": "Servidores"
 	},
 	{
 		"or": "Size",
-		"tr": ""
+		"tr": "Tamanho"
 	},
 	{
 		"or": "Skin",
-		"tr": ""
+		"tr": "Skin"
 	},
 	{
 		"or": "Spectating",
-		"tr": ""
+		"tr": "Observando"
 	},
 	{
 		"or": "Spectators aren't allowed to start a vote.",
-		"tr": ""
+		"tr": "Observadores não podem iniciar uma votação."
 	},
 	{
 		"or": "Standard Gametype",
-		"tr": ""
+		"tr": "Tipo de jogo padrão"
 	},
 	{
 		"or": "Tattoo",
-		"tr": ""
+		"tr": "Tatuagem"
 	},
 	{
 		"or": "Tattoos",
-		"tr": ""
+		"tr": "Tatuagens"
 	},
 	{
 		"or": "Team:",
-		"tr": ""
+		"tr": "Time:"
 	},
 	{
 		"or": "Teams are locked",
-		"tr": ""
+		"tr": "Times estão travados"
 	},
 	{
 		"or": "Teams are locked. Time to wait before changing team: %02d:%02d",
-		"tr": ""
+		"tr": "Times estão travados. Tempo de espera até a troca de time : %02d:%02d"
 	},
 	{
 		"or": "Teams were locked",
-		"tr": ""
+		"tr": "Times foram travados"
 	},
 	{
 		"or": "Teams were unlocked",
-		"tr": ""
+		"tr": "Times foram destravados"
 	},
 	{
 		"or": "Tee",
-		"tr": ""
+		"tr": "Tee"
 	},
 	{
 		"or": "Texture",
-		"tr": ""
+		"tr": "Textura"
 	},
 	{
 		"or": "Volume",
-		"tr": ""
+		"tr": "Volume"
 	},
 	{
 		"or": "Vote aborted",
-		"tr": ""
+		"tr": "Votação cancelada"
 	},
 	{
 		"or": "Vote failed",
-		"tr": ""
+		"tr": "Votação falhou"
 	},
 	{
 		"or": "Vote passed",
-		"tr": ""
+		"tr": "Votação passou"
 	},
 	{
 		"or": "Wait for current vote to end before calling a new one.",
-		"tr": ""
+		"tr": "Espere a votação atual acabar antes de convocar outra."
 	},
 	{
 		"or": "Wait for next round",
-		"tr": ""
+		"tr": "Espere pela próxima rodada"
 	},
 	{
 		"or": "Wide",
-		"tr": ""
+		"tr": "Wide"
 	},
 	{
 		"or": "You must wait %d seconds before making another vote",
-		"tr": ""
+		"tr": "Você tem que esperar %d segundos antes de fazer outra votação"
 	},
 	{
 		"or": "blue",
-		"tr": ""
+		"tr": "azul"
 	},
 	{
 		"or": "blue team",
-		"tr": ""
+		"tr": "time azul"
 	},
 	{
 		"or": "game",
-		"tr": ""
+		"tr": "jogo"
 	},
 	{
 		"or": "locked",
-		"tr": ""
+		"tr": "travado"
 	},
 	{
 		"or": "no players",
-		"tr": ""
+		"tr": "nenhum jogador"
 	},
 	{
 		"or": "red",
-		"tr": ""
+		"tr": "vermelho"
 	},
 	{
 		"or": "red team",
-		"tr": ""
+		"tr": "time vermelho"
 	},
 	{
 		"or": "spectators",
-		"tr": ""
+		"tr": "observadores"
 	},
 	{
 		"or": "wait for more players",
-		"tr": ""
+		"tr": "espere por mais jogadores"
 	}],
+"needs translation": [],
 "old translations": [
 	{
 		"or": "New name:",
