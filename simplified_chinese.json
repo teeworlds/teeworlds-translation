@@ -426,8 +426,13 @@
 	},
 	{
 		"or": "Play",
-		"tr": "播放"
+		"tr": "开始游戏"
 	},
+    {
+        "or": "Play",
+        "tr": "播放",
+        "context": "DemoBrowser"
+    },
 	{
 		"or": "Play background music",
 		"tr": "播放背景音乐"
@@ -1185,7 +1190,18 @@
 		"tr": "等待更多玩家"
 	}],
 "needs translation": [
-	],
+	{
+		"or": "Delete skin",
+		"tr": "删除皮肤"
+	},
+	{
+		"or": "Are you sure that you want to delete the skin?",
+		"tr": "你确定要删除这个皮肤吗？"
+	},
+	{
+		"or": "Unable to delete the skin",
+		"tr": "无法删除这个皮肤"
+	}],
 "old translations": [
 	{
 		"or": "New name:",
