@@ -437,6 +437,11 @@
 		"or": "Play",
 		"tr": "Jogar"
 	},
+    {
+        "or": "Play",
+        "tr": "Assistir",
+        "context": "DemoBrowser"
+    },
 	{
 		"or": "Play background music",
 		"tr": "Tocar música de fundo"
