@@ -827,7 +827,7 @@
 	},
 	{
 		"or": "Alp:",
-		"tr": ""
+		"tr": "Άλφ:"
 	},
 	{
 		"or": "Anti Aliasing",
@@ -847,7 +847,7 @@
 	},
 	{
 		"or": "Basic",
-		"tr": ""
+		"tr": "Βασικό"
 	},
 	{
 		"or": "Bodies",
@@ -855,7 +855,7 @@
 	},
 	{
 		"or": "Borderless window",
-		"tr": ""
+		"tr": "Παράθυρο χωρίς περιθώρια"
 	},
 	{
 		"or": "Browser",
@@ -867,7 +867,7 @@
 	},
 	{
 		"or": "Crc",
-		"tr": ""
+		"tr": "Διόρθ"
 	},
 	{
 		"or": "Created",
@@ -903,7 +903,7 @@
 	},
 	{
 		"or": "Format",
-		"tr": ""
+		"tr": "Τύπος"
 	},
 	{
 		"or": "Game starts in",
@@ -919,11 +919,11 @@
 	},
 	{
 		"or": "Host address:",
-		"tr": ""
+		"tr": "Διεύθυνση διακομιστή:"
 	},
 	{
 		"or": "Hue:",
-		"tr": "Απόχρωση"
+		"tr": "Απόχ:"
 	},
 	{
 		"or": "Join",
@@ -931,15 +931,15 @@
 	},
 	{
 		"or": "Joined",
-		"tr": ""
+		"tr": "Έθεσε συμμετοχή"
 	},
 	{
 		"or": "Joined blue",
-		"tr": ""
+		"tr": "Έθεσε συμμετοχή στη μπλε"
 	},
 	{
 		"or": "Joined red",
-		"tr": ""
+		"tr": "Έθεσε συμμετοχή στην κόκκινη"
 	},
 	{
 		"or": "Kick voting requires %d players on the server",
@@ -955,7 +955,7 @@
 	},
 	{
 		"or": "Letterbox",
-		"tr": ""
+		"tr": "Γραμματοκιβώτιο"
 	},
 	{
 		"or": "Lgt:",
@@ -971,7 +971,7 @@
 	},
 	{
 		"or": "Match",
-		"tr": ""
+		"tr": "Ταίρι"
 	},
 	{
 		"or": "Max",
@@ -987,15 +987,15 @@
 	},
 	{
 		"or": "Nickname is empty.",
-		"tr": ""
+		"tr": "Το ξευδώνυμο είναι κενό."
 	},
 	{
 		"or": "Normal:",
-		"tr": ""
+		"tr": "Κανονικό:"
 	},
 	{
 		"or": "Only %d active players are allowed",
-		"tr": ""
+		"tr": "Επιτρέπονται μέχρι %d ενεργοί παίκτες"
 	},
 	{
 		"or": "Personal",
@@ -1031,7 +1031,7 @@
 	},
 	{
 		"or": "Sat:",
-		"tr": "Κορεσμός"
+		"tr": "Κορ:"
 	},
 	{
 		"or": "Save",
@@ -1055,7 +1055,7 @@
 	},
 	{
 		"or": "Server does not allow voting to move players to spectators",
-		"tr": ""
+		"tr": "Ο διακομιστής δεν επιτρέπει μετακίνηση παικτών στους θεατές"
 	},
 	{
 		"or": "Servers",
@@ -1079,7 +1079,7 @@
 	},
 	{
 		"or": "Standard Gametype",
-		"tr": ""
+		"tr": "Κανονικός Τύπος Παιχνιδιού"
 	},
 	{
 		"or": "Tattoo",
@@ -1135,7 +1135,7 @@
 	},
 	{
 		"or": "Wait for current vote to end before calling a new one.",
-		"tr": ""
+		"tr": "Περιμένετε για τη λήξη της τρέχον ψηφοφορίας πριν ζητήσετε καινούργια."
 	},
 	{
 		"or": "Wait for next round",
@@ -1143,11 +1143,11 @@
 	},
 	{
 		"or": "Wide",
-		"tr": ""
+		"tr": "Ευρύς"
 	},
 	{
 		"or": "You must wait %d seconds before making another vote",
-		"tr": ""
+		"tr": "Πρέπει να περιμένετε %d δευτερόλεπτα πριν ζητήσετε καινούργια ψήφο"
 	},
 	{
 		"or": "blue",
