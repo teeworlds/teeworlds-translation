@@ -908,8 +908,7 @@
 	{
 		"or": "red team",
 		"tr": "rotes Team"
-	}],
-
+	},
 	{
 		"or": "%.3f KiB",
 		"tr": ""
@@ -1169,7 +1168,7 @@
 	{
 		"or": "wait for more players",
 		"tr": "Auf mehr Spieler warten"
-	}
+	}],
 "needs translation": [
 	],
 "old translations": [
