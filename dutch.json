@@ -87,7 +87,7 @@
 	},
 	{
 		"or": "As this is the first time you launch the game, please enter your nick name below. It's recommended that you check the settings to adjust them to your liking before joining a server.",
-		"tr": "Omdat dit de eerste keer is dat je het spel opstart, moet je een bijnaam kiezen. Doe dat hieronder. Het is aanbevolen om de instellingen te controleren voordat je een spel start."
+		"tr": "Omdat dit de eerste keer is dat je het spel opstart, moet je een spelersnaam kiezen. Doe dat hieronder. Het is aanbevolen om de instellingen te controleren voordat je een spel start."
 	},
 	{
 		"or": "Automatically record demos",
@@ -95,7 +95,7 @@
 	},
 	{
 		"or": "Automatically take game over screenshot",
-		"tr": "Automatisch schermafbeeldingen nemen"
+		"tr": "Automatisch screenshots nemen"
 	},
 	{
 		"or": "Blue team",
@@ -135,7 +135,7 @@
 	},
 	{
 		"or": "Compatible version",
-		"tr": "Samenwerkende versie"
+		"tr": "Compatibele versie"
 	},
 	{
 		"or": "Connect",
@@ -171,7 +171,7 @@
 	},
 	{
 		"or": "Custom colors",
-		"tr": "Aangepaste kleuren"
+		"tr": "Zelfgekozen kleuren"
 	},
 	{
 		"or": "Delete",
@@ -203,7 +203,7 @@
 	},
 	{
 		"or": "Downloading map",
-		"tr": "Kaart downloaden"
+		"tr": "Map downloaden"
 	},
 	{
 		"or": "Draw!",
@@ -275,7 +275,7 @@
 	},
 	{
 		"or": "Game over",
-		"tr": "Spel afgelopen"
+		"tr": "Game over"
 	},
 	{
 		"or": "Game type",
@@ -303,7 +303,7 @@
 	},
 	{
 		"or": "Has people playing",
-		"tr": "Mensen in server"
+		"tr": "Spelers in server"
 	},
 	{
 		"or": "High Detail",
@@ -347,15 +347,15 @@
 	},
 	{
 		"or": "Map",
-		"tr": "Kaart"
+		"tr": "Map"
 	},
 	{
 		"or": "Maximum ping:",
-		"tr": "Hoogste ping:"
+		"tr": "Maximale ping:"
 	},
 	{
 		"or": "Mouse sens.",
-		"tr": "Muis resolutie"
+		"tr": "Muis gevoeligheid"
 	},
 	{
 		"or": "Move left",
@@ -423,7 +423,7 @@
 	},
 	{
 		"or": "Password incorrect",
-		"tr": "Wachtwoord verkeerd"
+		"tr": "Wachtwoord incorrect"
 	},
 	{
 		"or": "Ping",
@@ -467,7 +467,7 @@
 	},
 	{
 		"or": "Quality Textures",
-		"tr": "Structuurkwaliteit"
+		"tr": "Betere textures"
 	},
 	{
 		"or": "Quit",
@@ -523,7 +523,7 @@
 	},
 	{
 		"or": "Sample rate",
-		"tr": "Voorbeeldssnelheid"
+		"tr": "Sample rate"
 	},
 	{
 		"or": "Score",
@@ -531,11 +531,11 @@
 	},
 	{
 		"or": "Score board",
-		"tr": "Score bord"
+		"tr": "Scorebord"
 	},
 	{
 		"or": "Score limit",
-		"tr": "Score limiet"
+		"tr": "Scorelimiet"
 	},
 	{
 		"or": "Scoreboard",
@@ -543,7 +543,7 @@
 	},
 	{
 		"or": "Screenshot",
-		"tr": "Schermafbeelding"
+		"tr": "Screenshot"
 	},
 	{
 		"or": "Server address:",
@@ -571,7 +571,7 @@
 	},
 	{
 		"or": "Shotgun",
-		"tr": "Geweer"
+		"tr": "Shotgun"
 	},
 	{
 		"or": "Show chat",
@@ -611,15 +611,15 @@
 	},
 	{
 		"or": "Spectate next",
-		"tr": "Volg volgende speler"
+		"tr": "Volgende speler"
 	},
 	{
 		"or": "Spectate previous",
-		"tr": "Volg vorige speler"
+		"tr": "Vorige speler"
 	},
 	{
 		"or": "Spectator mode",
-		"tr": "Toeschouwer modus"
+		"tr": "Toeschouwermode"
 	},
 	{
 		"or": "Spectators",
@@ -631,7 +631,7 @@
 	},
 	{
 		"or": "Standard map",
-		"tr": "Standaard kaart"
+		"tr": "Standaard map"
 	},
 	{
 		"or": "Stop record",
@@ -647,7 +647,7 @@
 	},
 	{
 		"or": "Switch weapon on pickup",
-		"tr": "Verander wapen bij het oppakken"
+		"tr": "Verander wapen bij oppakken"
 	},
 	{
 		"or": "Team",
@@ -655,7 +655,7 @@
 	},
 	{
 		"or": "Team chat",
-		"tr": "Team chat"
+		"tr": "Teamchat"
 	},
 	{
 		"or": "Teeworlds %s is out! Download it at www.teeworlds.com!",
@@ -671,11 +671,11 @@
 	},
 	{
 		"or": "The server is running a non-standard tuning on a pure game type.",
-		"tr": "The server draait geen standaard spel type."
+		"tr": "The server draait geen standaard speltype."
 	},
 	{
 		"or": "There's an unsaved map in the editor, you might want to save it before you quit the game.",
-		"tr": "Er is een onopgeslagen kaart in de editor, misschien wil je deze opslaan voordat je stopt."
+		"tr": "Er is een onopgeslagen map in de editor, misschien wil je deze opslaan voordat je stopt."
 	},
 	{
 		"or": "Time limit",
@@ -1245,7 +1245,7 @@
 	},
 	{
 		"or": "Max Screenshots",
-		"tr": "Maximaal aantal schermafbeeldingen"
+		"tr": "Maximaal aantal screenshots"
 	},
 	{
 		"or": "Length:",
@@ -1269,7 +1269,7 @@
 	},
 	{
 		"or": "Map:",
-		"tr": "Kaart:"
+		"tr": "Map:"
 	},
 	{
 		"or": "%d Bytes",
