@@ -95,10 +95,6 @@
 		"tr": "Plavi tim je pobedio!"
 	},
 	{
-		"or": "Body",
-		"tr": "Telo"
-	},
-	{
 		"or": "Call vote",
 		"tr": "Glasanje"
 	},
@@ -225,10 +221,6 @@
 	{
 		"or": "Favorites",
 		"tr": "Omiljeni"
-	},
-	{
-		"or": "Feet",
-		"tr": "Stopala"
 	},
 	{
 		"or": "Fire",
@@ -647,6 +639,10 @@
 		"tr": "Timski chat"
 	},
 	{
+		"or": "Tee",
+		"tr": "Tee"
+	},
+	{
 		"or": "Teeworlds %s is out! Download it at www.teeworlds.com!",
 		"tr": "Teeworld %s je objavljen! Preuzmi ga na www.teeworlds.com!"
 	},
@@ -824,6 +820,10 @@
 		"tr": ""
 	},
 	{
+		"or": "Are you sure that you want to delete the skin?",
+		"tr": ""
+	},
+	{
 		"or": "Are you sure you want to rename the demo?",
 		"tr": ""
 	},
@@ -837,10 +837,6 @@
 	},
 	{
 		"or": "Basic",
-		"tr": ""
-	},
-	{
-		"or": "Bodies",
 		"tr": ""
 	},
 	{
@@ -872,7 +868,7 @@
 		"tr": ""
 	},
 	{
-		"or": "Decoration",
+		"or": "Delete skin",
 		"tr": ""
 	},
 	{
@@ -885,10 +881,6 @@
 	},
 	{
 		"or": "Editor",
-		"tr": ""
-	},
-	{
-		"or": "Eyes",
 		"tr": ""
 	},
 	{
@@ -905,10 +897,6 @@
 	},
 	{
 		"or": "Global",
-		"tr": ""
-	},
-	{
-		"or": "Hands",
 		"tr": ""
 	},
 	{
@@ -953,7 +941,7 @@
 	},
 	{
 		"or": "Lgt:",
-		"tr": ""
+		"tr": "Lgt:"
 	},
 	{
 		"or": "Local",
@@ -1084,14 +1072,6 @@
 		"tr": ""
 	},
 	{
-		"or": "Tattoo",
-		"tr": ""
-	},
-	{
-		"or": "Tattoos",
-		"tr": ""
-	},
-	{
 		"or": "Team:",
 		"tr": ""
 	},
@@ -1112,11 +1092,19 @@
 		"tr": ""
 	},
 	{
-		"or": "Tee",
+		"or": "Texture",
 		"tr": ""
 	},
 	{
-		"or": "Texture",
+		"or": "The %s flag was captured by '%s'",
+		"tr": ""
+	},
+	{
+		"or": "The %s flag was captured by '%s' (%.2f seconds)",
+		"tr": ""
+	},
+	{
+		"or": "Unable to delete the skin",
 		"tr": ""
 	},
 	{
@@ -1189,83 +1177,127 @@
 	}],
 "old translations": [
 	{
-		"or": "New name:",
-		"tr": "Novo ime:"
-	},
-	{
-		"or": "Sat.",
-		"tr": "Zasić."
-	},
-	{
-		"or": "Miscellaneous",
-		"tr": "Razno"
-	},
-	{
-		"or": "Internet",
-		"tr": "Internet"
-	},
-	{
 		"or": "Max demos",
 		"tr": "Maksimalan broj demo-a"
-	},
-	{
-		"or": "News",
-		"tr": "Novosti"
-	},
-	{
-		"or": "Join game",
-		"tr": "Uključi se u igru"
-	},
-	{
-		"or": "FSAA samples",
-		"tr": "FSAA samples"
-	},
-	{
-		"or": "%d of %d servers, %d players",
-		"tr": "%d od %d server(a), %d igrač(a)"
-	},
-	{
-		"or": "Sound volume",
-		"tr": "Jačina zvuka"
-	},
-	{
-		"or": "Created:",
-		"tr": "Kreirano:"
-	},
-	{
-		"or": "Max Screenshots",
-		"tr": "Maksimalan broj screenshot-ova"
-	},
-	{
-		"or": "Length:",
-		"tr": "Dužina:"
-	},
-	{
-		"or": "Skin name",
-		"tr": ""
 	},
 	{
 		"or": "Rifle",
 		"tr": "Puška"
 	},
 	{
-		"or": "Patterns",
-		"tr": ""
+		"or": "Join game",
+		"tr": "Uključi se u igru"
+	},
+	{
+		"or": "Crc:",
+		"tr": "Crc:"
+	},
+	{
+		"or": "LAN",
+		"tr": "LAN"
 	},
 	{
 		"or": "Netversion:",
 		"tr": "Net verzija:"
 	},
 	{
+		"or": "Your skin",
+		"tr": "Vaš izgled"
+	},
+	{
+		"or": "Hue",
+		"tr": "Nijansa"
+	},
+	{
+		"or": "Current version: %s",
+		"tr": "Trenutna verzija: %s"
+	},
+	{
+		"or": "Decoration",
+		"tr": ""
+	},
+	{
+		"or": "Body",
+		"tr": "Telo"
+	},
+	{
+		"or": "Bodies",
+		"tr": ""
+	},
+	{
+		"or": "Quit anyway?",
+		"tr": "Izlaz?"
+	},
+	{
+		"or": "Created:",
+		"tr": "Kreirano:"
+	},
+	{
+		"or": "Record demo",
+		"tr": "Snimi demo"
+	},
+	{
+		"or": "Miscellaneous",
+		"tr": "Razno"
+	},
+	{
+		"or": "UI Color",
+		"tr": "Boja menija"
+	},
+	{
+		"or": "Skin name",
+		"tr": ""
+	},
+	{
+		"or": "Patterns",
+		"tr": ""
+	},
+	{
 		"or": "Map:",
 		"tr": "Mapa:"
 	},
 	{
-		"or": "%d Bytes",
-		"tr": "%d Bajtova"
+		"or": "Lht.",
+		"tr": "Svetl."
 	},
 	{
-		"or": "Coloration",
+		"or": "Are you sure you want to save your skin ? If a skin with this name already exists, it will be replaced.",
+		"tr": ""
+	},
+	{
+		"or": "Reset to defaults",
+		"tr": "Resetuj podešavanja"
+	},
+	{
+		"or": "Host address",
+		"tr": "Adresa servera"
+	},
+	{
+		"or": "Alpha",
+		"tr": "Provid."
+	},
+	{
+		"or": "no limit",
+		"tr": "bez ograničenja"
+	},
+	{
+		"or": "Filter",
+		"tr": "Filter"
+	},
+	{
+		"or": "Name plates size",
+		"tr": "Veličina pločice za ime"
+	},
+	{
+		"or": "New name:",
+		"tr": "Novo ime:"
+	},
+	{
+		"or": "FSAA samples",
+		"tr": "FSAA samples"
+	},
+	{
+		"or": "Tattoos",
 		"tr": ""
 	},
 	{
@@ -1273,91 +1305,79 @@
 		"tr": "Info"
 	},
 	{
-		"or": "Hue",
-		"tr": "Nijansa"
+		"or": "Sound volume",
+		"tr": "Jačina zvuka"
 	},
 	{
-		"or": "Record demo",
-		"tr": "Snimi demo"
-	},
-	{
-		"or": "Your skin",
-		"tr": "Vaš izgled"
-	},
-	{
-		"or": "Size:",
-		"tr": "Veličina:"
-	},
-	{
-		"or": "Reset to defaults",
-		"tr": "Resetuj podešavanja"
-	},
-	{
-		"or": "Quit anyway?",
-		"tr": "Izlaz?"
+		"or": "Coloration",
+		"tr": ""
 	},
 	{
 		"or": "Display Modes",
 		"tr": "Rezolucija i način prikaza"
 	},
 	{
-		"or": "Version:",
-		"tr": "Verzija:"
-	},
-	{
 		"or": "Round",
 		"tr": "Runda"
-	},
-	{
-		"or": "Lht.",
-		"tr": "Svetl."
-	},
-	{
-		"or": "no limit",
-		"tr": "bez ograničenja"
 	},
 	{
 		"or": "Quick search:",
 		"tr": "Brza pretraga:"
 	},
 	{
-		"or": "UI Color",
-		"tr": "Boja menija"
+		"or": "Feet",
+		"tr": "Stopala"
 	},
 	{
-		"or": "Host address",
-		"tr": "Adresa servera"
-	},
-	{
-		"or": "Crc:",
-		"tr": "Crc:"
-	},
-	{
-		"or": "Alpha",
-		"tr": "Provid."
-	},
-	{
-		"or": "Are you sure you want to save your skin ? If a skin with this name already exists, it will be replaced.",
+		"or": "Eyes",
 		"tr": ""
-	},
-	{
-		"or": "Current version: %s",
-		"tr": "Trenutna verzija: %s"
-	},
-	{
-		"or": "Filter",
-		"tr": "Filter"
-	},
-	{
-		"or": "LAN",
-		"tr": "LAN"
-	},
-	{
-		"or": "Name plates size",
-		"tr": "Veličina pločice za ime"
 	},
 	{
 		"or": "Type:",
 		"tr": "Tip:"
+	},
+	{
+		"or": "Internet",
+		"tr": "Internet"
+	},
+	{
+		"or": "Hands",
+		"tr": ""
+	},
+	{
+		"or": "News",
+		"tr": "Novosti"
+	},
+	{
+		"or": "Size:",
+		"tr": "Veličina:"
+	},
+	{
+		"or": "Sat.",
+		"tr": "Zasić."
+	},
+	{
+		"or": "Length:",
+		"tr": "Dužina:"
+	},
+	{
+		"or": "%d Bytes",
+		"tr": "%d Bajtova"
+	},
+	{
+		"or": "Tattoo",
+		"tr": ""
+	},
+	{
+		"or": "Version:",
+		"tr": "Verzija:"
+	},
+	{
+		"or": "%d of %d servers, %d players",
+		"tr": "%d od %d server(a), %d igrač(a)"
+	},
+	{
+		"or": "Max Screenshots",
+		"tr": "Maksimalan broj screenshot-ova"
 	}]
 }

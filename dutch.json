@@ -14,7 +14,8 @@
 		"Syntax Error	2011-07-02 20:09:24",
 		"Yared Hufkens	2012-02-03 19:57:59",
 		"Yared Hufkens	2012-12-08 10:51:30",
-		"ZiggyNL		2013-03-17 02:26:19"
+		"ZiggyNL		2013-03-17 02:26:19",
+		"MegaManSec		2014-02-06 06:10:05"
 	]},
 "translated strings": [
 	{
@@ -70,6 +71,10 @@
 		"tr": "Alle"
 	},
 	{
+		"or": "Alp:",
+		"tr": "Alp:"
+	},
+	{
 		"or": "Always show name plates",
 		"tr": "Altijd naamplaten laten zien"
 	},
@@ -98,6 +103,10 @@
 		"tr": "Automatisch schermafbeeldingen nemen"
 	},
 	{
+		"or": "Basic",
+		"tr": "Basisch"
+	},
+	{
 		"or": "Blue team",
 		"tr": "Blauwe team"
 	},
@@ -106,8 +115,8 @@
 		"tr": "Blauwe team wint!"
 	},
 	{
-		"or": "Body",
-		"tr": "Lichaam"
+		"or": "Browser",
+		"tr": "Browser"
 	},
 	{
 		"or": "Call vote",
@@ -132,6 +141,10 @@
 	{
 		"or": "Close",
 		"tr": "Sluiten"
+	},
+	{
+		"or": "Color",
+		"tr": "Kleur"
 	},
 	{
 		"or": "Compatible version",
@@ -166,6 +179,10 @@
 		"tr": "Land"
 	},
 	{
+		"or": "Created",
+		"tr": "Gecreëerd"
+	},
+	{
 		"or": "Current",
 		"tr": "Huidig"
 	},
@@ -180,6 +197,10 @@
 	{
 		"or": "Delete demo",
 		"tr": "Verwijder demo"
+	},
+	{
+		"or": "Demo",
+		"tr": "Demonstratie"
 	},
 	{
 		"or": "Demo details",
@@ -214,6 +235,10 @@
 		"tr": "Dynamische camera"
 	},
 	{
+		"or": "Editor",
+		"tr": "Editor"
+	},
+	{
 		"or": "Emoticon",
 		"tr": "Emoticon"
 	},
@@ -238,10 +263,6 @@
 		"tr": "Favorieten"
 	},
 	{
-		"or": "Feet",
-		"tr": "Voeten"
-	},
-	{
 		"or": "Fire",
 		"tr": "Schieten"
 	},
@@ -252,6 +273,10 @@
 	{
 		"or": "Force vote",
 		"tr": "Forceer stem"
+	},
+	{
+		"or": "Format",
+		"tr": "Formaat"
 	},
 	{
 		"or": "Free-View",
@@ -290,6 +315,10 @@
 		"tr": "Algemeen"
 	},
 	{
+		"or": "Global",
+		"tr": "Global"
+	},
+	{
 		"or": "Graphics",
 		"tr": "Beeld"
 	},
@@ -314,6 +343,10 @@
 		"tr": "Haak"
 	},
 	{
+		"or": "Hue:",
+		"tr": "Hue:"
+	},
+	{
 		"or": "Invalid Demo",
 		"tr": "Ongeldige demo"
 	},
@@ -324,6 +357,10 @@
 	{
 		"or": "Join red",
 		"tr": "Ga bij rood"
+	},
+	{
+		"or": "Joined",
+		"tr": "Aangemeld"
 	},
 	{
 		"or": "Jump",
@@ -338,8 +375,24 @@
 		"tr": "Taal"
 	},
 	{
+		"or": "Length",
+		"tr": "Lengte"
+	},
+	{
+		"or": "Letterbox",
+		"tr": "Brievenbus"
+	},
+	{
+		"or": "Lgt:",
+		"tr": "Lgt:"
+	},
+	{
 		"or": "Loading",
 		"tr": "Laden"
+	},
+	{
+		"or": "Local",
+		"tr": "Lokaal"
 	},
 	{
 		"or": "MOTD",
@@ -406,6 +459,10 @@
 		"tr": "Geen servers gevonden op zoekopdracht"
 	},
 	{
+		"or": "Normal:",
+		"tr": "Normaal:"
+	},
+	{
 		"or": "Ok",
 		"tr": "Oké"
 	},
@@ -424,6 +481,10 @@
 	{
 		"or": "Password incorrect",
 		"tr": "Wachtwoord verkeerd"
+	},
+	{
+		"or": "Personal",
+		"tr": "Persoonlijk"
 	},
 	{
 		"or": "Ping",
@@ -482,6 +543,10 @@
 		"tr": "Reden:"
 	},
 	{
+		"or": "Record",
+		"tr": "Record"
+	},
+	{
 		"or": "Red team",
 		"tr": "Rode team"
 	},
@@ -518,12 +583,20 @@
 		"tr": "Hernoem demo"
 	},
 	{
+		"or": "Reset",
+		"tr": "Opnieuw zetten"
+	},
+	{
 		"or": "Reset filter",
 		"tr": "Herstel filter"
 	},
 	{
 		"or": "Sample rate",
 		"tr": "Voorbeeldssnelheid"
+	},
+	{
+		"or": "Sat:",
+		"tr": "Sat:"
 	},
 	{
 		"or": "Score",
@@ -546,6 +619,10 @@
 		"tr": "Schermafbeelding"
 	},
 	{
+		"or": "Search:",
+		"tr": "Zoeken:"
+	},
+	{
 		"or": "Server address:",
 		"tr": "Serveradres:"
 	},
@@ -564,6 +641,10 @@
 	{
 		"or": "Server not full",
 		"tr": "Server niet vol"
+	},
+	{
+		"or": "Servers",
+		"tr": "Servers"
 	},
 	{
 		"or": "Settings",
@@ -594,6 +675,10 @@
 		"tr": "Laat alleen compatibele servers zien"
 	},
 	{
+		"or": "Skin",
+		"tr": "Huid"
+	},
+	{
 		"or": "Skins",
 		"tr": "Skins"
 	},
@@ -616,6 +701,10 @@
 	{
 		"or": "Spectate previous",
 		"tr": "Volg vorige speler"
+	},
+	{
+		"or": "Spectating",
+		"tr": "Toeschouwer"
 	},
 	{
 		"or": "Spectator mode",
@@ -658,8 +747,20 @@
 		"tr": "Team chat"
 	},
 	{
+		"or": "Team:",
+		"tr": "Team: "
+	},
+	{
+		"or": "Tee",
+		"tr": "Tee"
+	},
+	{
 		"or": "Teeworlds %s is out! Download it at www.teeworlds.com!",
 		"tr": "Teeworlds %s is uit! Download het op www.teeworlds.com!"
+	},
+	{
+		"or": "Texture",
+		"tr": "Structuur"
 	},
 	{
 		"or": "Texture Compression",
@@ -718,6 +819,10 @@
 		"tr": "Versie"
 	},
 	{
+		"or": "Volume",
+		"tr": "Geluidssterkte"
+	},
+	{
 		"or": "Vote command:",
 		"tr": "Stem commando:"
 	},
@@ -756,6 +861,22 @@
 	{
 		"or": "You must restart the game for all settings to take effect.",
 		"tr": "Je moet het spel herstarten voordat de veranderingen effect hebben."
+	},
+	{
+		"or": "blue",
+		"tr": "Blauw"
+	},
+	{
+		"or": "locked",
+		"tr": "Afgesloten"
+	},
+	{
+		"or": "red",
+		"tr": "Rood"
+	},
+	{
+		"or": "spectators",
+		"tr": "Toeschouwers"
 	}],
 "needs translation": [
 	{
@@ -827,11 +948,11 @@
 		"tr": ""
 	},
 	{
-		"or": "Alp:",
+		"or": "Anti Aliasing",
 		"tr": ""
 	},
 	{
-		"or": "Anti Aliasing",
+		"or": "Are you sure that you want to delete the skin?",
 		"tr": ""
 	},
 	{
@@ -847,31 +968,11 @@
 		"tr": ""
 	},
 	{
-		"or": "Basic",
-		"tr": ""
-	},
-	{
-		"or": "Bodies",
-		"tr": ""
-	},
-	{
 		"or": "Borderless window",
 		"tr": ""
 	},
 	{
-		"or": "Browser",
-		"tr": ""
-	},
-	{
-		"or": "Color",
-		"tr": ""
-	},
-	{
 		"or": "Crc",
-		"tr": ""
-	},
-	{
-		"or": "Created",
 		"tr": ""
 	},
 	{
@@ -883,27 +984,11 @@
 		"tr": ""
 	},
 	{
-		"or": "Decoration",
-		"tr": ""
-	},
-	{
-		"or": "Demo",
+		"or": "Delete skin",
 		"tr": ""
 	},
 	{
 		"or": "Detail",
-		"tr": ""
-	},
-	{
-		"or": "Editor",
-		"tr": ""
-	},
-	{
-		"or": "Eyes",
-		"tr": ""
-	},
-	{
-		"or": "Format",
 		"tr": ""
 	},
 	{
@@ -915,27 +1000,11 @@
 		"tr": ""
 	},
 	{
-		"or": "Global",
-		"tr": ""
-	},
-	{
-		"or": "Hands",
-		"tr": ""
-	},
-	{
 		"or": "Host address:",
 		"tr": ""
 	},
 	{
-		"or": "Hue:",
-		"tr": ""
-	},
-	{
 		"or": "Join",
-		"tr": ""
-	},
-	{
-		"or": "Joined",
 		"tr": ""
 	},
 	{
@@ -952,22 +1021,6 @@
 	},
 	{
 		"or": "Laser",
-		"tr": ""
-	},
-	{
-		"or": "Length",
-		"tr": ""
-	},
-	{
-		"or": "Letterbox",
-		"tr": ""
-	},
-	{
-		"or": "Lgt:",
-		"tr": ""
-	},
-	{
-		"or": "Local",
 		"tr": ""
 	},
 	{
@@ -995,15 +1048,7 @@
 		"tr": ""
 	},
 	{
-		"or": "Normal:",
-		"tr": ""
-	},
-	{
 		"or": "Only %d active players are allowed",
-		"tr": ""
-	},
-	{
-		"or": "Personal",
 		"tr": ""
 	},
 	{
@@ -1011,15 +1056,7 @@
 		"tr": ""
 	},
 	{
-		"or": "Record",
-		"tr": ""
-	},
-	{
 		"or": "Recorded",
-		"tr": ""
-	},
-	{
-		"or": "Reset",
 		"tr": ""
 	},
 	{
@@ -1039,10 +1076,6 @@
 		"tr": ""
 	},
 	{
-		"or": "Sat:",
-		"tr": ""
-	},
-	{
 		"or": "Save",
 		"tr": ""
 	},
@@ -1055,19 +1088,11 @@
 		"tr": ""
 	},
 	{
-		"or": "Search:",
-		"tr": ""
-	},
-	{
 		"or": "Server does not allow voting to kick players",
 		"tr": ""
 	},
 	{
 		"or": "Server does not allow voting to move players to spectators",
-		"tr": ""
-	},
-	{
-		"or": "Servers",
 		"tr": ""
 	},
 	{
@@ -1079,31 +1104,11 @@
 		"tr": ""
 	},
 	{
-		"or": "Skin",
-		"tr": ""
-	},
-	{
-		"or": "Spectating",
-		"tr": ""
-	},
-	{
 		"or": "Spectators aren't allowed to start a vote.",
 		"tr": ""
 	},
 	{
 		"or": "Standard Gametype",
-		"tr": ""
-	},
-	{
-		"or": "Tattoo",
-		"tr": ""
-	},
-	{
-		"or": "Tattoos",
-		"tr": ""
-	},
-	{
-		"or": "Team:",
 		"tr": ""
 	},
 	{
@@ -1123,15 +1128,15 @@
 		"tr": ""
 	},
 	{
-		"or": "Tee",
+		"or": "The %s flag was captured by '%s'",
 		"tr": ""
 	},
 	{
-		"or": "Texture",
+		"or": "The %s flag was captured by '%s' (%.2f seconds)",
 		"tr": ""
 	},
 	{
-		"or": "Volume",
+		"or": "Unable to delete the skin",
 		"tr": ""
 	},
 	{
@@ -1163,10 +1168,6 @@
 		"tr": ""
 	},
 	{
-		"or": "blue",
-		"tr": ""
-	},
-	{
 		"or": "blue team",
 		"tr": ""
 	},
@@ -1175,23 +1176,11 @@
 		"tr": ""
 	},
 	{
-		"or": "locked",
-		"tr": ""
-	},
-	{
 		"or": "no players",
 		"tr": ""
 	},
 	{
-		"or": "red",
-		"tr": ""
-	},
-	{
 		"or": "red team",
-		"tr": ""
-	},
-	{
-		"or": "spectators",
 		"tr": ""
 	},
 	{
@@ -1200,83 +1189,127 @@
 	}],
 "old translations": [
 	{
-		"or": "New name:",
-		"tr": "Nieuwe naam:"
-	},
-	{
-		"or": "Sat.",
-		"tr": "Verz."
-	},
-	{
-		"or": "Miscellaneous",
-		"tr": "Diverse"
-	},
-	{
-		"or": "Internet",
-		"tr": "Internet"
-	},
-	{
 		"or": "Max demos",
 		"tr": "Maximaal aantal demo's"
-	},
-	{
-		"or": "News",
-		"tr": "Nieuws"
-	},
-	{
-		"or": "Join game",
-		"tr": "Binnenkomen"
-	},
-	{
-		"or": "FSAA samples",
-		"tr": "FSAA samples"
-	},
-	{
-		"or": "%d of %d servers, %d players",
-		"tr": "%d van %d Servers, %d spelers"
-	},
-	{
-		"or": "Sound volume",
-		"tr": "Volume"
-	},
-	{
-		"or": "Created:",
-		"tr": "Gemaakt:"
-	},
-	{
-		"or": "Max Screenshots",
-		"tr": "Maximaal aantal schermafbeeldingen"
-	},
-	{
-		"or": "Length:",
-		"tr": "Lengte:"
-	},
-	{
-		"or": "Skin name",
-		"tr": ""
 	},
 	{
 		"or": "Rifle",
 		"tr": "Laser"
 	},
 	{
-		"or": "Patterns",
-		"tr": ""
+		"or": "Join game",
+		"tr": "Binnenkomen"
+	},
+	{
+		"or": "Crc:",
+		"tr": "Crc:"
+	},
+	{
+		"or": "LAN",
+		"tr": "LAN"
 	},
 	{
 		"or": "Netversion:",
 		"tr": "Netversie:"
 	},
 	{
+		"or": "Your skin",
+		"tr": "Jouw skin"
+	},
+	{
+		"or": "Hue",
+		"tr": "Tint"
+	},
+	{
+		"or": "Current version: %s",
+		"tr": "Huidige versie: %s"
+	},
+	{
+		"or": "Decoration",
+		"tr": ""
+	},
+	{
+		"or": "Body",
+		"tr": "Lichaam"
+	},
+	{
+		"or": "Bodies",
+		"tr": ""
+	},
+	{
+		"or": "Quit anyway?",
+		"tr": "Toch afsluiten?"
+	},
+	{
+		"or": "Created:",
+		"tr": "Gemaakt:"
+	},
+	{
+		"or": "Record demo",
+		"tr": "Neem demo op"
+	},
+	{
+		"or": "Miscellaneous",
+		"tr": "Diverse"
+	},
+	{
+		"or": "UI Color",
+		"tr": "UI kleur"
+	},
+	{
+		"or": "Skin name",
+		"tr": ""
+	},
+	{
+		"or": "Patterns",
+		"tr": ""
+	},
+	{
 		"or": "Map:",
 		"tr": "Kaart:"
 	},
 	{
-		"or": "%d Bytes",
-		"tr": "%d Bytes"
+		"or": "Lht.",
+		"tr": "Licht"
 	},
 	{
-		"or": "Coloration",
+		"or": "Are you sure you want to save your skin ? If a skin with this name already exists, it will be replaced.",
+		"tr": ""
+	},
+	{
+		"or": "Reset to defaults",
+		"tr": "Standaardinstellingen"
+	},
+	{
+		"or": "Host address",
+		"tr": "Server adres"
+	},
+	{
+		"or": "Alpha",
+		"tr": "Alpha"
+	},
+	{
+		"or": "no limit",
+		"tr": "ongelimiteerd"
+	},
+	{
+		"or": "Filter",
+		"tr": "Filter"
+	},
+	{
+		"or": "Name plates size",
+		"tr": "Grootte naamplaat"
+	},
+	{
+		"or": "New name:",
+		"tr": "Nieuwe naam:"
+	},
+	{
+		"or": "FSAA samples",
+		"tr": "FSAA samples"
+	},
+	{
+		"or": "Tattoos",
 		"tr": ""
 	},
 	{
@@ -1284,91 +1317,79 @@
 		"tr": "Info"
 	},
 	{
-		"or": "Hue",
-		"tr": "Tint"
+		"or": "Sound volume",
+		"tr": "Volume"
 	},
 	{
-		"or": "Record demo",
-		"tr": "Neem demo op"
-	},
-	{
-		"or": "Your skin",
-		"tr": "Jouw skin"
-	},
-	{
-		"or": "Size:",
-		"tr": "Grootte:"
-	},
-	{
-		"or": "Reset to defaults",
-		"tr": "Standaardinstellingen"
-	},
-	{
-		"or": "Quit anyway?",
-		"tr": "Toch afsluiten?"
+		"or": "Coloration",
+		"tr": ""
 	},
 	{
 		"or": "Display Modes",
 		"tr": "Laat modes zien"
 	},
 	{
-		"or": "Version:",
-		"tr": "Versie:"
-	},
-	{
 		"or": "Round",
 		"tr": "Ronde"
-	},
-	{
-		"or": "Lht.",
-		"tr": "Licht"
-	},
-	{
-		"or": "no limit",
-		"tr": "ongelimiteerd"
 	},
 	{
 		"or": "Quick search:",
 		"tr": "Snel zoeken:"
 	},
 	{
-		"or": "UI Color",
-		"tr": "UI kleur"
+		"or": "Feet",
+		"tr": "Voeten"
 	},
 	{
-		"or": "Host address",
-		"tr": "Server adres"
-	},
-	{
-		"or": "Crc:",
-		"tr": "Crc:"
-	},
-	{
-		"or": "Alpha",
-		"tr": "Alpha"
-	},
-	{
-		"or": "Are you sure you want to save your skin ? If a skin with this name already exists, it will be replaced.",
+		"or": "Eyes",
 		"tr": ""
-	},
-	{
-		"or": "Current version: %s",
-		"tr": "Huidige versie: %s"
-	},
-	{
-		"or": "Filter",
-		"tr": "Filter"
-	},
-	{
-		"or": "LAN",
-		"tr": "LAN"
-	},
-	{
-		"or": "Name plates size",
-		"tr": "Grootte naamplaat"
 	},
 	{
 		"or": "Type:",
 		"tr": "Type:"
+	},
+	{
+		"or": "Internet",
+		"tr": "Internet"
+	},
+	{
+		"or": "Hands",
+		"tr": ""
+	},
+	{
+		"or": "News",
+		"tr": "Nieuws"
+	},
+	{
+		"or": "Size:",
+		"tr": "Grootte:"
+	},
+	{
+		"or": "Sat.",
+		"tr": "Verz."
+	},
+	{
+		"or": "Length:",
+		"tr": "Lengte:"
+	},
+	{
+		"or": "%d Bytes",
+		"tr": "%d Bytes"
+	},
+	{
+		"or": "Tattoo",
+		"tr": ""
+	},
+	{
+		"or": "Version:",
+		"tr": "Versie:"
+	},
+	{
+		"or": "%d of %d servers, %d players",
+		"tr": "%d van %d Servers, %d spelers"
+	},
+	{
+		"or": "Max Screenshots",
+		"tr": "Maximaal aantal schermafbeeldingen"
 	}]
 }

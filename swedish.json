@@ -94,10 +94,6 @@
 		"tr": "Blå laget vann!"
 	},
 	{
-		"or": "Body",
-		"tr": "Kropp"
-	},
-	{
 		"or": "Call vote",
 		"tr": "Röstning"
 	},
@@ -224,10 +220,6 @@
 	{
 		"or": "Favorites",
 		"tr": "Favoriter"
-	},
-	{
-		"or": "Feet",
-		"tr": "Fötter"
 	},
 	{
 		"or": "Fire",
@@ -646,6 +638,10 @@
 		"tr": "Lagchatt"
 	},
 	{
+		"or": "Tee",
+		"tr": "Tee"
+	},
+	{
 		"or": "Teeworlds %s is out! Download it at www.teeworlds.com!",
 		"tr": "Teeworlds %s är ute nu! Ladda ner det från www.teeworlds.com."
 	},
@@ -823,6 +819,10 @@
 		"tr": ""
 	},
 	{
+		"or": "Are you sure that you want to delete the skin?",
+		"tr": ""
+	},
+	{
 		"or": "Are you sure you want to rename the demo?",
 		"tr": ""
 	},
@@ -836,10 +836,6 @@
 	},
 	{
 		"or": "Basic",
-		"tr": ""
-	},
-	{
-		"or": "Bodies",
 		"tr": ""
 	},
 	{
@@ -871,7 +867,7 @@
 		"tr": ""
 	},
 	{
-		"or": "Decoration",
+		"or": "Delete skin",
 		"tr": ""
 	},
 	{
@@ -884,10 +880,6 @@
 	},
 	{
 		"or": "Editor",
-		"tr": ""
-	},
-	{
-		"or": "Eyes",
 		"tr": ""
 	},
 	{
@@ -904,10 +896,6 @@
 	},
 	{
 		"or": "Global",
-		"tr": ""
-	},
-	{
-		"or": "Hands",
 		"tr": ""
 	},
 	{
@@ -952,7 +940,7 @@
 	},
 	{
 		"or": "Lgt:",
-		"tr": ""
+		"tr": "Lgt:"
 	},
 	{
 		"or": "Local",
@@ -1083,14 +1071,6 @@
 		"tr": ""
 	},
 	{
-		"or": "Tattoo",
-		"tr": ""
-	},
-	{
-		"or": "Tattoos",
-		"tr": ""
-	},
-	{
 		"or": "Team:",
 		"tr": ""
 	},
@@ -1111,11 +1091,19 @@
 		"tr": ""
 	},
 	{
-		"or": "Tee",
+		"or": "Texture",
 		"tr": ""
 	},
 	{
-		"or": "Texture",
+		"or": "The %s flag was captured by '%s'",
+		"tr": ""
+	},
+	{
+		"or": "The %s flag was captured by '%s' (%.2f seconds)",
+		"tr": ""
+	},
+	{
+		"or": "Unable to delete the skin",
 		"tr": ""
 	},
 	{
@@ -1188,83 +1176,127 @@
 	}],
 "old translations": [
 	{
-		"or": "New name:",
-		"tr": "Nytt namn:"
-	},
-	{
-		"or": "Sat.",
-		"tr": "Mättnad"
-	},
-	{
-		"or": "Miscellaneous",
-		"tr": "Övrigt"
-	},
-	{
-		"or": "Internet",
-		"tr": "Internet"
-	},
-	{
 		"or": "Max demos",
 		"tr": "Max antal demon"
-	},
-	{
-		"or": "News",
-		"tr": "Nyheter"
-	},
-	{
-		"or": "Join game",
-		"tr": "Spela"
-	},
-	{
-		"or": "FSAA samples",
-		"tr": "FSAA-samplingar"
-	},
-	{
-		"or": "%d of %d servers, %d players",
-		"tr": "%d av %d servrar, %d spelare"
-	},
-	{
-		"or": "Sound volume",
-		"tr": "Volym"
-	},
-	{
-		"or": "Created:",
-		"tr": "Skapad:"
-	},
-	{
-		"or": "Max Screenshots",
-		"tr": "Max antal skärmdumpar"
-	},
-	{
-		"or": "Length:",
-		"tr": "Längd"
-	},
-	{
-		"or": "Skin name",
-		"tr": ""
 	},
 	{
 		"or": "Rifle",
 		"tr": "Gevär"
 	},
 	{
-		"or": "Patterns",
-		"tr": ""
+		"or": "Join game",
+		"tr": "Spela"
+	},
+	{
+		"or": "Crc:",
+		"tr": "Crc:"
+	},
+	{
+		"or": "LAN",
+		"tr": "LAN"
 	},
 	{
 		"or": "Netversion:",
 		"tr": "Nätversion:"
 	},
 	{
+		"or": "Your skin",
+		"tr": "Ditt skin"
+	},
+	{
+		"or": "Hue",
+		"tr": "Nyans"
+	},
+	{
+		"or": "Current version: %s",
+		"tr": "Nuvarande version: %s"
+	},
+	{
+		"or": "Decoration",
+		"tr": ""
+	},
+	{
+		"or": "Body",
+		"tr": "Kropp"
+	},
+	{
+		"or": "Bodies",
+		"tr": ""
+	},
+	{
+		"or": "Quit anyway?",
+		"tr": "Avsluta i alla fall?"
+	},
+	{
+		"or": "Created:",
+		"tr": "Skapad:"
+	},
+	{
+		"or": "Record demo",
+		"tr": "Spela in demo"
+	},
+	{
+		"or": "Miscellaneous",
+		"tr": "Övrigt"
+	},
+	{
+		"or": "UI Color",
+		"tr": "Gränssnittfärg"
+	},
+	{
+		"or": "Skin name",
+		"tr": ""
+	},
+	{
+		"or": "Patterns",
+		"tr": ""
+	},
+	{
 		"or": "Map:",
 		"tr": "Bana"
 	},
 	{
-		"or": "%d Bytes",
-		"tr": "%d Bytes"
+		"or": "Lht.",
+		"tr": "Ljusstyrka"
 	},
 	{
-		"or": "Coloration",
+		"or": "Are you sure you want to save your skin ? If a skin with this name already exists, it will be replaced.",
+		"tr": ""
+	},
+	{
+		"or": "Reset to defaults",
+		"tr": "Återställ till standard"
+	},
+	{
+		"or": "Host address",
+		"tr": "Serveraddress"
+	},
+	{
+		"or": "Alpha",
+		"tr": "Alpha"
+	},
+	{
+		"or": "no limit",
+		"tr": "Ingen gräns"
+	},
+	{
+		"or": "Filter",
+		"tr": "Filter"
+	},
+	{
+		"or": "Name plates size",
+		"tr": "Storlek på namnskyltar"
+	},
+	{
+		"or": "New name:",
+		"tr": "Nytt namn:"
+	},
+	{
+		"or": "FSAA samples",
+		"tr": "FSAA-samplingar"
+	},
+	{
+		"or": "Tattoos",
 		"tr": ""
 	},
 	{
@@ -1272,91 +1304,79 @@
 		"tr": "Info"
 	},
 	{
-		"or": "Hue",
-		"tr": "Nyans"
+		"or": "Sound volume",
+		"tr": "Volym"
 	},
 	{
-		"or": "Record demo",
-		"tr": "Spela in demo"
-	},
-	{
-		"or": "Your skin",
-		"tr": "Ditt skin"
-	},
-	{
-		"or": "Size:",
-		"tr": "Storlek:"
-	},
-	{
-		"or": "Reset to defaults",
-		"tr": "Återställ till standard"
-	},
-	{
-		"or": "Quit anyway?",
-		"tr": "Avsluta i alla fall?"
+		"or": "Coloration",
+		"tr": ""
 	},
 	{
 		"or": "Display Modes",
 		"tr": "Skärmlägen"
 	},
 	{
-		"or": "Version:",
-		"tr": "Version:"
-	},
-	{
 		"or": "Round",
 		"tr": "Runda"
-	},
-	{
-		"or": "Lht.",
-		"tr": "Ljusstyrka"
-	},
-	{
-		"or": "no limit",
-		"tr": "Ingen gräns"
 	},
 	{
 		"or": "Quick search:",
 		"tr": "Snabbsök:"
 	},
 	{
-		"or": "UI Color",
-		"tr": "Gränssnittfärg"
+		"or": "Feet",
+		"tr": "Fötter"
 	},
 	{
-		"or": "Host address",
-		"tr": "Serveraddress"
-	},
-	{
-		"or": "Crc:",
-		"tr": "Crc:"
-	},
-	{
-		"or": "Alpha",
-		"tr": "Alpha"
-	},
-	{
-		"or": "Are you sure you want to save your skin ? If a skin with this name already exists, it will be replaced.",
+		"or": "Eyes",
 		"tr": ""
-	},
-	{
-		"or": "Current version: %s",
-		"tr": "Nuvarande version: %s"
-	},
-	{
-		"or": "Filter",
-		"tr": "Filter"
-	},
-	{
-		"or": "LAN",
-		"tr": "LAN"
-	},
-	{
-		"or": "Name plates size",
-		"tr": "Storlek på namnskyltar"
 	},
 	{
 		"or": "Type:",
 		"tr": "Typ:"
+	},
+	{
+		"or": "Internet",
+		"tr": "Internet"
+	},
+	{
+		"or": "Hands",
+		"tr": ""
+	},
+	{
+		"or": "News",
+		"tr": "Nyheter"
+	},
+	{
+		"or": "Size:",
+		"tr": "Storlek:"
+	},
+	{
+		"or": "Sat.",
+		"tr": "Mättnad"
+	},
+	{
+		"or": "Length:",
+		"tr": "Längd"
+	},
+	{
+		"or": "%d Bytes",
+		"tr": "%d Bytes"
+	},
+	{
+		"or": "Tattoo",
+		"tr": ""
+	},
+	{
+		"or": "Version:",
+		"tr": "Version:"
+	},
+	{
+		"or": "%d of %d servers, %d players",
+		"tr": "%d av %d servrar, %d spelare"
+	},
+	{
+		"or": "Max Screenshots",
+		"tr": "Max antal skärmdumpar"
 	}]
 }

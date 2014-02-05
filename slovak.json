@@ -93,10 +93,6 @@
 		"tr": "Modrý tým vyhráva!"
 	},
 	{
-		"or": "Body",
-		"tr": "Telo"
-	},
-	{
 		"or": "Call vote",
 		"tr": "Hlasovať"
 	},
@@ -223,10 +219,6 @@
 	{
 		"or": "Favorites",
 		"tr": "Obľúbené"
-	},
-	{
-		"or": "Feet",
-		"tr": "Nohy"
 	},
 	{
 		"or": "Fire",
@@ -645,6 +637,10 @@
 		"tr": "Týmový chat"
 	},
 	{
+		"or": "Tee",
+		"tr": "Tee"
+	},
+	{
 		"or": "Teeworlds %s is out! Download it at www.teeworlds.com!",
 		"tr": "Vyšla nová verzia hry: %s! Stiahnite si ju na www.teeworlds.com!"
 	},
@@ -822,6 +818,10 @@
 		"tr": ""
 	},
 	{
+		"or": "Are you sure that you want to delete the skin?",
+		"tr": ""
+	},
+	{
 		"or": "Are you sure you want to rename the demo?",
 		"tr": ""
 	},
@@ -835,10 +835,6 @@
 	},
 	{
 		"or": "Basic",
-		"tr": ""
-	},
-	{
-		"or": "Bodies",
 		"tr": ""
 	},
 	{
@@ -870,7 +866,7 @@
 		"tr": ""
 	},
 	{
-		"or": "Decoration",
+		"or": "Delete skin",
 		"tr": ""
 	},
 	{
@@ -883,10 +879,6 @@
 	},
 	{
 		"or": "Editor",
-		"tr": ""
-	},
-	{
-		"or": "Eyes",
 		"tr": ""
 	},
 	{
@@ -903,10 +895,6 @@
 	},
 	{
 		"or": "Global",
-		"tr": ""
-	},
-	{
-		"or": "Hands",
 		"tr": ""
 	},
 	{
@@ -951,7 +939,7 @@
 	},
 	{
 		"or": "Lgt:",
-		"tr": ""
+		"tr": "Lgt:"
 	},
 	{
 		"or": "Local",
@@ -1082,14 +1070,6 @@
 		"tr": ""
 	},
 	{
-		"or": "Tattoo",
-		"tr": ""
-	},
-	{
-		"or": "Tattoos",
-		"tr": ""
-	},
-	{
 		"or": "Team:",
 		"tr": ""
 	},
@@ -1110,11 +1090,19 @@
 		"tr": ""
 	},
 	{
-		"or": "Tee",
+		"or": "Texture",
 		"tr": ""
 	},
 	{
-		"or": "Texture",
+		"or": "The %s flag was captured by '%s'",
+		"tr": ""
+	},
+	{
+		"or": "The %s flag was captured by '%s' (%.2f seconds)",
+		"tr": ""
+	},
+	{
+		"or": "Unable to delete the skin",
 		"tr": ""
 	},
 	{
@@ -1187,83 +1175,127 @@
 	}],
 "old translations": [
 	{
-		"or": "New name:",
-		"tr": "Nové meno:"
-	},
-	{
-		"or": "Sat.",
-		"tr": "Sat."
-	},
-	{
-		"or": "Miscellaneous",
-		"tr": "Ostatné"
-	},
-	{
-		"or": "Internet",
-		"tr": "Internet"
-	},
-	{
 		"or": "Max demos",
 		"tr": "Maximum nahrávok"
-	},
-	{
-		"or": "News",
-		"tr": "Novinky"
-	},
-	{
-		"or": "Join game",
-		"tr": "Hrať"
-	},
-	{
-		"or": "FSAA samples",
-		"tr": "Anti-aliasing"
-	},
-	{
-		"or": "%d of %d servers, %d players",
-		"tr": "%d z %d serverov, %d hráčov online"
-	},
-	{
-		"or": "Sound volume",
-		"tr": "Hlasitosť"
-	},
-	{
-		"or": "Created:",
-		"tr": "Vytvorené:"
-	},
-	{
-		"or": "Max Screenshots",
-		"tr": "Maximum obrázkov"
-	},
-	{
-		"or": "Length:",
-		"tr": "Dĺžka:"
-	},
-	{
-		"or": "Skin name",
-		"tr": ""
 	},
 	{
 		"or": "Rifle",
 		"tr": "Laser"
 	},
 	{
-		"or": "Patterns",
-		"tr": ""
+		"or": "Join game",
+		"tr": "Hrať"
+	},
+	{
+		"or": "Crc:",
+		"tr": "Crc:"
+	},
+	{
+		"or": "LAN",
+		"tr": "LAN"
 	},
 	{
 		"or": "Netversion:",
 		"tr": "Netversion:"
 	},
 	{
+		"or": "Your skin",
+		"tr": "Váš skin"
+	},
+	{
+		"or": "Hue",
+		"tr": "Hue"
+	},
+	{
+		"or": "Current version: %s",
+		"tr": "Aktuálna verzia: %s"
+	},
+	{
+		"or": "Decoration",
+		"tr": ""
+	},
+	{
+		"or": "Body",
+		"tr": "Telo"
+	},
+	{
+		"or": "Bodies",
+		"tr": ""
+	},
+	{
+		"or": "Quit anyway?",
+		"tr": "Aj tak ukončiť?"
+	},
+	{
+		"or": "Created:",
+		"tr": "Vytvorené:"
+	},
+	{
+		"or": "Record demo",
+		"tr": "Nahrávať"
+	},
+	{
+		"or": "Miscellaneous",
+		"tr": "Ostatné"
+	},
+	{
+		"or": "UI Color",
+		"tr": "Farba prostredia"
+	},
+	{
+		"or": "Skin name",
+		"tr": ""
+	},
+	{
+		"or": "Patterns",
+		"tr": ""
+	},
+	{
 		"or": "Map:",
 		"tr": "Mapa:"
 	},
 	{
-		"or": "%d Bytes",
-		"tr": "%d Bajtov"
+		"or": "Lht.",
+		"tr": "Lht."
 	},
 	{
-		"or": "Coloration",
+		"or": "Are you sure you want to save your skin ? If a skin with this name already exists, it will be replaced.",
+		"tr": ""
+	},
+	{
+		"or": "Reset to defaults",
+		"tr": "Vrátiť na pôvodné"
+	},
+	{
+		"or": "Host address",
+		"tr": "Hostiteľ"
+	},
+	{
+		"or": "Alpha",
+		"tr": "Alpha"
+	},
+	{
+		"or": "no limit",
+		"tr": "bez limitu"
+	},
+	{
+		"or": "Filter",
+		"tr": "Filter"
+	},
+	{
+		"or": "Name plates size",
+		"tr": "Veľkosť menoviek"
+	},
+	{
+		"or": "New name:",
+		"tr": "Nové meno:"
+	},
+	{
+		"or": "FSAA samples",
+		"tr": "Anti-aliasing"
+	},
+	{
+		"or": "Tattoos",
 		"tr": ""
 	},
 	{
@@ -1271,91 +1303,79 @@
 		"tr": "Info"
 	},
 	{
-		"or": "Hue",
-		"tr": "Hue"
+		"or": "Sound volume",
+		"tr": "Hlasitosť"
 	},
 	{
-		"or": "Record demo",
-		"tr": "Nahrávať"
-	},
-	{
-		"or": "Your skin",
-		"tr": "Váš skin"
-	},
-	{
-		"or": "Size:",
-		"tr": "Veľkosť:"
-	},
-	{
-		"or": "Reset to defaults",
-		"tr": "Vrátiť na pôvodné"
-	},
-	{
-		"or": "Quit anyway?",
-		"tr": "Aj tak ukončiť?"
+		"or": "Coloration",
+		"tr": ""
 	},
 	{
 		"or": "Display Modes",
 		"tr": "Možnosti zobrazenia"
 	},
 	{
-		"or": "Version:",
-		"tr": "Verzia:"
-	},
-	{
 		"or": "Round",
 		"tr": "Kolo"
-	},
-	{
-		"or": "Lht.",
-		"tr": "Lht."
-	},
-	{
-		"or": "no limit",
-		"tr": "bez limitu"
 	},
 	{
 		"or": "Quick search:",
 		"tr": "Hľadanie:"
 	},
 	{
-		"or": "UI Color",
-		"tr": "Farba prostredia"
+		"or": "Feet",
+		"tr": "Nohy"
 	},
 	{
-		"or": "Host address",
-		"tr": "Hostiteľ"
-	},
-	{
-		"or": "Crc:",
-		"tr": "Crc:"
-	},
-	{
-		"or": "Alpha",
-		"tr": "Alpha"
-	},
-	{
-		"or": "Are you sure you want to save your skin ? If a skin with this name already exists, it will be replaced.",
+		"or": "Eyes",
 		"tr": ""
-	},
-	{
-		"or": "Current version: %s",
-		"tr": "Aktuálna verzia: %s"
-	},
-	{
-		"or": "Filter",
-		"tr": "Filter"
-	},
-	{
-		"or": "LAN",
-		"tr": "LAN"
-	},
-	{
-		"or": "Name plates size",
-		"tr": "Veľkosť menoviek"
 	},
 	{
 		"or": "Type:",
 		"tr": "Typ:"
+	},
+	{
+		"or": "Internet",
+		"tr": "Internet"
+	},
+	{
+		"or": "Hands",
+		"tr": ""
+	},
+	{
+		"or": "News",
+		"tr": "Novinky"
+	},
+	{
+		"or": "Size:",
+		"tr": "Veľkosť:"
+	},
+	{
+		"or": "Sat.",
+		"tr": "Sat."
+	},
+	{
+		"or": "Length:",
+		"tr": "Dĺžka:"
+	},
+	{
+		"or": "%d Bytes",
+		"tr": "%d Bajtov"
+	},
+	{
+		"or": "Tattoo",
+		"tr": ""
+	},
+	{
+		"or": "Version:",
+		"tr": "Verzia:"
+	},
+	{
+		"or": "%d of %d servers, %d players",
+		"tr": "%d z %d serverov, %d hráčov online"
+	},
+	{
+		"or": "Max Screenshots",
+		"tr": "Maximum obrázkov"
 	}]
 }

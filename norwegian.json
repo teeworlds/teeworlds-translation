@@ -93,10 +93,6 @@
 		"tr": "Blått lag vant!"
 	},
 	{
-		"or": "Body",
-		"tr": "Kropp"
-	},
-	{
 		"or": "Call vote",
 		"tr": "Stem"
 	},
@@ -223,10 +219,6 @@
 	{
 		"or": "Favorites",
 		"tr": "Favoritter"
-	},
-	{
-		"or": "Feet",
-		"tr": "Føtter"
 	},
 	{
 		"or": "Fire",
@@ -645,6 +637,10 @@
 		"tr": "Lagsamtale"
 	},
 	{
+		"or": "Tee",
+		"tr": "Tee"
+	},
+	{
 		"or": "Teeworlds %s is out! Download it at www.teeworlds.com!",
 		"tr": "Teeworlds %s er ute! Last ned på www.teeworlds.com!"
 	},
@@ -822,6 +818,10 @@
 		"tr": ""
 	},
 	{
+		"or": "Are you sure that you want to delete the skin?",
+		"tr": ""
+	},
+	{
 		"or": "Are you sure you want to rename the demo?",
 		"tr": ""
 	},
@@ -835,10 +835,6 @@
 	},
 	{
 		"or": "Basic",
-		"tr": ""
-	},
-	{
-		"or": "Bodies",
 		"tr": ""
 	},
 	{
@@ -870,7 +866,7 @@
 		"tr": ""
 	},
 	{
-		"or": "Decoration",
+		"or": "Delete skin",
 		"tr": ""
 	},
 	{
@@ -883,10 +879,6 @@
 	},
 	{
 		"or": "Editor",
-		"tr": ""
-	},
-	{
-		"or": "Eyes",
 		"tr": ""
 	},
 	{
@@ -903,10 +895,6 @@
 	},
 	{
 		"or": "Global",
-		"tr": ""
-	},
-	{
-		"or": "Hands",
 		"tr": ""
 	},
 	{
@@ -951,7 +939,7 @@
 	},
 	{
 		"or": "Lgt:",
-		"tr": ""
+		"tr": "Lgt:"
 	},
 	{
 		"or": "Local",
@@ -1082,14 +1070,6 @@
 		"tr": ""
 	},
 	{
-		"or": "Tattoo",
-		"tr": ""
-	},
-	{
-		"or": "Tattoos",
-		"tr": ""
-	},
-	{
 		"or": "Team:",
 		"tr": ""
 	},
@@ -1110,11 +1090,19 @@
 		"tr": ""
 	},
 	{
-		"or": "Tee",
+		"or": "Texture",
 		"tr": ""
 	},
 	{
-		"or": "Texture",
+		"or": "The %s flag was captured by '%s'",
+		"tr": ""
+	},
+	{
+		"or": "The %s flag was captured by '%s' (%.2f seconds)",
+		"tr": ""
+	},
+	{
+		"or": "Unable to delete the skin",
 		"tr": ""
 	},
 	{
@@ -1187,83 +1175,127 @@
 	}],
 "old translations": [
 	{
-		"or": "New name:",
-		"tr": "Nytt navn:"
-	},
-	{
-		"or": "Sat.",
-		"tr": "Metning"
-	},
-	{
-		"or": "Miscellaneous",
-		"tr": "Diverse"
-	},
-	{
-		"or": "Internet",
-		"tr": "Internett"
-	},
-	{
 		"or": "Max demos",
 		"tr": "Maks antall demoer"
-	},
-	{
-		"or": "News",
-		"tr": "Nyheter"
-	},
-	{
-		"or": "Join game",
-		"tr": "Bli med i spillet"
-	},
-	{
-		"or": "FSAA samples",
-		"tr": "FSAA prøver"
-	},
-	{
-		"or": "%d of %d servers, %d players",
-		"tr": "%d av %d servere, %d spillere"
-	},
-	{
-		"or": "Sound volume",
-		"tr": "Lydvolum"
-	},
-	{
-		"or": "Created:",
-		"tr": "Opprettet:"
-	},
-	{
-		"or": "Max Screenshots",
-		"tr": "Maks antall skjermbilder"
-	},
-	{
-		"or": "Length:",
-		"tr": "Lengde"
-	},
-	{
-		"or": "Skin name",
-		"tr": ""
 	},
 	{
 		"or": "Rifle",
 		"tr": "Laser"
 	},
 	{
-		"or": "Patterns",
-		"tr": ""
+		"or": "Join game",
+		"tr": "Bli med i spillet"
+	},
+	{
+		"or": "Crc:",
+		"tr": "Crc:"
+	},
+	{
+		"or": "LAN",
+		"tr": "LAN"
 	},
 	{
 		"or": "Netversion:",
 		"tr": "Net versjon:"
 	},
 	{
+		"or": "Your skin",
+		"tr": "Ditt utseende"
+	},
+	{
+		"or": "Hue",
+		"tr": "Farge"
+	},
+	{
+		"or": "Current version: %s",
+		"tr": "Nåværende versjon: %s"
+	},
+	{
+		"or": "Decoration",
+		"tr": ""
+	},
+	{
+		"or": "Body",
+		"tr": "Kropp"
+	},
+	{
+		"or": "Bodies",
+		"tr": ""
+	},
+	{
+		"or": "Quit anyway?",
+		"tr": "Avslutt uansett?"
+	},
+	{
+		"or": "Created:",
+		"tr": "Opprettet:"
+	},
+	{
+		"or": "Record demo",
+		"tr": "Ta opp demo"
+	},
+	{
+		"or": "Miscellaneous",
+		"tr": "Diverse"
+	},
+	{
+		"or": "UI Color",
+		"tr": "Menyfarge"
+	},
+	{
+		"or": "Skin name",
+		"tr": ""
+	},
+	{
+		"or": "Patterns",
+		"tr": ""
+	},
+	{
 		"or": "Map:",
 		"tr": "Bane:"
 	},
 	{
-		"or": "%d Bytes",
-		"tr": "%d Bytes"
+		"or": "Lht.",
+		"tr": "Lysstyrke"
 	},
 	{
-		"or": "Coloration",
+		"or": "Are you sure you want to save your skin ? If a skin with this name already exists, it will be replaced.",
+		"tr": ""
+	},
+	{
+		"or": "Reset to defaults",
+		"tr": "Tilbakestill standardinstillinger"
+	},
+	{
+		"or": "Host address",
+		"tr": "Serveradresse"
+	},
+	{
+		"or": "Alpha",
+		"tr": "Synlighet"
+	},
+	{
+		"or": "no limit",
+		"tr": "Ingen begrensninger"
+	},
+	{
+		"or": "Filter",
+		"tr": "Filter"
+	},
+	{
+		"or": "Name plates size",
+		"tr": "Størrelse på navnskilt"
+	},
+	{
+		"or": "New name:",
+		"tr": "Nytt navn:"
+	},
+	{
+		"or": "FSAA samples",
+		"tr": "FSAA prøver"
+	},
+	{
+		"or": "Tattoos",
 		"tr": ""
 	},
 	{
@@ -1271,91 +1303,79 @@
 		"tr": "Info"
 	},
 	{
-		"or": "Hue",
-		"tr": "Farge"
+		"or": "Sound volume",
+		"tr": "Lydvolum"
 	},
 	{
-		"or": "Record demo",
-		"tr": "Ta opp demo"
-	},
-	{
-		"or": "Your skin",
-		"tr": "Ditt utseende"
-	},
-	{
-		"or": "Size:",
-		"tr": "Størrelse:"
-	},
-	{
-		"or": "Reset to defaults",
-		"tr": "Tilbakestill standardinstillinger"
-	},
-	{
-		"or": "Quit anyway?",
-		"tr": "Avslutt uansett?"
+		"or": "Coloration",
+		"tr": ""
 	},
 	{
 		"or": "Display Modes",
 		"tr": "Skjerm moduser"
 	},
 	{
-		"or": "Version:",
-		"tr": "Versjon:"
-	},
-	{
 		"or": "Round",
 		"tr": "Runde"
-	},
-	{
-		"or": "Lht.",
-		"tr": "Lysstyrke"
-	},
-	{
-		"or": "no limit",
-		"tr": "Ingen begrensninger"
 	},
 	{
 		"or": "Quick search:",
 		"tr": "Raskt Søk:"
 	},
 	{
-		"or": "UI Color",
-		"tr": "Menyfarge"
+		"or": "Feet",
+		"tr": "Føtter"
 	},
 	{
-		"or": "Host address",
-		"tr": "Serveradresse"
-	},
-	{
-		"or": "Crc:",
-		"tr": "Crc:"
-	},
-	{
-		"or": "Alpha",
-		"tr": "Synlighet"
-	},
-	{
-		"or": "Are you sure you want to save your skin ? If a skin with this name already exists, it will be replaced.",
+		"or": "Eyes",
 		"tr": ""
-	},
-	{
-		"or": "Current version: %s",
-		"tr": "Nåværende versjon: %s"
-	},
-	{
-		"or": "Filter",
-		"tr": "Filter"
-	},
-	{
-		"or": "LAN",
-		"tr": "LAN"
-	},
-	{
-		"or": "Name plates size",
-		"tr": "Størrelse på navnskilt"
 	},
 	{
 		"or": "Type:",
 		"tr": "Type:"
+	},
+	{
+		"or": "Internet",
+		"tr": "Internett"
+	},
+	{
+		"or": "Hands",
+		"tr": ""
+	},
+	{
+		"or": "News",
+		"tr": "Nyheter"
+	},
+	{
+		"or": "Size:",
+		"tr": "Størrelse:"
+	},
+	{
+		"or": "Sat.",
+		"tr": "Metning"
+	},
+	{
+		"or": "Length:",
+		"tr": "Lengde"
+	},
+	{
+		"or": "%d Bytes",
+		"tr": "%d Bytes"
+	},
+	{
+		"or": "Tattoo",
+		"tr": ""
+	},
+	{
+		"or": "Version:",
+		"tr": "Versjon:"
+	},
+	{
+		"or": "%d of %d servers, %d players",
+		"tr": "%d av %d servere, %d spillere"
+	},
+	{
+		"or": "Max Screenshots",
+		"tr": "Maks antall skjermbilder"
 	}]
 }

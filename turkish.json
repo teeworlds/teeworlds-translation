@@ -96,10 +96,6 @@
 		"tr": "Mavi takım kazandı!"
 	},
 	{
-		"or": "Body",
-		"tr": "Gövde"
-	},
-	{
 		"or": "Call vote",
 		"tr": "Oylama başlat"
 	},
@@ -226,10 +222,6 @@
 	{
 		"or": "Favorites",
 		"tr": "Favoriler"
-	},
-	{
-		"or": "Feet",
-		"tr": "Ayak"
 	},
 	{
 		"or": "Fire",
@@ -644,6 +636,10 @@
 		"tr": "Takım sohbeti"
 	},
 	{
+		"or": "Tee",
+		"tr": "Tee"
+	},
+	{
 		"or": "Teeworlds %s is out! Download it at www.teeworlds.com!",
 		"tr": "Teeworlds %s çıktı! www.teeworlds.com dan indirin!"
 	},
@@ -821,6 +817,10 @@
 		"tr": ""
 	},
 	{
+		"or": "Are you sure that you want to delete the skin?",
+		"tr": ""
+	},
+	{
 		"or": "Are you sure you want to rename the demo?",
 		"tr": ""
 	},
@@ -834,10 +834,6 @@
 	},
 	{
 		"or": "Basic",
-		"tr": ""
-	},
-	{
-		"or": "Bodies",
 		"tr": ""
 	},
 	{
@@ -869,7 +865,7 @@
 		"tr": ""
 	},
 	{
-		"or": "Decoration",
+		"or": "Delete skin",
 		"tr": ""
 	},
 	{
@@ -882,10 +878,6 @@
 	},
 	{
 		"or": "Editor",
-		"tr": ""
-	},
-	{
-		"or": "Eyes",
 		"tr": ""
 	},
 	{
@@ -902,10 +894,6 @@
 	},
 	{
 		"or": "Global",
-		"tr": ""
-	},
-	{
-		"or": "Hands",
 		"tr": ""
 	},
 	{
@@ -950,7 +938,7 @@
 	},
 	{
 		"or": "Lgt:",
-		"tr": ""
+		"tr": "Lgt:"
 	},
 	{
 		"or": "Local",
@@ -1085,14 +1073,6 @@
 		"tr": ""
 	},
 	{
-		"or": "Tattoo",
-		"tr": ""
-	},
-	{
-		"or": "Tattoos",
-		"tr": ""
-	},
-	{
 		"or": "Team:",
 		"tr": ""
 	},
@@ -1113,11 +1093,19 @@
 		"tr": ""
 	},
 	{
-		"or": "Tee",
+		"or": "Texture",
 		"tr": ""
 	},
 	{
-		"or": "Texture",
+		"or": "The %s flag was captured by '%s'",
+		"tr": ""
+	},
+	{
+		"or": "The %s flag was captured by '%s' (%.2f seconds)",
+		"tr": ""
+	},
+	{
+		"or": "Unable to delete the skin",
 		"tr": ""
 	},
 	{
@@ -1190,179 +1178,211 @@
 	}],
 "old translations": [
 	{
-		"or": "New name:",
-		"tr": "Yeni isim :"
-	},
-	{
-		"or": "Sat.",
-		"tr": "Doygunluk"
-	},
-	{
-		"or": "Miscellaneous",
-		"tr": "Çeşitli"
-	},
-	{
-		"or": "Internet",
-		"tr": "Internet"
-	},
-	{
 		"or": "Max demos",
 		"tr": "Maksimum Demo Sayısı"
-	},
-	{
-		"or": "News",
-		"tr": "Haberler"
-	},
-	{
-		"or": "Join game",
-		"tr": "Oyuna katıl"
-	},
-	{
-		"or": "FSAA samples",
-		"tr": "FSAA örnekleri"
-	},
-	{
-		"or": "%d of %d servers, %d players",
-		"tr": "%d/%d sunucu, %d oyuncu"
-	},
-	{
-		"or": "Sound volume",
-		"tr": "Ses yüksekliği"
-	},
-	{
-		"or": "Created:",
-		"tr": "Yaratıldı:"
-	},
-	{
-		"or": "Max Screenshots",
-		"tr": "Maksimum Ekran Alıntısı Sayısı"
-	},
-	{
-		"or": "Length:",
-		"tr": "Uzunluk:"
-	},
-	{
-		"or": "Skin name",
-		"tr": ""
 	},
 	{
 		"or": "Rifle",
 		"tr": "Lazer"
 	},
 	{
-		"or": "Patterns",
-		"tr": ""
-	},
-	{
-		"or": "Netversion:",
-		"tr": "Netversion :"
-	},
-	{
-		"or": "Map:",
-		"tr": "Harita:"
-	},
-	{
-		"or": "%d Bytes",
-		"tr": "%d Bayt"
-	},
-	{
-		"or": "Coloration",
-		"tr": ""
-	},
-	{
-		"or": "Info",
-		"tr": "Bilgi"
-	},
-	{
-		"or": "Hue",
-		"tr": "Renk"
-	},
-	{
-		"or": "Record demo",
-		"tr": "Demo kaydet"
-	},
-	{
-		"or": "Your skin",
-		"tr": "Sizin görünüşünüz"
-	},
-	{
-		"or": "Size:",
-		"tr": "Boyut:"
-	},
-	{
-		"or": "﻿",
-		"tr": "## translated strings #####"
-	},
-	{
-		"or": "Reset to defaults",
-		"tr": "Varsayılanlara getir"
-	},
-	{
-		"or": "Quit anyway?",
-		"tr": "Çıkmak istediğinize emin misiniz?"
-	},
-	{
-		"or": "Display Modes",
-		"tr": "Çözünürlük"
-	},
-	{
-		"or": "Version:",
-		"tr": "Versyon :"
-	},
-	{
-		"or": "Round",
-		"tr": "Raund"
-	},
-	{
-		"or": "Lht.",
-		"tr": "Parlaklık"
-	},
-	{
-		"or": "no limit",
-		"tr": "limit yok"
-	},
-	{
-		"or": "Quick search:",
-		"tr": "Hızlı Arama :"
-	},
-	{
-		"or": "UI Color",
-		"tr": "Menü rengi"
-	},
-	{
-		"or": "Host address",
-		"tr": "Sunucu adresi"
+		"or": "Join game",
+		"tr": "Oyuna katıl"
 	},
 	{
 		"or": "Crc:",
 		"tr": "Crc:"
 	},
 	{
-		"or": "Alpha",
-		"tr": "Şeffaflık"
+		"or": "LAN",
+		"tr": "LAN"
 	},
 	{
-		"or": "Are you sure you want to save your skin ? If a skin with this name already exists, it will be replaced.",
-		"tr": ""
+		"or": "Netversion:",
+		"tr": "Netversion :"
+	},
+	{
+		"or": "Your skin",
+		"tr": "Sizin görünüşünüz"
+	},
+	{
+		"or": "Hue",
+		"tr": "Renk"
 	},
 	{
 		"or": "Current version: %s",
 		"tr": "Mevcut versiyon: %s"
 	},
 	{
-		"or": "Filter",
-		"tr": "Filtre"
+		"or": "Decoration",
+		"tr": ""
 	},
 	{
-		"or": "LAN",
-		"tr": "LAN"
+		"or": "Body",
+		"tr": "Gövde"
+	},
+	{
+		"or": "Bodies",
+		"tr": ""
+	},
+	{
+		"or": "Quit anyway?",
+		"tr": "Çıkmak istediğinize emin misiniz?"
+	},
+	{
+		"or": "Created:",
+		"tr": "Yaratıldı:"
+	},
+	{
+		"or": "Record demo",
+		"tr": "Demo kaydet"
+	},
+	{
+		"or": "Miscellaneous",
+		"tr": "Çeşitli"
+	},
+	{
+		"or": "UI Color",
+		"tr": "Menü rengi"
+	},
+	{
+		"or": "Skin name",
+		"tr": ""
+	},
+	{
+		"or": "Patterns",
+		"tr": ""
+	},
+	{
+		"or": "Map:",
+		"tr": "Harita:"
+	},
+	{
+		"or": "Lht.",
+		"tr": "Parlaklık"
+	},
+	{
+		"or": "Are you sure you want to save your skin ? If a skin with this name already exists, it will be replaced.",
+		"tr": ""
+	},
+	{
+		"or": "Reset to defaults",
+		"tr": "Varsayılanlara getir"
+	},
+	{
+		"or": "Host address",
+		"tr": "Sunucu adresi"
+	},
+	{
+		"or": "Alpha",
+		"tr": "Şeffaflık"
+	},
+	{
+		"or": "no limit",
+		"tr": "limit yok"
+	},
+	{
+		"or": "Filter",
+		"tr": "Filtre"
 	},
 	{
 		"or": "Name plates size",
 		"tr": "Boyut"
 	},
 	{
+		"or": "New name:",
+		"tr": "Yeni isim :"
+	},
+	{
+		"or": "FSAA samples",
+		"tr": "FSAA örnekleri"
+	},
+	{
+		"or": "Tattoos",
+		"tr": ""
+	},
+	{
+		"or": "﻿",
+		"tr": "## translated strings #####"
+	},
+	{
+		"or": "Info",
+		"tr": "Bilgi"
+	},
+	{
+		"or": "Sound volume",
+		"tr": "Ses yüksekliği"
+	},
+	{
+		"or": "Coloration",
+		"tr": ""
+	},
+	{
+		"or": "Display Modes",
+		"tr": "Çözünürlük"
+	},
+	{
+		"or": "Round",
+		"tr": "Raund"
+	},
+	{
+		"or": "Quick search:",
+		"tr": "Hızlı Arama :"
+	},
+	{
+		"or": "Feet",
+		"tr": "Ayak"
+	},
+	{
+		"or": "Eyes",
+		"tr": ""
+	},
+	{
 		"or": "Type:",
 		"tr": "Tür:"
+	},
+	{
+		"or": "Internet",
+		"tr": "Internet"
+	},
+	{
+		"or": "Hands",
+		"tr": ""
+	},
+	{
+		"or": "News",
+		"tr": "Haberler"
+	},
+	{
+		"or": "Size:",
+		"tr": "Boyut:"
+	},
+	{
+		"or": "Sat.",
+		"tr": "Doygunluk"
+	},
+	{
+		"or": "Length:",
+		"tr": "Uzunluk:"
+	},
+	{
+		"or": "%d Bytes",
+		"tr": "%d Bayt"
+	},
+	{
+		"or": "Tattoo",
+		"tr": ""
+	},
+	{
+		"or": "Version:",
+		"tr": "Versyon :"
+	},
+	{
+		"or": "%d of %d servers, %d players",
+		"tr": "%d/%d sunucu, %d oyuncu"
+	},
+	{
+		"or": "Max Screenshots",
+		"tr": "Maksimum Ekran Alıntısı Sayısı"
 	}]
 }
