@@ -317,6 +317,10 @@
 		"tr": "言語"
 	},
 	{
+		"or": "Lgt:",
+		"tr": "Lgt:"
+	},
+	{
 		"or": "Loading",
 		"tr": "読み込み中"
 	},
@@ -938,10 +942,6 @@
 		"tr": ""
 	},
 	{
-		"or": "Lgt:",
-		"tr": "Lgt:"
-	},
-	{
 		"or": "Local",
 		"tr": ""
 	},
@@ -1195,6 +1195,10 @@
 		"tr": "体"
 	},
 	{
+		"or": "Hands",
+		"tr": ""
+	},
+	{
 		"or": "Max demos",
 		"tr": "デモの最大数"
 	},
@@ -1207,6 +1211,10 @@
 		"tr": "FSAAサンプル数"
 	},
 	{
+		"or": "%d of %d servers, %d players",
+		"tr": "%d of %d サーバー, %d プレイヤー"
+	},
+	{
 		"or": "Sound volume",
 		"tr": "音量"
 	},
@@ -1215,24 +1223,12 @@
 		"tr": "作成:"
 	},
 	{
-		"or": "Feet",
-		"tr": "足"
-	},
-	{
-		"or": "Eyes",
-		"tr": ""
-	},
-	{
 		"or": "Max Screenshots",
 		"tr": "スクリーンショットの最大数"
 	},
 	{
 		"or": "Length:",
 		"tr": "長さ:"
-	},
-	{
-		"or": "Rifle",
-		"tr": "ライフル"
 	},
 	{
 		"or": "Netversion:",
@@ -1263,6 +1259,10 @@
 		"tr": "色相"
 	},
 	{
+		"or": "Record demo",
+		"tr": "デモを録画"
+	},
+	{
 		"or": "Your skin",
 		"tr": "あなたのスキン"
 	},
@@ -1275,8 +1275,12 @@
 		"tr": "初期設定に戻す"
 	},
 	{
-		"or": "Hands",
-		"tr": ""
+		"or": "Rifle",
+		"tr": "ライフル"
+	},
+	{
+		"or": "Quit anyway?",
+		"tr": "終了しますか？"
 	},
 	{
 		"or": "Display Modes",
@@ -1303,16 +1307,16 @@
 		"tr": "ワード検索:"
 	},
 	{
-		"or": "%d of %d servers, %d players",
-		"tr": "%d of %d サーバー, %d プレイヤー"
+		"or": "Feet",
+		"tr": "足"
 	},
 	{
 		"or": "Join game",
 		"tr": "ゲームに参加"
 	},
 	{
-		"or": "Quit anyway?",
-		"tr": "終了しますか？"
+		"or": "Eyes",
+		"tr": ""
 	},
 	{
 		"or": "UI Color",
@@ -1349,10 +1353,6 @@
 	{
 		"or": "Bodies",
 		"tr": ""
-	},
-	{
-		"or": "Record demo",
-		"tr": "デモを録画"
 	},
 	{
 		"or": "Name plates size",

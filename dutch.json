@@ -103,6 +103,10 @@
 		"tr": "Automatisch schermafbeeldingen nemen"
 	},
 	{
+		"or": "Back",
+		"tr": "Terug"
+	},
+	{
 		"or": "Basic",
 		"tr": "Basisch"
 	},
@@ -375,6 +379,10 @@
 		"tr": "Taal"
 	},
 	{
+		"or": "Laser",
+		"tr": "Laser"
+	},
+	{
 		"or": "Length",
 		"tr": "Lengte"
 	},
@@ -401,6 +409,10 @@
 	{
 		"or": "Map",
 		"tr": "Kaart"
+	},
+	{
+		"or": "Match",
+		"tr": "Wedstrijd"
 	},
 	{
 		"or": "Maximum ping:",
@@ -539,12 +551,20 @@
 		"tr": "REC %3d:%02d"
 	},
 	{
+		"or": "Ready",
+		"tr": "Klaar"
+	},
+	{
 		"or": "Reason:",
 		"tr": "Reden:"
 	},
 	{
 		"or": "Record",
 		"tr": "Record"
+	},
+	{
+		"or": "Recorded",
+		"tr": "Opgenomen"
 	},
 	{
 		"or": "Red team",
@@ -748,7 +768,7 @@
 	},
 	{
 		"or": "Team:",
-		"tr": "Team: "
+		"tr": "Team:"
 	},
 	{
 		"or": "Tee",
@@ -820,7 +840,7 @@
 	},
 	{
 		"or": "Volume",
-		"tr": "Geluidssterkte"
+		"tr": "Geluid"
 	},
 	{
 		"or": "Vote command:",
@@ -853,6 +873,10 @@
 	{
 		"or": "Welcome to Teeworlds",
 		"tr": "Welkom bij Teeworlds"
+	},
+	{
+		"or": "Wide",
+		"tr": "Breedte"
 	},
 	{
 		"or": "Yes",
@@ -964,10 +988,6 @@
 		"tr": ""
 	},
 	{
-		"or": "Back",
-		"tr": ""
-	},
-	{
 		"or": "Borderless window",
 		"tr": ""
 	},
@@ -1020,15 +1040,7 @@
 		"tr": ""
 	},
 	{
-		"or": "Laser",
-		"tr": ""
-	},
-	{
 		"or": "Local server",
-		"tr": ""
-	},
-	{
-		"or": "Match",
 		"tr": ""
 	},
 	{
@@ -1049,14 +1061,6 @@
 	},
 	{
 		"or": "Only %d active players are allowed",
-		"tr": ""
-	},
-	{
-		"or": "Ready",
-		"tr": ""
-	},
-	{
-		"or": "Recorded",
 		"tr": ""
 	},
 	{
@@ -1157,10 +1161,6 @@
 	},
 	{
 		"or": "Wait for next round",
-		"tr": ""
-	},
-	{
-		"or": "Wide",
 		"tr": ""
 	},
 	{

@@ -313,6 +313,10 @@
 		"tr": "언어"
 	},
 	{
+		"or": "Lgt:",
+		"tr": "Lgt:"
+	},
+	{
 		"or": "Loading",
 		"tr": "로딩"
 	},
@@ -922,10 +926,6 @@
 		"tr": ""
 	},
 	{
-		"or": "Lgt:",
-		"tr": "Lgt:"
-	},
-	{
 		"or": "Local",
 		"tr": ""
 	},
@@ -1191,6 +1191,10 @@
 		"tr": "몸"
 	},
 	{
+		"or": "Hands",
+		"tr": ""
+	},
+	{
 		"or": "Max demos",
 		"tr": "최대 데모"
 	},
@@ -1203,6 +1207,10 @@
 		"tr": "FSAA 샘플"
 	},
 	{
+		"or": "%d of %d servers, %d players",
+		"tr": "%d/%d 서버, %d 플레이어"
+	},
+	{
 		"or": "Sound volume",
 		"tr": "소리 크기"
 	},
@@ -1211,24 +1219,12 @@
 		"tr": "Created:"
 	},
 	{
-		"or": "Feet",
-		"tr": "발"
-	},
-	{
-		"or": "Eyes",
-		"tr": ""
-	},
-	{
 		"or": "Max Screenshots",
 		"tr": "최대 스크린샷"
 	},
 	{
 		"or": "Length:",
 		"tr": "길이:"
-	},
-	{
-		"or": "Rifle",
-		"tr": "레이저"
 	},
 	{
 		"or": "Netversion:",
@@ -1259,6 +1255,10 @@
 		"tr": "여러가지"
 	},
 	{
+		"or": "Record demo",
+		"tr": "데모 녹화"
+	},
+	{
 		"or": "Your skin",
 		"tr": "당신의 스킨"
 	},
@@ -1271,8 +1271,12 @@
 		"tr": "초기화"
 	},
 	{
-		"or": "Hands",
-		"tr": ""
+		"or": "Rifle",
+		"tr": "레이저"
+	},
+	{
+		"or": "Quit anyway?",
+		"tr": "종료하시겠습니까?"
 	},
 	{
 		"or": "Display Modes",
@@ -1299,16 +1303,16 @@
 		"tr": "빠른 검색:"
 	},
 	{
-		"or": "%d of %d servers, %d players",
-		"tr": "%d/%d 서버, %d 플레이어"
+		"or": "Feet",
+		"tr": "발"
 	},
 	{
 		"or": "Join game",
 		"tr": "게임 참가"
 	},
 	{
-		"or": "Quit anyway?",
-		"tr": "종료하시겠습니까?"
+		"or": "Eyes",
+		"tr": ""
 	},
 	{
 		"or": "UI Color",
@@ -1349,10 +1353,6 @@
 	{
 		"or": "Bodies",
 		"tr": ""
-	},
-	{
-		"or": "Record demo",
-		"tr": "데모 녹화"
 	},
 	{
 		"or": "Name plates size",

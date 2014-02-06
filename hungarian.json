@@ -313,6 +313,10 @@
 		"tr": "Nyelv"
 	},
 	{
+		"or": "Lgt:",
+		"tr": "Lgt:"
+	},
+	{
 		"or": "Loading",
 		"tr": "Betöltés"
 	},
@@ -916,10 +920,6 @@
 	{
 		"or": "Letterbox",
 		"tr": ""
-	},
-	{
-		"or": "Lgt:",
-		"tr": "Lgt:"
 	},
 	{
 		"or": "Local",

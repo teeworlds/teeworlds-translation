@@ -318,6 +318,10 @@
 		"tr": "Kieli"
 	},
 	{
+		"or": "Lgt:",
+		"tr": "Lgt:"
+	},
+	{
 		"or": "Loading",
 		"tr": "Ladataan"
 	},
@@ -937,10 +941,6 @@
 	{
 		"or": "Letterbox",
 		"tr": ""
-	},
-	{
-		"or": "Lgt:",
-		"tr": "Lgt:"
 	},
 	{
 		"or": "Local",

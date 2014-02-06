@@ -1357,6 +1357,10 @@
 		"tr": "Sat."
 	},
 	{
+		"or": "Length:",
+		"tr": "Longitude:"
+	},
+	{
 		"or": "%d Bytes",
 		"tr": "%d Bytes"
 	},
@@ -1375,9 +1379,5 @@
 	{
 		"or": "Max Screenshots",
 		"tr": "Máx. de Capturas de Tela"
-	},
-	{
-		"or": "Length:",
-		"tr": "Longitude:"
 	}]
 }

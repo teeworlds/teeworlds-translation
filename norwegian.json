@@ -317,6 +317,10 @@
 		"tr": "Språk"
 	},
 	{
+		"or": "Lgt:",
+		"tr": "Lgt:"
+	},
+	{
 		"or": "Loading",
 		"tr": "Laster inn"
 	},
@@ -936,10 +940,6 @@
 	{
 		"or": "Letterbox",
 		"tr": ""
-	},
-	{
-		"or": "Lgt:",
-		"tr": "Lgt:"
 	},
 	{
 		"or": "Local",

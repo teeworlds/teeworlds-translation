@@ -6,7 +6,8 @@
 		"BotanEgg	2011-05-02 19:07:35",
 		"Bananbl4	2011-07-07 02:03:04",
 		"Arion WT	2011-07-07 09:39:05",
-		"Arion WT	2011-08-07 12:16:28"
+		"Arion WT	2011-08-07 12:16:28",
+		"MegaManSec 2014-02-06 20:37:05"
 	]},
 "translated strings": [
 	{
@@ -60,6 +61,10 @@
 	{
 		"or": "All",
 		"tr": "Все"
+	},
+	{
+		"or": "Alp:",
+		"tr": "Alp:"
 	},
 	{
 		"or": "Always show name plates",
@@ -154,6 +159,10 @@
 		"tr": "Флаг вашей страны"
 	},
 	{
+		"or": "Created",
+		"tr": "Cозданный"
+	},
+	{
 		"or": "Current",
 		"tr": "Текущий"
 	},
@@ -200,6 +209,10 @@
 	{
 		"or": "Dynamic Camera",
 		"tr": "Динамическая камера"
+	},
+	{
+		"or": "Editor",
+		"tr": "Pедактор"
 	},
 	{
 		"or": "Emoticon",
@@ -274,6 +287,10 @@
 		"tr": "Основные"
 	},
 	{
+		"or": "Global",
+		"tr": "Глобальный"
+	},
+	{
 		"or": "Graphics",
 		"tr": "Графика"
 	},
@@ -298,8 +315,16 @@
 		"tr": "Крюк"
 	},
 	{
+		"or": "Hue:",
+		"tr": "Hue:"
+	},
+	{
 		"or": "Invalid Demo",
 		"tr": "Недопустимое демо"
+	},
+	{
+		"or": "Join",
+		"tr": "Присоединиться"
 	},
 	{
 		"or": "Join blue",
@@ -320,6 +345,18 @@
 	{
 		"or": "Language",
 		"tr": "Язык"
+	},
+	{
+		"or": "Laser",
+		"tr": "Ллазер"
+	},
+	{
+		"or": "Letterbox",
+		"tr": "Почтовый ящик"
+	},
+	{
+		"or": "Lgt:",
+		"tr": "Lgt:"
 	},
 	{
 		"or": "Loading",
@@ -388,6 +425,10 @@
 	{
 		"or": "No servers match your filter criteria",
 		"tr": "Нет серверов, подходящих под ваш фильтр"
+	},
+	{
+		"or": "Normal:",
+		"tr": "Нормальный:"
 	},
 	{
 		"or": "Ok",
@@ -460,6 +501,10 @@
 	{
 		"or": "REC %3d:%02d",
 		"tr": "REC %3d:%02d"
+	},
+	{
+		"or": "Ready",
+		"tr": "Готовый"
 	},
 	{
 		"or": "Reason:",
@@ -578,6 +623,10 @@
 		"tr": "Показывать только поддерживаемые разрешения экрана"
 	},
 	{
+		"or": "Skin",
+		"tr": "Кожа"
+	},
+	{
 		"or": "Skins",
 		"tr": "Скины"
 	},
@@ -663,7 +712,7 @@
 	},
 	{
 		"or": "There's an unsaved map in the editor, you might want to save it before you quit the game.",
-		"tr": "Есть несохранённая карта в редакторе, Вы можете сохранить её перед тем, как выйти."
+		"tr": "Есть несохранённая карта в редактор, Вы можете сохранить её перед тем, как выйти."
 	},
 	{
 		"or": "Time limit",
@@ -706,6 +755,10 @@
 		"tr": "Версия"
 	},
 	{
+		"or": "Volume",
+		"tr": "Громкость"
+	},
+	{
 		"or": "Vote command:",
 		"tr": "Комманда голосования:"
 	},
@@ -744,6 +797,18 @@
 	{
 		"or": "You must restart the game for all settings to take effect.",
 		"tr": "Перезапустите игру для применения изменений."
+	},
+	{
+		"or": "blue",
+		"tr": "Синий"
+	},
+	{
+		"or": "locked",
+		"tr": "игра"
+	},
+	{
+		"or": "red",
+		"tr": "Красный"
 	}],
 "needs translation": [
 	{
@@ -815,10 +880,6 @@
 		"tr": ""
 	},
 	{
-		"or": "Alp:",
-		"tr": ""
-	},
-	{
 		"or": "Anti Aliasing",
 		"tr": ""
 	},
@@ -859,10 +920,6 @@
 		"tr": ""
 	},
 	{
-		"or": "Created",
-		"tr": ""
-	},
-	{
 		"or": "Custom",
 		"tr": ""
 	},
@@ -883,10 +940,6 @@
 		"tr": ""
 	},
 	{
-		"or": "Editor",
-		"tr": ""
-	},
-	{
 		"or": "Format",
 		"tr": ""
 	},
@@ -899,19 +952,7 @@
 		"tr": ""
 	},
 	{
-		"or": "Global",
-		"tr": ""
-	},
-	{
 		"or": "Host address:",
-		"tr": ""
-	},
-	{
-		"or": "Hue:",
-		"tr": ""
-	},
-	{
-		"or": "Join",
 		"tr": ""
 	},
 	{
@@ -931,20 +972,8 @@
 		"tr": ""
 	},
 	{
-		"or": "Laser",
-		"tr": ""
-	},
-	{
 		"or": "Length",
 		"tr": ""
-	},
-	{
-		"or": "Letterbox",
-		"tr": ""
-	},
-	{
-		"or": "Lgt:",
-		"tr": "Lgt:"
 	},
 	{
 		"or": "Local",
@@ -975,19 +1004,11 @@
 		"tr": ""
 	},
 	{
-		"or": "Normal:",
-		"tr": ""
-	},
-	{
 		"or": "Only %d active players are allowed",
 		"tr": ""
 	},
 	{
 		"or": "Personal",
-		"tr": ""
-	},
-	{
-		"or": "Ready",
 		"tr": ""
 	},
 	{
@@ -1059,10 +1080,6 @@
 		"tr": ""
 	},
 	{
-		"or": "Skin",
-		"tr": ""
-	},
-	{
 		"or": "Spectating",
 		"tr": ""
 	},
@@ -1111,10 +1128,6 @@
 		"tr": ""
 	},
 	{
-		"or": "Volume",
-		"tr": ""
-	},
-	{
 		"or": "Vote aborted",
 		"tr": ""
 	},
@@ -1143,10 +1156,6 @@
 		"tr": ""
 	},
 	{
-		"or": "blue",
-		"tr": ""
-	},
-	{
 		"or": "blue team",
 		"tr": ""
 	},
@@ -1155,15 +1164,7 @@
 		"tr": ""
 	},
 	{
-		"or": "locked",
-		"tr": ""
-	},
-	{
 		"or": "no players",
-		"tr": ""
-	},
-	{
-		"or": "red",
 		"tr": ""
 	},
 	{
