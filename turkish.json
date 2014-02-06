@@ -614,10 +614,6 @@
 		{
 			"or": "no limit",
 			"tr": "limit yok"
-		},
-		{
-			"or": "﻿",
-			"tr": "## translated strings #####"
 		}
 	],
 	"translated strings": [

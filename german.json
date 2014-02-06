@@ -232,10 +232,6 @@
 		{
 			"or": "no limit",
 			"tr": "Keine Begrenzung"
-		},
-		{
-			"or": "﻿",
-			"tr": "## translated strings #####"
 		}
 	],
 	"translated strings": [
