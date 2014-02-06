@@ -6,7 +6,8 @@
 		"BotanEgg	2011-05-02 19:07:35",
 		"Bananbl4	2011-07-07 02:03:04",
 		"Arion WT	2011-07-07 09:39:05",
-		"Arion WT	2011-08-07 12:16:28"
+		"Arion WT	2011-08-07 12:16:28",
+		"MegaManSec 2014-02-06 20:37:05"
 	]},
 "translated strings": [
 	{
@@ -62,6 +63,10 @@
 		"tr": "Все"
 	},
 	{
+		"or": "Alp:",
+		"tr": "Alp:"
+	},
+	{
 		"or": "Always show name plates",
 		"tr": "Всегда показывать имена игроков"
 	},
@@ -96,10 +101,6 @@
 	{
 		"or": "Blue team wins!",
 		"tr": "Синие победили!"
-	},
-	{
-		"or": "Body",
-		"tr": "Тело"
 	},
 	{
 		"or": "Call vote",
@@ -158,6 +159,10 @@
 		"tr": "Флаг вашей страны"
 	},
 	{
+		"or": "Created",
+		"tr": "Cозданный"
+	},
+	{
 		"or": "Current",
 		"tr": "Текущий"
 	},
@@ -206,6 +211,10 @@
 		"tr": "Динамическая камера"
 	},
 	{
+		"or": "Editor",
+		"tr": "Pедактор"
+	},
+	{
 		"or": "Emoticon",
 		"tr": "Эмоции"
 	},
@@ -228,10 +237,6 @@
 	{
 		"or": "Favorites",
 		"tr": "Избранные"
-	},
-	{
-		"or": "Feet",
-		"tr": "Ноги"
 	},
 	{
 		"or": "Fire",
@@ -282,6 +287,10 @@
 		"tr": "Основные"
 	},
 	{
+		"or": "Global",
+		"tr": "Глобальный"
+	},
+	{
 		"or": "Graphics",
 		"tr": "Графика"
 	},
@@ -306,8 +315,16 @@
 		"tr": "Крюк"
 	},
 	{
+		"or": "Hue:",
+		"tr": "Hue:"
+	},
+	{
 		"or": "Invalid Demo",
 		"tr": "Недопустимое демо"
+	},
+	{
+		"or": "Join",
+		"tr": "Присоединиться"
 	},
 	{
 		"or": "Join blue",
@@ -328,6 +345,18 @@
 	{
 		"or": "Language",
 		"tr": "Язык"
+	},
+	{
+		"or": "Laser",
+		"tr": "Ллазер"
+	},
+	{
+		"or": "Letterbox",
+		"tr": "Почтовый ящик"
+	},
+	{
+		"or": "Lgt:",
+		"tr": "Lgt:"
 	},
 	{
 		"or": "Loading",
@@ -396,6 +425,10 @@
 	{
 		"or": "No servers match your filter criteria",
 		"tr": "Нет серверов, подходящих под ваш фильтр"
+	},
+	{
+		"or": "Normal:",
+		"tr": "Нормальный:"
 	},
 	{
 		"or": "Ok",
@@ -468,6 +501,10 @@
 	{
 		"or": "REC %3d:%02d",
 		"tr": "REC %3d:%02d"
+	},
+	{
+		"or": "Ready",
+		"tr": "Готовый"
 	},
 	{
 		"or": "Reason:",
@@ -586,6 +623,10 @@
 		"tr": "Показывать только поддерживаемые разрешения экрана"
 	},
 	{
+		"or": "Skin",
+		"tr": "Кожа"
+	},
+	{
 		"or": "Skins",
 		"tr": "Скины"
 	},
@@ -650,6 +691,10 @@
 		"tr": "Командный чат"
 	},
 	{
+		"or": "Tee",
+		"tr": "Tee"
+	},
+	{
 		"or": "Teeworlds %s is out! Download it at www.teeworlds.com!",
 		"tr": "Вышла Teeworlds %s! Скачивайте на www.teeworlds.com!"
 	},
@@ -667,7 +712,7 @@
 	},
 	{
 		"or": "There's an unsaved map in the editor, you might want to save it before you quit the game.",
-		"tr": "Есть несохранённая карта в редакторе, Вы можете сохранить её перед тем, как выйти."
+		"tr": "Есть несохранённая карта в редактор, Вы можете сохранить её перед тем, как выйти."
 	},
 	{
 		"or": "Time limit",
@@ -710,6 +755,10 @@
 		"tr": "Версия"
 	},
 	{
+		"or": "Volume",
+		"tr": "Громкость"
+	},
+	{
 		"or": "Vote command:",
 		"tr": "Комманда голосования:"
 	},
@@ -748,6 +797,18 @@
 	{
 		"or": "You must restart the game for all settings to take effect.",
 		"tr": "Перезапустите игру для применения изменений."
+	},
+	{
+		"or": "blue",
+		"tr": "Синий"
+	},
+	{
+		"or": "locked",
+		"tr": "игра"
+	},
+	{
+		"or": "red",
+		"tr": "Красный"
 	}],
 "needs translation": [
 	{
@@ -819,11 +880,11 @@
 		"tr": ""
 	},
 	{
-		"or": "Alp:",
+		"or": "Anti Aliasing",
 		"tr": ""
 	},
 	{
-		"or": "Anti Aliasing",
+		"or": "Are you sure that you want to delete the skin?",
 		"tr": ""
 	},
 	{
@@ -843,10 +904,6 @@
 		"tr": ""
 	},
 	{
-		"or": "Bodies",
-		"tr": ""
-	},
-	{
 		"or": "Borderless window",
 		"tr": ""
 	},
@@ -863,10 +920,6 @@
 		"tr": ""
 	},
 	{
-		"or": "Created",
-		"tr": ""
-	},
-	{
 		"or": "Custom",
 		"tr": ""
 	},
@@ -875,7 +928,7 @@
 		"tr": ""
 	},
 	{
-		"or": "Decoration",
+		"or": "Delete skin",
 		"tr": ""
 	},
 	{
@@ -884,14 +937,6 @@
 	},
 	{
 		"or": "Detail",
-		"tr": ""
-	},
-	{
-		"or": "Editor",
-		"tr": ""
-	},
-	{
-		"or": "Eyes",
 		"tr": ""
 	},
 	{
@@ -907,23 +952,7 @@
 		"tr": ""
 	},
 	{
-		"or": "Global",
-		"tr": ""
-	},
-	{
-		"or": "Hands",
-		"tr": ""
-	},
-	{
 		"or": "Host address:",
-		"tr": ""
-	},
-	{
-		"or": "Hue:",
-		"tr": ""
-	},
-	{
-		"or": "Join",
 		"tr": ""
 	},
 	{
@@ -943,19 +972,7 @@
 		"tr": ""
 	},
 	{
-		"or": "Laser",
-		"tr": ""
-	},
-	{
 		"or": "Length",
-		"tr": ""
-	},
-	{
-		"or": "Letterbox",
-		"tr": ""
-	},
-	{
-		"or": "Lgt:",
 		"tr": ""
 	},
 	{
@@ -987,19 +1004,11 @@
 		"tr": ""
 	},
 	{
-		"or": "Normal:",
-		"tr": ""
-	},
-	{
 		"or": "Only %d active players are allowed",
 		"tr": ""
 	},
 	{
 		"or": "Personal",
-		"tr": ""
-	},
-	{
-		"or": "Ready",
 		"tr": ""
 	},
 	{
@@ -1071,10 +1080,6 @@
 		"tr": ""
 	},
 	{
-		"or": "Skin",
-		"tr": ""
-	},
-	{
 		"or": "Spectating",
 		"tr": ""
 	},
@@ -1084,14 +1089,6 @@
 	},
 	{
 		"or": "Standard Gametype",
-		"tr": ""
-	},
-	{
-		"or": "Tattoo",
-		"tr": ""
-	},
-	{
-		"or": "Tattoos",
 		"tr": ""
 	},
 	{
@@ -1115,15 +1112,19 @@
 		"tr": ""
 	},
 	{
-		"or": "Tee",
-		"tr": ""
-	},
-	{
 		"or": "Texture",
 		"tr": ""
 	},
 	{
-		"or": "Volume",
+		"or": "The %s flag was captured by '%s'",
+		"tr": ""
+	},
+	{
+		"or": "The %s flag was captured by '%s' (%.2f seconds)",
+		"tr": ""
+	},
+	{
+		"or": "Unable to delete the skin",
 		"tr": ""
 	},
 	{
@@ -1155,10 +1156,6 @@
 		"tr": ""
 	},
 	{
-		"or": "blue",
-		"tr": ""
-	},
-	{
 		"or": "blue team",
 		"tr": ""
 	},
@@ -1167,15 +1164,7 @@
 		"tr": ""
 	},
 	{
-		"or": "locked",
-		"tr": ""
-	},
-	{
 		"or": "no players",
-		"tr": ""
-	},
-	{
-		"or": "red",
 		"tr": ""
 	},
 	{
@@ -1192,83 +1181,127 @@
 	}],
 "old translations": [
 	{
-		"or": "New name:",
-		"tr": "Новое имя"
-	},
-	{
-		"or": "Sat.",
-		"tr": "Контраст"
-	},
-	{
-		"or": "Miscellaneous",
-		"tr": "Дополнительно"
-	},
-	{
-		"or": "Internet",
-		"tr": "Интернет"
-	},
-	{
 		"or": "Max demos",
 		"tr": "Максимальное количество демо"
-	},
-	{
-		"or": "News",
-		"tr": "Новости"
-	},
-	{
-		"or": "Join game",
-		"tr": "Играть"
-	},
-	{
-		"or": "FSAA samples",
-		"tr": "Сэмплов FSAA"
-	},
-	{
-		"or": "%d of %d servers, %d players",
-		"tr": "%d из %d серверов, %d игроков"
-	},
-	{
-		"or": "Sound volume",
-		"tr": "Громкость звука"
-	},
-	{
-		"or": "Created:",
-		"tr": "Создан:"
-	},
-	{
-		"or": "Max Screenshots",
-		"tr": "Максимальное количество снимков"
-	},
-	{
-		"or": "Length:",
-		"tr": "Длина"
-	},
-	{
-		"or": "Skin name",
-		"tr": ""
 	},
 	{
 		"or": "Rifle",
 		"tr": "Бластер"
 	},
 	{
-		"or": "Patterns",
-		"tr": ""
+		"or": "Join game",
+		"tr": "Играть"
+	},
+	{
+		"or": "Crc:",
+		"tr": "Crc:"
+	},
+	{
+		"or": "LAN",
+		"tr": "LAN"
 	},
 	{
 		"or": "Netversion:",
 		"tr": "Версия:"
 	},
 	{
+		"or": "Your skin",
+		"tr": "Ваш скин"
+	},
+	{
+		"or": "Hue",
+		"tr": "Оттенок"
+	},
+	{
+		"or": "Current version: %s",
+		"tr": "Текущая версия: %s"
+	},
+	{
+		"or": "Decoration",
+		"tr": ""
+	},
+	{
+		"or": "Body",
+		"tr": "Тело"
+	},
+	{
+		"or": "Bodies",
+		"tr": ""
+	},
+	{
+		"or": "Quit anyway?",
+		"tr": "Выйти?"
+	},
+	{
+		"or": "Created:",
+		"tr": "Создан:"
+	},
+	{
+		"or": "Record demo",
+		"tr": "Записать демо"
+	},
+	{
+		"or": "Miscellaneous",
+		"tr": "Дополнительно"
+	},
+	{
+		"or": "UI Color",
+		"tr": "Цвет интерфейса"
+	},
+	{
+		"or": "Skin name",
+		"tr": ""
+	},
+	{
+		"or": "Patterns",
+		"tr": ""
+	},
+	{
 		"or": "Map:",
 		"tr": "Карта:"
 	},
 	{
-		"or": "%d Bytes",
-		"tr": "%d байт"
+		"or": "Lht.",
+		"tr": "Яркость"
 	},
 	{
-		"or": "Coloration",
+		"or": "Are you sure you want to save your skin ? If a skin with this name already exists, it will be replaced.",
+		"tr": ""
+	},
+	{
+		"or": "Reset to defaults",
+		"tr": "Сбросить настройки"
+	},
+	{
+		"or": "Host address",
+		"tr": "Адрес сервера"
+	},
+	{
+		"or": "Alpha",
+		"tr": "Прозрачн."
+	},
+	{
+		"or": "no limit",
+		"tr": "Без лимита"
+	},
+	{
+		"or": "Filter",
+		"tr": "Фильтр"
+	},
+	{
+		"or": "Name plates size",
+		"tr": "Размер"
+	},
+	{
+		"or": "New name:",
+		"tr": "Новое имя"
+	},
+	{
+		"or": "FSAA samples",
+		"tr": "Сэмплов FSAA"
+	},
+	{
+		"or": "Tattoos",
 		"tr": ""
 	},
 	{
@@ -1276,91 +1309,79 @@
 		"tr": "Инфо"
 	},
 	{
-		"or": "Hue",
-		"tr": "Оттенок"
+		"or": "Sound volume",
+		"tr": "Громкость звука"
 	},
 	{
-		"or": "Record demo",
-		"tr": "Записать демо"
-	},
-	{
-		"or": "Your skin",
-		"tr": "Ваш скин"
-	},
-	{
-		"or": "Size:",
-		"tr": "Размер:"
-	},
-	{
-		"or": "Reset to defaults",
-		"tr": "Сбросить настройки"
-	},
-	{
-		"or": "Quit anyway?",
-		"tr": "Выйти?"
+		"or": "Coloration",
+		"tr": ""
 	},
 	{
 		"or": "Display Modes",
 		"tr": "Разрешение экрана"
 	},
 	{
-		"or": "Version:",
-		"tr": "Версия:"
-	},
-	{
 		"or": "Round",
 		"tr": "Раунд"
-	},
-	{
-		"or": "Lht.",
-		"tr": "Яркость"
-	},
-	{
-		"or": "no limit",
-		"tr": "Без лимита"
 	},
 	{
 		"or": "Quick search:",
 		"tr": "Быстрый поиск:"
 	},
 	{
-		"or": "UI Color",
-		"tr": "Цвет интерфейса"
+		"or": "Feet",
+		"tr": "Ноги"
 	},
 	{
-		"or": "Host address",
-		"tr": "Адрес сервера"
-	},
-	{
-		"or": "Crc:",
-		"tr": "Crc:"
-	},
-	{
-		"or": "Alpha",
-		"tr": "Прозрачн."
-	},
-	{
-		"or": "Are you sure you want to save your skin ? If a skin with this name already exists, it will be replaced.",
+		"or": "Eyes",
 		"tr": ""
-	},
-	{
-		"or": "Current version: %s",
-		"tr": "Текущая версия: %s"
-	},
-	{
-		"or": "Filter",
-		"tr": "Фильтр"
-	},
-	{
-		"or": "LAN",
-		"tr": "LAN"
-	},
-	{
-		"or": "Name plates size",
-		"tr": "Размер"
 	},
 	{
 		"or": "Type:",
 		"tr": "Тип:"
+	},
+	{
+		"or": "Internet",
+		"tr": "Интернет"
+	},
+	{
+		"or": "Hands",
+		"tr": ""
+	},
+	{
+		"or": "News",
+		"tr": "Новости"
+	},
+	{
+		"or": "Size:",
+		"tr": "Размер:"
+	},
+	{
+		"or": "Sat.",
+		"tr": "Контраст"
+	},
+	{
+		"or": "Length:",
+		"tr": "Длина"
+	},
+	{
+		"or": "%d Bytes",
+		"tr": "%d байт"
+	},
+	{
+		"or": "Tattoo",
+		"tr": ""
+	},
+	{
+		"or": "Version:",
+		"tr": "Версия:"
+	},
+	{
+		"or": "%d of %d servers, %d players",
+		"tr": "%d из %d серверов, %d игроков"
+	},
+	{
+		"or": "Max Screenshots",
+		"tr": "Максимальное количество снимков"
 	}]
 }

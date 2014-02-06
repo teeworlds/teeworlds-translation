@@ -93,10 +93,6 @@
 		"tr": "A kék csapat nyert!"
 	},
 	{
-		"or": "Body",
-		"tr": "Test"
-	},
-	{
 		"or": "Call vote",
 		"tr": "Szavazás"
 	},
@@ -221,10 +217,6 @@
 		"tr": "Kedvencek"
 	},
 	{
-		"or": "Feet",
-		"tr": "Láb"
-	},
-	{
 		"or": "Fire",
 		"tr": "Tűz"
 	},
@@ -319,6 +311,10 @@
 	{
 		"or": "Language",
 		"tr": "Nyelv"
+	},
+	{
+		"or": "Lgt:",
+		"tr": "Lgt:"
 	},
 	{
 		"or": "Loading",
@@ -621,6 +617,10 @@
 		"tr": "Csapat chat"
 	},
 	{
+		"or": "Tee",
+		"tr": "Tee"
+	},
+	{
 		"or": "Teeworlds %s is out! Download it at www.teeworlds.com!",
 		"tr": "Teeworlds %s kint van! Töltsd le www.teeworlds.com oldalon!"
 	},
@@ -798,6 +798,10 @@
 		"tr": ""
 	},
 	{
+		"or": "Are you sure that you want to delete the skin?",
+		"tr": ""
+	},
+	{
 		"or": "Are you sure you want to rename the demo?",
 		"tr": ""
 	},
@@ -811,10 +815,6 @@
 	},
 	{
 		"or": "Basic",
-		"tr": ""
-	},
-	{
-		"or": "Bodies",
 		"tr": ""
 	},
 	{
@@ -846,7 +846,7 @@
 		"tr": ""
 	},
 	{
-		"or": "Decoration",
+		"or": "Delete skin",
 		"tr": ""
 	},
 	{
@@ -866,10 +866,6 @@
 		"tr": ""
 	},
 	{
-		"or": "Eyes",
-		"tr": ""
-	},
-	{
 		"or": "Format",
 		"tr": ""
 	},
@@ -883,10 +879,6 @@
 	},
 	{
 		"or": "Global",
-		"tr": ""
-	},
-	{
-		"or": "Hands",
 		"tr": ""
 	},
 	{
@@ -927,10 +919,6 @@
 	},
 	{
 		"or": "Letterbox",
-		"tr": ""
-	},
-	{
-		"or": "Lgt:",
 		"tr": ""
 	},
 	{
@@ -1082,14 +1070,6 @@
 		"tr": ""
 	},
 	{
-		"or": "Tattoo",
-		"tr": ""
-	},
-	{
-		"or": "Tattoos",
-		"tr": ""
-	},
-	{
 		"or": "Team:",
 		"tr": ""
 	},
@@ -1110,11 +1090,19 @@
 		"tr": ""
 	},
 	{
-		"or": "Tee",
+		"or": "Texture",
 		"tr": ""
 	},
 	{
-		"or": "Texture",
+		"or": "The %s flag was captured by '%s'",
+		"tr": ""
+	},
+	{
+		"or": "The %s flag was captured by '%s' (%.2f seconds)",
+		"tr": ""
+	},
+	{
+		"or": "Unable to delete the skin",
 		"tr": ""
 	},
 	{
@@ -1187,79 +1175,127 @@
 	}],
 "old translations": [
 	{
-		"or": "New name:",
-		"tr": "Új Név:"
-	},
-	{
-		"or": "Sat.",
-		"tr": "Sat."
-	},
-	{
-		"or": "Internet",
-		"tr": "Internet"
-	},
-	{
 		"or": "Max demos",
 		"tr": "Maximum Demó"
-	},
-	{
-		"or": "News",
-		"tr": "Hírek"
-	},
-	{
-		"or": "Join game",
-		"tr": "Csatlakozás a játékhoz"
-	},
-	{
-		"or": "FSAA samples",
-		"tr": "FSAA mintáku"
-	},
-	{
-		"or": "%d of %d servers, %d players",
-		"tr": "%d Szerver, %d Játékos"
-	},
-	{
-		"or": "Sound volume",
-		"tr": "Hangerő"
-	},
-	{
-		"or": "Created:",
-		"tr": "Készítette:"
-	},
-	{
-		"or": "Max Screenshots",
-		"tr": "Maximum Fotó"
-	},
-	{
-		"or": "Length:",
-		"tr": "Hossza:"
-	},
-	{
-		"or": "Skin name",
-		"tr": ""
 	},
 	{
 		"or": "Rifle",
 		"tr": "Lézer"
 	},
 	{
-		"or": "Patterns",
-		"tr": ""
+		"or": "Join game",
+		"tr": "Csatlakozás a játékhoz"
+	},
+	{
+		"or": "Crc:",
+		"tr": "Crc:"
+	},
+	{
+		"or": "LAN",
+		"tr": "Helyi"
 	},
 	{
 		"or": "Netversion:",
 		"tr": "Netes verzió:"
 	},
 	{
+		"or": "Your skin",
+		"tr": "Te skined"
+	},
+	{
+		"or": "Hue",
+		"tr": "Színárnyalat"
+	},
+	{
+		"or": "Current version: %s",
+		"tr": "Aktuális verzió: %s"
+	},
+	{
+		"or": "Decoration",
+		"tr": ""
+	},
+	{
+		"or": "Body",
+		"tr": "Test"
+	},
+	{
+		"or": "Bodies",
+		"tr": ""
+	},
+	{
+		"or": "Quit anyway?",
+		"tr": "Mindenképpen kilép?"
+	},
+	{
+		"or": "Created:",
+		"tr": "Készítette:"
+	},
+	{
+		"or": "Record demo",
+		"tr": "Demó felvétele"
+	},
+	{
+		"or": "Miscellaneous",
+		"tr": "Vegyes"
+	},
+	{
+		"or": "UI Color",
+		"tr": "UI Szín"
+	},
+	{
+		"or": "Skin name",
+		"tr": ""
+	},
+	{
+		"or": "Patterns",
+		"tr": ""
+	},
+	{
 		"or": "Map:",
 		"tr": "Pálya:"
 	},
 	{
-		"or": "%d Bytes",
-		"tr": "%d Bit"
+		"or": "Lht.",
+		"tr": "Lht."
 	},
 	{
-		"or": "Coloration",
+		"or": "Are you sure you want to save your skin ? If a skin with this name already exists, it will be replaced.",
+		"tr": ""
+	},
+	{
+		"or": "Reset to defaults",
+		"tr": "Visszaállítás az alapértelmezettre"
+	},
+	{
+		"or": "Host address",
+		"tr": "Szerver címe"
+	},
+	{
+		"or": "Alpha",
+		"tr": "Alpha"
+	},
+	{
+		"or": "no limit",
+		"tr": "Nincs korlát"
+	},
+	{
+		"or": "Filter",
+		"tr": "Szűrő"
+	},
+	{
+		"or": "Name plates size",
+		"tr": "Névtáblák mérete"
+	},
+	{
+		"or": "New name:",
+		"tr": "Új Név:"
+	},
+	{
+		"or": "FSAA samples",
+		"tr": "FSAA mintáku"
+	},
+	{
+		"or": "Tattoos",
 		"tr": ""
 	},
 	{
@@ -1267,95 +1303,79 @@
 		"tr": "Infó"
 	},
 	{
-		"or": "Miscellaneous",
-		"tr": "Vegyes"
+		"or": "Sound volume",
+		"tr": "Hangerő"
 	},
 	{
-		"or": "Record demo",
-		"tr": "Demó felvétele"
-	},
-	{
-		"or": "Your skin",
-		"tr": "Te skined"
-	},
-	{
-		"or": "Size:",
-		"tr": "Méret:"
-	},
-	{
-		"or": "Reset to defaults",
-		"tr": "Visszaállítás az alapértelmezettre"
-	},
-	{
-		"or": "Quit anyway?",
-		"tr": "Mindenképpen kilép?"
+		"or": "Coloration",
+		"tr": ""
 	},
 	{
 		"or": "Display Modes",
 		"tr": "Kijelző módok"
 	},
 	{
-		"or": "Version:",
-		"tr": "Verzió:"
-	},
-	{
 		"or": "Round",
 		"tr": "Menet"
-	},
-	{
-		"or": "Lht.",
-		"tr": "Lht."
-	},
-	{
-		"or": "no limit",
-		"tr": "Nincs korlát"
 	},
 	{
 		"or": "Quick search:",
 		"tr": "Gyors keresés:"
 	},
 	{
-		"or": "UI Color",
-		"tr": "UI Szín"
+		"or": "Feet",
+		"tr": "Láb"
 	},
 	{
-		"or": "Host address",
-		"tr": "Szerver címe"
-	},
-	{
-		"or": "Hue",
-		"tr": "Színárnyalat"
-	},
-	{
-		"or": "Crc:",
-		"tr": "Crc:"
-	},
-	{
-		"or": "Alpha",
-		"tr": "Alpha"
-	},
-	{
-		"or": "Are you sure you want to save your skin ? If a skin with this name already exists, it will be replaced.",
+		"or": "Eyes",
 		"tr": ""
-	},
-	{
-		"or": "Current version: %s",
-		"tr": "Aktuális verzió: %s"
-	},
-	{
-		"or": "Filter",
-		"tr": "Szűrő"
-	},
-	{
-		"or": "LAN",
-		"tr": "Helyi"
-	},
-	{
-		"or": "Name plates size",
-		"tr": "Névtáblák mérete"
 	},
 	{
 		"or": "Type:",
 		"tr": "Típus:"
+	},
+	{
+		"or": "Internet",
+		"tr": "Internet"
+	},
+	{
+		"or": "Hands",
+		"tr": ""
+	},
+	{
+		"or": "News",
+		"tr": "Hírek"
+	},
+	{
+		"or": "Size:",
+		"tr": "Méret:"
+	},
+	{
+		"or": "Sat.",
+		"tr": "Sat."
+	},
+	{
+		"or": "Length:",
+		"tr": "Hossza:"
+	},
+	{
+		"or": "%d Bytes",
+		"tr": "%d Bit"
+	},
+	{
+		"or": "Tattoo",
+		"tr": ""
+	},
+	{
+		"or": "Version:",
+		"tr": "Verzió:"
+	},
+	{
+		"or": "%d of %d servers, %d players",
+		"tr": "%d Szerver, %d Játékos"
+	},
+	{
+		"or": "Max Screenshots",
+		"tr": "Maximum Fotó"
 	}]
 }

@@ -93,10 +93,6 @@
 		"tr": "Кăвак ушкăн çĕнтерчĕ!"
 	},
 	{
-		"or": "Body",
-		"tr": "Ӳт"
-	},
-	{
 		"or": "Call vote",
 		"tr": "Сасăла"
 	},
@@ -225,10 +221,6 @@
 		"tr": "Суйланнисем"
 	},
 	{
-		"or": "Feet",
-		"tr": "Урасем"
-	},
-	{
 		"or": "Fire",
 		"tr": "Пĕрӳ"
 	},
@@ -323,6 +315,10 @@
 	{
 		"or": "Language",
 		"tr": "Чĕлхе"
+	},
+	{
+		"or": "Lgt:",
+		"tr": "Lgt:"
 	},
 	{
 		"or": "Loading",
@@ -645,6 +641,10 @@
 		"tr": "Ушкăнри калаçу"
 	},
 	{
+		"or": "Tee",
+		"tr": "Tee"
+	},
+	{
 		"or": "Texture Compression",
 		"tr": "Текстур хĕсӳ"
 	},
@@ -822,6 +822,10 @@
 		"tr": ""
 	},
 	{
+		"or": "Are you sure that you want to delete the skin?",
+		"tr": ""
+	},
+	{
 		"or": "Are you sure you want to rename the demo?",
 		"tr": ""
 	},
@@ -835,10 +839,6 @@
 	},
 	{
 		"or": "Basic",
-		"tr": ""
-	},
-	{
-		"or": "Bodies",
 		"tr": ""
 	},
 	{
@@ -870,7 +870,7 @@
 		"tr": ""
 	},
 	{
-		"or": "Decoration",
+		"or": "Delete skin",
 		"tr": ""
 	},
 	{
@@ -883,10 +883,6 @@
 	},
 	{
 		"or": "Editor",
-		"tr": ""
-	},
-	{
-		"or": "Eyes",
 		"tr": ""
 	},
 	{
@@ -903,10 +899,6 @@
 	},
 	{
 		"or": "Global",
-		"tr": ""
-	},
-	{
-		"or": "Hands",
 		"tr": ""
 	},
 	{
@@ -947,10 +939,6 @@
 	},
 	{
 		"or": "Letterbox",
-		"tr": ""
-	},
-	{
-		"or": "Lgt:",
 		"tr": ""
 	},
 	{
@@ -1082,14 +1070,6 @@
 		"tr": ""
 	},
 	{
-		"or": "Tattoo",
-		"tr": ""
-	},
-	{
-		"or": "Tattoos",
-		"tr": ""
-	},
-	{
 		"or": "Team:",
 		"tr": ""
 	},
@@ -1110,15 +1090,23 @@
 		"tr": ""
 	},
 	{
-		"or": "Tee",
-		"tr": ""
-	},
-	{
 		"or": "Teeworlds %s is out! Download it at www.teeworlds.com!",
 		"tr": ""
 	},
 	{
 		"or": "Texture",
+		"tr": ""
+	},
+	{
+		"or": "The %s flag was captured by '%s'",
+		"tr": ""
+	},
+	{
+		"or": "The %s flag was captured by '%s' (%.2f seconds)",
+		"tr": ""
+	},
+	{
+		"or": "Unable to delete the skin",
 		"tr": ""
 	},
 	{
@@ -1203,6 +1191,10 @@
 		"tr": "Интернет"
 	},
 	{
+		"or": "Body",
+		"tr": "Ӳт"
+	},
+	{
 		"or": "Max demos",
 		"tr": "Чи пысăк демо хисепĕ"
 	},
@@ -1211,16 +1203,8 @@
 		"tr": "Хыпарсем"
 	},
 	{
-		"or": "Join game",
-		"tr": "Выляма"
-	},
-	{
 		"or": "FSAA samples",
 		"tr": "FSAA якату"
-	},
-	{
-		"or": "%d of %d servers, %d players",
-		"tr": "%d серв. %d тупнă, %d çын"
 	},
 	{
 		"or": "Sound volume",
@@ -1229,6 +1213,14 @@
 	{
 		"or": "Created:",
 		"tr": "Хайланă:"
+	},
+	{
+		"or": "Feet",
+		"tr": "Урасем"
+	},
+	{
+		"or": "Eyes",
+		"tr": ""
 	},
 	{
 		"or": "Max Screenshots",
@@ -1255,16 +1247,20 @@
 		"tr": "%d байт"
 	},
 	{
+		"or": "Decoration",
+		"tr": ""
+	},
+	{
+		"or": "Tattoo",
+		"tr": ""
+	},
+	{
 		"or": "Info",
 		"tr": "Пĕлтерӳ"
 	},
 	{
 		"or": "Hue",
 		"tr": "Тĕс сĕмĕ"
-	},
-	{
-		"or": "Record demo",
-		"tr": "Демо çыр"
 	},
 	{
 		"or": "Your skin",
@@ -1279,8 +1275,8 @@
 		"tr": "Йĕркелӳ тасат"
 	},
 	{
-		"or": "Quit anyway?",
-		"tr": "Туху?"
+		"or": "Hands",
+		"tr": ""
 	},
 	{
 		"or": "Display Modes",
@@ -1307,12 +1303,28 @@
 		"tr": "Хăвăрт шырав:"
 	},
 	{
+		"or": "%d of %d servers, %d players",
+		"tr": "%d серв. %d тупнă, %d çын"
+	},
+	{
+		"or": "Join game",
+		"tr": "Выляма"
+	},
+	{
+		"or": "Quit anyway?",
+		"tr": "Туху?"
+	},
+	{
 		"or": "UI Color",
 		"tr": "Интерфейс тĕсĕ"
 	},
 	{
 		"or": "Host address",
 		"tr": "Сервер адресĕ"
+	},
+	{
+		"or": "Tattoos",
+		"tr": ""
 	},
 	{
 		"or": "Teeworlds %s is out! Download it at [url=http://www.teeworlds.com]www.teeworlds.com[/url]!",
@@ -1337,6 +1349,14 @@
 	{
 		"or": "LAN",
 		"tr": "LAN"
+	},
+	{
+		"or": "Bodies",
+		"tr": ""
+	},
+	{
+		"or": "Record demo",
+		"tr": "Демо çыр"
 	},
 	{
 		"or": "Name plates size",

@@ -93,10 +93,6 @@
 		"tr": "青チームの勝ち！"
 	},
 	{
-		"or": "Body",
-		"tr": "体"
-	},
-	{
 		"or": "Call vote",
 		"tr": "投票を開始する"
 	},
@@ -225,10 +221,6 @@
 		"tr": "お気に入り"
 	},
 	{
-		"or": "Feet",
-		"tr": "足"
-	},
-	{
 		"or": "Fire",
 		"tr": "射撃"
 	},
@@ -323,6 +315,10 @@
 	{
 		"or": "Language",
 		"tr": "言語"
+	},
+	{
+		"or": "Lgt:",
+		"tr": "Lgt:"
 	},
 	{
 		"or": "Loading",
@@ -645,6 +641,10 @@
 		"tr": "チームチャット"
 	},
 	{
+		"or": "Tee",
+		"tr": "Tee"
+	},
+	{
 		"or": "Teeworlds %s is out! Download it at www.teeworlds.com!",
 		"tr": "Teeworlds %s が公開されました！ダウンロードはこちら！www.teeworlds.com"
 	},
@@ -822,6 +822,10 @@
 		"tr": ""
 	},
 	{
+		"or": "Are you sure that you want to delete the skin?",
+		"tr": ""
+	},
+	{
 		"or": "Are you sure you want to rename the demo?",
 		"tr": ""
 	},
@@ -835,10 +839,6 @@
 	},
 	{
 		"or": "Basic",
-		"tr": ""
-	},
-	{
-		"or": "Bodies",
 		"tr": ""
 	},
 	{
@@ -870,7 +870,7 @@
 		"tr": ""
 	},
 	{
-		"or": "Decoration",
+		"or": "Delete skin",
 		"tr": ""
 	},
 	{
@@ -883,10 +883,6 @@
 	},
 	{
 		"or": "Editor",
-		"tr": ""
-	},
-	{
-		"or": "Eyes",
 		"tr": ""
 	},
 	{
@@ -903,10 +899,6 @@
 	},
 	{
 		"or": "Global",
-		"tr": ""
-	},
-	{
-		"or": "Hands",
 		"tr": ""
 	},
 	{
@@ -947,10 +939,6 @@
 	},
 	{
 		"or": "Letterbox",
-		"tr": ""
-	},
-	{
-		"or": "Lgt:",
 		"tr": ""
 	},
 	{
@@ -1082,14 +1070,6 @@
 		"tr": ""
 	},
 	{
-		"or": "Tattoo",
-		"tr": ""
-	},
-	{
-		"or": "Tattoos",
-		"tr": ""
-	},
-	{
 		"or": "Team:",
 		"tr": ""
 	},
@@ -1110,11 +1090,19 @@
 		"tr": ""
 	},
 	{
-		"or": "Tee",
+		"or": "Texture",
 		"tr": ""
 	},
 	{
-		"or": "Texture",
+		"or": "The %s flag was captured by '%s'",
+		"tr": ""
+	},
+	{
+		"or": "The %s flag was captured by '%s' (%.2f seconds)",
+		"tr": ""
+	},
+	{
+		"or": "Unable to delete the skin",
 		"tr": ""
 	},
 	{
@@ -1203,6 +1191,10 @@
 		"tr": "オンライン"
 	},
 	{
+		"or": "Body",
+		"tr": "体"
+	},
+	{
 		"or": "Max demos",
 		"tr": "デモの最大数"
 	},
@@ -1211,16 +1203,8 @@
 		"tr": "ニュース"
 	},
 	{
-		"or": "Join game",
-		"tr": "ゲームに参加"
-	},
-	{
 		"or": "FSAA samples",
 		"tr": "FSAAサンプル数"
-	},
-	{
-		"or": "%d of %d servers, %d players",
-		"tr": "%d of %d サーバー, %d プレイヤー"
 	},
 	{
 		"or": "Sound volume",
@@ -1229,6 +1213,14 @@
 	{
 		"or": "Created:",
 		"tr": "作成:"
+	},
+	{
+		"or": "Feet",
+		"tr": "足"
+	},
+	{
+		"or": "Eyes",
+		"tr": ""
 	},
 	{
 		"or": "Max Screenshots",
@@ -1255,16 +1247,20 @@
 		"tr": "%d バイト"
 	},
 	{
+		"or": "Decoration",
+		"tr": ""
+	},
+	{
+		"or": "Tattoo",
+		"tr": ""
+	},
+	{
 		"or": "Info",
 		"tr": "情報"
 	},
 	{
 		"or": "Hue",
 		"tr": "色相"
-	},
-	{
-		"or": "Record demo",
-		"tr": "デモを録画"
 	},
 	{
 		"or": "Your skin",
@@ -1279,8 +1275,8 @@
 		"tr": "初期設定に戻す"
 	},
 	{
-		"or": "Quit anyway?",
-		"tr": "終了しますか？"
+		"or": "Hands",
+		"tr": ""
 	},
 	{
 		"or": "Display Modes",
@@ -1307,12 +1303,28 @@
 		"tr": "ワード検索:"
 	},
 	{
+		"or": "%d of %d servers, %d players",
+		"tr": "%d of %d サーバー, %d プレイヤー"
+	},
+	{
+		"or": "Join game",
+		"tr": "ゲームに参加"
+	},
+	{
+		"or": "Quit anyway?",
+		"tr": "終了しますか？"
+	},
+	{
 		"or": "UI Color",
 		"tr": "UIカラー"
 	},
 	{
 		"or": "Host address",
 		"tr": "IPアドレス:ポート"
+	},
+	{
+		"or": "Tattoos",
+		"tr": ""
 	},
 	{
 		"or": "Crc:",
@@ -1333,6 +1345,14 @@
 	{
 		"or": "LAN",
 		"tr": "LAN"
+	},
+	{
+		"or": "Bodies",
+		"tr": ""
+	},
+	{
+		"or": "Record demo",
+		"tr": "デモを録画"
 	},
 	{
 		"or": "Name plates size",
