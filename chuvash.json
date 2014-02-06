@@ -1,1349 +1,1350 @@
-{"authors": {
-	"originally created by": "Watz",
-	"modified by": [
-		""
-	]},
-"translated strings": [
-	{
-		"or": "%d%% loaded",
-		"tr": "%d%% тиенĕ"
-	},
-	{
-		"or": "%ds left",
-		"tr": "%d сек."
-	},
-	{
-		"or": "%i minute left",
-		"tr": "%i мин."
-	},
-	{
-		"or": "%i minutes left",
-		"tr": "%i мин."
-	},
-	{
-		"or": "%i second left",
-		"tr": "%i сек."
-	},
-	{
-		"or": "%i seconds left",
-		"tr": " %i сек."
-	},
-	{
-		"or": "%s wins!",
-		"tr": "%s çĕнтерчĕ!"
-	},
-	{
-		"or": "-Page %d-",
-		"tr": "-Страница %d-"
-	},
-	{
-		"or": "Abort",
-		"tr": "Каялла"
-	},
-	{
-		"or": "Add",
-		"tr": "Хуш"
-	},
-	{
-		"or": "Add Friend",
-		"tr": "Юлташа хуш"
-	},
-	{
-		"or": "Address",
-		"tr": "Адрес"
-	},
-	{
-		"or": "All",
-		"tr": "Пурте"
-	},
-	{
-		"or": "Always show name plates",
-		"tr": "Вылякансен ятсене кăтартма"
-	},
-	{
-		"or": "Are you sure that you want to delete the demo?",
-		"tr": "Эсир демо парахасшăн-и?"
-	},
-	{
-		"or": "Are you sure that you want to quit?",
-		"tr": "Эсир тухасшăн-и?"
-	},
-	{
-		"or": "Are you sure that you want to remove the player from your friends list?",
-		"tr": "Юшташу списокра тĕплесшĕн-и?"
-	},
-	{
-		"or": "As this is the first time you launch the game, please enter your nick name below. It's recommended that you check the settings to adjust them to your liking before joining a server.",
-		"tr": "Пĕрремĕш вăйă умĕнче, хăвăн ята аяларах çыр. Ĕнерленӳсене тереслер, улăштар."
-	},
-	{
-		"or": "Automatically record demos",
-		"tr": "Демосене автоматикăла çыр"
-	},
-	{
-		"or": "Automatically take game over screenshot",
-		"tr": "Вăйăн пайта çут-ӳкерчĕк ту"
-	},
-	{
-		"or": "Blue team",
-		"tr": "Кăвак ушкăн"
-	},
-	{
-		"or": "Blue team wins!",
-		"tr": "Кăвак ушкăн çĕнтерчĕ!"
-	},
-	{
-		"or": "Body",
-		"tr": "Ӳт"
-	},
-	{
-		"or": "Call vote",
-		"tr": "Сасăла"
-	},
-	{
-		"or": "Change settings",
-		"tr": "Йĕркелӳсене урăхлатма"
-	},
-	{
-		"or": "Chat",
-		"tr": "Калаçу"
-	},
-	{
-		"or": "Clan",
-		"tr": "Кланĕ"
-	},
-	{
-		"or": "Client",
-		"tr": "Клиент"
-	},
-	{
-		"or": "Close",
-		"tr": "Хупма"
-	},
-	{
-		"or": "Compatible version",
-		"tr": "Пĕрле ĕçлекен верси"
-	},
-	{
-		"or": "Connect",
-		"tr": "Çых"
-	},
-	{
-		"or": "Connecting to",
-		"tr": "Çыхăну"
-	},
-	{
-		"or": "Connection Problems...",
-		"tr": "Çыхăну проблемасем"
-	},
-	{
-		"or": "Console",
-		"tr": "Консоль"
-	},
-	{
-		"or": "Controls",
-		"tr": "Пăхăнтару"
-	},
-	{
-		"or": "Count players only",
-		"tr": "Çынсене анчах шутлама"
-	},
-	{
-		"or": "Country",
-		"tr": "Çĕрĕн ялавĕ"
-	},
-	{
-		"or": "Current",
-		"tr": "Хальхи"
-	},
-	{
-		"or": "Custom colors",
-		"tr": "Усă кураканăн тĕсĕсем"
-	},
-	{
-		"or": "Delete",
-		"tr": "Шăлса тасатма"
-	},
-	{
-		"or": "Delete demo",
-		"tr": "Демо шăлса тасатма"
-	},
-	{
-		"or": "Demo details",
-		"tr": "Демо тĕплĕсем"
-	},
-	{
-		"or": "Demofile: %s",
-		"tr": "Демо: %s"
-	},
-	{
-		"or": "Demos",
-		"tr": "Демосем"
-	},
-	{
-		"or": "Disconnect",
-		"tr": "Çыхăну чарма"
-	},
-	{
-		"or": "Disconnected",
-		"tr": "Çыхăну чарăнчĕ"
-	},
-	{
-		"or": "Downloading map",
-		"tr": "Карта илӳ"
-	},
-	{
-		"or": "Draw!",
-		"tr": "Никам та çĕнтермерĕ!"
-	},
-	{
-		"or": "Dynamic Camera",
-		"tr": "Куçакан камера"
-	},
-	{
-		"or": "Emoticon",
-		"tr": "Кăмăл-туйăмсем"
-	},
-	{
-		"or": "Enter",
-		"tr": "Кĕрӳ"
-	},
-	{
-		"or": "Error",
-		"tr": "Йăнăш"
-	},
-	{
-		"or": "Error loading demo",
-		"tr": "Демо илĕвĕн йăнăш"
-	},
-	{
-		"or": "Favorite",
-		"tr": "Суйланни"
-	},
-	{
-		"or": "Favorites",
-		"tr": "Суйланнисем"
-	},
-	{
-		"or": "Feet",
-		"tr": "Урасем"
-	},
-	{
-		"or": "Fire",
-		"tr": "Пĕрӳ"
-	},
-	{
-		"or": "Folder",
-		"tr": "Папка"
-	},
-	{
-		"or": "Force vote",
-		"tr": "Вăйлăт"
-	},
-	{
-		"or": "Free-View",
-		"tr": "Ирĕклĕ обзор"
-	},
-	{
-		"or": "Friends",
-		"tr": "Юлташсем"
-	},
-	{
-		"or": "Fullscreen",
-		"tr": "Тулли экран"
-	},
-	{
-		"or": "Game",
-		"tr": "Вăйă"
-	},
-	{
-		"or": "Game info",
-		"tr": "Вăйă пĕлтерӳ"
-	},
-	{
-		"or": "Game over",
-		"tr": "Вăйа вĕçленчĕ"
-	},
-	{
-		"or": "Game type",
-		"tr": "Вăйăн тĕс"
-	},
-	{
-		"or": "Game types:",
-		"tr": "Вăйăн тĕсĕсем"
-	},
-	{
-		"or": "General",
-		"tr": "Тĕп"
-	},
-	{
-		"or": "Graphics",
-		"tr": "Ӳкерӳ"
-	},
-	{
-		"or": "Grenade",
-		"tr": "Гранатомёт"
-	},
-	{
-		"or": "Hammer",
-		"tr": "Мăлатук"
-	},
-	{
-		"or": "Has people playing",
-		"tr": "Вылякан пур"
-	},
-	{
-		"or": "High Detail",
-		"tr": "Лайăх ӳкерӳ"
-	},
-	{
-		"or": "Hook",
-		"tr": "Çекĕл"
-	},
-	{
-		"or": "Invalid Demo",
-		"tr": "Тĕрĕс мар демо"
-	},
-	{
-		"or": "Join blue",
-		"tr": "Кăваксемпе!"
-	},
-	{
-		"or": "Join red",
-		"tr": "Хĕрлĕсемпе!"
-	},
-	{
-		"or": "Jump",
-		"tr": "Сик"
-	},
-	{
-		"or": "Kick player",
-		"tr": "Вылякана бан"
-	},
-	{
-		"or": "Language",
-		"tr": "Чĕлхе"
-	},
-	{
-		"or": "Loading",
-		"tr": "Кĕт, тархасшăн"
-	},
-	{
-		"or": "MOTD",
-		"tr": "MOTD"
-	},
-	{
-		"or": "Map",
-		"tr": "Карта"
-	},
-	{
-		"or": "Maximum ping:",
-		"tr": "Чи пысăк пинг:"
-	},
-	{
-		"or": "Mouse sens.",
-		"tr": "Шăшин туйăмлăх"
-	},
-	{
-		"or": "Move left",
-		"tr": "Сулахаялла"
-	},
-	{
-		"or": "Move player to spectators",
-		"tr": "Пăхакансем çине куçарма"
-	},
-	{
-		"or": "Move right",
-		"tr": "Сылтăмалла"
-	},
-	{
-		"or": "Movement",
-		"tr": "Куçăм"
-	},
-	{
-		"or": "Mute when not active",
-		"tr": "Тивмен чух сасăна шăплантар"
-	},
-	{
-		"or": "Name",
-		"tr": "Ят"
-	},
-	{
-		"or": "Next weapon",
-		"tr": "Тепĕр хĕç-пăшал"
-	},
-	{
-		"or": "Nickname",
-		"tr": "Ят"
-	},
-	{
-		"or": "No",
-		"tr": "Çук"
-	},
-	{
-		"or": "No password",
-		"tr": "Вăрттăн сăмахсăр"
-	},
-	{
-		"or": "No servers found",
-		"tr": "Серверсем çук"
-	},
-	{
-		"or": "No servers match your filter criteria",
-		"tr": "Фильтр майлă серверсем çук"
-	},
-	{
-		"or": "Ok",
-		"tr": "Çапла"
-	},
-	{
-		"or": "Open",
-		"tr": "Уçма"
-	},
-	{
-		"or": "Parent Folder",
-		"tr": "Аслă каталог"
-	},
-	{
-		"or": "Password",
-		"tr": "Вăрттăн сăмах"
-	},
-	{
-		"or": "Password incorrect",
-		"tr": "Тĕрĕс мар вăрттăн сăмах"
-	},
-	{
-		"or": "Ping",
-		"tr": "Пинг"
-	},
-	{
-		"or": "Pistol",
-		"tr": "Пистолет"
-	},
-	{
-		"or": "Play",
-		"tr": "Пăхма"
-	},
-	{
-		"or": "Play background music",
-		"tr": "Кĕвви"
-	},
-	{
-		"or": "Player",
-		"tr": "Вылякан"
-	},
-	{
-		"or": "Player country:",
-		"tr": "Çĕршыв:"
-	},
-	{
-		"or": "Player options",
-		"tr": "Опцисем"
-	},
-	{
-		"or": "Players",
-		"tr": "Çынсем"
-	},
-	{
-		"or": "Please balance teams!",
-		"tr": "Вылякан ушкăнĕсене шайлаштар!"
-	},
-	{
-		"or": "Prev. weapon",
-		"tr": "Малтанхи хĕç-пăшал"
-	},
-	{
-		"or": "Quality Textures",
-		"tr": "Лайăх текстурасем"
-	},
-	{
-		"or": "Quit",
-		"tr": "Туху"
-	},
-	{
-		"or": "REC %3d:%02d",
-		"tr": "REC %3d:%02d"
-	},
-	{
-		"or": "Reason:",
-		"tr": "Сăлтав:"
-	},
-	{
-		"or": "Red team",
-		"tr": "Хĕрлĕ ушкăн"
-	},
-	{
-		"or": "Red team wins!",
-		"tr": "Хĕрлĕ ушкăн çĕнтерчĕ!"
-	},
-	{
-		"or": "Refresh",
-		"tr": "Каллех вула"
-	},
-	{
-		"or": "Refreshing master servers",
-		"tr": "Мастер-серверсен каллех вулу"
-	},
-	{
-		"or": "Remote console",
-		"tr": "Сервер консолĕ"
-	},
-	{
-		"or": "Remove",
-		"tr": "Тасат"
-	},
-	{
-		"or": "Remove friend",
-		"tr": "Юлташа тасат"
-	},
-	{
-		"or": "Rename",
-		"tr": "Çĕнĕ ят"
-	},
-	{
-		"or": "Rename demo",
-		"tr": "Демо çĕнĕ ят"
-	},
-	{
-		"or": "Reset filter",
-		"tr": "Фильтрсене тасат"
-	},
-	{
-		"or": "Sample rate",
-		"tr": "Тăтăшлăх"
-	},
-	{
-		"or": "Score",
-		"tr": "Паллă"
-	},
-	{
-		"or": "Score board",
-		"tr": "Паллăсен хăмми"
-	},
-	{
-		"or": "Score limit",
-		"tr": "Паллă лимичĕ"
-	},
-	{
-		"or": "Scoreboard",
-		"tr": "Паллăсен хăмми"
-	},
-	{
-		"or": "Screenshot",
-		"tr": "Экран ӳкерӳ"
-	},
-	{
-		"or": "Server address:",
-		"tr": "Сервер адресĕ"
-	},
-	{
-		"or": "Server details",
-		"tr": "Сервер тĕплĕсем"
-	},
-	{
-		"or": "Server filter",
-		"tr": "Серверсен фильтр"
-	},
-	{
-		"or": "Server info",
-		"tr": "Пĕлтерӳ"
-	},
-	{
-		"or": "Server not full",
-		"tr": "Сервер тулли мар"
-	},
-	{
-		"or": "Settings",
-		"tr": "Йĕркелӳсем"
-	},
-	{
-		"or": "Shotgun",
-		"tr": "Йĕтре пăшал"
-	},
-	{
-		"or": "Show chat",
-		"tr": "Калаçӳ кăтартма"
-	},
-	{
-		"or": "Show friends only",
-		"tr": "Юлташсемпе анчах"
-	},
-	{
-		"or": "Show ingame HUD",
-		"tr": "Вăйă çинчи HUD кăтартма"
-	},
-	{
-		"or": "Show name plates",
-		"tr": "Вылякансен ят кăтартма"
-	},
-	{
-		"or": "Show only supported",
-		"tr": "Ĕçлекен экран режимĕсем анчах"
-	},
-	{
-		"or": "Skins",
-		"tr": "Сăнсем"
-	},
-	{
-		"or": "Sound",
-		"tr": "Сасă"
-	},
-	{
-		"or": "Sound error",
-		"tr": "Сасă йăнăш"
-	},
-	{
-		"or": "Spectate",
-		"tr": "Пăхма"
-	},
-	{
-		"or": "Spectate next",
-		"tr": "Тепĕрне пăхма"
-	},
-	{
-		"or": "Spectate previous",
-		"tr": "Малтанхине пăхма"
-	},
-	{
-		"or": "Spectator mode",
-		"tr": "Пăхакан"
-	},
-	{
-		"or": "Spectators",
-		"tr": "Пăхакансем"
-	},
-	{
-		"or": "Standard gametype",
-		"tr": "Стандартлă вăйă тĕсĕ"
-	},
-	{
-		"or": "Standard map",
-		"tr": "Стандартлă карта"
-	},
-	{
-		"or": "Stop record",
-		"tr": "Чарма"
-	},
-	{
-		"or": "Strict gametype filter",
-		"tr": "Хытă вăйă тĕс фильтрĕ"
-	},
-	{
-		"or": "Sudden Death",
-		"tr": "Хăвăрт вилӳ"
-	},
-	{
-		"or": "Switch weapon on pickup",
-		"tr": "Хĕç-пăшал илнĕ чух улăштарма"
-	},
-	{
-		"or": "Team",
-		"tr": "Ушкăн"
-	},
-	{
-		"or": "Team chat",
-		"tr": "Ушкăнри калаçу"
-	},
-	{
-		"or": "Texture Compression",
-		"tr": "Текстур хĕсӳ"
-	},
-	{
-		"or": "The audio device couldn't be initialised.",
-		"tr": "Аудио ярма пултараймасть"
-	},
-	{
-		"or": "The server is running a non-standard tuning on a pure game type.",
-		"tr": "Серверта стардартлă мар опцисемпе таса вăйă тĕсĕрĕ"
-	},
-	{
-		"or": "There's an unsaved map in the editor, you might want to save it before you quit the game.",
-		"tr": "Редакторта упраман карта пур. Туху умĕн ăна упрама пултарать"
-	},
-	{
-		"or": "Time limit",
-		"tr": "Вăхăт лимичĕ"
-	},
-	{
-		"or": "Time limit: %d min",
-		"tr": "Вăхăт лимичĕ: %d мин"
-	},
-	{
-		"or": "Try again",
-		"tr": "Тепĕр хут"
-	},
-	{
-		"or": "Type",
-		"tr": "Тĕс"
-	},
-	{
-		"or": "Unable to delete the demo",
-		"tr": "Демо тĕплеме пултараймасть"
-	},
-	{
-		"or": "Unable to rename the demo",
-		"tr": "Демо ячĕ улăштарма пулмасть"
-	},
-	{
-		"or": "Use sounds",
-		"tr": "Сасă уса курма"
-	},
-	{
-		"or": "Use team colors for name plates",
-		"tr": "Ушкăн тĕсĕсем ятсем валли"
-	},
-	{
-		"or": "V-Sync",
-		"tr": "Вертикаллĕ синхронизаци"
-	},
-	{
-		"or": "Version",
-		"tr": "Версие"
-	},
-	{
-		"or": "Vote command:",
-		"tr": "Суйлав хушу:"
-	},
-	{
-		"or": "Vote description:",
-		"tr": "Суйлав пирки:"
-	},
-	{
-		"or": "Vote failed",
-		"tr": "Суйлу ватнă"
-	},
-	{
-		"or": "Vote no",
-		"tr": "Хирĕç"
-	},
-	{
-		"or": "Vote yes",
-		"tr": "Çинчен"
-	},
-	{
-		"or": "Voting",
-		"tr": "Суйлав"
-	},
-	{
-		"or": "Warmup",
-		"tr": "Карăну"
-	},
-	{
-		"or": "Weapon",
-		"tr": "Хĕç-пăшал"
-	},
-	{
-		"or": "Welcome to Teeworlds",
-		"tr": "Ырă сунса кĕтетпĕр Teeworlds-ра!"
-	},
-	{
-		"or": "Yes",
-		"tr": "Çапла"
-	},
-	{
-		"or": "You must restart the game for all settings to take effect.",
-		"tr": "Режим улăштарма валли вăйă сӳнтер тата каллер яр"
-	}],
-"needs translation": [
-	{
-		"or": "%.3f KiB",
-		"tr": ""
-	},
-	{
-		"or": "%d player left",
-		"tr": ""
-	},
-	{
-		"or": "%d player not ready",
-		"tr": ""
-	},
-	{
-		"or": "%d players left",
-		"tr": ""
-	},
-	{
-		"or": "%d players not ready",
-		"tr": ""
-	},
-	{
-		"or": "%d servers, %d players",
-		"tr": ""
-	},
-	{
-		"or": "'%s' called for vote to kick '%s' (%s)",
-		"tr": ""
-	},
-	{
-		"or": "'%s' called for vote to move '%s' to spectators (%s)",
-		"tr": ""
-	},
-	{
-		"or": "'%s' called vote to change server option '%s' (%s)",
-		"tr": ""
-	},
-	{
-		"or": "'%s' entered and joined the %s",
-		"tr": ""
-	},
-	{
-		"or": "'%s' has left the game",
-		"tr": ""
-	},
-	{
-		"or": "'%s' has left the game (%s)",
-		"tr": ""
-	},
-	{
-		"or": "'%s' joined the %s",
-		"tr": ""
-	},
-	{
-		"or": "Admin forced server option '%s' (%s)",
-		"tr": ""
-	},
-	{
-		"or": "Admin forced vote no",
-		"tr": ""
-	},
-	{
-		"or": "Admin forced vote yes",
-		"tr": ""
-	},
-	{
-		"or": "Admin moved '%s' to spectator (%s)",
-		"tr": ""
-	},
-	{
-		"or": "Alp:",
-		"tr": ""
-	},
-	{
-		"or": "Anti Aliasing",
-		"tr": ""
-	},
-	{
-		"or": "Are you sure you want to rename the demo?",
-		"tr": ""
-	},
-	{
-		"or": "Are you sure you want to save your skin? If a skin with this name already exists, it will be replaced.",
-		"tr": ""
-	},
-	{
-		"or": "Back",
-		"tr": ""
-	},
-	{
-		"or": "Basic",
-		"tr": ""
-	},
-	{
-		"or": "Bodies",
-		"tr": ""
-	},
-	{
-		"or": "Borderless window",
-		"tr": ""
-	},
-	{
-		"or": "Browser",
-		"tr": ""
-	},
-	{
-		"or": "Color",
-		"tr": ""
-	},
-	{
-		"or": "Crc",
-		"tr": ""
-	},
-	{
-		"or": "Created",
-		"tr": ""
-	},
-	{
-		"or": "Custom",
-		"tr": ""
-	},
-	{
-		"or": "Customize",
-		"tr": ""
-	},
-	{
-		"or": "Decoration",
-		"tr": ""
-	},
-	{
-		"or": "Demo",
-		"tr": ""
-	},
-	{
-		"or": "Detail",
-		"tr": ""
-	},
-	{
-		"or": "Editor",
-		"tr": ""
-	},
-	{
-		"or": "Eyes",
-		"tr": ""
-	},
-	{
-		"or": "Format",
-		"tr": ""
-	},
-	{
-		"or": "Game paused",
-		"tr": ""
-	},
-	{
-		"or": "Game starts in",
-		"tr": ""
-	},
-	{
-		"or": "Global",
-		"tr": ""
-	},
-	{
-		"or": "Hands",
-		"tr": ""
-	},
-	{
-		"or": "Host address:",
-		"tr": ""
-	},
-	{
-		"or": "Hue:",
-		"tr": ""
-	},
-	{
-		"or": "Join",
-		"tr": ""
-	},
-	{
-		"or": "Joined",
-		"tr": ""
-	},
-	{
-		"or": "Joined blue",
-		"tr": ""
-	},
-	{
-		"or": "Joined red",
-		"tr": ""
-	},
-	{
-		"or": "Kick voting requires %d players on the server",
-		"tr": ""
-	},
-	{
-		"or": "Laser",
-		"tr": ""
-	},
-	{
-		"or": "Length",
-		"tr": ""
-	},
-	{
-		"or": "Letterbox",
-		"tr": ""
-	},
-	{
-		"or": "Lgt:",
-		"tr": ""
-	},
-	{
-		"or": "Local",
-		"tr": ""
-	},
-	{
-		"or": "Local server",
-		"tr": ""
-	},
-	{
-		"or": "Match",
-		"tr": ""
-	},
-	{
-		"or": "Max",
-		"tr": ""
-	},
-	{
-		"or": "Misc",
-		"tr": ""
-	},
-	{
-		"or": "Netversion",
-		"tr": ""
-	},
-	{
-		"or": "Nickname is empty.",
-		"tr": ""
-	},
-	{
-		"or": "Normal:",
-		"tr": ""
-	},
-	{
-		"or": "Only %d active players are allowed",
-		"tr": ""
-	},
-	{
-		"or": "Personal",
-		"tr": ""
-	},
-	{
-		"or": "Ready",
-		"tr": ""
-	},
-	{
-		"or": "Record",
-		"tr": ""
-	},
-	{
-		"or": "Recorded",
-		"tr": ""
-	},
-	{
-		"or": "Reset",
-		"tr": ""
-	},
-	{
-		"or": "Resolutions",
-		"tr": ""
-	},
-	{
-		"or": "Respawn",
-		"tr": ""
-	},
-	{
-		"or": "Round over",
-		"tr": ""
-	},
-	{
-		"or": "Round over!",
-		"tr": ""
-	},
-	{
-		"or": "Sat:",
-		"tr": ""
-	},
-	{
-		"or": "Save",
-		"tr": ""
-	},
-	{
-		"or": "Save skin",
-		"tr": ""
-	},
-	{
-		"or": "Screen",
-		"tr": ""
-	},
-	{
-		"or": "Search:",
-		"tr": ""
-	},
-	{
-		"or": "Server does not allow voting to kick players",
-		"tr": ""
-	},
-	{
-		"or": "Server does not allow voting to move players to spectators",
-		"tr": ""
-	},
-	{
-		"or": "Servers",
-		"tr": ""
-	},
-	{
-		"or": "Show only chat messages from friends",
-		"tr": ""
-	},
-	{
-		"or": "Size",
-		"tr": ""
-	},
-	{
-		"or": "Skin",
-		"tr": ""
-	},
-	{
-		"or": "Spectating",
-		"tr": ""
-	},
-	{
-		"or": "Spectators aren't allowed to start a vote.",
-		"tr": ""
-	},
-	{
-		"or": "Standard Gametype",
-		"tr": ""
-	},
-	{
-		"or": "Tattoo",
-		"tr": ""
-	},
-	{
-		"or": "Tattoos",
-		"tr": ""
-	},
-	{
-		"or": "Team:",
-		"tr": ""
-	},
-	{
-		"or": "Teams are locked",
-		"tr": ""
-	},
-	{
-		"or": "Teams are locked. Time to wait before changing team: %02d:%02d",
-		"tr": ""
-	},
-	{
-		"or": "Teams were locked",
-		"tr": ""
-	},
-	{
-		"or": "Teams were unlocked",
-		"tr": ""
-	},
-	{
-		"or": "Tee",
-		"tr": ""
-	},
-	{
-		"or": "Teeworlds %s is out! Download it at www.teeworlds.com!",
-		"tr": ""
-	},
-	{
-		"or": "Texture",
-		"tr": ""
-	},
-	{
-		"or": "Volume",
-		"tr": ""
-	},
-	{
-		"or": "Vote aborted",
-		"tr": ""
-	},
-	{
-		"or": "Vote passed",
-		"tr": ""
-	},
-	{
-		"or": "Wait for current vote to end before calling a new one.",
-		"tr": ""
-	},
-	{
-		"or": "Wait for next round",
-		"tr": ""
-	},
-	{
-		"or": "Wide",
-		"tr": ""
-	},
-	{
-		"or": "You must wait %d seconds before making another vote",
-		"tr": ""
-	},
-	{
-		"or": "blue",
-		"tr": ""
-	},
-	{
-		"or": "blue team",
-		"tr": ""
-	},
-	{
-		"or": "game",
-		"tr": ""
-	},
-	{
-		"or": "locked",
-		"tr": ""
-	},
-	{
-		"or": "no players",
-		"tr": ""
-	},
-	{
-		"or": "red",
-		"tr": ""
-	},
-	{
-		"or": "red team",
-		"tr": ""
-	},
-	{
-		"or": "spectators",
-		"tr": ""
-	},
-	{
-		"or": "wait for more players",
-		"tr": ""
-	}],
-"old translations": [
-	{
-		"or": "New name:",
-		"tr": "Çĕн ят"
-	},
-	{
-		"or": "Sat.",
-		"tr": "Контраст"
-	},
-	{
-		"or": "Miscellaneous",
-		"tr": "Хушнисем"
-	},
-	{
-		"or": "Internet",
-		"tr": "Интернет"
-	},
-	{
-		"or": "Max demos",
-		"tr": "Чи пысăк демо хисепĕ"
-	},
-	{
-		"or": "News",
-		"tr": "Хыпарсем"
-	},
-	{
-		"or": "Join game",
-		"tr": "Выляма"
-	},
-	{
-		"or": "FSAA samples",
-		"tr": "FSAA якату"
-	},
-	{
-		"or": "%d of %d servers, %d players",
-		"tr": "%d серв. %d тупнă, %d çын"
-	},
-	{
-		"or": "Sound volume",
-		"tr": "Сасă янравлăш"
-	},
-	{
-		"or": "Created:",
-		"tr": "Хайланă:"
-	},
-	{
-		"or": "Max Screenshots",
-		"tr": "Ӳкерчĕксен чи пысăк хисепĕ"
-	},
-	{
-		"or": "Length:",
-		"tr": "Вăрăмăш"
-	},
-	{
-		"or": "Rifle",
-		"tr": "Бластер"
-	},
-	{
-		"or": "Netversion:",
-		"tr": "Версия:"
-	},
-	{
-		"or": "Map:",
-		"tr": "Карта:"
-	},
-	{
-		"or": "%d Bytes",
-		"tr": "%d байт"
-	},
-	{
-		"or": "Info",
-		"tr": "Пĕлтерӳ"
-	},
-	{
-		"or": "Hue",
-		"tr": "Тĕс сĕмĕ"
-	},
-	{
-		"or": "Record demo",
-		"tr": "Демо çыр"
-	},
-	{
-		"or": "Your skin",
-		"tr": "Санăн сăн"
-	},
-	{
-		"or": "Size:",
-		"tr": "Пыçăкăш:"
-	},
-	{
-		"or": "Reset to defaults",
-		"tr": "Йĕркелӳ тасат"
-	},
-	{
-		"or": "Quit anyway?",
-		"tr": "Туху?"
-	},
-	{
-		"or": "Display Modes",
-		"tr": "Экран режимсем"
-	},
-	{
-		"or": "Version:",
-		"tr": "Версие:"
-	},
-	{
-		"or": "Round",
-		"tr": "Раунд"
-	},
-	{
-		"or": "Lht.",
-		"tr": "Çутăллăх"
-	},
-	{
-		"or": "no limit",
-		"tr": "Лимитсăр"
-	},
-	{
-		"or": "Quick search:",
-		"tr": "Хăвăрт шырав:"
-	},
-	{
-		"or": "UI Color",
-		"tr": "Интерфейс тĕсĕ"
-	},
-	{
-		"or": "Host address",
-		"tr": "Сервер адресĕ"
-	},
-	{
-		"or": "Teeworlds %s is out! Download it at [url=http://www.teeworlds.com]www.teeworlds.com[/url]!",
-		"tr": "Тухрĕ Teeworlds %s! Кунта: [url=http://www.teeworlds.com]www.teeworlds.com[/url]!"
-	},
-	{
-		"or": "Crc:",
-		"tr": "Crc:"
-	},
-	{
-		"or": "Alpha",
-		"tr": "Тăрă"
-	},
-	{
-		"or": "Current version: %s",
-		"tr": "Хальхи версие: %s"
-	},
-	{
-		"or": "Filter",
-		"tr": "Фильтр"
-	},
-	{
-		"or": "LAN",
-		"tr": "LAN"
-	},
-	{
-		"or": "Name plates size",
-		"tr": "Пысăкăш"
-	},
-	{
-		"or": "Type:",
-		"tr": "Тĕс:"
-	}]
+{
+	"authors": {
+		"modified by": [
+			""
+		],
+		"originally created by": "Watz"
+	},
+	"needs translation": [
+		{
+			"or": "%.3f KiB",
+			"tr": ""
+		},
+		{
+			"or": "%d player left",
+			"tr": ""
+		},
+		{
+			"or": "%d player not ready",
+			"tr": ""
+		},
+		{
+			"or": "%d players left",
+			"tr": ""
+		},
+		{
+			"or": "%d players not ready",
+			"tr": ""
+		},
+		{
+			"or": "%d servers, %d players",
+			"tr": ""
+		},
+		{
+			"or": "'%s' called for vote to kick '%s' (%s)",
+			"tr": ""
+		},
+		{
+			"or": "'%s' called for vote to move '%s' to spectators (%s)",
+			"tr": ""
+		},
+		{
+			"or": "'%s' called vote to change server option '%s' (%s)",
+			"tr": ""
+		},
+		{
+			"or": "'%s' entered and joined the %s",
+			"tr": ""
+		},
+		{
+			"or": "'%s' has left the game",
+			"tr": ""
+		},
+		{
+			"or": "'%s' has left the game (%s)",
+			"tr": ""
+		},
+		{
+			"or": "'%s' joined the %s",
+			"tr": ""
+		},
+		{
+			"or": "Admin forced server option '%s' (%s)",
+			"tr": ""
+		},
+		{
+			"or": "Admin forced vote no",
+			"tr": ""
+		},
+		{
+			"or": "Admin forced vote yes",
+			"tr": ""
+		},
+		{
+			"or": "Admin moved '%s' to spectator (%s)",
+			"tr": ""
+		},
+		{
+			"or": "Alp:",
+			"tr": ""
+		},
+		{
+			"or": "Anti Aliasing",
+			"tr": ""
+		},
+		{
+			"or": "Are you sure that you want to delete the skin?",
+			"tr": ""
+		},
+		{
+			"or": "Are you sure you want to rename the demo?",
+			"tr": ""
+		},
+		{
+			"or": "Are you sure you want to save your skin? If a skin with this name already exists, it will be replaced.",
+			"tr": ""
+		},
+		{
+			"or": "Back",
+			"tr": ""
+		},
+		{
+			"or": "Basic",
+			"tr": ""
+		},
+		{
+			"or": "Borderless window",
+			"tr": ""
+		},
+		{
+			"or": "Browser",
+			"tr": ""
+		},
+		{
+			"or": "Color",
+			"tr": ""
+		},
+		{
+			"or": "Crc",
+			"tr": ""
+		},
+		{
+			"or": "Created",
+			"tr": ""
+		},
+		{
+			"or": "Custom",
+			"tr": ""
+		},
+		{
+			"or": "Customize",
+			"tr": ""
+		},
+		{
+			"or": "Delete skin",
+			"tr": ""
+		},
+		{
+			"or": "Demo",
+			"tr": ""
+		},
+		{
+			"or": "Detail",
+			"tr": ""
+		},
+		{
+			"or": "Editor",
+			"tr": ""
+		},
+		{
+			"or": "Format",
+			"tr": ""
+		},
+		{
+			"or": "Game paused",
+			"tr": ""
+		},
+		{
+			"or": "Game starts in",
+			"tr": ""
+		},
+		{
+			"or": "Global",
+			"tr": ""
+		},
+		{
+			"or": "Host address:",
+			"tr": ""
+		},
+		{
+			"or": "Hue:",
+			"tr": ""
+		},
+		{
+			"or": "Join",
+			"tr": ""
+		},
+		{
+			"or": "Joined",
+			"tr": ""
+		},
+		{
+			"or": "Joined blue",
+			"tr": ""
+		},
+		{
+			"or": "Joined red",
+			"tr": ""
+		},
+		{
+			"or": "Kick voting requires %d players on the server",
+			"tr": ""
+		},
+		{
+			"or": "Laser",
+			"tr": ""
+		},
+		{
+			"or": "Length",
+			"tr": ""
+		},
+		{
+			"or": "Letterbox",
+			"tr": ""
+		},
+		{
+			"or": "Lgt:",
+			"tr": ""
+		},
+		{
+			"or": "Local",
+			"tr": ""
+		},
+		{
+			"or": "Local server",
+			"tr": ""
+		},
+		{
+			"or": "Match",
+			"tr": ""
+		},
+		{
+			"or": "Max",
+			"tr": ""
+		},
+		{
+			"or": "Misc",
+			"tr": ""
+		},
+		{
+			"or": "Netversion",
+			"tr": ""
+		},
+		{
+			"or": "Nickname is empty.",
+			"tr": ""
+		},
+		{
+			"or": "Normal:",
+			"tr": ""
+		},
+		{
+			"or": "Only %d active players are allowed",
+			"tr": ""
+		},
+		{
+			"or": "Personal",
+			"tr": ""
+		},
+		{
+			"or": "Ready",
+			"tr": ""
+		},
+		{
+			"or": "Record",
+			"tr": ""
+		},
+		{
+			"or": "Recorded",
+			"tr": ""
+		},
+		{
+			"or": "Reset",
+			"tr": ""
+		},
+		{
+			"or": "Resolutions",
+			"tr": ""
+		},
+		{
+			"or": "Respawn",
+			"tr": ""
+		},
+		{
+			"or": "Round over",
+			"tr": ""
+		},
+		{
+			"or": "Round over!",
+			"tr": ""
+		},
+		{
+			"or": "Sat:",
+			"tr": ""
+		},
+		{
+			"or": "Save",
+			"tr": ""
+		},
+		{
+			"or": "Save skin",
+			"tr": ""
+		},
+		{
+			"or": "Screen",
+			"tr": ""
+		},
+		{
+			"or": "Search:",
+			"tr": ""
+		},
+		{
+			"or": "Server does not allow voting to kick players",
+			"tr": ""
+		},
+		{
+			"or": "Server does not allow voting to move players to spectators",
+			"tr": ""
+		},
+		{
+			"or": "Servers",
+			"tr": ""
+		},
+		{
+			"or": "Show only chat messages from friends",
+			"tr": ""
+		},
+		{
+			"or": "Size",
+			"tr": ""
+		},
+		{
+			"or": "Skin",
+			"tr": ""
+		},
+		{
+			"or": "Spectating",
+			"tr": ""
+		},
+		{
+			"or": "Spectators aren't allowed to start a vote.",
+			"tr": ""
+		},
+		{
+			"or": "Standard Gametype",
+			"tr": ""
+		},
+		{
+			"or": "Team:",
+			"tr": ""
+		},
+		{
+			"or": "Teams are locked",
+			"tr": ""
+		},
+		{
+			"or": "Teams are locked. Time to wait before changing team: %02d:%02d",
+			"tr": ""
+		},
+		{
+			"or": "Teams were locked",
+			"tr": ""
+		},
+		{
+			"or": "Teams were unlocked",
+			"tr": ""
+		},
+		{
+			"or": "Tee",
+			"tr": ""
+		},
+		{
+			"or": "Teeworlds %s is out! Download it at www.teeworlds.com!",
+			"tr": ""
+		},
+		{
+			"or": "Texture",
+			"tr": ""
+		},
+		{
+			"or": "The %s flag was captured by '%s'",
+			"tr": ""
+		},
+		{
+			"or": "The %s flag was captured by '%s' (%.2f seconds)",
+			"tr": ""
+		},
+		{
+			"or": "Unable to delete the skin",
+			"tr": ""
+		},
+		{
+			"or": "Volume",
+			"tr": ""
+		},
+		{
+			"or": "Vote aborted",
+			"tr": ""
+		},
+		{
+			"or": "Vote passed",
+			"tr": ""
+		},
+		{
+			"or": "Wait for current vote to end before calling a new one.",
+			"tr": ""
+		},
+		{
+			"or": "Wait for next round",
+			"tr": ""
+		},
+		{
+			"or": "Wide",
+			"tr": ""
+		},
+		{
+			"or": "You must wait %d seconds before making another vote",
+			"tr": ""
+		},
+		{
+			"or": "blue",
+			"tr": ""
+		},
+		{
+			"or": "blue team",
+			"tr": ""
+		},
+		{
+			"or": "game",
+			"tr": ""
+		},
+		{
+			"or": "locked",
+			"tr": ""
+		},
+		{
+			"or": "no players",
+			"tr": ""
+		},
+		{
+			"or": "red",
+			"tr": ""
+		},
+		{
+			"or": "red team",
+			"tr": ""
+		},
+		{
+			"or": "spectators",
+			"tr": ""
+		},
+		{
+			"or": "wait for more players",
+			"tr": ""
+		}
+	],
+	"old translations": [
+		{
+			"or": "%d Bytes",
+			"tr": "%d байт"
+		},
+		{
+			"or": "%d of %d servers, %d players",
+			"tr": "%d серв. %d тупнă, %d çын"
+		},
+		{
+			"or": "Alpha",
+			"tr": "Тăрă"
+		},
+		{
+			"or": "Body",
+			"tr": "Ӳт"
+		},
+		{
+			"or": "Crc:",
+			"tr": "Crc:"
+		},
+		{
+			"or": "Created:",
+			"tr": "Хайланă:"
+		},
+		{
+			"or": "Current version: %s",
+			"tr": "Хальхи версие: %s"
+		},
+		{
+			"or": "Display Modes",
+			"tr": "Экран режимсем"
+		},
+		{
+			"or": "FSAA samples",
+			"tr": "FSAA якату"
+		},
+		{
+			"or": "Feet",
+			"tr": "Урасем"
+		},
+		{
+			"or": "Filter",
+			"tr": "Фильтр"
+		},
+		{
+			"or": "Host address",
+			"tr": "Сервер адресĕ"
+		},
+		{
+			"or": "Hue",
+			"tr": "Тĕс сĕмĕ"
+		},
+		{
+			"or": "Info",
+			"tr": "Пĕлтерӳ"
+		},
+		{
+			"or": "Internet",
+			"tr": "Интернет"
+		},
+		{
+			"or": "Join game",
+			"tr": "Выляма"
+		},
+		{
+			"or": "LAN",
+			"tr": "LAN"
+		},
+		{
+			"or": "Length:",
+			"tr": "Вăрăмăш"
+		},
+		{
+			"or": "Lht.",
+			"tr": "Çутăллăх"
+		},
+		{
+			"or": "Map:",
+			"tr": "Карта:"
+		},
+		{
+			"or": "Max Screenshots",
+			"tr": "Ӳкерчĕксен чи пысăк хисепĕ"
+		},
+		{
+			"or": "Max demos",
+			"tr": "Чи пысăк демо хисепĕ"
+		},
+		{
+			"or": "Miscellaneous",
+			"tr": "Хушнисем"
+		},
+		{
+			"or": "Name plates size",
+			"tr": "Пысăкăш"
+		},
+		{
+			"or": "Netversion:",
+			"tr": "Версия:"
+		},
+		{
+			"or": "New name:",
+			"tr": "Çĕн ят"
+		},
+		{
+			"or": "News",
+			"tr": "Хыпарсем"
+		},
+		{
+			"or": "Quick search:",
+			"tr": "Хăвăрт шырав:"
+		},
+		{
+			"or": "Quit anyway?",
+			"tr": "Туху?"
+		},
+		{
+			"or": "Record demo",
+			"tr": "Демо çыр"
+		},
+		{
+			"or": "Reset to defaults",
+			"tr": "Йĕркелӳ тасат"
+		},
+		{
+			"or": "Rifle",
+			"tr": "Бластер"
+		},
+		{
+			"or": "Round",
+			"tr": "Раунд"
+		},
+		{
+			"or": "Sat.",
+			"tr": "Контраст"
+		},
+		{
+			"or": "Size:",
+			"tr": "Пыçăкăш:"
+		},
+		{
+			"or": "Sound volume",
+			"tr": "Сасă янравлăш"
+		},
+		{
+			"or": "Teeworlds %s is out! Download it at [url=http://www.teeworlds.com]www.teeworlds.com[/url]!",
+			"tr": "Тухрĕ Teeworlds %s! Кунта: [url=http://www.teeworlds.com]www.teeworlds.com[/url]!"
+		},
+		{
+			"or": "Type:",
+			"tr": "Тĕс:"
+		},
+		{
+			"or": "UI Color",
+			"tr": "Интерфейс тĕсĕ"
+		},
+		{
+			"or": "Version:",
+			"tr": "Версие:"
+		},
+		{
+			"or": "Your skin",
+			"tr": "Санăн сăн"
+		},
+		{
+			"or": "no limit",
+			"tr": "Лимитсăр"
+		}
+	],
+	"translated strings": [
+		{
+			"or": "%d%% loaded",
+			"tr": "%d%% тиенĕ"
+		},
+		{
+			"or": "%ds left",
+			"tr": "%d сек."
+		},
+		{
+			"or": "%i minute left",
+			"tr": "%i мин."
+		},
+		{
+			"or": "%i minutes left",
+			"tr": "%i мин."
+		},
+		{
+			"or": "%i second left",
+			"tr": "%i сек."
+		},
+		{
+			"or": "%i seconds left",
+			"tr": " %i сек."
+		},
+		{
+			"or": "%s wins!",
+			"tr": "%s çĕнтерчĕ!"
+		},
+		{
+			"or": "-Page %d-",
+			"tr": "-Страница %d-"
+		},
+		{
+			"or": "Abort",
+			"tr": "Каялла"
+		},
+		{
+			"or": "Add",
+			"tr": "Хуш"
+		},
+		{
+			"or": "Add Friend",
+			"tr": "Юлташа хуш"
+		},
+		{
+			"or": "Address",
+			"tr": "Адрес"
+		},
+		{
+			"or": "All",
+			"tr": "Пурте"
+		},
+		{
+			"or": "Always show name plates",
+			"tr": "Вылякансен ятсене кăтартма"
+		},
+		{
+			"or": "Are you sure that you want to delete the demo?",
+			"tr": "Эсир демо парахасшăн-и?"
+		},
+		{
+			"or": "Are you sure that you want to quit?",
+			"tr": "Эсир тухасшăн-и?"
+		},
+		{
+			"or": "Are you sure that you want to remove the player from your friends list?",
+			"tr": "Юшташу списокра тĕплесшĕн-и?"
+		},
+		{
+			"or": "As this is the first time you launch the game, please enter your nick name below. It's recommended that you check the settings to adjust them to your liking before joining a server.",
+			"tr": "Пĕрремĕш вăйă умĕнче, хăвăн ята аяларах çыр. Ĕнерленӳсене тереслер, улăштар."
+		},
+		{
+			"or": "Automatically record demos",
+			"tr": "Демосене автоматикăла çыр"
+		},
+		{
+			"or": "Automatically take game over screenshot",
+			"tr": "Вăйăн пайта çут-ӳкерчĕк ту"
+		},
+		{
+			"or": "Blue team",
+			"tr": "Кăвак ушкăн"
+		},
+		{
+			"or": "Blue team wins!",
+			"tr": "Кăвак ушкăн çĕнтерчĕ!"
+		},
+		{
+			"or": "Call vote",
+			"tr": "Сасăла"
+		},
+		{
+			"or": "Change settings",
+			"tr": "Йĕркелӳсене урăхлатма"
+		},
+		{
+			"or": "Chat",
+			"tr": "Калаçу"
+		},
+		{
+			"or": "Clan",
+			"tr": "Кланĕ"
+		},
+		{
+			"or": "Client",
+			"tr": "Клиент"
+		},
+		{
+			"or": "Close",
+			"tr": "Хупма"
+		},
+		{
+			"or": "Compatible version",
+			"tr": "Пĕрле ĕçлекен верси"
+		},
+		{
+			"or": "Connect",
+			"tr": "Çых"
+		},
+		{
+			"or": "Connecting to",
+			"tr": "Çыхăну"
+		},
+		{
+			"or": "Connection Problems...",
+			"tr": "Çыхăну проблемасем"
+		},
+		{
+			"or": "Console",
+			"tr": "Консоль"
+		},
+		{
+			"or": "Controls",
+			"tr": "Пăхăнтару"
+		},
+		{
+			"or": "Count players only",
+			"tr": "Çынсене анчах шутлама"
+		},
+		{
+			"or": "Country",
+			"tr": "Çĕрĕн ялавĕ"
+		},
+		{
+			"or": "Current",
+			"tr": "Хальхи"
+		},
+		{
+			"or": "Custom colors",
+			"tr": "Усă кураканăн тĕсĕсем"
+		},
+		{
+			"or": "Delete",
+			"tr": "Шăлса тасатма"
+		},
+		{
+			"or": "Delete demo",
+			"tr": "Демо шăлса тасатма"
+		},
+		{
+			"or": "Demo details",
+			"tr": "Демо тĕплĕсем"
+		},
+		{
+			"or": "Demofile: %s",
+			"tr": "Демо: %s"
+		},
+		{
+			"or": "Demos",
+			"tr": "Демосем"
+		},
+		{
+			"or": "Disconnect",
+			"tr": "Çыхăну чарма"
+		},
+		{
+			"or": "Disconnected",
+			"tr": "Çыхăну чарăнчĕ"
+		},
+		{
+			"or": "Downloading map",
+			"tr": "Карта илӳ"
+		},
+		{
+			"or": "Draw!",
+			"tr": "Никам та çĕнтермерĕ!"
+		},
+		{
+			"or": "Dynamic Camera",
+			"tr": "Куçакан камера"
+		},
+		{
+			"or": "Emoticon",
+			"tr": "Кăмăл-туйăмсем"
+		},
+		{
+			"or": "Enter",
+			"tr": "Кĕрӳ"
+		},
+		{
+			"or": "Error",
+			"tr": "Йăнăш"
+		},
+		{
+			"or": "Error loading demo",
+			"tr": "Демо илĕвĕн йăнăш"
+		},
+		{
+			"or": "Favorite",
+			"tr": "Суйланни"
+		},
+		{
+			"or": "Favorites",
+			"tr": "Суйланнисем"
+		},
+		{
+			"or": "Fire",
+			"tr": "Пĕрӳ"
+		},
+		{
+			"or": "Folder",
+			"tr": "Папка"
+		},
+		{
+			"or": "Force vote",
+			"tr": "Вăйлăт"
+		},
+		{
+			"or": "Free-View",
+			"tr": "Ирĕклĕ обзор"
+		},
+		{
+			"or": "Friends",
+			"tr": "Юлташсем"
+		},
+		{
+			"or": "Fullscreen",
+			"tr": "Тулли экран"
+		},
+		{
+			"or": "Game",
+			"tr": "Вăйă"
+		},
+		{
+			"or": "Game info",
+			"tr": "Вăйă пĕлтерӳ"
+		},
+		{
+			"or": "Game over",
+			"tr": "Вăйа вĕçленчĕ"
+		},
+		{
+			"or": "Game type",
+			"tr": "Вăйăн тĕс"
+		},
+		{
+			"or": "Game types:",
+			"tr": "Вăйăн тĕсĕсем"
+		},
+		{
+			"or": "General",
+			"tr": "Тĕп"
+		},
+		{
+			"or": "Graphics",
+			"tr": "Ӳкерӳ"
+		},
+		{
+			"or": "Grenade",
+			"tr": "Гранатомёт"
+		},
+		{
+			"or": "Hammer",
+			"tr": "Мăлатук"
+		},
+		{
+			"or": "Has people playing",
+			"tr": "Вылякан пур"
+		},
+		{
+			"or": "High Detail",
+			"tr": "Лайăх ӳкерӳ"
+		},
+		{
+			"or": "Hook",
+			"tr": "Çекĕл"
+		},
+		{
+			"or": "Invalid Demo",
+			"tr": "Тĕрĕс мар демо"
+		},
+		{
+			"or": "Join blue",
+			"tr": "Кăваксемпе!"
+		},
+		{
+			"or": "Join red",
+			"tr": "Хĕрлĕсемпе!"
+		},
+		{
+			"or": "Jump",
+			"tr": "Сик"
+		},
+		{
+			"or": "Kick player",
+			"tr": "Вылякана бан"
+		},
+		{
+			"or": "Language",
+			"tr": "Чĕлхе"
+		},
+		{
+			"or": "Loading",
+			"tr": "Кĕт, тархасшăн"
+		},
+		{
+			"or": "MOTD",
+			"tr": "MOTD"
+		},
+		{
+			"or": "Map",
+			"tr": "Карта"
+		},
+		{
+			"or": "Maximum ping:",
+			"tr": "Чи пысăк пинг:"
+		},
+		{
+			"or": "Mouse sens.",
+			"tr": "Шăшин туйăмлăх"
+		},
+		{
+			"or": "Move left",
+			"tr": "Сулахаялла"
+		},
+		{
+			"or": "Move player to spectators",
+			"tr": "Пăхакансем çине куçарма"
+		},
+		{
+			"or": "Move right",
+			"tr": "Сылтăмалла"
+		},
+		{
+			"or": "Movement",
+			"tr": "Куçăм"
+		},
+		{
+			"or": "Mute when not active",
+			"tr": "Тивмен чух сасăна шăплантар"
+		},
+		{
+			"or": "Name",
+			"tr": "Ят"
+		},
+		{
+			"or": "Next weapon",
+			"tr": "Тепĕр хĕç-пăшал"
+		},
+		{
+			"or": "Nickname",
+			"tr": "Ят"
+		},
+		{
+			"or": "No",
+			"tr": "Çук"
+		},
+		{
+			"or": "No password",
+			"tr": "Вăрттăн сăмахсăр"
+		},
+		{
+			"or": "No servers found",
+			"tr": "Серверсем çук"
+		},
+		{
+			"or": "No servers match your filter criteria",
+			"tr": "Фильтр майлă серверсем çук"
+		},
+		{
+			"or": "Ok",
+			"tr": "Çапла"
+		},
+		{
+			"or": "Open",
+			"tr": "Уçма"
+		},
+		{
+			"or": "Parent Folder",
+			"tr": "Аслă каталог"
+		},
+		{
+			"or": "Password",
+			"tr": "Вăрттăн сăмах"
+		},
+		{
+			"or": "Password incorrect",
+			"tr": "Тĕрĕс мар вăрттăн сăмах"
+		},
+		{
+			"or": "Ping",
+			"tr": "Пинг"
+		},
+		{
+			"or": "Pistol",
+			"tr": "Пистолет"
+		},
+		{
+			"or": "Play",
+			"tr": "Пăхма"
+		},
+		{
+			"or": "Play background music",
+			"tr": "Кĕвви"
+		},
+		{
+			"or": "Player",
+			"tr": "Вылякан"
+		},
+		{
+			"or": "Player country:",
+			"tr": "Çĕршыв:"
+		},
+		{
+			"or": "Player options",
+			"tr": "Опцисем"
+		},
+		{
+			"or": "Players",
+			"tr": "Çынсем"
+		},
+		{
+			"or": "Please balance teams!",
+			"tr": "Вылякан ушкăнĕсене шайлаштар!"
+		},
+		{
+			"or": "Prev. weapon",
+			"tr": "Малтанхи хĕç-пăшал"
+		},
+		{
+			"or": "Quality Textures",
+			"tr": "Лайăх текстурасем"
+		},
+		{
+			"or": "Quit",
+			"tr": "Туху"
+		},
+		{
+			"or": "REC %3d:%02d",
+			"tr": "REC %3d:%02d"
+		},
+		{
+			"or": "Reason:",
+			"tr": "Сăлтав:"
+		},
+		{
+			"or": "Red team",
+			"tr": "Хĕрлĕ ушкăн"
+		},
+		{
+			"or": "Red team wins!",
+			"tr": "Хĕрлĕ ушкăн çĕнтерчĕ!"
+		},
+		{
+			"or": "Refresh",
+			"tr": "Каллех вула"
+		},
+		{
+			"or": "Refreshing master servers",
+			"tr": "Мастер-серверсен каллех вулу"
+		},
+		{
+			"or": "Remote console",
+			"tr": "Сервер консолĕ"
+		},
+		{
+			"or": "Remove",
+			"tr": "Тасат"
+		},
+		{
+			"or": "Remove friend",
+			"tr": "Юлташа тасат"
+		},
+		{
+			"or": "Rename",
+			"tr": "Çĕнĕ ят"
+		},
+		{
+			"or": "Rename demo",
+			"tr": "Демо çĕнĕ ят"
+		},
+		{
+			"or": "Reset filter",
+			"tr": "Фильтрсене тасат"
+		},
+		{
+			"or": "Sample rate",
+			"tr": "Тăтăшлăх"
+		},
+		{
+			"or": "Score",
+			"tr": "Паллă"
+		},
+		{
+			"or": "Score board",
+			"tr": "Паллăсен хăмми"
+		},
+		{
+			"or": "Score limit",
+			"tr": "Паллă лимичĕ"
+		},
+		{
+			"or": "Scoreboard",
+			"tr": "Паллăсен хăмми"
+		},
+		{
+			"or": "Screenshot",
+			"tr": "Экран ӳкерӳ"
+		},
+		{
+			"or": "Server address:",
+			"tr": "Сервер адресĕ"
+		},
+		{
+			"or": "Server details",
+			"tr": "Сервер тĕплĕсем"
+		},
+		{
+			"or": "Server filter",
+			"tr": "Серверсен фильтр"
+		},
+		{
+			"or": "Server info",
+			"tr": "Пĕлтерӳ"
+		},
+		{
+			"or": "Server not full",
+			"tr": "Сервер тулли мар"
+		},
+		{
+			"or": "Settings",
+			"tr": "Йĕркелӳсем"
+		},
+		{
+			"or": "Shotgun",
+			"tr": "Йĕтре пăшал"
+		},
+		{
+			"or": "Show chat",
+			"tr": "Калаçӳ кăтартма"
+		},
+		{
+			"or": "Show friends only",
+			"tr": "Юлташсемпе анчах"
+		},
+		{
+			"or": "Show ingame HUD",
+			"tr": "Вăйă çинчи HUD кăтартма"
+		},
+		{
+			"or": "Show name plates",
+			"tr": "Вылякансен ят кăтартма"
+		},
+		{
+			"or": "Show only supported",
+			"tr": "Ĕçлекен экран режимĕсем анчах"
+		},
+		{
+			"or": "Skins",
+			"tr": "Сăнсем"
+		},
+		{
+			"or": "Sound",
+			"tr": "Сасă"
+		},
+		{
+			"or": "Sound error",
+			"tr": "Сасă йăнăш"
+		},
+		{
+			"or": "Spectate",
+			"tr": "Пăхма"
+		},
+		{
+			"or": "Spectate next",
+			"tr": "Тепĕрне пăхма"
+		},
+		{
+			"or": "Spectate previous",
+			"tr": "Малтанхине пăхма"
+		},
+		{
+			"or": "Spectator mode",
+			"tr": "Пăхакан"
+		},
+		{
+			"or": "Spectators",
+			"tr": "Пăхакансем"
+		},
+		{
+			"or": "Standard gametype",
+			"tr": "Стандартлă вăйă тĕсĕ"
+		},
+		{
+			"or": "Standard map",
+			"tr": "Стандартлă карта"
+		},
+		{
+			"or": "Stop record",
+			"tr": "Чарма"
+		},
+		{
+			"or": "Strict gametype filter",
+			"tr": "Хытă вăйă тĕс фильтрĕ"
+		},
+		{
+			"or": "Sudden Death",
+			"tr": "Хăвăрт вилӳ"
+		},
+		{
+			"or": "Switch weapon on pickup",
+			"tr": "Хĕç-пăшал илнĕ чух улăштарма"
+		},
+		{
+			"or": "Team",
+			"tr": "Ушкăн"
+		},
+		{
+			"or": "Team chat",
+			"tr": "Ушкăнри калаçу"
+		},
+		{
+			"or": "Texture Compression",
+			"tr": "Текстур хĕсӳ"
+		},
+		{
+			"or": "The audio device couldn't be initialised.",
+			"tr": "Аудио ярма пултараймасть"
+		},
+		{
+			"or": "The server is running a non-standard tuning on a pure game type.",
+			"tr": "Серверта стардартлă мар опцисемпе таса вăйă тĕсĕрĕ"
+		},
+		{
+			"or": "There's an unsaved map in the editor, you might want to save it before you quit the game.",
+			"tr": "Редакторта упраман карта пур. Туху умĕн ăна упрама пултарать"
+		},
+		{
+			"or": "Time limit",
+			"tr": "Вăхăт лимичĕ"
+		},
+		{
+			"or": "Time limit: %d min",
+			"tr": "Вăхăт лимичĕ: %d мин"
+		},
+		{
+			"or": "Try again",
+			"tr": "Тепĕр хут"
+		},
+		{
+			"or": "Type",
+			"tr": "Тĕс"
+		},
+		{
+			"or": "Unable to delete the demo",
+			"tr": "Демо тĕплеме пултараймасть"
+		},
+		{
+			"or": "Unable to rename the demo",
+			"tr": "Демо ячĕ улăштарма пулмасть"
+		},
+		{
+			"or": "Use sounds",
+			"tr": "Сасă уса курма"
+		},
+		{
+			"or": "Use team colors for name plates",
+			"tr": "Ушкăн тĕсĕсем ятсем валли"
+		},
+		{
+			"or": "V-Sync",
+			"tr": "Вертикаллĕ синхронизаци"
+		},
+		{
+			"or": "Version",
+			"tr": "Версие"
+		},
+		{
+			"or": "Vote command:",
+			"tr": "Суйлав хушу:"
+		},
+		{
+			"or": "Vote description:",
+			"tr": "Суйлав пирки:"
+		},
+		{
+			"or": "Vote failed",
+			"tr": "Суйлу ватнă"
+		},
+		{
+			"or": "Vote no",
+			"tr": "Хирĕç"
+		},
+		{
+			"or": "Vote yes",
+			"tr": "Çинчен"
+		},
+		{
+			"or": "Voting",
+			"tr": "Суйлав"
+		},
+		{
+			"or": "Warmup",
+			"tr": "Карăну"
+		},
+		{
+			"or": "Weapon",
+			"tr": "Хĕç-пăшал"
+		},
+		{
+			"or": "Welcome to Teeworlds",
+			"tr": "Ырă сунса кĕтетпĕр Teeworlds-ра!"
+		},
+		{
+			"or": "Yes",
+			"tr": "Çапла"
+		},
+		{
+			"or": "You must restart the game for all settings to take effect.",
+			"tr": "Режим улăштарма валли вăйă сӳнтер тата каллер яр"
+		}
+	]
 }

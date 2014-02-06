@@ -1,1362 +1,1347 @@
-{"authors": {
-	"originally created by": "ziltoide",
-	"modified by": [
-		"ziltoide		2011-04-06 23:56:54",
-		"ziltoide		2011-07-05 18:31:04"
-	]},
-"translated strings": [
-	{
-		"or": "%d%% loaded",
-		"tr": "%d%% ladattu"
-	},
-	{
-		"or": "%ds left",
-		"tr": "%ds jäljellä"
-	},
-	{
-		"or": "%i minute left",
-		"tr": "%i minuutti jäljellä"
-	},
-	{
-		"or": "%i minutes left",
-		"tr": "%i minuuttia jäljellä"
-	},
-	{
-		"or": "%i second left",
-		"tr": "%i sekunti jäljellä"
-	},
-	{
-		"or": "%i seconds left",
-		"tr": "%i sekuntia jäljellä"
-	},
-	{
-		"or": "%s wins!",
-		"tr": "%s voitti!"
-	},
-	{
-		"or": "-Page %d-",
-		"tr": "-Sivu %d-"
-	},
-	{
-		"or": "Abort",
-		"tr": "Keskeytä"
-	},
-	{
-		"or": "Add",
-		"tr": "Lisää"
-	},
-	{
-		"or": "Add Friend",
-		"tr": "Lisää ystävä"
-	},
-	{
-		"or": "Address",
-		"tr": "Osoite"
-	},
-	{
-		"or": "All",
-		"tr": "Kaikki"
-	},
-	{
-		"or": "Always show name plates",
-		"tr": "Näytä nimikyltit aina"
-	},
-	{
-		"or": "Are you sure that you want to delete the demo?",
-		"tr": "Oletko varma, että haluat poistaa demon?"
-	},
-	{
-		"or": "Are you sure that you want to quit?",
-		"tr": "Oletko varma, että haluat lopettaa?"
-	},
-	{
-		"or": "Are you sure that you want to remove the player from your friends list?",
-		"tr": "Oletko varma, että haluat poistaa pelaajan ystävälistaltasi?"
-	},
-	{
-		"or": "As this is the first time you launch the game, please enter your nick name below. It's recommended that you check the settings to adjust them to your liking before joining a server.",
-		"tr": "Tämä on ensimmäinen kerta kun käynnistät pelin, ole hyvä ja kirjoita nimimerkkisi alle. On suositeltua, että tarkistat asetukset ja muutat niitä mielesi mukaan ennen kuin liityt palvelimille."
-	},
-	{
-		"or": "Automatically record demos",
-		"tr": "Nauhoita demot automaattisesti"
-	},
-	{
-		"or": "Automatically take game over screenshot",
-		"tr": "Ota pelin jälkeinen kuvankaappaus autom."
-	},
-	{
-		"or": "Blue team",
-		"tr": "Sininen joukkue"
-	},
-	{
-		"or": "Blue team wins!",
-		"tr": "Sininen joukkue voitti!"
-	},
-	{
-		"or": "Body",
-		"tr": "Vartalo"
-	},
-	{
-		"or": "Call vote",
-		"tr": "Aloita äänestys"
-	},
-	{
-		"or": "Change settings",
-		"tr": "Muuta asetuksia"
-	},
-	{
-		"or": "Chat",
-		"tr": "Chatti"
-	},
-	{
-		"or": "Clan",
-		"tr": "Klaani"
-	},
-	{
-		"or": "Client",
-		"tr": "Asiakasohjelma"
-	},
-	{
-		"or": "Close",
-		"tr": "Sulje"
-	},
-	{
-		"or": "Compatible version",
-		"tr": "Yhteensopiva versio"
-	},
-	{
-		"or": "Connect",
-		"tr": "Yhdistä"
-	},
-	{
-		"or": "Connecting to",
-		"tr": "Yhdistetään"
-	},
-	{
-		"or": "Connection Problems...",
-		"tr": "Yhteysongelmia..."
-	},
-	{
-		"or": "Console",
-		"tr": "Konsoli"
-	},
-	{
-		"or": "Controls",
-		"tr": "Kontrollit"
-	},
-	{
-		"or": "Count players only",
-		"tr": "Laske vain pelaajat"
-	},
-	{
-		"or": "Country",
-		"tr": "Maa"
-	},
-	{
-		"or": "Current",
-		"tr": "Nykyinen"
-	},
-	{
-		"or": "Custom colors",
-		"tr": "Omat värit"
-	},
-	{
-		"or": "Delete",
-		"tr": "Poista"
-	},
-	{
-		"or": "Delete demo",
-		"tr": "Poista demo"
-	},
-	{
-		"or": "Demo details",
-		"tr": "Demon tiedot"
-	},
-	{
-		"or": "Demofile: %s",
-		"tr": "Demotiedosto: %s"
-	},
-	{
-		"or": "Demos",
-		"tr": "Demot"
-	},
-	{
-		"or": "Disconnect",
-		"tr": "Katk. yhteys"
-	},
-	{
-		"or": "Disconnected",
-		"tr": "Yhteys katkaistu"
-	},
-	{
-		"or": "Downloading map",
-		"tr": "Ladataan kenttää"
-	},
-	{
-		"or": "Draw!",
-		"tr": "Tasapeli!"
-	},
-	{
-		"or": "Dynamic Camera",
-		"tr": "Dynaaminen kamera"
-	},
-	{
-		"or": "Emoticon",
-		"tr": "Hymiö"
-	},
-	{
-		"or": "Enter",
-		"tr": "Jatka"
-	},
-	{
-		"or": "Error",
-		"tr": "Virhe"
-	},
-	{
-		"or": "Error loading demo",
-		"tr": "Virhe ladattaessa demoa"
-	},
-	{
-		"or": "Favorite",
-		"tr": "Suosikki"
-	},
-	{
-		"or": "Favorites",
-		"tr": "Suosikit"
-	},
-	{
-		"or": "Feet",
-		"tr": "Jalat"
-	},
-	{
-		"or": "Fire",
-		"tr": "Ammu"
-	},
-	{
-		"or": "Folder",
-		"tr": "Kansio"
-	},
-	{
-		"or": "Force vote",
-		"tr": "Päätä äänestys"
-	},
-	{
-		"or": "Free-View",
-		"tr": "Vapaa näkymä"
-	},
-	{
-		"or": "Friends",
-		"tr": "Ystävät"
-	},
-	{
-		"or": "Fullscreen",
-		"tr": "Koko näyttö"
-	},
-	{
-		"or": "Game",
-		"tr": "Peli"
-	},
-	{
-		"or": "Game info",
-		"tr": "Pelin tiedot"
-	},
-	{
-		"or": "Game over",
-		"tr": "Peli loppui"
-	},
-	{
-		"or": "Game type",
-		"tr": "Pelityyppi"
-	},
-	{
-		"or": "Game types:",
-		"tr": "Pelityypit:"
-	},
-	{
-		"or": "General",
-		"tr": "Yleinen"
-	},
-	{
-		"or": "Graphics",
-		"tr": "Grafiikat"
-	},
-	{
-		"or": "Grenade",
-		"tr": "Kranaatti"
-	},
-	{
-		"or": "Hammer",
-		"tr": "Nuija"
-	},
-	{
-		"or": "Has people playing",
-		"tr": "Ihmisiä pelaamassa"
-	},
-	{
-		"or": "High Detail",
-		"tr": "Korkea yksityiskohtataso"
-	},
-	{
-		"or": "Hook",
-		"tr": "Koukku"
-	},
-	{
-		"or": "Invalid Demo",
-		"tr": "Epäkelpo demo"
-	},
-	{
-		"or": "Join blue",
-		"tr": "Liity sinisiin"
-	},
-	{
-		"or": "Join red",
-		"tr": "Liity punaisiin"
-	},
-	{
-		"or": "Jump",
-		"tr": "Hyppää"
-	},
-	{
-		"or": "Kick player",
-		"tr": "Potkaise pelaaja"
-	},
-	{
-		"or": "Language",
-		"tr": "Kieli"
-	},
-	{
-		"or": "Loading",
-		"tr": "Ladataan"
-	},
-	{
-		"or": "MOTD",
-		"tr": "Palvelimen viesti"
-	},
-	{
-		"or": "Map",
-		"tr": "Kenttä"
-	},
-	{
-		"or": "Maximum ping:",
-		"tr": "Maksimiping:"
-	},
-	{
-		"or": "Mouse sens.",
-		"tr": "Hiiren herkkyys"
-	},
-	{
-		"or": "Move left",
-		"tr": "Liiku vasemmalle"
-	},
-	{
-		"or": "Move player to spectators",
-		"tr": "Siirrä pelaaja katsojaksi"
-	},
-	{
-		"or": "Move right",
-		"tr": "Liiku oikealle"
-	},
-	{
-		"or": "Movement",
-		"tr": "Liike"
-	},
-	{
-		"or": "Mute when not active",
-		"tr": "Mykistä, kun ei aktiivinen"
-	},
-	{
-		"or": "Name",
-		"tr": "Nimi"
-	},
-	{
-		"or": "Next weapon",
-		"tr": "Seuraava ase"
-	},
-	{
-		"or": "Nickname",
-		"tr": "Nimimerkki"
-	},
-	{
-		"or": "No",
-		"tr": "Ei"
-	},
-	{
-		"or": "No password",
-		"tr": "Ei salasanaa"
-	},
-	{
-		"or": "No servers found",
-		"tr": "Palvelimia ei löytynyt"
-	},
-	{
-		"or": "No servers match your filter criteria",
-		"tr": "Yksikään palvelin ei täyttänyt suodinkriteerejäsi"
-	},
-	{
-		"or": "Ok",
-		"tr": "Ok"
-	},
-	{
-		"or": "Open",
-		"tr": "Avaa"
-	},
-	{
-		"or": "Parent Folder",
-		"tr": "Yläkansio"
-	},
-	{
-		"or": "Password",
-		"tr": "Salasana"
-	},
-	{
-		"or": "Password incorrect",
-		"tr": "Väärä salasana"
-	},
-	{
-		"or": "Ping",
-		"tr": "Ping"
-	},
-	{
-		"or": "Pistol",
-		"tr": "Pistooli"
-	},
-	{
-		"or": "Play",
-		"tr": "Toista"
-	},
-	{
-		"or": "Play background music",
-		"tr": "Soita taustamusiikki"
-	},
-	{
-		"or": "Player",
-		"tr": "Pelaaja"
-	},
-	{
-		"or": "Player country:",
-		"tr": "Pelaajan maa:"
-	},
-	{
-		"or": "Player options",
-		"tr": "Pelaajavalinnat"
-	},
-	{
-		"or": "Players",
-		"tr": "Pelaajat"
-	},
-	{
-		"or": "Please balance teams!",
-		"tr": "Ole hyvä ja tasoita joukkueita!"
-	},
-	{
-		"or": "Prev. weapon",
-		"tr": "Edellinen ase"
-	},
-	{
-		"or": "Quality Textures",
-		"tr": "Hyvälaatuiset tekstuurit"
-	},
-	{
-		"or": "Quit",
-		"tr": "Lopeta"
-	},
-	{
-		"or": "REC %3d:%02d",
-		"tr": "REC %3d:%02d"
-	},
-	{
-		"or": "Reason:",
-		"tr": "Syy:"
-	},
-	{
-		"or": "Red team",
-		"tr": "Punainen joukkue"
-	},
-	{
-		"or": "Red team wins!",
-		"tr": "Punainen joukkue voitti!"
-	},
-	{
-		"or": "Refresh",
-		"tr": "Päivitä"
-	},
-	{
-		"or": "Refreshing master servers",
-		"tr": "Päivitetään isäntäpalvelimia"
-	},
-	{
-		"or": "Remote console",
-		"tr": "Etäkonsoli"
-	},
-	{
-		"or": "Remove",
-		"tr": "Poista"
-	},
-	{
-		"or": "Remove friend",
-		"tr": "Poista ystävä"
-	},
-	{
-		"or": "Rename",
-		"tr": "Nimeä"
-	},
-	{
-		"or": "Rename demo",
-		"tr": "Uudelleennimeä demo"
-	},
-	{
-		"or": "Reset filter",
-		"tr": "Nollaa suotimet"
-	},
-	{
-		"or": "Sample rate",
-		"tr": "Näytteenottotaajuus"
-	},
-	{
-		"or": "Score",
-		"tr": "Pisteet"
-	},
-	{
-		"or": "Score board",
-		"tr": "Tulostaulu"
-	},
-	{
-		"or": "Score limit",
-		"tr": "Pisteraja"
-	},
-	{
-		"or": "Scoreboard",
-		"tr": "Tuloslista"
-	},
-	{
-		"or": "Screenshot",
-		"tr": "Kuvankaappaus"
-	},
-	{
-		"or": "Server address:",
-		"tr": "Palvelimen osoite:"
-	},
-	{
-		"or": "Server details",
-		"tr": "Palvelimen yksityiskohdat"
-	},
-	{
-		"or": "Server filter",
-		"tr": "Palvelinsuotimet"
-	},
-	{
-		"or": "Server info",
-		"tr": "Palvelintiedot"
-	},
-	{
-		"or": "Server not full",
-		"tr": "Palvelin ei täysi"
-	},
-	{
-		"or": "Settings",
-		"tr": "Asetukset"
-	},
-	{
-		"or": "Shotgun",
-		"tr": "Haulikko"
-	},
-	{
-		"or": "Show chat",
-		"tr": "Näytä chatti"
-	},
-	{
-		"or": "Show friends only",
-		"tr": "Näytä vain ystävät"
-	},
-	{
-		"or": "Show ingame HUD",
-		"tr": "Näytä peli-HUD"
-	},
-	{
-		"or": "Show name plates",
-		"tr": "Näytä nimikyltit"
-	},
-	{
-		"or": "Show only supported",
-		"tr": "Näytä vain tuetut"
-	},
-	{
-		"or": "Skins",
-		"tr": "Ulkonäkö"
-	},
-	{
-		"or": "Sound",
-		"tr": "Äänet"
-	},
-	{
-		"or": "Sound error",
-		"tr": "Äänivirhe"
-	},
-	{
-		"or": "Spectate",
-		"tr": "Katso"
-	},
-	{
-		"or": "Spectate next",
-		"tr": "Katso seuraavaa"
-	},
-	{
-		"or": "Spectate previous",
-		"tr": "Katso edellistä"
-	},
-	{
-		"or": "Spectator mode",
-		"tr": "Katsojatila"
-	},
-	{
-		"or": "Spectators",
-		"tr": "Katsojat"
-	},
-	{
-		"or": "Standard gametype",
-		"tr": "Standardipelityyppi"
-	},
-	{
-		"or": "Standard map",
-		"tr": "Standardikenttä"
-	},
-	{
-		"or": "Stop record",
-		"tr": "Lopeta nauhoit."
-	},
-	{
-		"or": "Strict gametype filter",
-		"tr": "Tarkka pelityyppisuodin"
-	},
-	{
-		"or": "Sudden Death",
-		"tr": "Äkkikuolema"
-	},
-	{
-		"or": "Switch weapon on pickup",
-		"tr": "Vaihda asetta nostaessasi uuden"
-	},
-	{
-		"or": "Team",
-		"tr": "Joukkue"
-	},
-	{
-		"or": "Team chat",
-		"tr": "Joukkuechatti"
-	},
-	{
-		"or": "Teeworlds %s is out! Download it at www.teeworlds.com!",
-		"tr": "Teeworlds %s on julkaistu! Lataa se osoitteesta www.teeworlds.com!"
-	},
-	{
-		"or": "Texture Compression",
-		"tr": "Tekstuuripakkaus"
-	},
-	{
-		"or": "The audio device couldn't be initialised.",
-		"tr": "Äänilaitteen alustaminen ei onnistunut."
-	},
-	{
-		"or": "The server is running a non-standard tuning on a pure game type.",
-		"tr": "Tämä palvelin ajaa ei-standardeja virityksiä standardipelityypillä."
-	},
-	{
-		"or": "There's an unsaved map in the editor, you might want to save it before you quit the game.",
-		"tr": "Editorissa on tallentamaton kenttä, saatat haluta tallentaa sen ennen kuin lopetat pelin."
-	},
-	{
-		"or": "Time limit",
-		"tr": "Aikaraja"
-	},
-	{
-		"or": "Time limit: %d min",
-		"tr": "Aikaraja: %d min"
-	},
-	{
-		"or": "Try again",
-		"tr": "Yritä uudelleen"
-	},
-	{
-		"or": "Type",
-		"tr": "Tyyppi"
-	},
-	{
-		"or": "Unable to delete the demo",
-		"tr": "Demon poistaminen ei onnistunut"
-	},
-	{
-		"or": "Unable to rename the demo",
-		"tr": "Demon nimeäminen ei onnistunut"
-	},
-	{
-		"or": "Use sounds",
-		"tr": "Käytä ääniefektejä"
-	},
-	{
-		"or": "Use team colors for name plates",
-		"tr": "Käytä joukkueiden värejä nimikylteissä"
-	},
-	{
-		"or": "V-Sync",
-		"tr": "V-Sync"
-	},
-	{
-		"or": "Version",
-		"tr": "Versio"
-	},
-	{
-		"or": "Vote command:",
-		"tr": "Äänestyskäsky:"
-	},
-	{
-		"or": "Vote description:",
-		"tr": "Äänestyksen kuvaus:"
-	},
-	{
-		"or": "Vote no",
-		"tr": "Äänestä ei"
-	},
-	{
-		"or": "Vote yes",
-		"tr": "Äänestä kyllä"
-	},
-	{
-		"or": "Voting",
-		"tr": "Äänestys"
-	},
-	{
-		"or": "Warmup",
-		"tr": "Lämmittely"
-	},
-	{
-		"or": "Weapon",
-		"tr": "Ase"
-	},
-	{
-		"or": "Welcome to Teeworlds",
-		"tr": "Tervetuloa Teeworldsiin"
-	},
-	{
-		"or": "Yes",
-		"tr": "Kyllä"
-	},
-	{
-		"or": "You must restart the game for all settings to take effect.",
-		"tr": "Sinun täytyy uudelleenkäynnistää peli, jotta kaikki asetukset tulisivat voimaan."
-	}],
-"needs translation": [
-	{
-		"or": "%.3f KiB",
-		"tr": ""
-	},
-	{
-		"or": "%d player left",
-		"tr": ""
-	},
-	{
-		"or": "%d player not ready",
-		"tr": ""
-	},
-	{
-		"or": "%d players left",
-		"tr": ""
-	},
-	{
-		"or": "%d players not ready",
-		"tr": ""
-	},
-	{
-		"or": "%d servers, %d players",
-		"tr": ""
-	},
-	{
-		"or": "'%s' called for vote to kick '%s' (%s)",
-		"tr": ""
-	},
-	{
-		"or": "'%s' called for vote to move '%s' to spectators (%s)",
-		"tr": ""
-	},
-	{
-		"or": "'%s' called vote to change server option '%s' (%s)",
-		"tr": ""
-	},
-	{
-		"or": "'%s' entered and joined the %s",
-		"tr": ""
-	},
-	{
-		"or": "'%s' has left the game",
-		"tr": ""
-	},
-	{
-		"or": "'%s' has left the game (%s)",
-		"tr": ""
-	},
-	{
-		"or": "'%s' joined the %s",
-		"tr": ""
-	},
-	{
-		"or": "Admin forced server option '%s' (%s)",
-		"tr": ""
-	},
-	{
-		"or": "Admin forced vote no",
-		"tr": ""
-	},
-	{
-		"or": "Admin forced vote yes",
-		"tr": ""
-	},
-	{
-		"or": "Admin moved '%s' to spectator (%s)",
-		"tr": ""
-	},
-	{
-		"or": "Alp:",
-		"tr": ""
-	},
-	{
-		"or": "Anti Aliasing",
-		"tr": ""
-	},
-	{
-		"or": "Are you sure you want to rename the demo?",
-		"tr": ""
-	},
-	{
-		"or": "Are you sure you want to save your skin? If a skin with this name already exists, it will be replaced.",
-		"tr": ""
-	},
-	{
-		"or": "Back",
-		"tr": ""
-	},
-	{
-		"or": "Basic",
-		"tr": ""
-	},
-	{
-		"or": "Bodies",
-		"tr": ""
-	},
-	{
-		"or": "Borderless window",
-		"tr": ""
-	},
-	{
-		"or": "Browser",
-		"tr": ""
-	},
-	{
-		"or": "Color",
-		"tr": ""
-	},
-	{
-		"or": "Crc",
-		"tr": ""
-	},
-	{
-		"or": "Created",
-		"tr": ""
-	},
-	{
-		"or": "Custom",
-		"tr": ""
-	},
-	{
-		"or": "Customize",
-		"tr": ""
-	},
-	{
-		"or": "Decoration",
-		"tr": ""
-	},
-	{
-		"or": "Demo",
-		"tr": ""
-	},
-	{
-		"or": "Detail",
-		"tr": ""
-	},
-	{
-		"or": "Editor",
-		"tr": ""
-	},
-	{
-		"or": "Eyes",
-		"tr": ""
-	},
-	{
-		"or": "Format",
-		"tr": ""
-	},
-	{
-		"or": "Game paused",
-		"tr": ""
-	},
-	{
-		"or": "Game starts in",
-		"tr": ""
-	},
-	{
-		"or": "Global",
-		"tr": ""
-	},
-	{
-		"or": "Hands",
-		"tr": ""
-	},
-	{
-		"or": "Host address:",
-		"tr": ""
-	},
-	{
-		"or": "Hue:",
-		"tr": ""
-	},
-	{
-		"or": "Join",
-		"tr": ""
-	},
-	{
-		"or": "Joined",
-		"tr": ""
-	},
-	{
-		"or": "Joined blue",
-		"tr": ""
-	},
-	{
-		"or": "Joined red",
-		"tr": ""
-	},
-	{
-		"or": "Kick voting requires %d players on the server",
-		"tr": ""
-	},
-	{
-		"or": "Laser",
-		"tr": ""
-	},
-	{
-		"or": "Length",
-		"tr": ""
-	},
-	{
-		"or": "Letterbox",
-		"tr": ""
-	},
-	{
-		"or": "Lgt:",
-		"tr": ""
-	},
-	{
-		"or": "Local",
-		"tr": ""
-	},
-	{
-		"or": "Local server",
-		"tr": ""
-	},
-	{
-		"or": "Match",
-		"tr": ""
-	},
-	{
-		"or": "Max",
-		"tr": ""
-	},
-	{
-		"or": "Misc",
-		"tr": ""
-	},
-	{
-		"or": "Netversion",
-		"tr": ""
-	},
-	{
-		"or": "Nickname is empty.",
-		"tr": ""
-	},
-	{
-		"or": "Normal:",
-		"tr": ""
-	},
-	{
-		"or": "Only %d active players are allowed",
-		"tr": ""
-	},
-	{
-		"or": "Personal",
-		"tr": ""
-	},
-	{
-		"or": "Ready",
-		"tr": ""
-	},
-	{
-		"or": "Record",
-		"tr": ""
-	},
-	{
-		"or": "Recorded",
-		"tr": ""
-	},
-	{
-		"or": "Reset",
-		"tr": ""
-	},
-	{
-		"or": "Resolutions",
-		"tr": ""
-	},
-	{
-		"or": "Respawn",
-		"tr": ""
-	},
-	{
-		"or": "Round over",
-		"tr": ""
-	},
-	{
-		"or": "Round over!",
-		"tr": ""
-	},
-	{
-		"or": "Sat:",
-		"tr": ""
-	},
-	{
-		"or": "Save",
-		"tr": ""
-	},
-	{
-		"or": "Save skin",
-		"tr": ""
-	},
-	{
-		"or": "Screen",
-		"tr": ""
-	},
-	{
-		"or": "Search:",
-		"tr": ""
-	},
-	{
-		"or": "Server does not allow voting to kick players",
-		"tr": ""
-	},
-	{
-		"or": "Server does not allow voting to move players to spectators",
-		"tr": ""
-	},
-	{
-		"or": "Servers",
-		"tr": ""
-	},
-	{
-		"or": "Show only chat messages from friends",
-		"tr": ""
-	},
-	{
-		"or": "Size",
-		"tr": ""
-	},
-	{
-		"or": "Skin",
-		"tr": ""
-	},
-	{
-		"or": "Spectating",
-		"tr": ""
-	},
-	{
-		"or": "Spectators aren't allowed to start a vote.",
-		"tr": ""
-	},
-	{
-		"or": "Standard Gametype",
-		"tr": ""
-	},
-	{
-		"or": "Tattoo",
-		"tr": ""
-	},
-	{
-		"or": "Tattoos",
-		"tr": ""
-	},
-	{
-		"or": "Team:",
-		"tr": ""
-	},
-	{
-		"or": "Teams are locked",
-		"tr": ""
-	},
-	{
-		"or": "Teams are locked. Time to wait before changing team: %02d:%02d",
-		"tr": ""
-	},
-	{
-		"or": "Teams were locked",
-		"tr": ""
-	},
-	{
-		"or": "Teams were unlocked",
-		"tr": ""
-	},
-	{
-		"or": "Tee",
-		"tr": ""
-	},
-	{
-		"or": "Texture",
-		"tr": ""
-	},
-	{
-		"or": "Volume",
-		"tr": ""
-	},
-	{
-		"or": "Vote aborted",
-		"tr": ""
-	},
-	{
-		"or": "Vote failed",
-		"tr": ""
-	},
-	{
-		"or": "Vote passed",
-		"tr": ""
-	},
-	{
-		"or": "Wait for current vote to end before calling a new one.",
-		"tr": ""
-	},
-	{
-		"or": "Wait for next round",
-		"tr": ""
-	},
-	{
-		"or": "Wide",
-		"tr": ""
-	},
-	{
-		"or": "You must wait %d seconds before making another vote",
-		"tr": ""
-	},
-	{
-		"or": "blue",
-		"tr": ""
-	},
-	{
-		"or": "blue team",
-		"tr": ""
-	},
-	{
-		"or": "game",
-		"tr": ""
-	},
-	{
-		"or": "locked",
-		"tr": ""
-	},
-	{
-		"or": "no players",
-		"tr": ""
-	},
-	{
-		"or": "red",
-		"tr": ""
-	},
-	{
-		"or": "red team",
-		"tr": ""
-	},
-	{
-		"or": "spectators",
-		"tr": ""
-	},
-	{
-		"or": "wait for more players",
-		"tr": ""
-	}],
-"old translations": [
-	{
-		"or": "New name:",
-		"tr": "Uusi nimi:"
-	},
-	{
-		"or": "Sat.",
-		"tr": "Kyllästys"
-	},
-	{
-		"or": "Miscellaneous",
-		"tr": "Sekalaista"
-	},
-	{
-		"or": "Internet",
-		"tr": "Internet"
-	},
-	{
-		"or": "Max demos",
-		"tr": "Demomaksimi"
-	},
-	{
-		"or": "News",
-		"tr": "Uutiset"
-	},
-	{
-		"or": "Join game",
-		"tr": "Liity peliin"
-	},
-	{
-		"or": "FSAA samples",
-		"tr": "FSAA näytteet"
-	},
-	{
-		"or": "%d of %d servers, %d players",
-		"tr": "%d/%d palvelinta, %d pelaajaa"
-	},
-	{
-		"or": "Sound volume",
-		"tr": "Äänenvoimakkuus"
-	},
-	{
-		"or": "Created:",
-		"tr": "Luotu:"
-	},
-	{
-		"or": "Max Screenshots",
-		"tr": "Kuvankaappausmaksimi"
-	},
-	{
-		"or": "Length:",
-		"tr": "Pituus:"
-	},
-	{
-		"or": "Skin name",
-		"tr": ""
-	},
-	{
-		"or": "Rifle",
-		"tr": "Kivääri"
-	},
-	{
-		"or": "Patterns",
-		"tr": ""
-	},
-	{
-		"or": "Netversion:",
-		"tr": "Yhteysversio:"
-	},
-	{
-		"or": "Map:",
-		"tr": "Kenttä:"
-	},
-	{
-		"or": "%d Bytes",
-		"tr": "%d tavua"
-	},
-	{
-		"or": "Coloration",
-		"tr": ""
-	},
-	{
-		"or": "Info",
-		"tr": "Info"
-	},
-	{
-		"or": "Hue",
-		"tr": "Värisävy"
-	},
-	{
-		"or": "Record demo",
-		"tr": "Nauhoita demo"
-	},
-	{
-		"or": "Your skin",
-		"tr": "Sinun ulkonäkösi"
-	},
-	{
-		"or": "Size:",
-		"tr": "Koko:"
-	},
-	{
-		"or": "Reset to defaults",
-		"tr": "Palaa oletusasetuksiin"
-	},
-	{
-		"or": "Quit anyway?",
-		"tr": "Lopeta siitä huolimatta?"
-	},
-	{
-		"or": "Display Modes",
-		"tr": "Näyttötilat"
-	},
-	{
-		"or": "Version:",
-		"tr": "Versio:"
-	},
-	{
-		"or": "Round",
-		"tr": "Kierros"
-	},
-	{
-		"or": "Lht.",
-		"tr": "Valoisuus"
-	},
-	{
-		"or": "no limit",
-		"tr": "ei rajaa"
-	},
-	{
-		"or": "Quick search:",
-		"tr": "Pikahaku:"
-	},
-	{
-		"or": "UI Color",
-		"tr": "Käyttöliittymäväri"
-	},
-	{
-		"or": "Host address",
-		"tr": "Palvelimen osoite"
-	},
-	{
-		"or": "Crc:",
-		"tr": "Crc:"
-	},
-	{
-		"or": "Alpha",
-		"tr": "Alfa"
-	},
-	{
-		"or": "Are you sure you want to save your skin ? If a skin with this name already exists, it will be replaced.",
-		"tr": ""
-	},
-	{
-		"or": "Current version: %s",
-		"tr": "Nykyinen versio: %s"
-	},
-	{
-		"or": "Filter",
-		"tr": "Suotimet"
-	},
-	{
-		"or": "LAN",
-		"tr": "LAN"
-	},
-	{
-		"or": "Name plates size",
-		"tr": "Nimikylttien koko"
-	},
-	{
-		"or": "Type:",
-		"tr": "Tyyppi:"
-	}]
+{
+	"authors": {
+		"modified by": [
+			"ziltoide 2011-04-06 23:56:54",
+			"ziltoide 2011-07-05 18:31:04"
+		],
+		"originally created by": "ziltoide"
+	},
+	"needs translation": [
+		{
+			"or": "%.3f KiB",
+			"tr": ""
+		},
+		{
+			"or": "%d player left",
+			"tr": ""
+		},
+		{
+			"or": "%d player not ready",
+			"tr": ""
+		},
+		{
+			"or": "%d players left",
+			"tr": ""
+		},
+		{
+			"or": "%d players not ready",
+			"tr": ""
+		},
+		{
+			"or": "%d servers, %d players",
+			"tr": ""
+		},
+		{
+			"or": "'%s' called for vote to kick '%s' (%s)",
+			"tr": ""
+		},
+		{
+			"or": "'%s' called for vote to move '%s' to spectators (%s)",
+			"tr": ""
+		},
+		{
+			"or": "'%s' called vote to change server option '%s' (%s)",
+			"tr": ""
+		},
+		{
+			"or": "'%s' entered and joined the %s",
+			"tr": ""
+		},
+		{
+			"or": "'%s' has left the game",
+			"tr": ""
+		},
+		{
+			"or": "'%s' has left the game (%s)",
+			"tr": ""
+		},
+		{
+			"or": "'%s' joined the %s",
+			"tr": ""
+		},
+		{
+			"or": "Admin forced server option '%s' (%s)",
+			"tr": ""
+		},
+		{
+			"or": "Admin forced vote no",
+			"tr": ""
+		},
+		{
+			"or": "Admin forced vote yes",
+			"tr": ""
+		},
+		{
+			"or": "Admin moved '%s' to spectator (%s)",
+			"tr": ""
+		},
+		{
+			"or": "Alp:",
+			"tr": ""
+		},
+		{
+			"or": "Anti Aliasing",
+			"tr": ""
+		},
+		{
+			"or": "Are you sure that you want to delete the skin?",
+			"tr": ""
+		},
+		{
+			"or": "Are you sure you want to rename the demo?",
+			"tr": ""
+		},
+		{
+			"or": "Are you sure you want to save your skin? If a skin with this name already exists, it will be replaced.",
+			"tr": ""
+		},
+		{
+			"or": "Back",
+			"tr": ""
+		},
+		{
+			"or": "Basic",
+			"tr": ""
+		},
+		{
+			"or": "Borderless window",
+			"tr": ""
+		},
+		{
+			"or": "Browser",
+			"tr": ""
+		},
+		{
+			"or": "Color",
+			"tr": ""
+		},
+		{
+			"or": "Crc",
+			"tr": ""
+		},
+		{
+			"or": "Created",
+			"tr": ""
+		},
+		{
+			"or": "Custom",
+			"tr": ""
+		},
+		{
+			"or": "Customize",
+			"tr": ""
+		},
+		{
+			"or": "Delete skin",
+			"tr": ""
+		},
+		{
+			"or": "Demo",
+			"tr": ""
+		},
+		{
+			"or": "Detail",
+			"tr": ""
+		},
+		{
+			"or": "Editor",
+			"tr": ""
+		},
+		{
+			"or": "Format",
+			"tr": ""
+		},
+		{
+			"or": "Game paused",
+			"tr": ""
+		},
+		{
+			"or": "Game starts in",
+			"tr": ""
+		},
+		{
+			"or": "Global",
+			"tr": ""
+		},
+		{
+			"or": "Host address:",
+			"tr": ""
+		},
+		{
+			"or": "Hue:",
+			"tr": ""
+		},
+		{
+			"or": "Join",
+			"tr": ""
+		},
+		{
+			"or": "Joined",
+			"tr": ""
+		},
+		{
+			"or": "Joined blue",
+			"tr": ""
+		},
+		{
+			"or": "Joined red",
+			"tr": ""
+		},
+		{
+			"or": "Kick voting requires %d players on the server",
+			"tr": ""
+		},
+		{
+			"or": "Laser",
+			"tr": ""
+		},
+		{
+			"or": "Length",
+			"tr": ""
+		},
+		{
+			"or": "Letterbox",
+			"tr": ""
+		},
+		{
+			"or": "Lgt:",
+			"tr": ""
+		},
+		{
+			"or": "Local",
+			"tr": ""
+		},
+		{
+			"or": "Local server",
+			"tr": ""
+		},
+		{
+			"or": "Match",
+			"tr": ""
+		},
+		{
+			"or": "Max",
+			"tr": ""
+		},
+		{
+			"or": "Misc",
+			"tr": ""
+		},
+		{
+			"or": "Netversion",
+			"tr": ""
+		},
+		{
+			"or": "Nickname is empty.",
+			"tr": ""
+		},
+		{
+			"or": "Normal:",
+			"tr": ""
+		},
+		{
+			"or": "Only %d active players are allowed",
+			"tr": ""
+		},
+		{
+			"or": "Personal",
+			"tr": ""
+		},
+		{
+			"or": "Ready",
+			"tr": ""
+		},
+		{
+			"or": "Record",
+			"tr": ""
+		},
+		{
+			"or": "Recorded",
+			"tr": ""
+		},
+		{
+			"or": "Reset",
+			"tr": ""
+		},
+		{
+			"or": "Resolutions",
+			"tr": ""
+		},
+		{
+			"or": "Respawn",
+			"tr": ""
+		},
+		{
+			"or": "Round over",
+			"tr": ""
+		},
+		{
+			"or": "Round over!",
+			"tr": ""
+		},
+		{
+			"or": "Sat:",
+			"tr": ""
+		},
+		{
+			"or": "Save",
+			"tr": ""
+		},
+		{
+			"or": "Save skin",
+			"tr": ""
+		},
+		{
+			"or": "Screen",
+			"tr": ""
+		},
+		{
+			"or": "Search:",
+			"tr": ""
+		},
+		{
+			"or": "Server does not allow voting to kick players",
+			"tr": ""
+		},
+		{
+			"or": "Server does not allow voting to move players to spectators",
+			"tr": ""
+		},
+		{
+			"or": "Servers",
+			"tr": ""
+		},
+		{
+			"or": "Show only chat messages from friends",
+			"tr": ""
+		},
+		{
+			"or": "Size",
+			"tr": ""
+		},
+		{
+			"or": "Skin",
+			"tr": ""
+		},
+		{
+			"or": "Spectating",
+			"tr": ""
+		},
+		{
+			"or": "Spectators aren't allowed to start a vote.",
+			"tr": ""
+		},
+		{
+			"or": "Standard Gametype",
+			"tr": ""
+		},
+		{
+			"or": "Team:",
+			"tr": ""
+		},
+		{
+			"or": "Teams are locked",
+			"tr": ""
+		},
+		{
+			"or": "Teams are locked. Time to wait before changing team: %02d:%02d",
+			"tr": ""
+		},
+		{
+			"or": "Teams were locked",
+			"tr": ""
+		},
+		{
+			"or": "Teams were unlocked",
+			"tr": ""
+		},
+		{
+			"or": "Tee",
+			"tr": ""
+		},
+		{
+			"or": "Texture",
+			"tr": ""
+		},
+		{
+			"or": "The %s flag was captured by '%s'",
+			"tr": ""
+		},
+		{
+			"or": "The %s flag was captured by '%s' (%.2f seconds)",
+			"tr": ""
+		},
+		{
+			"or": "Unable to delete the skin",
+			"tr": ""
+		},
+		{
+			"or": "Volume",
+			"tr": ""
+		},
+		{
+			"or": "Vote aborted",
+			"tr": ""
+		},
+		{
+			"or": "Vote failed",
+			"tr": ""
+		},
+		{
+			"or": "Vote passed",
+			"tr": ""
+		},
+		{
+			"or": "Wait for current vote to end before calling a new one.",
+			"tr": ""
+		},
+		{
+			"or": "Wait for next round",
+			"tr": ""
+		},
+		{
+			"or": "Wide",
+			"tr": ""
+		},
+		{
+			"or": "You must wait %d seconds before making another vote",
+			"tr": ""
+		},
+		{
+			"or": "blue",
+			"tr": ""
+		},
+		{
+			"or": "blue team",
+			"tr": ""
+		},
+		{
+			"or": "game",
+			"tr": ""
+		},
+		{
+			"or": "locked",
+			"tr": ""
+		},
+		{
+			"or": "no players",
+			"tr": ""
+		},
+		{
+			"or": "red",
+			"tr": ""
+		},
+		{
+			"or": "red team",
+			"tr": ""
+		},
+		{
+			"or": "spectators",
+			"tr": ""
+		},
+		{
+			"or": "wait for more players",
+			"tr": ""
+		}
+	],
+	"old translations": [
+		{
+			"or": "%d Bytes",
+			"tr": "%d tavua"
+		},
+		{
+			"or": "%d of %d servers, %d players",
+			"tr": "%d/%d palvelinta, %d pelaajaa"
+		},
+		{
+			"or": "Alpha",
+			"tr": "Alfa"
+		},
+		{
+			"or": "Body",
+			"tr": "Vartalo"
+		},
+		{
+			"or": "Crc:",
+			"tr": "Crc:"
+		},
+		{
+			"or": "Created:",
+			"tr": "Luotu:"
+		},
+		{
+			"or": "Current version: %s",
+			"tr": "Nykyinen versio: %s"
+		},
+		{
+			"or": "Display Modes",
+			"tr": "Näyttötilat"
+		},
+		{
+			"or": "FSAA samples",
+			"tr": "FSAA näytteet"
+		},
+		{
+			"or": "Feet",
+			"tr": "Jalat"
+		},
+		{
+			"or": "Filter",
+			"tr": "Suotimet"
+		},
+		{
+			"or": "Host address",
+			"tr": "Palvelimen osoite"
+		},
+		{
+			"or": "Hue",
+			"tr": "Värisävy"
+		},
+		{
+			"or": "Info",
+			"tr": "Info"
+		},
+		{
+			"or": "Internet",
+			"tr": "Internet"
+		},
+		{
+			"or": "Join game",
+			"tr": "Liity peliin"
+		},
+		{
+			"or": "LAN",
+			"tr": "LAN"
+		},
+		{
+			"or": "Length:",
+			"tr": "Pituus:"
+		},
+		{
+			"or": "Lht.",
+			"tr": "Valoisuus"
+		},
+		{
+			"or": "Map:",
+			"tr": "Kenttä:"
+		},
+		{
+			"or": "Max Screenshots",
+			"tr": "Kuvankaappausmaksimi"
+		},
+		{
+			"or": "Max demos",
+			"tr": "Demomaksimi"
+		},
+		{
+			"or": "Miscellaneous",
+			"tr": "Sekalaista"
+		},
+		{
+			"or": "Name plates size",
+			"tr": "Nimikylttien koko"
+		},
+		{
+			"or": "Netversion:",
+			"tr": "Yhteysversio:"
+		},
+		{
+			"or": "New name:",
+			"tr": "Uusi nimi:"
+		},
+		{
+			"or": "News",
+			"tr": "Uutiset"
+		},
+		{
+			"or": "Quick search:",
+			"tr": "Pikahaku:"
+		},
+		{
+			"or": "Quit anyway?",
+			"tr": "Lopeta siitä huolimatta?"
+		},
+		{
+			"or": "Record demo",
+			"tr": "Nauhoita demo"
+		},
+		{
+			"or": "Reset to defaults",
+			"tr": "Palaa oletusasetuksiin"
+		},
+		{
+			"or": "Rifle",
+			"tr": "Kivääri"
+		},
+		{
+			"or": "Round",
+			"tr": "Kierros"
+		},
+		{
+			"or": "Sat.",
+			"tr": "Kyllästys"
+		},
+		{
+			"or": "Size:",
+			"tr": "Koko:"
+		},
+		{
+			"or": "Sound volume",
+			"tr": "Äänenvoimakkuus"
+		},
+		{
+			"or": "Type:",
+			"tr": "Tyyppi:"
+		},
+		{
+			"or": "UI Color",
+			"tr": "Käyttöliittymäväri"
+		},
+		{
+			"or": "Version:",
+			"tr": "Versio:"
+		},
+		{
+			"or": "Your skin",
+			"tr": "Sinun ulkonäkösi"
+		},
+		{
+			"or": "no limit",
+			"tr": "ei rajaa"
+		}
+	],
+	"translated strings": [
+		{
+			"or": "%d%% loaded",
+			"tr": "%d%% ladattu"
+		},
+		{
+			"or": "%ds left",
+			"tr": "%ds jäljellä"
+		},
+		{
+			"or": "%i minute left",
+			"tr": "%i minuutti jäljellä"
+		},
+		{
+			"or": "%i minutes left",
+			"tr": "%i minuuttia jäljellä"
+		},
+		{
+			"or": "%i second left",
+			"tr": "%i sekunti jäljellä"
+		},
+		{
+			"or": "%i seconds left",
+			"tr": "%i sekuntia jäljellä"
+		},
+		{
+			"or": "%s wins!",
+			"tr": "%s voitti!"
+		},
+		{
+			"or": "-Page %d-",
+			"tr": "-Sivu %d-"
+		},
+		{
+			"or": "Abort",
+			"tr": "Keskeytä"
+		},
+		{
+			"or": "Add",
+			"tr": "Lisää"
+		},
+		{
+			"or": "Add Friend",
+			"tr": "Lisää ystävä"
+		},
+		{
+			"or": "Address",
+			"tr": "Osoite"
+		},
+		{
+			"or": "All",
+			"tr": "Kaikki"
+		},
+		{
+			"or": "Always show name plates",
+			"tr": "Näytä nimikyltit aina"
+		},
+		{
+			"or": "Are you sure that you want to delete the demo?",
+			"tr": "Oletko varma, että haluat poistaa demon?"
+		},
+		{
+			"or": "Are you sure that you want to quit?",
+			"tr": "Oletko varma, että haluat lopettaa?"
+		},
+		{
+			"or": "Are you sure that you want to remove the player from your friends list?",
+			"tr": "Oletko varma, että haluat poistaa pelaajan ystävälistaltasi?"
+		},
+		{
+			"or": "As this is the first time you launch the game, please enter your nick name below. It's recommended that you check the settings to adjust them to your liking before joining a server.",
+			"tr": "Tämä on ensimmäinen kerta kun käynnistät pelin, ole hyvä ja kirjoita nimimerkkisi alle. On suositeltua, että tarkistat asetukset ja muutat niitä mielesi mukaan ennen kuin liityt palvelimille."
+		},
+		{
+			"or": "Automatically record demos",
+			"tr": "Nauhoita demot automaattisesti"
+		},
+		{
+			"or": "Automatically take game over screenshot",
+			"tr": "Ota pelin jälkeinen kuvankaappaus autom."
+		},
+		{
+			"or": "Blue team",
+			"tr": "Sininen joukkue"
+		},
+		{
+			"or": "Blue team wins!",
+			"tr": "Sininen joukkue voitti!"
+		},
+		{
+			"or": "Call vote",
+			"tr": "Aloita äänestys"
+		},
+		{
+			"or": "Change settings",
+			"tr": "Muuta asetuksia"
+		},
+		{
+			"or": "Chat",
+			"tr": "Chatti"
+		},
+		{
+			"or": "Clan",
+			"tr": "Klaani"
+		},
+		{
+			"or": "Client",
+			"tr": "Asiakasohjelma"
+		},
+		{
+			"or": "Close",
+			"tr": "Sulje"
+		},
+		{
+			"or": "Compatible version",
+			"tr": "Yhteensopiva versio"
+		},
+		{
+			"or": "Connect",
+			"tr": "Yhdistä"
+		},
+		{
+			"or": "Connecting to",
+			"tr": "Yhdistetään"
+		},
+		{
+			"or": "Connection Problems...",
+			"tr": "Yhteysongelmia..."
+		},
+		{
+			"or": "Console",
+			"tr": "Konsoli"
+		},
+		{
+			"or": "Controls",
+			"tr": "Kontrollit"
+		},
+		{
+			"or": "Count players only",
+			"tr": "Laske vain pelaajat"
+		},
+		{
+			"or": "Country",
+			"tr": "Maa"
+		},
+		{
+			"or": "Current",
+			"tr": "Nykyinen"
+		},
+		{
+			"or": "Custom colors",
+			"tr": "Omat värit"
+		},
+		{
+			"or": "Delete",
+			"tr": "Poista"
+		},
+		{
+			"or": "Delete demo",
+			"tr": "Poista demo"
+		},
+		{
+			"or": "Demo details",
+			"tr": "Demon tiedot"
+		},
+		{
+			"or": "Demofile: %s",
+			"tr": "Demotiedosto: %s"
+		},
+		{
+			"or": "Demos",
+			"tr": "Demot"
+		},
+		{
+			"or": "Disconnect",
+			"tr": "Katk. yhteys"
+		},
+		{
+			"or": "Disconnected",
+			"tr": "Yhteys katkaistu"
+		},
+		{
+			"or": "Downloading map",
+			"tr": "Ladataan kenttää"
+		},
+		{
+			"or": "Draw!",
+			"tr": "Tasapeli!"
+		},
+		{
+			"or": "Dynamic Camera",
+			"tr": "Dynaaminen kamera"
+		},
+		{
+			"or": "Emoticon",
+			"tr": "Hymiö"
+		},
+		{
+			"or": "Enter",
+			"tr": "Jatka"
+		},
+		{
+			"or": "Error",
+			"tr": "Virhe"
+		},
+		{
+			"or": "Error loading demo",
+			"tr": "Virhe ladattaessa demoa"
+		},
+		{
+			"or": "Favorite",
+			"tr": "Suosikki"
+		},
+		{
+			"or": "Favorites",
+			"tr": "Suosikit"
+		},
+		{
+			"or": "Fire",
+			"tr": "Ammu"
+		},
+		{
+			"or": "Folder",
+			"tr": "Kansio"
+		},
+		{
+			"or": "Force vote",
+			"tr": "Päätä äänestys"
+		},
+		{
+			"or": "Free-View",
+			"tr": "Vapaa näkymä"
+		},
+		{
+			"or": "Friends",
+			"tr": "Ystävät"
+		},
+		{
+			"or": "Fullscreen",
+			"tr": "Koko näyttö"
+		},
+		{
+			"or": "Game",
+			"tr": "Peli"
+		},
+		{
+			"or": "Game info",
+			"tr": "Pelin tiedot"
+		},
+		{
+			"or": "Game over",
+			"tr": "Peli loppui"
+		},
+		{
+			"or": "Game type",
+			"tr": "Pelityyppi"
+		},
+		{
+			"or": "Game types:",
+			"tr": "Pelityypit:"
+		},
+		{
+			"or": "General",
+			"tr": "Yleinen"
+		},
+		{
+			"or": "Graphics",
+			"tr": "Grafiikat"
+		},
+		{
+			"or": "Grenade",
+			"tr": "Kranaatti"
+		},
+		{
+			"or": "Hammer",
+			"tr": "Nuija"
+		},
+		{
+			"or": "Has people playing",
+			"tr": "Ihmisiä pelaamassa"
+		},
+		{
+			"or": "High Detail",
+			"tr": "Korkea yksityiskohtataso"
+		},
+		{
+			"or": "Hook",
+			"tr": "Koukku"
+		},
+		{
+			"or": "Invalid Demo",
+			"tr": "Epäkelpo demo"
+		},
+		{
+			"or": "Join blue",
+			"tr": "Liity sinisiin"
+		},
+		{
+			"or": "Join red",
+			"tr": "Liity punaisiin"
+		},
+		{
+			"or": "Jump",
+			"tr": "Hyppää"
+		},
+		{
+			"or": "Kick player",
+			"tr": "Potkaise pelaaja"
+		},
+		{
+			"or": "Language",
+			"tr": "Kieli"
+		},
+		{
+			"or": "Loading",
+			"tr": "Ladataan"
+		},
+		{
+			"or": "MOTD",
+			"tr": "Palvelimen viesti"
+		},
+		{
+			"or": "Map",
+			"tr": "Kenttä"
+		},
+		{
+			"or": "Maximum ping:",
+			"tr": "Maksimiping:"
+		},
+		{
+			"or": "Mouse sens.",
+			"tr": "Hiiren herkkyys"
+		},
+		{
+			"or": "Move left",
+			"tr": "Liiku vasemmalle"
+		},
+		{
+			"or": "Move player to spectators",
+			"tr": "Siirrä pelaaja katsojaksi"
+		},
+		{
+			"or": "Move right",
+			"tr": "Liiku oikealle"
+		},
+		{
+			"or": "Movement",
+			"tr": "Liike"
+		},
+		{
+			"or": "Mute when not active",
+			"tr": "Mykistä, kun ei aktiivinen"
+		},
+		{
+			"or": "Name",
+			"tr": "Nimi"
+		},
+		{
+			"or": "Next weapon",
+			"tr": "Seuraava ase"
+		},
+		{
+			"or": "Nickname",
+			"tr": "Nimimerkki"
+		},
+		{
+			"or": "No",
+			"tr": "Ei"
+		},
+		{
+			"or": "No password",
+			"tr": "Ei salasanaa"
+		},
+		{
+			"or": "No servers found",
+			"tr": "Palvelimia ei löytynyt"
+		},
+		{
+			"or": "No servers match your filter criteria",
+			"tr": "Yksikään palvelin ei täyttänyt suodinkriteerejäsi"
+		},
+		{
+			"or": "Ok",
+			"tr": "Ok"
+		},
+		{
+			"or": "Open",
+			"tr": "Avaa"
+		},
+		{
+			"or": "Parent Folder",
+			"tr": "Yläkansio"
+		},
+		{
+			"or": "Password",
+			"tr": "Salasana"
+		},
+		{
+			"or": "Password incorrect",
+			"tr": "Väärä salasana"
+		},
+		{
+			"or": "Ping",
+			"tr": "Ping"
+		},
+		{
+			"or": "Pistol",
+			"tr": "Pistooli"
+		},
+		{
+			"or": "Play",
+			"tr": "Toista"
+		},
+		{
+			"or": "Play background music",
+			"tr": "Soita taustamusiikki"
+		},
+		{
+			"or": "Player",
+			"tr": "Pelaaja"
+		},
+		{
+			"or": "Player country:",
+			"tr": "Pelaajan maa:"
+		},
+		{
+			"or": "Player options",
+			"tr": "Pelaajavalinnat"
+		},
+		{
+			"or": "Players",
+			"tr": "Pelaajat"
+		},
+		{
+			"or": "Please balance teams!",
+			"tr": "Ole hyvä ja tasoita joukkueita!"
+		},
+		{
+			"or": "Prev. weapon",
+			"tr": "Edellinen ase"
+		},
+		{
+			"or": "Quality Textures",
+			"tr": "Hyvälaatuiset tekstuurit"
+		},
+		{
+			"or": "Quit",
+			"tr": "Lopeta"
+		},
+		{
+			"or": "REC %3d:%02d",
+			"tr": "REC %3d:%02d"
+		},
+		{
+			"or": "Reason:",
+			"tr": "Syy:"
+		},
+		{
+			"or": "Red team",
+			"tr": "Punainen joukkue"
+		},
+		{
+			"or": "Red team wins!",
+			"tr": "Punainen joukkue voitti!"
+		},
+		{
+			"or": "Refresh",
+			"tr": "Päivitä"
+		},
+		{
+			"or": "Refreshing master servers",
+			"tr": "Päivitetään isäntäpalvelimia"
+		},
+		{
+			"or": "Remote console",
+			"tr": "Etäkonsoli"
+		},
+		{
+			"or": "Remove",
+			"tr": "Poista"
+		},
+		{
+			"or": "Remove friend",
+			"tr": "Poista ystävä"
+		},
+		{
+			"or": "Rename",
+			"tr": "Nimeä"
+		},
+		{
+			"or": "Rename demo",
+			"tr": "Uudelleennimeä demo"
+		},
+		{
+			"or": "Reset filter",
+			"tr": "Nollaa suotimet"
+		},
+		{
+			"or": "Sample rate",
+			"tr": "Näytteenottotaajuus"
+		},
+		{
+			"or": "Score",
+			"tr": "Pisteet"
+		},
+		{
+			"or": "Score board",
+			"tr": "Tulostaulu"
+		},
+		{
+			"or": "Score limit",
+			"tr": "Pisteraja"
+		},
+		{
+			"or": "Scoreboard",
+			"tr": "Tuloslista"
+		},
+		{
+			"or": "Screenshot",
+			"tr": "Kuvankaappaus"
+		},
+		{
+			"or": "Server address:",
+			"tr": "Palvelimen osoite:"
+		},
+		{
+			"or": "Server details",
+			"tr": "Palvelimen yksityiskohdat"
+		},
+		{
+			"or": "Server filter",
+			"tr": "Palvelinsuotimet"
+		},
+		{
+			"or": "Server info",
+			"tr": "Palvelintiedot"
+		},
+		{
+			"or": "Server not full",
+			"tr": "Palvelin ei täysi"
+		},
+		{
+			"or": "Settings",
+			"tr": "Asetukset"
+		},
+		{
+			"or": "Shotgun",
+			"tr": "Haulikko"
+		},
+		{
+			"or": "Show chat",
+			"tr": "Näytä chatti"
+		},
+		{
+			"or": "Show friends only",
+			"tr": "Näytä vain ystävät"
+		},
+		{
+			"or": "Show ingame HUD",
+			"tr": "Näytä peli-HUD"
+		},
+		{
+			"or": "Show name plates",
+			"tr": "Näytä nimikyltit"
+		},
+		{
+			"or": "Show only supported",
+			"tr": "Näytä vain tuetut"
+		},
+		{
+			"or": "Skins",
+			"tr": "Ulkonäkö"
+		},
+		{
+			"or": "Sound",
+			"tr": "Äänet"
+		},
+		{
+			"or": "Sound error",
+			"tr": "Äänivirhe"
+		},
+		{
+			"or": "Spectate",
+			"tr": "Katso"
+		},
+		{
+			"or": "Spectate next",
+			"tr": "Katso seuraavaa"
+		},
+		{
+			"or": "Spectate previous",
+			"tr": "Katso edellistä"
+		},
+		{
+			"or": "Spectator mode",
+			"tr": "Katsojatila"
+		},
+		{
+			"or": "Spectators",
+			"tr": "Katsojat"
+		},
+		{
+			"or": "Standard gametype",
+			"tr": "Standardipelityyppi"
+		},
+		{
+			"or": "Standard map",
+			"tr": "Standardikenttä"
+		},
+		{
+			"or": "Stop record",
+			"tr": "Lopeta nauhoit."
+		},
+		{
+			"or": "Strict gametype filter",
+			"tr": "Tarkka pelityyppisuodin"
+		},
+		{
+			"or": "Sudden Death",
+			"tr": "Äkkikuolema"
+		},
+		{
+			"or": "Switch weapon on pickup",
+			"tr": "Vaihda asetta nostaessasi uuden"
+		},
+		{
+			"or": "Team",
+			"tr": "Joukkue"
+		},
+		{
+			"or": "Team chat",
+			"tr": "Joukkuechatti"
+		},
+		{
+			"or": "Teeworlds %s is out! Download it at www.teeworlds.com!",
+			"tr": "Teeworlds %s on julkaistu! Lataa se osoitteesta www.teeworlds.com!"
+		},
+		{
+			"or": "Texture Compression",
+			"tr": "Tekstuuripakkaus"
+		},
+		{
+			"or": "The audio device couldn't be initialised.",
+			"tr": "Äänilaitteen alustaminen ei onnistunut."
+		},
+		{
+			"or": "The server is running a non-standard tuning on a pure game type.",
+			"tr": "Tämä palvelin ajaa ei-standardeja virityksiä standardipelityypillä."
+		},
+		{
+			"or": "There's an unsaved map in the editor, you might want to save it before you quit the game.",
+			"tr": "Editorissa on tallentamaton kenttä, saatat haluta tallentaa sen ennen kuin lopetat pelin."
+		},
+		{
+			"or": "Time limit",
+			"tr": "Aikaraja"
+		},
+		{
+			"or": "Time limit: %d min",
+			"tr": "Aikaraja: %d min"
+		},
+		{
+			"or": "Try again",
+			"tr": "Yritä uudelleen"
+		},
+		{
+			"or": "Type",
+			"tr": "Tyyppi"
+		},
+		{
+			"or": "Unable to delete the demo",
+			"tr": "Demon poistaminen ei onnistunut"
+		},
+		{
+			"or": "Unable to rename the demo",
+			"tr": "Demon nimeäminen ei onnistunut"
+		},
+		{
+			"or": "Use sounds",
+			"tr": "Käytä ääniefektejä"
+		},
+		{
+			"or": "Use team colors for name plates",
+			"tr": "Käytä joukkueiden värejä nimikylteissä"
+		},
+		{
+			"or": "V-Sync",
+			"tr": "V-Sync"
+		},
+		{
+			"or": "Version",
+			"tr": "Versio"
+		},
+		{
+			"or": "Vote command:",
+			"tr": "Äänestyskäsky:"
+		},
+		{
+			"or": "Vote description:",
+			"tr": "Äänestyksen kuvaus:"
+		},
+		{
+			"or": "Vote no",
+			"tr": "Äänestä ei"
+		},
+		{
+			"or": "Vote yes",
+			"tr": "Äänestä kyllä"
+		},
+		{
+			"or": "Voting",
+			"tr": "Äänestys"
+		},
+		{
+			"or": "Warmup",
+			"tr": "Lämmittely"
+		},
+		{
+			"or": "Weapon",
+			"tr": "Ase"
+		},
+		{
+			"or": "Welcome to Teeworlds",
+			"tr": "Tervetuloa Teeworldsiin"
+		},
+		{
+			"or": "Yes",
+			"tr": "Kyllä"
+		},
+		{
+			"or": "You must restart the game for all settings to take effect.",
+			"tr": "Sinun täytyy uudelleenkäynnistää peli, jotta kaikki asetukset tulisivat voimaan."
+		}
+	]
 }
