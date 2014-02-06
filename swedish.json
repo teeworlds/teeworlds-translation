@@ -94,10 +94,6 @@
 		"tr": "Blå laget vann!"
 	},
 	{
-		"or": "Body",
-		"tr": "Kropp"
-	},
-	{
 		"or": "Call vote",
 		"tr": "Röstning"
 	},
@@ -226,10 +222,6 @@
 		"tr": "Favoriter"
 	},
 	{
-		"or": "Feet",
-		"tr": "Fötter"
-	},
-	{
 		"or": "Fire",
 		"tr": "Skjuta"
 	},
@@ -330,16 +322,16 @@
 		"tr": "Laddar"
 	},
 	{
-		"or": "MOTD",
-		"tr": "Meddelande"
-	},
-	{
 		"or": "Map",
 		"tr": "Bana"
 	},
 	{
 		"or": "Maximum ping:",
 		"tr": "Högsta ping:"
+	},
+	{
+		"or": "MOTD",
+		"tr": "Meddelande"
 	},
 	{
 		"or": "Mouse sens.",
@@ -462,12 +454,12 @@
 		"tr": "Avsluta"
 	},
 	{
-		"or": "REC %3d:%02d",
-		"tr": "REC %3d:%02d"
-	},
-	{
 		"or": "Reason:",
 		"tr": "Anledning:"
+	},
+	{
+		"or": "REC %3d:%02d",
+		"tr": "REC %3d:%02d"
 	},
 	{
 		"or": "Red team",
@@ -823,6 +815,10 @@
 		"tr": ""
 	},
 	{
+		"or": "Are you sure that you want to delete the skin?",
+		"tr": ""
+	},
+	{
 		"or": "Are you sure you want to rename the demo?",
 		"tr": ""
 	},
@@ -839,7 +835,11 @@
 		"tr": ""
 	},
 	{
-		"or": "Bodies",
+		"or": "blue",
+		"tr": ""
+	},
+	{
+		"or": "blue team",
 		"tr": ""
 	},
 	{
@@ -871,7 +871,7 @@
 		"tr": ""
 	},
 	{
-		"or": "Decoration",
+		"or": "Delete skin",
 		"tr": ""
 	},
 	{
@@ -887,11 +887,11 @@
 		"tr": ""
 	},
 	{
-		"or": "Eyes",
+		"or": "Format",
 		"tr": ""
 	},
 	{
-		"or": "Format",
+		"or": "game",
 		"tr": ""
 	},
 	{
@@ -904,10 +904,6 @@
 	},
 	{
 		"or": "Global",
-		"tr": ""
-	},
-	{
-		"or": "Hands",
 		"tr": ""
 	},
 	{
@@ -963,6 +959,10 @@
 		"tr": ""
 	},
 	{
+		"or": "locked",
+		"tr": ""
+	},
+	{
 		"or": "Match",
 		"tr": ""
 	},
@@ -980,6 +980,10 @@
 	},
 	{
 		"or": "Nickname is empty.",
+		"tr": ""
+	},
+	{
+		"or": "no players",
 		"tr": ""
 	},
 	{
@@ -1004,6 +1008,14 @@
 	},
 	{
 		"or": "Recorded",
+		"tr": ""
+	},
+	{
+		"or": "red",
+		"tr": ""
+	},
+	{
+		"or": "red team",
 		"tr": ""
 	},
 	{
@@ -1075,19 +1087,15 @@
 		"tr": ""
 	},
 	{
+		"or": "spectators",
+		"tr": ""
+	},
+	{
 		"or": "Spectators aren't allowed to start a vote.",
 		"tr": ""
 	},
 	{
 		"or": "Standard Gametype",
-		"tr": ""
-	},
-	{
-		"or": "Tattoo",
-		"tr": ""
-	},
-	{
-		"or": "Tattoos",
 		"tr": ""
 	},
 	{
@@ -1119,6 +1127,18 @@
 		"tr": ""
 	},
 	{
+		"or": "The %s flag was captured by '%s'",
+		"tr": ""
+	},
+	{
+		"or": "The %s flag was captured by '%s' (%.2f seconds)",
+		"tr": ""
+	},
+	{
+		"or": "Unable to delete the skin",
+		"tr": ""
+	},
+	{
 		"or": "Volume",
 		"tr": ""
 	},
@@ -1139,6 +1159,10 @@
 		"tr": ""
 	},
 	{
+		"or": "wait for more players",
+		"tr": ""
+	},
+	{
 		"or": "Wait for next round",
 		"tr": ""
 	},
@@ -1149,187 +1173,15 @@
 	{
 		"or": "You must wait %d seconds before making another vote",
 		"tr": ""
-	},
-	{
-		"or": "blue",
-		"tr": ""
-	},
-	{
-		"or": "blue team",
-		"tr": ""
-	},
-	{
-		"or": "game",
-		"tr": ""
-	},
-	{
-		"or": "locked",
-		"tr": ""
-	},
-	{
-		"or": "no players",
-		"tr": ""
-	},
-	{
-		"or": "red",
-		"tr": ""
-	},
-	{
-		"or": "red team",
-		"tr": ""
-	},
-	{
-		"or": "spectators",
-		"tr": ""
-	},
-	{
-		"or": "wait for more players",
-		"tr": ""
 	}],
 "old translations": [
-	{
-		"or": "New name:",
-		"tr": "Nytt namn:"
-	},
-	{
-		"or": "Sat.",
-		"tr": "Mättnad"
-	},
-	{
-		"or": "Miscellaneous",
-		"tr": "Övrigt"
-	},
-	{
-		"or": "Internet",
-		"tr": "Internet"
-	},
-	{
-		"or": "Max demos",
-		"tr": "Max antal demon"
-	},
-	{
-		"or": "News",
-		"tr": "Nyheter"
-	},
-	{
-		"or": "Join game",
-		"tr": "Spela"
-	},
-	{
-		"or": "FSAA samples",
-		"tr": "FSAA-samplingar"
-	},
-	{
-		"or": "%d of %d servers, %d players",
-		"tr": "%d av %d servrar, %d spelare"
-	},
-	{
-		"or": "Sound volume",
-		"tr": "Volym"
-	},
-	{
-		"or": "Created:",
-		"tr": "Skapad:"
-	},
-	{
-		"or": "Max Screenshots",
-		"tr": "Max antal skärmdumpar"
-	},
-	{
-		"or": "Length:",
-		"tr": "Längd"
-	},
-	{
-		"or": "Skin name",
-		"tr": ""
-	},
-	{
-		"or": "Rifle",
-		"tr": "Gevär"
-	},
-	{
-		"or": "Patterns",
-		"tr": ""
-	},
-	{
-		"or": "Netversion:",
-		"tr": "Nätversion:"
-	},
-	{
-		"or": "Map:",
-		"tr": "Bana"
-	},
 	{
 		"or": "%d Bytes",
 		"tr": "%d Bytes"
 	},
 	{
-		"or": "Coloration",
-		"tr": ""
-	},
-	{
-		"or": "Info",
-		"tr": "Info"
-	},
-	{
-		"or": "Hue",
-		"tr": "Nyans"
-	},
-	{
-		"or": "Record demo",
-		"tr": "Spela in demo"
-	},
-	{
-		"or": "Your skin",
-		"tr": "Ditt skin"
-	},
-	{
-		"or": "Size:",
-		"tr": "Storlek:"
-	},
-	{
-		"or": "Reset to defaults",
-		"tr": "Återställ till standard"
-	},
-	{
-		"or": "Quit anyway?",
-		"tr": "Avsluta i alla fall?"
-	},
-	{
-		"or": "Display Modes",
-		"tr": "Skärmlägen"
-	},
-	{
-		"or": "Version:",
-		"tr": "Version:"
-	},
-	{
-		"or": "Round",
-		"tr": "Runda"
-	},
-	{
-		"or": "Lht.",
-		"tr": "Ljusstyrka"
-	},
-	{
-		"or": "no limit",
-		"tr": "Ingen gräns"
-	},
-	{
-		"or": "Quick search:",
-		"tr": "Snabbsök:"
-	},
-	{
-		"or": "UI Color",
-		"tr": "Gränssnittfärg"
-	},
-	{
-		"or": "Host address",
-		"tr": "Serveraddress"
-	},
-	{
-		"or": "Crc:",
-		"tr": "Crc:"
+		"or": "%d of %d servers, %d players",
+		"tr": "%d av %d servrar, %d spelare"
 	},
 	{
 		"or": "Alpha",
@@ -1340,23 +1192,191 @@
 		"tr": ""
 	},
 	{
+		"or": "Bodies",
+		"tr": ""
+	},
+	{
+		"or": "Body",
+		"tr": "Kropp"
+	},
+	{
+		"or": "Coloration",
+		"tr": ""
+	},
+	{
+		"or": "Crc:",
+		"tr": "Crc:"
+	},
+	{
+		"or": "Created:",
+		"tr": "Skapad:"
+	},
+	{
 		"or": "Current version: %s",
 		"tr": "Nuvarande version: %s"
+	},
+	{
+		"or": "Decoration",
+		"tr": ""
+	},
+	{
+		"or": "Display Modes",
+		"tr": "Skärmlägen"
+	},
+	{
+		"or": "Eyes",
+		"tr": ""
+	},
+	{
+		"or": "Feet",
+		"tr": "Fötter"
 	},
 	{
 		"or": "Filter",
 		"tr": "Filter"
 	},
 	{
+		"or": "FSAA samples",
+		"tr": "FSAA-samplingar"
+	},
+	{
+		"or": "Hands",
+		"tr": ""
+	},
+	{
+		"or": "Host address",
+		"tr": "Serveraddress"
+	},
+	{
+		"or": "Hue",
+		"tr": "Nyans"
+	},
+	{
+		"or": "Info",
+		"tr": "Info"
+	},
+	{
+		"or": "Internet",
+		"tr": "Internet"
+	},
+	{
+		"or": "Join game",
+		"tr": "Spela"
+	},
+	{
 		"or": "LAN",
 		"tr": "LAN"
+	},
+	{
+		"or": "Length:",
+		"tr": "Längd"
+	},
+	{
+		"or": "Lht.",
+		"tr": "Ljusstyrka"
+	},
+	{
+		"or": "Map:",
+		"tr": "Bana"
+	},
+	{
+		"or": "Max demos",
+		"tr": "Max antal demon"
+	},
+	{
+		"or": "Max Screenshots",
+		"tr": "Max antal skärmdumpar"
+	},
+	{
+		"or": "Miscellaneous",
+		"tr": "Övrigt"
 	},
 	{
 		"or": "Name plates size",
 		"tr": "Storlek på namnskyltar"
 	},
 	{
+		"or": "Netversion:",
+		"tr": "Nätversion:"
+	},
+	{
+		"or": "New name:",
+		"tr": "Nytt namn:"
+	},
+	{
+		"or": "News",
+		"tr": "Nyheter"
+	},
+	{
+		"or": "no limit",
+		"tr": "Ingen gräns"
+	},
+	{
+		"or": "Patterns",
+		"tr": ""
+	},
+	{
+		"or": "Quick search:",
+		"tr": "Snabbsök:"
+	},
+	{
+		"or": "Quit anyway?",
+		"tr": "Avsluta i alla fall?"
+	},
+	{
+		"or": "Record demo",
+		"tr": "Spela in demo"
+	},
+	{
+		"or": "Reset to defaults",
+		"tr": "Återställ till standard"
+	},
+	{
+		"or": "Rifle",
+		"tr": "Gevär"
+	},
+	{
+		"or": "Round",
+		"tr": "Runda"
+	},
+	{
+		"or": "Sat.",
+		"tr": "Mättnad"
+	},
+	{
+		"or": "Size:",
+		"tr": "Storlek:"
+	},
+	{
+		"or": "Skin name",
+		"tr": ""
+	},
+	{
+		"or": "Sound volume",
+		"tr": "Volym"
+	},
+	{
+		"or": "Tattoo",
+		"tr": ""
+	},
+	{
+		"or": "Tattoos",
+		"tr": ""
+	},
+	{
 		"or": "Type:",
 		"tr": "Typ:"
+	},
+	{
+		"or": "UI Color",
+		"tr": "Gränssnittfärg"
+	},
+	{
+		"or": "Version:",
+		"tr": "Version:"
+	},
+	{
+		"or": "Your skin",
+		"tr": "Ditt skin"
 	}]
 }

@@ -5,6 +5,30 @@
 	]},
 "translated strings": [
 	{
+		"or": "%.3f KiB",
+		"tr": "%.3f KiB"
+	},
+	{
+		"or": "%d player left",
+		"tr": "απομένει %d παίκτης"
+	},
+	{
+		"or": "%d player not ready",
+		"tr": "%d παίκτης δεν είναι έτοιμος"
+	},
+	{
+		"or": "%d players left",
+		"tr": "απομένουν %d παίκτες"
+	},
+	{
+		"or": "%d players not ready",
+		"tr": "%d παίκτης δεν είναι έτοιμοι"
+	},
+	{
+		"or": "%d servers, %d players",
+		"tr": "%d διακομιστές, %d παίκτες"
+	},
+	{
 		"or": "%d%% loaded",
 		"tr": "%d%% φορτώθηκε"
 	},
@@ -33,6 +57,34 @@
 		"tr": "Ο/Η %s νίκησε!"
 	},
 	{
+		"or": "'%s' called for vote to kick '%s' (%s)",
+		"tr": "Ο «%s» ζήτηση ψήφο για την αποβολή του «%s» (%s)"
+	},
+	{
+		"or": "'%s' called for vote to move '%s' to spectators (%s)",
+		"tr": "Ο «%s» ζήτησε ψήφο για τη μετακίνηση του «%s» στους θεατές (%s)"
+	},
+	{
+		"or": "'%s' called vote to change server option '%s' (%s)",
+		"tr": "Ο «%s» ζήτησε ψήφο για την αλλαγή επιλογής διακομιστή «%s» (%s)"
+	},
+	{
+		"or": "'%s' entered and joined the %s",
+		"tr": "Ο «%s» εισήλθε και συμμετήχε στην %s"
+	},
+	{
+		"or": "'%s' has left the game",
+		"tr": "Ο «%s» εγκατέλειψε το παιχνίδι"
+	},
+	{
+		"or": "'%s' has left the game (%s)",
+		"tr": "Ο «%s» εγκατέλειψε το παιχνίδι (%s)"
+	},
+	{
+		"or": "'%s' joined the %s",
+		"tr": "Ο «%s» συμμετήχε στην %s"
+	},
+	{
 		"or": "-Page %d-",
 		"tr": "-Σελίδα %d-"
 	},
@@ -53,12 +105,36 @@
 		"tr": "Διεύθυνση"
 	},
 	{
+		"or": "Admin forced server option '%s' (%s)",
+		"tr": "Ο διαχειριστής ανάγκασε την επιλογη «%s» (%s)"
+	},
+	{
+		"or": "Admin forced vote no",
+		"tr": "Ο διαχειριστής ανάγκασε την ψήφο «όχι»"
+	},
+	{
+		"or": "Admin forced vote yes",
+		"tr": "Ο διαχειριστής ανάγκασε την ψήφο «ναι»"
+	},
+	{
+		"or": "Admin moved '%s' to spectator (%s)",
+		"tr": "Ο διαχειριστής μετακίνησε τον «%s» στους θεατές (%s)"
+	},
+	{
 		"or": "All",
 		"tr": "Όλοι"
 	},
 	{
+		"or": "Alp:",
+		"tr": "Άλφ:"
+	},
+	{
 		"or": "Always show name plates",
 		"tr": "Πάντα εμφάνιζε τα ψευδώνυμα"
+	},
+	{
+		"or": "Anti Aliasing",
+		"tr": "Εξομάλυνση"
 	},
 	{
 		"or": "Are you sure that you want to delete the demo?",
@@ -73,6 +149,14 @@
 		"tr": "Θέλετε σίγουρα να αφερέσετε αυτόν τον παίκτη από την λίστα των φίλων σας;"
 	},
 	{
+		"or": "Are you sure you want to rename the demo?",
+		"tr": "Θέλετε σίγουρα να μετονομάσετε την επίδειξη;"
+	},
+	{
+		"or": "Are you sure you want to save your skin? If a skin with this name already exists, it will be replaced.",
+		"tr": "Θέλετε σίγουρα να αποθηκεύσετε τη στολή σας; Αν υπαρχεί ήδη στολή με το ίδιο όνομα, θα αντικατασταθεί."
+	},
+	{
 		"or": "As this is the first time you launch the game, please enter your nick name below. It's recommended that you check the settings to adjust them to your liking before joining a server.",
 		"tr": "Επειδή τρέχετε το παιχνίδι για πρώτη φορά, παρακαλώ βάλτε το ψευδώνυμο σας από κάτω. Συνίσταται να προσαρμόσετε τις ρυθμίσεις ανάλογα με τις προτιμήσεις σας πριν παίξετε."
 	},
@@ -85,16 +169,36 @@
 		"tr": "Αυτόμ. λήψη στιγμιότυπου στο τέλος παιχν."
 	},
 	{
+		"or": "Back",
+		"tr": "Επιστροφή"
+	},
+	{
+		"or": "Basic",
+		"tr": "Βασικό"
+	},
+	{
+		"or": "blue",
+		"tr": "μπλε"
+	},
+	{
 		"or": "Blue team",
 		"tr": "Μπλε ομάδα"
+	},
+	{
+		"or": "blue team",
+		"tr": "μπλε ομάδα"
 	},
 	{
 		"or": "Blue team wins!",
 		"tr": "Η μπλε ομάδα νίκησε!"
 	},
 	{
-		"or": "Body",
-		"tr": "Σώμα"
+		"or": "Borderless window",
+		"tr": "Παράθυρο χωρίς περιθώρια"
+	},
+	{
+		"or": "Browser",
+		"tr": "Περιηγητής"
 	},
 	{
 		"or": "Call vote",
@@ -119,6 +223,10 @@
 	{
 		"or": "Close",
 		"tr": "Κλείσιμο"
+	},
+	{
+		"or": "Color",
+		"tr": "Χρώμα"
 	},
 	{
 		"or": "Compatible version",
@@ -153,12 +261,28 @@
 		"tr": "Χώρα"
 	},
 	{
+		"or": "Crc",
+		"tr": "Διόρθ"
+	},
+	{
+		"or": "Created",
+		"tr": "Δημιουργήθηκε"
+	},
+	{
 		"or": "Current",
 		"tr": "Τρέχουσα"
 	},
 	{
+		"or": "Custom",
+		"tr": "Προσαρμοσμένο"
+	},
+	{
 		"or": "Custom colors",
 		"tr": "Προσαρμοσμένα χρώματα"
+	},
+	{
+		"or": "Customize",
+		"tr": "Προσαρμογή"
 	},
 	{
 		"or": "Delete",
@@ -167,6 +291,10 @@
 	{
 		"or": "Delete demo",
 		"tr": "Διαγραφή επίδειξης"
+	},
+	{
+		"or": "Demo",
+		"tr": "Επίδειξη"
 	},
 	{
 		"or": "Demo details",
@@ -179,6 +307,10 @@
 	{
 		"or": "Demos",
 		"tr": "Επιδείξεις"
+	},
+	{
+		"or": "Detail",
+		"tr": "Λεπτομέρεια"
 	},
 	{
 		"or": "Disconnect",
@@ -225,10 +357,6 @@
 		"tr": "Αγαπημένοι"
 	},
 	{
-		"or": "Feet",
-		"tr": "Πόδια"
-	},
-	{
 		"or": "Fire",
 		"tr": "Πυρ"
 	},
@@ -241,6 +369,10 @@
 		"tr": "Αναγκαστική ψήφος"
 	},
 	{
+		"or": "Format",
+		"tr": "Τύπος"
+	},
+	{
 		"or": "Free-View",
 		"tr": "Ελεύθερη Όψη"
 	},
@@ -251,6 +383,10 @@
 	{
 		"or": "Fullscreen",
 		"tr": "Πλήρης οθόνη"
+	},
+	{
+		"or": "game",
+		"tr": "παιχνίδι"
 	},
 	{
 		"or": "Game",
@@ -269,6 +405,10 @@
 		"tr": "Παιχνίδι σε παύση"
 	},
 	{
+		"or": "Game starts in",
+		"tr": "Το παιχνίδι αρχίζει σε"
+	},
+	{
 		"or": "Game type",
 		"tr": "Τύπος παιχνιδιού"
 	},
@@ -279,6 +419,10 @@
 	{
 		"or": "General",
 		"tr": "Γενικά"
+	},
+	{
+		"or": "Global",
+		"tr": "Παγκόσμια"
 	},
 	{
 		"or": "Graphics",
@@ -305,8 +449,20 @@
 		"tr": "Γάντζος"
 	},
 	{
+		"or": "Host address:",
+		"tr": "Διεύθυνση διακομιστή:"
+	},
+	{
+		"or": "Hue:",
+		"tr": "Απόχ:"
+	},
+	{
 		"or": "Invalid Demo",
 		"tr": "Άκυρη Επίδειξη"
+	},
+	{
+		"or": "Join",
+		"tr": "Συμμετοχή στην"
 	},
 	{
 		"or": "Join blue",
@@ -317,6 +473,18 @@
 		"tr": "Κόκκινοι"
 	},
 	{
+		"or": "Joined",
+		"tr": "Έθεσε συμμετοχή"
+	},
+	{
+		"or": "Joined blue",
+		"tr": "Έθεσε συμμετοχή στη μπλε"
+	},
+	{
+		"or": "Joined red",
+		"tr": "Έθεσε συμμετοχή στην κόκκινη"
+	},
+	{
 		"or": "Jump",
 		"tr": "Άλμα"
 	},
@@ -325,24 +493,68 @@
 		"tr": "Αποβολή παίκτη"
 	},
 	{
+		"or": "Kick voting requires %d players on the server",
+		"tr": "Ψήφισμα προς αποβολή χρειάζεται %d παίκτες σε αυτόν τον διακομιστή"
+	},
+	{
 		"or": "Language",
 		"tr": "Γλώσσα"
+	},
+	{
+		"or": "Laser",
+		"tr": "Λέιζερ"
+	},
+	{
+		"or": "Length",
+		"tr": "Μάκρος"
+	},
+	{
+		"or": "Letterbox",
+		"tr": "Γραμματοκιβώτιο"
+	},
+	{
+		"or": "Lgt:",
+		"tr": "Φωτ:"
 	},
 	{
 		"or": "Loading",
 		"tr": "Φόρτωση"
 	},
 	{
-		"or": "MOTD",
-		"tr": "Μήνυμα της ημέρας"
+		"or": "Local",
+		"tr": "Τοπικά"
+	},
+	{
+		"or": "Local server",
+		"tr": "Τοπικός διακομιστής"
+	},
+	{
+		"or": "locked",
+		"tr": "κλειδομένο"
 	},
 	{
 		"or": "Map",
 		"tr": "Χάρτης"
 	},
 	{
+		"or": "Match",
+		"tr": "Ταίρι"
+	},
+	{
+		"or": "Max",
+		"tr": "Μεγ"
+	},
+	{
 		"or": "Maximum ping:",
 		"tr": "Μέγιστο ping:"
+	},
+	{
+		"or": "Misc",
+		"tr": "Διάφορα"
+	},
+	{
+		"or": "MOTD",
+		"tr": "Μήνυμα της ημέρας"
 	},
 	{
 		"or": "Mouse sens.",
@@ -373,12 +585,20 @@
 		"tr": "Όνομα"
 	},
 	{
+		"or": "Netversion",
+		"tr": "Έκδοση"
+	},
+	{
 		"or": "Next weapon",
 		"tr": "Επόμενο όπλο"
 	},
 	{
 		"or": "Nickname",
 		"tr": "Ψευδώνυμο"
+	},
+	{
+		"or": "Nickname is empty.",
+		"tr": "Το ξευδώνυμο είναι κενό."
 	},
 	{
 		"or": "No",
@@ -389,6 +609,10 @@
 		"tr": "Χωρίς κωδικό"
 	},
 	{
+		"or": "no players",
+		"tr": "δεν έχει παίκτες"
+	},
+	{
 		"or": "No servers found",
 		"tr": "Δεν βρέθηκαν διακομιστές"
 	},
@@ -397,8 +621,16 @@
 		"tr": "Δεν υπάρχει διακομιστής με αυτά τα κριτήρια"
 	},
 	{
+		"or": "Normal:",
+		"tr": "Κανονικό:"
+	},
+	{
 		"or": "Ok",
 		"tr": "Εντάξει"
+	},
+	{
+		"or": "Only %d active players are allowed",
+		"tr": "Επιτρέπονται μέχρι %d ενεργοί παίκτες"
 	},
 	{
 		"or": "Open",
@@ -415,6 +647,10 @@
 	{
 		"or": "Password incorrect",
 		"tr": "Λανθασμένος κωδικός"
+	},
+	{
+		"or": "Personal",
+		"tr": "Προσωπικό"
 	},
 	{
 		"or": "Ping",
@@ -465,12 +701,32 @@
 		"tr": "Έξοδος"
 	},
 	{
-		"or": "REC %3d:%02d",
-		"tr": "REC %3d:%02d"
+		"or": "Ready",
+		"tr": "Έτοιμος"
 	},
 	{
 		"or": "Reason:",
 		"tr": "Αιτία:"
+	},
+	{
+		"or": "REC %3d:%02d",
+		"tr": "REC %3d:%02d"
+	},
+	{
+		"or": "Record",
+		"tr": "Καταγραφή"
+	},
+	{
+		"or": "Recorded",
+		"tr": "Καταγράφη"
+	},
+	{
+		"or": "red",
+		"tr": "κόκκινη"
+	},
+	{
+		"or": "red team",
+		"tr": "κόκκινη ομάδα"
 	},
 	{
 		"or": "Red team",
@@ -509,16 +765,44 @@
 		"tr": "Μετονομασία επίδειξης"
 	},
 	{
+		"or": "Reset",
+		"tr": "Επαναφορά"
+	},
+	{
 		"or": "Reset filter",
 		"tr": "Αφαίρεση φίλτρου"
+	},
+	{
+		"or": "Resolutions",
+		"tr": "Αναλύσεις"
 	},
 	{
 		"or": "Respawn",
 		"tr": "Αναγέννηση"
 	},
 	{
+		"or": "Round over",
+		"tr": "Τέλος γύρου"
+	},
+	{
+		"or": "Round over!",
+		"tr": "Τέλος γύρου!"
+	},
+	{
 		"or": "Sample rate",
 		"tr": "Δειγματοληψία"
+	},
+	{
+		"or": "Sat:",
+		"tr": "Κορ:"
+	},
+	{
+		"or": "Save",
+		"tr": "Αποθήκευση"
+	},
+	{
+		"or": "Save skin",
+		"tr": "Αποθήκευση στολής"
 	},
 	{
 		"or": "Score",
@@ -537,8 +821,16 @@
 		"tr": "Πίνακας βαθμ/γίας"
 	},
 	{
+		"or": "Screen",
+		"tr": "Οθόνη"
+	},
+	{
 		"or": "Screenshot",
 		"tr": "Στιγμιότυπο οθόνης"
+	},
+	{
+		"or": "Search:",
+		"tr": "Αναζήτηση:"
 	},
 	{
 		"or": "Server address:",
@@ -547,6 +839,14 @@
 	{
 		"or": "Server details",
 		"tr": "Λεπτομέριες διακομιστή"
+	},
+	{
+		"or": "Server does not allow voting to kick players",
+		"tr": "Ο διακομιστής δεν επιτρέπει ψήφους για αποβολή παικτών"
+	},
+	{
+		"or": "Server does not allow voting to move players to spectators",
+		"tr": "Ο διακομιστής δεν επιτρέπει μετακίνηση παικτών στους θεατές"
 	},
 	{
 		"or": "Server filter",
@@ -559,6 +859,10 @@
 	{
 		"or": "Server not full",
 		"tr": "Μη πλήρης διακομιστής"
+	},
+	{
+		"or": "Servers",
+		"tr": "Διακομιστές"
 	},
 	{
 		"or": "Settings",
@@ -593,6 +897,14 @@
 		"tr": "Προβολή υποστηριζόμενων μόνο"
 	},
 	{
+		"or": "Size",
+		"tr": "Μέγεθος"
+	},
+	{
+		"or": "Skin",
+		"tr": "Στολή"
+	},
+	{
 		"or": "Skins",
 		"tr": "Στολές"
 	},
@@ -617,12 +929,28 @@
 		"tr": "Προηγούμενος"
 	},
 	{
+		"or": "Spectating",
+		"tr": "Θέαση"
+	},
+	{
 		"or": "Spectator mode",
 		"tr": "Λειτουργία θέασης"
 	},
 	{
 		"or": "Spectators",
 		"tr": "Θεατές"
+	},
+	{
+		"or": "spectators",
+		"tr": "θεατές"
+	},
+	{
+		"or": "Spectators aren't allowed to start a vote.",
+		"tr": "Οι θεατές δεν μπορούν να εκκινήσουν ψήφο"
+	},
+	{
+		"or": "Standard Gametype",
+		"tr": "Κανονικός Τύπος Παιχνιδιού"
 	},
 	{
 		"or": "Standard gametype",
@@ -657,8 +985,32 @@
 		"tr": "Ομαδική συνομιλία"
 	},
 	{
+		"or": "Team:",
+		"tr": "Ομάδα"
+	},
+	{
+		"or": "Teams are locked",
+		"tr": "Οι ομάδες είναι κλειδωμένες"
+	},
+	{
+		"or": "Teams are locked. Time to wait before changing team: %02d:%02d",
+		"tr": "Οι ομάδες είναι κλειδωμένες. Αναμοή πριν μπορείτε να αλλάξετε ομάδα: %02d:%02d"
+	},
+	{
+		"or": "Teams were locked",
+		"tr": "Οι ομάδες κλειδώθηκαν"
+	},
+	{
+		"or": "Teams were unlocked",
+		"tr": "Οι ομάδες ξεκλειδώθηκαν"
+	},
+	{
 		"or": "Teeworlds %s is out! Download it at www.teeworlds.com!",
 		"tr": "Το Teeworlds %s κυκλοφόρησε! Κατεβάστε το από το www.teeworlds.com!"
+	},
+	{
+		"or": "Texture",
+		"tr": "Υφή"
 	},
 	{
 		"or": "Texture Compression",
@@ -717,6 +1069,14 @@
 		"tr": "Έκδοση"
 	},
 	{
+		"or": "Volume",
+		"tr": "Ένταση"
+	},
+	{
+		"or": "Vote aborted",
+		"tr": "Η ψήφος ματαιώθηκε"
+	},
+	{
 		"or": "Vote command:",
 		"tr": "Εντολή ψήφου:"
 	},
@@ -725,8 +1085,16 @@
 		"tr": "Περιγραφή ψήφου:"
 	},
 	{
+		"or": "Vote failed",
+		"tr": "Η ψήφος απέτυχε"
+	},
+	{
 		"or": "Vote no",
 		"tr": "Ψηφίστε όχι"
+	},
+	{
+		"or": "Vote passed",
+		"tr": "Η ψήφος πέρασε"
 	},
 	{
 		"or": "Vote yes",
@@ -735,6 +1103,18 @@
 	{
 		"or": "Voting",
 		"tr": "Ψηφοφορία"
+	},
+	{
+		"or": "Wait for current vote to end before calling a new one.",
+		"tr": "Περιμένετε για τη λήξη της τρέχον ψηφοφορίας πριν ζητήσετε καινούργια."
+	},
+	{
+		"or": "wait for more players",
+		"tr": "αναμονή για περισσότερους παίκτες"
+	},
+	{
+		"or": "Wait for next round",
+		"tr": "Αναμονή για τον επόμενο γύρο"
 	},
 	{
 		"or": "Warmup",
@@ -749,586 +1129,58 @@
 		"tr": "Καλωσορίσατε στο Teeworlds"
 	},
 	{
+		"or": "Wide",
+		"tr": "Ευρύς"
+	},
+	{
 		"or": "Yes",
 		"tr": "Ναι"
 	},
 	{
 		"or": "You must restart the game for all settings to take effect.",
 		"tr": "Πρέπει να επανεκκινήσετε το παιχνίδι για να εφαρμοστούν όλες οι αλλαγές."
+	},
+	{
+		"or": "You must wait %d seconds before making another vote",
+		"tr": "Πρέπει να περιμένετε %d δευτερόλεπτα πριν ζητήσετε καινούργια ψήφο"
 	}],
 "needs translation": [
 	{
-		"or": "%.3f KiB",
-		"tr": "%.3f KiB"
+		"or": "Are you sure that you want to delete the skin?",
+		"tr": ""
 	},
 	{
-		"or": "%d player left",
-		"tr": "απομένει %d παίκτης"
-	},
-	{
-		"or": "%d player not ready",
-		"tr": "%d παίκτης δεν είναι έτοιμος"
-	},
-	{
-		"or": "%d players left",
-		"tr": "απομένουν %d παίκτες"
-	},
-	{
-		"or": "%d players not ready",
-		"tr": "%d παίκτης δεν είναι έτοιμοι"
-	},
-	{
-		"or": "%d servers, %d players",
-		"tr": "%d διακομιστές, %d παίκτες"
-	},
-	{
-		"or": "'%s' called for vote to kick '%s' (%s)",
-		"tr": "Ο «%s» ζήτηση ψήφο για την αποβολή του «%s» (%s)"
-	},
-	{
-		"or": "'%s' called for vote to move '%s' to spectators (%s)",
-		"tr": "Ο «%s» ζήτησε ψήφο για τη μετακίνηση του «%s» στους θεατές (%s)"
-	},
-	{
-		"or": "'%s' called vote to change server option '%s' (%s)",
-		"tr": "Ο «%s» ζήτησε ψήφο για την αλλαγή επιλογής διακομιστή «%s» (%s)"
-	},
-	{
-		"or": "'%s' entered and joined the %s",
-		"tr": "Ο «%s» εισήλθε και συμμετήχε στην %s"
-	},
-	{
-		"or": "'%s' has left the game",
-		"tr": "Ο «%s» εγκατέλειψε το παιχνίδι"
-	},
-	{
-		"or": "'%s' has left the game (%s)",
-		"tr": "Ο «%s» εγκατέλειψε το παιχνίδι (%s)"
-	},
-	{
-		"or": "'%s' joined the %s",
-		"tr": "Ο «%s» συμμετήχε στην %s"
-	},
-	{
-		"or": "Admin forced server option '%s' (%s)",
-		"tr": "Ο διαχειριστής ανάγκασε την επιλογη «%s» (%s)"
-	},
-	{
-		"or": "Admin forced vote no",
-		"tr": "Ο διαχειριστής ανάγκασε την ψήφο «όχι»"
-	},
-	{
-		"or": "Admin forced vote yes",
-		"tr": "Ο διαχειριστής ανάγκασε την ψήφο «ναι»"
-	},
-	{
-		"or": "Admin moved '%s' to spectator (%s)",
-		"tr": "Ο διαχειριστής μετακίνησε τον «%s» στους θεατές (%s)"
-	},
-	{
-		"or": "Alp:",
-		"tr": "Άλφ:"
-	},
-	{
-		"or": "Anti Aliasing",
-		"tr": "Εξομάλυνση"
-	},
-	{
-		"or": "Are you sure you want to rename the demo?",
-		"tr": "Θέλετε σίγουρα να μετονομάσετε την επίδειξη;"
-	},
-	{
-		"or": "Are you sure you want to save your skin? If a skin with this name already exists, it will be replaced.",
-		"tr": "Θέλετε σίγουρα να αποθηκεύσετε τη στολή σας; Αν υπαρχεί ήδη στολή με το ίδιο όνομα, θα αντικατασταθεί."
-	},
-	{
-		"or": "Back",
-		"tr": "Επιστροφή"
-	},
-	{
-		"or": "Basic",
-		"tr": "Βασικό"
-	},
-	{
-		"or": "Bodies",
-		"tr": "Σώματα"
-	},
-	{
-		"or": "Borderless window",
-		"tr": "Παράθυρο χωρίς περιθώρια"
-	},
-	{
-		"or": "Browser",
-		"tr": "Περιηγητής"
-	},
-	{
-		"or": "Color",
-		"tr": "Χρώμα"
-	},
-	{
-		"or": "Crc",
-		"tr": "Διόρθ"
-	},
-	{
-		"or": "Created",
-		"tr": "Δημιουργήθηκε"
-	},
-	{
-		"or": "Custom",
-		"tr": "Προσαρμοσμένο"
-	},
-	{
-		"or": "Customize",
-		"tr": "Προσαρμογή"
-	},
-	{
-		"or": "Decoration",
-		"tr": "Διακόσμηση"
-	},
-	{
-		"or": "Demo",
-		"tr": "Επίδειξη"
-	},
-	{
-		"or": "Detail",
-		"tr": "Λεπτομέρεια"
+		"or": "Delete skin",
+		"tr": ""
 	},
 	{
 		"or": "Editor",
 		"tr": ""
 	},
 	{
-		"or": "Eyes",
-		"tr": "Μάτια"
-	},
-	{
-		"or": "Format",
-		"tr": "Τύπος"
-	},
-	{
-		"or": "Game starts in",
-		"tr": "Το παιχνίδι αρχίζει σε"
-	},
-	{
-		"or": "Global",
-		"tr": "Παγκόσμια"
-	},
-	{
-		"or": "Hands",
-		"tr": "Χέρια"
-	},
-	{
-		"or": "Host address:",
-		"tr": "Διεύθυνση διακομιστή:"
-	},
-	{
-		"or": "Hue:",
-		"tr": "Απόχ:"
-	},
-	{
-		"or": "Join",
-		"tr": "Συμμετοχή στην"
-	},
-	{
-		"or": "Joined",
-		"tr": "Έθεσε συμμετοχή"
-	},
-	{
-		"or": "Joined blue",
-		"tr": "Έθεσε συμμετοχή στη μπλε"
-	},
-	{
-		"or": "Joined red",
-		"tr": "Έθεσε συμμετοχή στην κόκκινη"
-	},
-	{
-		"or": "Kick voting requires %d players on the server",
-		"tr": "Ψήφισμα προς αποβολή χρειάζεται %d παίκτες σε αυτόν τον διακομιστή"
-	},
-	{
-		"or": "Laser",
-		"tr": "Λέιζερ"
-	},
-	{
-		"or": "Length",
-		"tr": "Μάκρος"
-	},
-	{
-		"or": "Letterbox",
-		"tr": "Γραμματοκιβώτιο"
-	},
-	{
-		"or": "Lgt:",
-		"tr": "Φωτ:"
-	},
-	{
-		"or": "Local",
-		"tr": "Τοπικά"
-	},
-	{
-		"or": "Local server",
-		"tr": "Τοπικός διακομιστής"
-	},
-	{
-		"or": "Match",
-		"tr": "Ταίρι"
-	},
-	{
-		"or": "Max",
-		"tr": "Μεγ"
-	},
-	{
-		"or": "Misc",
-		"tr": "Διάφορα"
-	},
-	{
-		"or": "Netversion",
-		"tr": "Έκδοση"
-	},
-	{
-		"or": "Nickname is empty.",
-		"tr": "Το ξευδώνυμο είναι κενό."
-	},
-	{
-		"or": "Normal:",
-		"tr": "Κανονικό:"
-	},
-	{
-		"or": "Only %d active players are allowed",
-		"tr": "Επιτρέπονται μέχρι %d ενεργοί παίκτες"
-	},
-	{
-		"or": "Personal",
-		"tr": "Προσωπικό"
-	},
-	{
-		"or": "Ready",
-		"tr": "Έτοιμος"
-	},
-	{
-		"or": "Record",
-		"tr": "Καταγραφή"
-	},
-	{
-		"or": "Recorded",
-		"tr": "Καταγράφη"
-	},
-	{
-		"or": "Reset",
-		"tr": "Επαναφορά"
-	},
-	{
-		"or": "Resolutions",
-		"tr": "Αναλύσεις"
-	},
-	{
-		"or": "Round over",
-		"tr": "Τέλος γύρου"
-	},
-	{
-		"or": "Round over!",
-		"tr": "Τέλος γύρου!"
-	},
-	{
-		"or": "Sat:",
-		"tr": "Κορ:"
-	},
-	{
-		"or": "Save",
-		"tr": "Αποθήκευση"
-	},
-	{
-		"or": "Save skin",
-		"tr": "Αποθήκευση στολής"
-	},
-	{
-		"or": "Screen",
-		"tr": "Οθόνη"
-	},
-	{
-		"or": "Search:",
-		"tr": "Αναζήτηση:"
-	},
-	{
-		"or": "Server does not allow voting to kick players",
-		"tr": "Ο διακομιστής δεν επιτρέπει ψήφους για αποβολή παικτών"
-	},
-	{
-		"or": "Server does not allow voting to move players to spectators",
-		"tr": "Ο διακομιστής δεν επιτρέπει μετακίνηση παικτών στους θεατές"
-	},
-	{
-		"or": "Servers",
-		"tr": "Διακομιστές"
-	},
-	{
-		"or": "Size",
-		"tr": "Μέγεθος"
-	},
-	{
-		"or": "Skin",
-		"tr": "Στολή"
-	},
-	{
-		"or": "Spectating",
-		"tr": "Θέαση"
-	},
-	{
-		"or": "Spectators aren't allowed to start a vote.",
-		"tr": "Οι θεατές δεν μπορούν να εκκινήσουν ψήφο"
-	},
-	{
-		"or": "Standard Gametype",
-		"tr": "Κανονικός Τύπος Παιχνιδιού"
-	},
-	{
-		"or": "Tattoo",
-		"tr": "Τατουάζ"
-	},
-	{
-		"or": "Tattoos",
-		"tr": "Τατουάζ"
-	},
-	{
-		"or": "Team:",
-		"tr": "Ομάδα"
-	},
-	{
-		"or": "Teams are locked",
-		"tr": "Οι ομάδες είναι κλειδωμένες"
-	},
-	{
-		"or": "Teams are locked. Time to wait before changing team: %02d:%02d",
-		"tr": "Οι ομάδες είναι κλειδωμένες. Αναμοή πριν μπορείτε να αλλάξετε ομάδα: %02d:%02d"
-	},
-	{
-		"or": "Teams were locked",
-		"tr": "Οι ομάδες κλειδώθηκαν"
-	},
-	{
-		"or": "Teams were unlocked",
-		"tr": "Οι ομάδες ξεκλειδώθηκαν"
-	},
-	{
 		"or": "Tee",
 		"tr": ""
 	},
 	{
-		"or": "Texture",
-		"tr": "Υφή"
+		"or": "The %s flag was captured by '%s'",
+		"tr": ""
 	},
 	{
-		"or": "Volume",
-		"tr": "Ένταση"
+		"or": "The %s flag was captured by '%s' (%.2f seconds)",
+		"tr": ""
 	},
 	{
-		"or": "Vote aborted",
-		"tr": "Η ψήφος ματαιώθηκε"
-	},
-	{
-		"or": "Vote failed",
-		"tr": "Η ψήφος απέτυχε"
-	},
-	{
-		"or": "Vote passed",
-		"tr": "Η ψήφος πέρασε"
-	},
-	{
-		"or": "Wait for current vote to end before calling a new one.",
-		"tr": "Περιμένετε για τη λήξη της τρέχον ψηφοφορίας πριν ζητήσετε καινούργια."
-	},
-	{
-		"or": "Wait for next round",
-		"tr": "Αναμονή για τον επόμενο γύρο"
-	},
-	{
-		"or": "Wide",
-		"tr": "Ευρύς"
-	},
-	{
-		"or": "You must wait %d seconds before making another vote",
-		"tr": "Πρέπει να περιμένετε %d δευτερόλεπτα πριν ζητήσετε καινούργια ψήφο"
-	},
-	{
-		"or": "blue",
-		"tr": "μπλε"
-	},
-	{
-		"or": "blue team",
-		"tr": "μπλε ομάδα"
-	},
-	{
-		"or": "game",
-		"tr": "παιχνίδι"
-	},
-	{
-		"or": "locked",
-		"tr": "κλειδομένο"
-	},
-	{
-		"or": "no players",
-		"tr": "δεν έχει παίκτες"
-	},
-	{
-		"or": "red",
-		"tr": "κόκκινη"
-	},
-	{
-		"or": "red team",
-		"tr": "κόκκινη ομάδα"
-	},
-	{
-		"or": "spectators",
-		"tr": "θεατές"
-	},
-	{
-		"or": "wait for more players",
-		"tr": "αναμονή για περισσότερους παίκτες"
+		"or": "Unable to delete the skin",
+		"tr": ""
 	}],
 "old translations": [
-	{
-		"or": "New name:",
-		"tr": "Νέο όνομα:"
-	},
-	{
-		"or": "Sat.",
-		"tr": "Κορεσμός"
-	},
-	{
-		"or": "Miscellaneous",
-		"tr": "Διάφορα"
-	},
-	{
-		"or": "Internet",
-		"tr": "Διαδίκτυο"
-	},
-	{
-		"or": "Max demos",
-		"tr": "Μέγιστος αριθμός επιδείξεων"
-	},
-	{
-		"or": "News",
-		"tr": "Νέα"
-	},
-	{
-		"or": "Join game",
-		"tr": "Συμμετοχή"
-	},
-	{
-		"or": "FSAA samples",
-		"tr": "Δείγματα FSAA"
-	},
-	{
-		"or": "%d of %d servers, %d players",
-		"tr": "%d από %d διακ/στές, %d παίκτες"
-	},
-	{
-		"or": "Sound volume",
-		"tr": "Ένταση ήχου"
-	},
-	{
-		"or": "Created:",
-		"tr": "Δημιουργήθηκε:"
-	},
-	{
-		"or": "Max Screenshots",
-		"tr": "Μέγιστος αριθμός στιγμιότυπων"
-	},
-	{
-		"or": "Length:",
-		"tr": "Διάρκεια:"
-	},
-	{
-		"or": "Skin name",
-		"tr": ""
-	},
-	{
-		"or": "Rifle",
-		"tr": "Λέιζερ"
-	},
-	{
-		"or": "Patterns",
-		"tr": ""
-	},
-	{
-		"or": "Netversion:",
-		"tr": "Έκδοση:"
-	},
-	{
-		"or": "Map:",
-		"tr": "Χάρτης:"
-	},
 	{
 		"or": "%d Bytes",
 		"tr": "%d Bytes"
 	},
 	{
-		"or": "Coloration",
-		"tr": ""
-	},
-	{
-		"or": "Info",
-		"tr": "Πληροφορίες"
-	},
-	{
-		"or": "Hue",
-		"tr": "Απόχρωση"
-	},
-	{
-		"or": "Record demo",
-		"tr": "Εγγ. επίδειξης"
-	},
-	{
-		"or": "Your skin",
-		"tr": "Η στολή σας"
-	},
-	{
-		"or": "Size:",
-		"tr": "Μέγεθος:"
-	},
-	{
-		"or": "Reset to defaults",
-		"tr": "Επαναφορά προεπιλογών"
-	},
-	{
-		"or": "Quit anyway?",
-		"tr": "Έξοδος οπωσδήποτε;"
-	},
-	{
-		"or": "Display Modes",
-		"tr": "Ανάλυσεις Οθόνης"
-	},
-	{
-		"or": "Version:",
-		"tr": "Έκδοση:"
-	},
-	{
-		"or": "Round",
-		"tr": "Γύρος"
-	},
-	{
-		"or": "Lht.",
-		"tr": "Φωτεινότ."
-	},
-	{
-		"or": "no limit",
-		"tr": "χωρίς όριο"
-	},
-	{
-		"or": "Quick search:",
-		"tr": "Γρήγορη αναζήτηση:"
-	},
-	{
-		"or": "UI Color",
-		"tr": "Χρώμα Μενού"
-	},
-	{
-		"or": "Host address",
-		"tr": "Διεύθυνση διακομιστή"
-	},
-	{
-		"or": "Crc:",
-		"tr": "Crc:"
+		"or": "%d of %d servers, %d players",
+		"tr": "%d από %d διακ/στές, %d παίκτες"
 	},
 	{
 		"or": "Alpha",
@@ -1339,23 +1191,191 @@
 		"tr": ""
 	},
 	{
+		"or": "Bodies",
+		"tr": "Σώματα"
+	},
+	{
+		"or": "Body",
+		"tr": "Σώμα"
+	},
+	{
+		"or": "Coloration",
+		"tr": ""
+	},
+	{
+		"or": "Crc:",
+		"tr": "Crc:"
+	},
+	{
+		"or": "Created:",
+		"tr": "Δημιουργήθηκε:"
+	},
+	{
 		"or": "Current version: %s",
 		"tr": "Τρέχουσα έκδοση: %s"
+	},
+	{
+		"or": "Decoration",
+		"tr": "Διακόσμηση"
+	},
+	{
+		"or": "Display Modes",
+		"tr": "Ανάλυσεις Οθόνης"
+	},
+	{
+		"or": "Eyes",
+		"tr": "Μάτια"
+	},
+	{
+		"or": "Feet",
+		"tr": "Πόδια"
 	},
 	{
 		"or": "Filter",
 		"tr": "Φίλτρο"
 	},
 	{
+		"or": "FSAA samples",
+		"tr": "Δείγματα FSAA"
+	},
+	{
+		"or": "Hands",
+		"tr": "Χέρια"
+	},
+	{
+		"or": "Host address",
+		"tr": "Διεύθυνση διακομιστή"
+	},
+	{
+		"or": "Hue",
+		"tr": "Απόχρωση"
+	},
+	{
+		"or": "Info",
+		"tr": "Πληροφορίες"
+	},
+	{
+		"or": "Internet",
+		"tr": "Διαδίκτυο"
+	},
+	{
+		"or": "Join game",
+		"tr": "Συμμετοχή"
+	},
+	{
 		"or": "LAN",
 		"tr": "Τοπικά"
+	},
+	{
+		"or": "Length:",
+		"tr": "Διάρκεια:"
+	},
+	{
+		"or": "Lht.",
+		"tr": "Φωτεινότ."
+	},
+	{
+		"or": "Map:",
+		"tr": "Χάρτης:"
+	},
+	{
+		"or": "Max demos",
+		"tr": "Μέγιστος αριθμός επιδείξεων"
+	},
+	{
+		"or": "Max Screenshots",
+		"tr": "Μέγιστος αριθμός στιγμιότυπων"
+	},
+	{
+		"or": "Miscellaneous",
+		"tr": "Διάφορα"
 	},
 	{
 		"or": "Name plates size",
 		"tr": "Μήκος ψευδωνύμου"
 	},
 	{
+		"or": "Netversion:",
+		"tr": "Έκδοση:"
+	},
+	{
+		"or": "New name:",
+		"tr": "Νέο όνομα:"
+	},
+	{
+		"or": "News",
+		"tr": "Νέα"
+	},
+	{
+		"or": "no limit",
+		"tr": "χωρίς όριο"
+	},
+	{
+		"or": "Patterns",
+		"tr": ""
+	},
+	{
+		"or": "Quick search:",
+		"tr": "Γρήγορη αναζήτηση:"
+	},
+	{
+		"or": "Quit anyway?",
+		"tr": "Έξοδος οπωσδήποτε;"
+	},
+	{
+		"or": "Record demo",
+		"tr": "Εγγ. επίδειξης"
+	},
+	{
+		"or": "Reset to defaults",
+		"tr": "Επαναφορά προεπιλογών"
+	},
+	{
+		"or": "Rifle",
+		"tr": "Λέιζερ"
+	},
+	{
+		"or": "Round",
+		"tr": "Γύρος"
+	},
+	{
+		"or": "Sat.",
+		"tr": "Κορεσμός"
+	},
+	{
+		"or": "Size:",
+		"tr": "Μέγεθος:"
+	},
+	{
+		"or": "Skin name",
+		"tr": ""
+	},
+	{
+		"or": "Sound volume",
+		"tr": "Ένταση ήχου"
+	},
+	{
+		"or": "Tattoo",
+		"tr": "Τατουάζ"
+	},
+	{
+		"or": "Tattoos",
+		"tr": "Τατουάζ"
+	},
+	{
 		"or": "Type:",
 		"tr": "Τύπος:"
+	},
+	{
+		"or": "UI Color",
+		"tr": "Χρώμα Μενού"
+	},
+	{
+		"or": "Version:",
+		"tr": "Έκδοση:"
+	},
+	{
+		"or": "Your skin",
+		"tr": "Η στολή σας"
 	}]
 }

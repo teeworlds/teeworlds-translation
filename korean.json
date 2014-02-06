@@ -93,10 +93,6 @@
 		"tr": "블루팀 승리!"
 	},
 	{
-		"or": "Body",
-		"tr": "몸"
-	},
-	{
 		"or": "Call vote",
 		"tr": "투표"
 	},
@@ -221,10 +217,6 @@
 		"tr": "즐겨찾기"
 	},
 	{
-		"or": "Feet",
-		"tr": "발"
-	},
-	{
 		"or": "Fire",
 		"tr": "발사"
 	},
@@ -325,16 +317,16 @@
 		"tr": "로딩"
 	},
 	{
-		"or": "MOTD",
-		"tr": "MOTD"
-	},
-	{
 		"or": "Map",
 		"tr": "맵"
 	},
 	{
 		"or": "Maximum ping:",
 		"tr": "최대 핑"
+	},
+	{
+		"or": "MOTD",
+		"tr": "MOTD"
 	},
 	{
 		"or": "Mouse sens.",
@@ -449,12 +441,12 @@
 		"tr": "종료"
 	},
 	{
-		"or": "REC %3d:%02d",
-		"tr": "녹화 %3d:%02d"
-	},
-	{
 		"or": "Reason:",
 		"tr": "이유:"
+	},
+	{
+		"or": "REC %3d:%02d",
+		"tr": "녹화 %3d:%02d"
 	},
 	{
 		"or": "Red team",
@@ -802,6 +794,10 @@
 		"tr": ""
 	},
 	{
+		"or": "Are you sure that you want to delete the skin?",
+		"tr": ""
+	},
+	{
 		"or": "Are you sure you want to rename the demo?",
 		"tr": ""
 	},
@@ -818,7 +814,11 @@
 		"tr": ""
 	},
 	{
-		"or": "Bodies",
+		"or": "blue",
+		"tr": ""
+	},
+	{
+		"or": "blue team",
 		"tr": ""
 	},
 	{
@@ -850,7 +850,7 @@
 		"tr": ""
 	},
 	{
-		"or": "Decoration",
+		"or": "Delete skin",
 		"tr": ""
 	},
 	{
@@ -870,11 +870,11 @@
 		"tr": ""
 	},
 	{
-		"or": "Eyes",
+		"or": "Format",
 		"tr": ""
 	},
 	{
-		"or": "Format",
+		"or": "game",
 		"tr": ""
 	},
 	{
@@ -887,10 +887,6 @@
 	},
 	{
 		"or": "Global",
-		"tr": ""
-	},
-	{
-		"or": "Hands",
 		"tr": ""
 	},
 	{
@@ -946,6 +942,10 @@
 		"tr": ""
 	},
 	{
+		"or": "locked",
+		"tr": ""
+	},
+	{
 		"or": "Match",
 		"tr": ""
 	},
@@ -963,6 +963,10 @@
 	},
 	{
 		"or": "Nickname is empty.",
+		"tr": ""
+	},
+	{
+		"or": "no players",
 		"tr": ""
 	},
 	{
@@ -995,6 +999,14 @@
 	},
 	{
 		"or": "Recorded",
+		"tr": ""
+	},
+	{
+		"or": "red",
+		"tr": ""
+	},
+	{
+		"or": "red team",
 		"tr": ""
 	},
 	{
@@ -1074,19 +1086,15 @@
 		"tr": ""
 	},
 	{
+		"or": "spectators",
+		"tr": ""
+	},
+	{
 		"or": "Spectators aren't allowed to start a vote.",
 		"tr": ""
 	},
 	{
 		"or": "Standard Gametype",
-		"tr": ""
-	},
-	{
-		"or": "Tattoo",
-		"tr": ""
-	},
-	{
-		"or": "Tattoos",
 		"tr": ""
 	},
 	{
@@ -1118,6 +1126,18 @@
 		"tr": ""
 	},
 	{
+		"or": "The %s flag was captured by '%s'",
+		"tr": ""
+	},
+	{
+		"or": "The %s flag was captured by '%s' (%.2f seconds)",
+		"tr": ""
+	},
+	{
+		"or": "Unable to delete the skin",
+		"tr": ""
+	},
+	{
 		"or": "Volume",
 		"tr": ""
 	},
@@ -1138,6 +1158,10 @@
 		"tr": ""
 	},
 	{
+		"or": "wait for more players",
+		"tr": ""
+	},
+	{
 		"or": "Wait for next round",
 		"tr": ""
 	},
@@ -1148,163 +1172,67 @@
 	{
 		"or": "You must wait %d seconds before making another vote",
 		"tr": ""
-	},
-	{
-		"or": "blue",
-		"tr": ""
-	},
-	{
-		"or": "blue team",
-		"tr": ""
-	},
-	{
-		"or": "game",
-		"tr": ""
-	},
-	{
-		"or": "locked",
-		"tr": ""
-	},
-	{
-		"or": "no players",
-		"tr": ""
-	},
-	{
-		"or": "red",
-		"tr": ""
-	},
-	{
-		"or": "red team",
-		"tr": ""
-	},
-	{
-		"or": "spectators",
-		"tr": ""
-	},
-	{
-		"or": "wait for more players",
-		"tr": ""
 	}],
 "old translations": [
 	{
-		"or": "New name:",
-		"tr": "새 이름:"
-	},
-	{
-		"or": "Sat.",
-		"tr": "채도"
-	},
-	{
-		"or": "Internet",
-		"tr": "인터넷"
-	},
-	{
-		"or": "Max demos",
-		"tr": "최대 데모"
-	},
-	{
-		"or": "News",
-		"tr": "뉴스"
-	},
-	{
-		"or": "Join game",
-		"tr": "게임 참가"
-	},
-	{
-		"or": "FSAA samples",
-		"tr": "FSAA 샘플"
+		"or": "%d Bytes",
+		"tr": "%d Bytes"
 	},
 	{
 		"or": "%d of %d servers, %d players",
 		"tr": "%d/%d 서버, %d 플레이어"
 	},
 	{
-		"or": "Sound volume",
-		"tr": "소리 크기"
+		"or": "Alpha",
+		"tr": "알파"
+	},
+	{
+		"or": "Bodies",
+		"tr": ""
+	},
+	{
+		"or": "Body",
+		"tr": "몸"
+	},
+	{
+		"or": "Crc:",
+		"tr": "Crc:"
 	},
 	{
 		"or": "Created:",
 		"tr": "Created:"
 	},
 	{
-		"or": "Max Screenshots",
-		"tr": "최대 스크린샷"
+		"or": "Current version: %s",
+		"tr": "현재 버전: %s"
 	},
 	{
-		"or": "Length:",
-		"tr": "길이:"
-	},
-	{
-		"or": "Rifle",
-		"tr": "레이저"
-	},
-	{
-		"or": "Netversion:",
-		"tr": "넷 버전:"
-	},
-	{
-		"or": "Map:",
-		"tr": "맵:"
-	},
-	{
-		"or": "%d Bytes",
-		"tr": "%d Bytes"
-	},
-	{
-		"or": "Info",
-		"tr": "정보"
-	},
-	{
-		"or": "Miscellaneous",
-		"tr": "여러가지"
-	},
-	{
-		"or": "Record demo",
-		"tr": "데모 녹화"
-	},
-	{
-		"or": "Your skin",
-		"tr": "당신의 스킨"
-	},
-	{
-		"or": "Size:",
-		"tr": "사이즈:"
-	},
-	{
-		"or": "Reset to defaults",
-		"tr": "초기화"
-	},
-	{
-		"or": "Quit anyway?",
-		"tr": "종료하시겠습니까?"
+		"or": "Decoration",
+		"tr": ""
 	},
 	{
 		"or": "Display Modes",
 		"tr": "디스플레이 모드"
 	},
 	{
-		"or": "Version:",
-		"tr": "버전:"
+		"or": "Eyes",
+		"tr": ""
 	},
 	{
-		"or": "Round",
-		"tr": "라운드"
+		"or": "Feet",
+		"tr": "발"
 	},
 	{
-		"or": "Lht.",
-		"tr": "명도"
+		"or": "Filter",
+		"tr": "필터"
 	},
 	{
-		"or": "no limit",
-		"tr": "제한 없음"
+		"or": "FSAA samples",
+		"tr": "FSAA 샘플"
 	},
 	{
-		"or": "Quick search:",
-		"tr": "빠른 검색:"
-	},
-	{
-		"or": "UI Color",
-		"tr": "메뉴 색깔"
+		"or": "Hands",
+		"tr": ""
 	},
 	{
 		"or": "Host address",
@@ -1315,31 +1243,123 @@
 		"tr": "색조"
 	},
 	{
-		"or": "Crc:",
-		"tr": "Crc:"
+		"or": "Info",
+		"tr": "정보"
 	},
 	{
-		"or": "Alpha",
-		"tr": "알파"
+		"or": "Internet",
+		"tr": "인터넷"
 	},
 	{
-		"or": "Current version: %s",
-		"tr": "현재 버전: %s"
-	},
-	{
-		"or": "Filter",
-		"tr": "필터"
+		"or": "Join game",
+		"tr": "게임 참가"
 	},
 	{
 		"or": "LAN",
 		"tr": "랜"
 	},
 	{
+		"or": "Length:",
+		"tr": "길이:"
+	},
+	{
+		"or": "Lht.",
+		"tr": "명도"
+	},
+	{
+		"or": "Map:",
+		"tr": "맵:"
+	},
+	{
+		"or": "Max demos",
+		"tr": "최대 데모"
+	},
+	{
+		"or": "Max Screenshots",
+		"tr": "최대 스크린샷"
+	},
+	{
+		"or": "Miscellaneous",
+		"tr": "여러가지"
+	},
+	{
 		"or": "Name plates size",
 		"tr": "크기"
 	},
 	{
+		"or": "Netversion:",
+		"tr": "넷 버전:"
+	},
+	{
+		"or": "New name:",
+		"tr": "새 이름:"
+	},
+	{
+		"or": "News",
+		"tr": "뉴스"
+	},
+	{
+		"or": "no limit",
+		"tr": "제한 없음"
+	},
+	{
+		"or": "Quick search:",
+		"tr": "빠른 검색:"
+	},
+	{
+		"or": "Quit anyway?",
+		"tr": "종료하시겠습니까?"
+	},
+	{
+		"or": "Record demo",
+		"tr": "데모 녹화"
+	},
+	{
+		"or": "Reset to defaults",
+		"tr": "초기화"
+	},
+	{
+		"or": "Rifle",
+		"tr": "레이저"
+	},
+	{
+		"or": "Round",
+		"tr": "라운드"
+	},
+	{
+		"or": "Sat.",
+		"tr": "채도"
+	},
+	{
+		"or": "Size:",
+		"tr": "사이즈:"
+	},
+	{
+		"or": "Sound volume",
+		"tr": "소리 크기"
+	},
+	{
+		"or": "Tattoo",
+		"tr": ""
+	},
+	{
+		"or": "Tattoos",
+		"tr": ""
+	},
+	{
 		"or": "Type:",
 		"tr": "종류:"
+	},
+	{
+		"or": "UI Color",
+		"tr": "메뉴 색깔"
+	},
+	{
+		"or": "Version:",
+		"tr": "버전:"
+	},
+	{
+		"or": "Your skin",
+		"tr": "당신의 스킨"
 	}]
 }

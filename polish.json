@@ -96,10 +96,6 @@
 		"tr": "Niebiescy wygrali!"
 	},
 	{
-		"or": "Body",
-		"tr": "Ciało"
-	},
-	{
 		"or": "Call vote",
 		"tr": "Głosowanie"
 	},
@@ -228,10 +224,6 @@
 		"tr": "Ulubione"
 	},
 	{
-		"or": "Feet",
-		"tr": "Stopy"
-	},
-	{
 		"or": "Fire",
 		"tr": "Strzał"
 	},
@@ -332,16 +324,16 @@
 		"tr": "Ładowanie"
 	},
 	{
-		"or": "MOTD",
-		"tr": "Wiadomość dnia"
-	},
-	{
 		"or": "Map",
 		"tr": "Mapa"
 	},
 	{
 		"or": "Maximum ping:",
 		"tr": "Maksymalny ping:"
+	},
+	{
+		"or": "MOTD",
+		"tr": "Wiadomość dnia"
 	},
 	{
 		"or": "Mouse sens.",
@@ -464,12 +456,12 @@
 		"tr": "Wyjście"
 	},
 	{
-		"or": "REC %3d:%02d",
-		"tr": "REC %3d:%02d"
-	},
-	{
 		"or": "Reason:",
 		"tr": "Powód:"
+	},
+	{
+		"or": "REC %3d:%02d",
+		"tr": "REC %3d:%02d"
 	},
 	{
 		"or": "Red team",
@@ -825,6 +817,10 @@
 		"tr": ""
 	},
 	{
+		"or": "Are you sure that you want to delete the skin?",
+		"tr": ""
+	},
+	{
 		"or": "Are you sure you want to rename the demo?",
 		"tr": ""
 	},
@@ -841,7 +837,11 @@
 		"tr": ""
 	},
 	{
-		"or": "Bodies",
+		"or": "blue",
+		"tr": ""
+	},
+	{
+		"or": "blue team",
 		"tr": ""
 	},
 	{
@@ -873,7 +873,7 @@
 		"tr": ""
 	},
 	{
-		"or": "Decoration",
+		"or": "Delete skin",
 		"tr": ""
 	},
 	{
@@ -889,11 +889,11 @@
 		"tr": ""
 	},
 	{
-		"or": "Eyes",
+		"or": "Format",
 		"tr": ""
 	},
 	{
-		"or": "Format",
+		"or": "game",
 		"tr": ""
 	},
 	{
@@ -906,10 +906,6 @@
 	},
 	{
 		"or": "Global",
-		"tr": ""
-	},
-	{
-		"or": "Hands",
 		"tr": ""
 	},
 	{
@@ -965,6 +961,10 @@
 		"tr": ""
 	},
 	{
+		"or": "locked",
+		"tr": ""
+	},
+	{
 		"or": "Match",
 		"tr": ""
 	},
@@ -982,6 +982,10 @@
 	},
 	{
 		"or": "Nickname is empty.",
+		"tr": ""
+	},
+	{
+		"or": "no players",
 		"tr": ""
 	},
 	{
@@ -1006,6 +1010,14 @@
 	},
 	{
 		"or": "Recorded",
+		"tr": ""
+	},
+	{
+		"or": "red",
+		"tr": ""
+	},
+	{
+		"or": "red team",
 		"tr": ""
 	},
 	{
@@ -1077,19 +1089,15 @@
 		"tr": ""
 	},
 	{
+		"or": "spectators",
+		"tr": ""
+	},
+	{
 		"or": "Spectators aren't allowed to start a vote.",
 		"tr": ""
 	},
 	{
 		"or": "Standard Gametype",
-		"tr": ""
-	},
-	{
-		"or": "Tattoo",
-		"tr": ""
-	},
-	{
-		"or": "Tattoos",
 		"tr": ""
 	},
 	{
@@ -1121,6 +1129,18 @@
 		"tr": ""
 	},
 	{
+		"or": "The %s flag was captured by '%s'",
+		"tr": ""
+	},
+	{
+		"or": "The %s flag was captured by '%s' (%.2f seconds)",
+		"tr": ""
+	},
+	{
+		"or": "Unable to delete the skin",
+		"tr": ""
+	},
+	{
 		"or": "Volume",
 		"tr": ""
 	},
@@ -1141,6 +1161,10 @@
 		"tr": ""
 	},
 	{
+		"or": "wait for more players",
+		"tr": ""
+	},
+	{
 		"or": "Wait for next round",
 		"tr": ""
 	},
@@ -1151,191 +1175,15 @@
 	{
 		"or": "You must wait %d seconds before making another vote",
 		"tr": ""
-	},
-	{
-		"or": "blue",
-		"tr": ""
-	},
-	{
-		"or": "blue team",
-		"tr": ""
-	},
-	{
-		"or": "game",
-		"tr": ""
-	},
-	{
-		"or": "locked",
-		"tr": ""
-	},
-	{
-		"or": "no players",
-		"tr": ""
-	},
-	{
-		"or": "red",
-		"tr": ""
-	},
-	{
-		"or": "red team",
-		"tr": ""
-	},
-	{
-		"or": "spectators",
-		"tr": ""
-	},
-	{
-		"or": "wait for more players",
-		"tr": ""
 	}],
 "old translations": [
-	{
-		"or": "New name:",
-		"tr": "Nowa nazwa:"
-	},
-	{
-		"or": "Sat.",
-		"tr": "Nasycenie"
-	},
-	{
-		"or": "Miscellaneous",
-		"tr": "Różne"
-	},
-	{
-		"or": "Internet",
-		"tr": "Internet"
-	},
-	{
-		"or": "Max demos",
-		"tr": "Maksymalnie dem"
-	},
-	{
-		"or": "News",
-		"tr": "Wiadomości"
-	},
-	{
-		"or": "Join game",
-		"tr": "Dołącz"
-	},
-	{
-		"or": "FSAA samples",
-		"tr": "Próbkowanie FSAA (Antyaliasing)"
-	},
-	{
-		"or": "%d of %d servers, %d players",
-		"tr": "%d z %d serwerów, %d graczy"
-	},
-	{
-		"or": "Sound volume",
-		"tr": "Głośność"
-	},
-	{
-		"or": "utracić swojej pracy!",
-		"tr": ""
-	},
-	{
-		"or": "Created:",
-		"tr": "Utworzono:"
-	},
-	{
-		"or": "Max Screenshots",
-		"tr": "Maksymalnie screenshotów"
-	},
-	{
-		"or": "Length:",
-		"tr": "Długość:"
-	},
-	{
-		"or": "Skin name",
-		"tr": ""
-	},
-	{
-		"or": "Rifle",
-		"tr": "Laser"
-	},
-	{
-		"or": "Patterns",
-		"tr": ""
-	},
-	{
-		"or": "Netversion:",
-		"tr": "Wersja sieciowa:"
-	},
-	{
-		"or": "Map:",
-		"tr": "Mapa:"
-	},
 	{
 		"or": "%d Bytes",
 		"tr": "%d Bajtów"
 	},
 	{
-		"or": "Coloration",
-		"tr": ""
-	},
-	{
-		"or": "Info",
-		"tr": "Info"
-	},
-	{
-		"or": "Hue",
-		"tr": "Kolor"
-	},
-	{
-		"or": "Record demo",
-		"tr": "Nagraj demo"
-	},
-	{
-		"or": "Your skin",
-		"tr": "Twój wygląd"
-	},
-	{
-		"or": "Size:",
-		"tr": "Rozmiar:"
-	},
-	{
-		"or": "Reset to defaults",
-		"tr": "Przywróć domyślne"
-	},
-	{
-		"or": "Quit anyway?",
-		"tr": "Wyjść mimo wszystko?"
-	},
-	{
-		"or": "Display Modes",
-		"tr": "Tryby wyświetlania"
-	},
-	{
-		"or": "Version:",
-		"tr": "Wersja:"
-	},
-	{
-		"or": "Round",
-		"tr": "Runda"
-	},
-	{
-		"or": "Lht.",
-		"tr": "Jasność"
-	},
-	{
-		"or": "no limit",
-		"tr": "bez limitu"
-	},
-	{
-		"or": "Quick search:",
-		"tr": "Szybkie wyszukiwanie:"
-	},
-	{
-		"or": "UI Color",
-		"tr": "Kolor menu"
-	},
-	{
-		"or": "Host address",
-		"tr": "Adres serwera"
-	},
-	{
-		"or": "Crc:",
-		"tr": "Crc:"
+		"or": "%d of %d servers, %d players",
+		"tr": "%d z %d serwerów, %d graczy"
 	},
 	{
 		"or": "Alpha",
@@ -1346,23 +1194,195 @@
 		"tr": ""
 	},
 	{
+		"or": "Bodies",
+		"tr": ""
+	},
+	{
+		"or": "Body",
+		"tr": "Ciało"
+	},
+	{
+		"or": "Coloration",
+		"tr": ""
+	},
+	{
+		"or": "Crc:",
+		"tr": "Crc:"
+	},
+	{
+		"or": "Created:",
+		"tr": "Utworzono:"
+	},
+	{
 		"or": "Current version: %s",
 		"tr": "Aktualna wersja: %s"
+	},
+	{
+		"or": "Decoration",
+		"tr": ""
+	},
+	{
+		"or": "Display Modes",
+		"tr": "Tryby wyświetlania"
+	},
+	{
+		"or": "Eyes",
+		"tr": ""
+	},
+	{
+		"or": "Feet",
+		"tr": "Stopy"
 	},
 	{
 		"or": "Filter",
 		"tr": "Filtr"
 	},
 	{
+		"or": "FSAA samples",
+		"tr": "Próbkowanie FSAA (Antyaliasing)"
+	},
+	{
+		"or": "Hands",
+		"tr": ""
+	},
+	{
+		"or": "Host address",
+		"tr": "Adres serwera"
+	},
+	{
+		"or": "Hue",
+		"tr": "Kolor"
+	},
+	{
+		"or": "Info",
+		"tr": "Info"
+	},
+	{
+		"or": "Internet",
+		"tr": "Internet"
+	},
+	{
+		"or": "Join game",
+		"tr": "Dołącz"
+	},
+	{
 		"or": "LAN",
 		"tr": "LAN"
+	},
+	{
+		"or": "Length:",
+		"tr": "Długość:"
+	},
+	{
+		"or": "Lht.",
+		"tr": "Jasność"
+	},
+	{
+		"or": "Map:",
+		"tr": "Mapa:"
+	},
+	{
+		"or": "Max demos",
+		"tr": "Maksymalnie dem"
+	},
+	{
+		"or": "Max Screenshots",
+		"tr": "Maksymalnie screenshotów"
+	},
+	{
+		"or": "Miscellaneous",
+		"tr": "Różne"
 	},
 	{
 		"or": "Name plates size",
 		"tr": "Wielkość wyświetlanych nicków"
 	},
 	{
+		"or": "Netversion:",
+		"tr": "Wersja sieciowa:"
+	},
+	{
+		"or": "New name:",
+		"tr": "Nowa nazwa:"
+	},
+	{
+		"or": "News",
+		"tr": "Wiadomości"
+	},
+	{
+		"or": "no limit",
+		"tr": "bez limitu"
+	},
+	{
+		"or": "Patterns",
+		"tr": ""
+	},
+	{
+		"or": "Quick search:",
+		"tr": "Szybkie wyszukiwanie:"
+	},
+	{
+		"or": "Quit anyway?",
+		"tr": "Wyjść mimo wszystko?"
+	},
+	{
+		"or": "Record demo",
+		"tr": "Nagraj demo"
+	},
+	{
+		"or": "Reset to defaults",
+		"tr": "Przywróć domyślne"
+	},
+	{
+		"or": "Rifle",
+		"tr": "Laser"
+	},
+	{
+		"or": "Round",
+		"tr": "Runda"
+	},
+	{
+		"or": "Sat.",
+		"tr": "Nasycenie"
+	},
+	{
+		"or": "Size:",
+		"tr": "Rozmiar:"
+	},
+	{
+		"or": "Skin name",
+		"tr": ""
+	},
+	{
+		"or": "Sound volume",
+		"tr": "Głośność"
+	},
+	{
+		"or": "Tattoo",
+		"tr": ""
+	},
+	{
+		"or": "Tattoos",
+		"tr": ""
+	},
+	{
 		"or": "Type:",
 		"tr": "Typ:"
+	},
+	{
+		"or": "UI Color",
+		"tr": "Kolor menu"
+	},
+	{
+		"or": "utracić swojej pracy!",
+		"tr": ""
+	},
+	{
+		"or": "Version:",
+		"tr": "Wersja:"
+	},
+	{
+		"or": "Your skin",
+		"tr": "Twój wygląd"
 	}]
 }

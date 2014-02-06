@@ -178,8 +178,16 @@
 		"tr": "Негизги"
 	},
 	{
+		"or": "blue",
+		"tr": "көккө"
+	},
+	{
 		"or": "Blue team",
 		"tr": "Көк командасы"
+	},
+	{
+		"or": "blue team",
+		"tr": "көк командасына"
 	},
 	{
 		"or": "Blue team wins!",
@@ -382,6 +390,10 @@
 		"tr": "Толук экран режими"
 	},
 	{
+		"or": "game",
+		"tr": "оюнга"
+	},
+	{
 		"or": "Game",
 		"tr": "Оюн"
 	},
@@ -522,8 +534,8 @@
 		"tr": "Жердик сервер"
 	},
 	{
-		"or": "MOTD",
-		"tr": "Күндүн билдирмеси"
+		"or": "locked",
+		"tr": "блоктолду"
 	},
 	{
 		"or": "Map",
@@ -544,6 +556,10 @@
 	{
 		"or": "Misc",
 		"tr": "Кошумча"
+	},
+	{
+		"or": "MOTD",
+		"tr": "Күндүн билдирмеси"
 	},
 	{
 		"or": "Mouse sens.",
@@ -596,6 +612,10 @@
 	{
 		"or": "No password",
 		"tr": "Сырсөзсүз"
+	},
+	{
+		"or": "no players",
+		"tr": "оюнчулар жок"
 	},
 	{
 		"or": "No servers found",
@@ -686,10 +706,6 @@
 		"tr": "Чыгуу"
 	},
 	{
-		"or": "REC %3d:%02d",
-		"tr": "ЖАЗУУ %3d:%02d"
-	},
-	{
 		"or": "Ready",
 		"tr": "Даяр"
 	},
@@ -698,12 +714,24 @@
 		"tr": "Себеп:"
 	},
 	{
+		"or": "REC %3d:%02d",
+		"tr": "ЖАЗУУ %3d:%02d"
+	},
+	{
 		"or": "Record",
 		"tr": "Жазуу"
 	},
 	{
 		"or": "Recorded",
 		"tr": "Жазылды"
+	},
+	{
+		"or": "red",
+		"tr": "кызылга"
+	},
+	{
+		"or": "red team",
+		"tr": "кызыл командасына"
 	},
 	{
 		"or": "Red team",
@@ -918,6 +946,10 @@
 		"tr": "Байкоочулар"
 	},
 	{
+		"or": "spectators",
+		"tr": "байкоочуларга"
+	},
+	{
 		"or": "Spectators aren't allowed to start a vote.",
 		"tr": "Байкоочуларда добушту баштоо мүмкүнкүнчүлүктөрү жок"
 	},
@@ -1086,6 +1118,10 @@
 		"tr": "Жаңы добушту баштаар алдында кезектеги добуштун аягын күтүңүз."
 	},
 	{
+		"or": "wait for more players",
+		"tr": "дагы оюнчуларды күтүңүз"
+	},
+	{
 		"or": "Wait for next round",
 		"tr": "Кийинки раундду күтүңүз"
 	},
@@ -1116,161 +1152,180 @@
 	{
 		"or": "You must wait %d seconds before making another vote",
 		"tr": "Башка добушту баштоо үчүн, сиз %d секунда күтүшүңүз керек"
-	},
-	{
-		"or": "blue",
-		"tr": "көккө"
-	},
-	{
-		"or": "blue team",
-		"tr": "көк командасына"
-	},
-	{
-		"or": "game",
-		"tr": "оюнга"
-	},
-	{
-		"or": "locked",
-		"tr": "блоктолду"
-	},
-	{
-		"or": "no players",
-		"tr": "оюнчулар жок"
-	},
-	{
-		"or": "red",
-		"tr": "кызылга"
-	},
-	{
-		"or": "red team",
-		"tr": "кызыл командасына"
-	},
-	{
-		"or": "spectators",
-		"tr": "байкоочуларга"
-	},
-	{
-		"or": "wait for more players",
-		"tr": "дагы оюнчуларды күтүңүз"
 	}],
 "needs translation": [
-],
+	{
+		"or": "Are you sure that you want to delete the skin?",
+		"tr": ""
+	},
+	{
+		"or": "Delete skin",
+		"tr": ""
+	},
+	{
+		"or": "The %s flag was captured by '%s'",
+		"tr": ""
+	},
+	{
+		"or": "The %s flag was captured by '%s' (%.2f seconds)",
+		"tr": ""
+	},
+	{
+		"or": "Unable to delete the skin",
+		"tr": ""
+	}],
 "old translations": [
 	{
-		"or": "Internet",
-		"tr": "Интернет"
-	},
-	{
-		"or": "Body",
-		"tr": "Дене"
-	},
-	{
-		"or": "Max demos",
-		"tr": "Демолордун жогорчеги"
-	},
-	{
-		"or": "Are you sure you want to save your skin ? If a skin with this name already exists, it will be replaced.",
-		"tr": "Бул ат бош эмес, эгер сактасаңыз эски териңиз жаңы тери менен алмаштырылып калат."
-	},
-	{
-		"or": "Hands",
-		"tr": "Кол"
-	},
-	{
-		"or": "News",
-		"tr": "Жаңылыктар"
-	},
-	{
-		"or": "Sat.",
-		"tr": "Кан."
-	},
-	{
-		"or": "Join game",
-		"tr": "Ойноо"
-	},
-	{
-		"or": "Patterns",
-		"tr": "Шаблондор"
-	},
-	{
-		"or": "New name:",
-		"tr": "Жаңы ат:"
-	},
-	{
-		"or": "Bodies",
-		"tr": "Денелер"
+		"or": "%d Bytes",
+		"tr": "%d байт"
 	},
 	{
 		"or": "%d of %d servers, %d players",
 		"tr": "%d/%d сервер, %d оюнчу"
 	},
 	{
-		"or": "Sound volume",
-		"tr": "Үндүн катуулугу"
+		"or": "Alpha",
+		"tr": "Альфа"
 	},
 	{
-		"or": "Created:",
-		"tr": "Жаратылды:"
+		"or": "Are you sure you want to save your skin ? If a skin with this name already exists, it will be replaced.",
+		"tr": "Бул ат бош эмес, эгер сактасаңыз эски териңиз жаңы тери менен алмаштырылып калат."
 	},
 	{
-		"or": "Max Screenshots",
-		"tr": "Экран сүрөттөрүнүн жогорчеги"
+		"or": "Bodies",
+		"tr": "Денелер"
 	},
 	{
-		"or": "Record demo",
-		"tr": "Демо жазуу"
-	},
-	{
-		"or": "Length:",
-		"tr": "Узундук:"
-	},
-	{
-		"or": "Skin name",
-		"tr": "Тери аты"
+		"or": "Body",
+		"tr": "Дене"
 	},
 	{
 		"or": "Coloration",
 		"tr": "Түс"
 	},
 	{
-		"or": "Netversion:",
-		"tr": "Версия:"
+		"or": "Crc:",
+		"tr": "Crc:"
 	},
 	{
-		"or": "Map:",
-		"tr": "Карта:"
+		"or": "Created:",
+		"tr": "Жаратылды:"
+	},
+	{
+		"or": "Current version: %s",
+		"tr": "Кезектеги версия: %s"
+	},
+	{
+		"or": "Decoration",
+		"tr": "Жасалга"
+	},
+	{
+		"or": "Display Modes",
+		"tr": "Экран чечими"
+	},
+	{
+		"or": "Eyes",
+		"tr": "Көз"
+	},
+	{
+		"or": "Feet",
+		"tr": "Бут"
+	},
+	{
+		"or": "Filter",
+		"tr": "Фильтр"
 	},
 	{
 		"or": "FSAA samples",
 		"tr": "FSAA сэмплдери"
 	},
 	{
-		"or": "%d Bytes",
-		"tr": "%d байт"
+		"or": "Hands",
+		"tr": "Кол"
 	},
 	{
-		"or": "Tattoo",
-		"tr": "Тату"
+		"or": "Host address",
+		"tr": "Сервер дареги"
+	},
+	{
+		"or": "Hue",
+		"tr": "Түс"
 	},
 	{
 		"or": "Info",
 		"tr": "Маалымат"
 	},
 	{
-		"or": "Miscellaneous",
-		"tr": "Кошумча"
+		"or": "Internet",
+		"tr": "Интернет"
+	},
+	{
+		"or": "Join game",
+		"tr": "Ойноо"
+	},
+	{
+		"or": "LAN",
+		"tr": "LAN"
+	},
+	{
+		"or": "Length:",
+		"tr": "Узундук:"
 	},
 	{
 		"or": "Lht.",
 		"tr": "Ачык түс."
 	},
 	{
-		"or": "Your skin",
-		"tr": "Сиздин териңиз"
+		"or": "Map:",
+		"tr": "Карта:"
 	},
 	{
-		"or": "Size:",
-		"tr": "Өлчөм:"
+		"or": "Max demos",
+		"tr": "Демолордун жогорчеги"
+	},
+	{
+		"or": "Max Screenshots",
+		"tr": "Экран сүрөттөрүнүн жогорчеги"
+	},
+	{
+		"or": "Miscellaneous",
+		"tr": "Кошумча"
+	},
+	{
+		"or": "Name plates size",
+		"tr": "Өлчөм"
+	},
+	{
+		"or": "Netversion:",
+		"tr": "Версия:"
+	},
+	{
+		"or": "New name:",
+		"tr": "Жаңы ат:"
+	},
+	{
+		"or": "News",
+		"tr": "Жаңылыктар"
+	},
+	{
+		"or": "no limit",
+		"tr": "лимитсиз"
+	},
+	{
+		"or": "Patterns",
+		"tr": "Шаблондор"
+	},
+	{
+		"or": "Quick search:",
+		"tr": "Тез издөө:"
+	},
+	{
+		"or": "Quit anyway?",
+		"tr": "Баар деле чыгасызбы?"
+	},
+	{
+		"or": "Record demo",
+		"tr": "Демо жазуу"
 	},
 	{
 		"or": "Reset to defaults",
@@ -1281,83 +1336,47 @@
 		"tr": "Лазер"
 	},
 	{
-		"or": "Quit anyway?",
-		"tr": "Баар деле чыгасызбы?"
-	},
-	{
-		"or": "Display Modes",
-		"tr": "Экран чечими"
-	},
-	{
-		"or": "Version:",
-		"tr": "Версия:"
-	},
-	{
 		"or": "Round",
 		"tr": "Раунд"
 	},
 	{
-		"or": "no limit",
-		"tr": "лимитсиз"
+		"or": "Sat.",
+		"tr": "Кан."
 	},
 	{
-		"or": "Quick search:",
-		"tr": "Тез издөө:"
+		"or": "Size:",
+		"tr": "Өлчөм:"
 	},
 	{
-		"or": "Feet",
-		"tr": "Бут"
+		"or": "Skin name",
+		"tr": "Тери аты"
 	},
 	{
-		"or": "Eyes",
-		"tr": "Көз"
+		"or": "Sound volume",
+		"tr": "Үндүн катуулугу"
 	},
 	{
-		"or": "UI Color",
-		"tr": "Интерфейс түсү"
-	},
-	{
-		"or": "Host address",
-		"tr": "Сервер дареги"
+		"or": "Tattoo",
+		"tr": "Тату"
 	},
 	{
 		"or": "Tattoos",
 		"tr": "Татулар"
 	},
 	{
-		"or": "Hue",
-		"tr": "Түс"
-	},
-	{
-		"or": "Crc:",
-		"tr": "Crc:"
-	},
-	{
-		"or": "Alpha",
-		"tr": "Альфа"
-	},
-	{
-		"or": "Current version: %s",
-		"tr": "Кезектеги версия: %s"
-	},
-	{
-		"or": "Filter",
-		"tr": "Фильтр"
-	},
-	{
-		"or": "LAN",
-		"tr": "LAN"
-	},
-	{
-		"or": "Name plates size",
-		"tr": "Өлчөм"
-	},
-	{
-		"or": "Decoration",
-		"tr": "Жасалга"
-	},
-	{
 		"or": "Type:",
 		"tr": "Түр:"
+	},
+	{
+		"or": "UI Color",
+		"tr": "Интерфейс түсү"
+	},
+	{
+		"or": "Version:",
+		"tr": "Версия:"
+	},
+	{
+		"or": "Your skin",
+		"tr": "Сиздин териңиз"
 	}]
 }
