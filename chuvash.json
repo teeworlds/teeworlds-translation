@@ -1195,10 +1195,6 @@
 		"tr": "Ӳт"
 	},
 	{
-		"or": "Hands",
-		"tr": ""
-	},
-	{
 		"or": "Max demos",
 		"tr": "Чи пысăк демо хисепĕ"
 	},
@@ -1211,10 +1207,6 @@
 		"tr": "FSAA якату"
 	},
 	{
-		"or": "%d of %d servers, %d players",
-		"tr": "%d серв. %d тупнă, %d çын"
-	},
-	{
 		"or": "Sound volume",
 		"tr": "Сасă янравлăш"
 	},
@@ -1223,12 +1215,24 @@
 		"tr": "Хайланă:"
 	},
 	{
+		"or": "Feet",
+		"tr": "Урасем"
+	},
+	{
+		"or": "Eyes",
+		"tr": ""
+	},
+	{
 		"or": "Max Screenshots",
 		"tr": "Ӳкерчĕксен чи пысăк хисепĕ"
 	},
 	{
 		"or": "Length:",
 		"tr": "Вăрăмăш"
+	},
+	{
+		"or": "Rifle",
+		"tr": "Бластер"
 	},
 	{
 		"or": "Netversion:",
@@ -1259,10 +1263,6 @@
 		"tr": "Тĕс сĕмĕ"
 	},
 	{
-		"or": "Record demo",
-		"tr": "Демо çыр"
-	},
-	{
 		"or": "Your skin",
 		"tr": "Санăн сăн"
 	},
@@ -1275,12 +1275,8 @@
 		"tr": "Йĕркелӳ тасат"
 	},
 	{
-		"or": "Rifle",
-		"tr": "Бластер"
-	},
-	{
-		"or": "Quit anyway?",
-		"tr": "Туху?"
+		"or": "Hands",
+		"tr": ""
 	},
 	{
 		"or": "Display Modes",
@@ -1307,16 +1303,16 @@
 		"tr": "Хăвăрт шырав:"
 	},
 	{
-		"or": "Feet",
-		"tr": "Урасем"
+		"or": "%d of %d servers, %d players",
+		"tr": "%d серв. %d тупнă, %d çын"
 	},
 	{
 		"or": "Join game",
 		"tr": "Выляма"
 	},
 	{
-		"or": "Eyes",
-		"tr": ""
+		"or": "Quit anyway?",
+		"tr": "Туху?"
 	},
 	{
 		"or": "UI Color",
@@ -1357,6 +1353,10 @@
 	{
 		"or": "Bodies",
 		"tr": ""
+	},
+	{
+		"or": "Record demo",
+		"tr": "Демо çыр"
 	},
 	{
 		"or": "Name plates size",

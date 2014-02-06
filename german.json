@@ -1372,10 +1372,6 @@
 		"tr": "Sätt."
 	},
 	{
-		"or": "Length:",
-		"tr": "Länge"
-	},
-	{
 		"or": "%d Bytes",
 		"tr": "%d Bytes"
 	},
@@ -1394,5 +1390,9 @@
 	{
 		"or": "Max Screenshots",
 		"tr": "Maximale Anzahl an Bildschirmfotos"
+	},
+	{
+		"or": "Length:",
+		"tr": "Länge"
 	}]
 }
