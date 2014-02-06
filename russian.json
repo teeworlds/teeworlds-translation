@@ -98,10 +98,6 @@
 		"tr": "Синие победили!"
 	},
 	{
-		"or": "Body",
-		"tr": "Тело"
-	},
-	{
 		"or": "Call vote",
 		"tr": "Голосовать"
 	},
@@ -230,10 +226,6 @@
 		"tr": "Избранные"
 	},
 	{
-		"or": "Feet",
-		"tr": "Ноги"
-	},
-	{
 		"or": "Fire",
 		"tr": "Выстрел"
 	},
@@ -334,16 +326,16 @@
 		"tr": "Загрузка"
 	},
 	{
-		"or": "MOTD",
-		"tr": "MOTD"
-	},
-	{
 		"or": "Map",
 		"tr": "Карта"
 	},
 	{
 		"or": "Maximum ping:",
 		"tr": "Макс. пинг:"
+	},
+	{
+		"or": "MOTD",
+		"tr": "MOTD"
 	},
 	{
 		"or": "Mouse sens.",
@@ -466,12 +458,12 @@
 		"tr": "Выход"
 	},
 	{
-		"or": "REC %3d:%02d",
-		"tr": "REC %3d:%02d"
-	},
-	{
 		"or": "Reason:",
 		"tr": "Причина:"
+	},
+	{
+		"or": "REC %3d:%02d",
+		"tr": "REC %3d:%02d"
 	},
 	{
 		"or": "Red team",
@@ -827,6 +819,10 @@
 		"tr": ""
 	},
 	{
+		"or": "Are you sure that you want to delete the skin?",
+		"tr": ""
+	},
+	{
 		"or": "Are you sure you want to rename the demo?",
 		"tr": ""
 	},
@@ -843,7 +839,11 @@
 		"tr": ""
 	},
 	{
-		"or": "Bodies",
+		"or": "blue",
+		"tr": ""
+	},
+	{
+		"or": "blue team",
 		"tr": ""
 	},
 	{
@@ -875,7 +875,7 @@
 		"tr": ""
 	},
 	{
-		"or": "Decoration",
+		"or": "Delete skin",
 		"tr": ""
 	},
 	{
@@ -891,11 +891,11 @@
 		"tr": ""
 	},
 	{
-		"or": "Eyes",
+		"or": "Format",
 		"tr": ""
 	},
 	{
-		"or": "Format",
+		"or": "game",
 		"tr": ""
 	},
 	{
@@ -908,10 +908,6 @@
 	},
 	{
 		"or": "Global",
-		"tr": ""
-	},
-	{
-		"or": "Hands",
 		"tr": ""
 	},
 	{
@@ -967,6 +963,10 @@
 		"tr": ""
 	},
 	{
+		"or": "locked",
+		"tr": ""
+	},
+	{
 		"or": "Match",
 		"tr": ""
 	},
@@ -984,6 +984,10 @@
 	},
 	{
 		"or": "Nickname is empty.",
+		"tr": ""
+	},
+	{
+		"or": "no players",
 		"tr": ""
 	},
 	{
@@ -1008,6 +1012,14 @@
 	},
 	{
 		"or": "Recorded",
+		"tr": ""
+	},
+	{
+		"or": "red",
+		"tr": ""
+	},
+	{
+		"or": "red team",
 		"tr": ""
 	},
 	{
@@ -1079,19 +1091,15 @@
 		"tr": ""
 	},
 	{
+		"or": "spectators",
+		"tr": ""
+	},
+	{
 		"or": "Spectators aren't allowed to start a vote.",
 		"tr": ""
 	},
 	{
 		"or": "Standard Gametype",
-		"tr": ""
-	},
-	{
-		"or": "Tattoo",
-		"tr": ""
-	},
-	{
-		"or": "Tattoos",
 		"tr": ""
 	},
 	{
@@ -1123,6 +1131,18 @@
 		"tr": ""
 	},
 	{
+		"or": "The %s flag was captured by '%s'",
+		"tr": ""
+	},
+	{
+		"or": "The %s flag was captured by '%s' (%.2f seconds)",
+		"tr": ""
+	},
+	{
+		"or": "Unable to delete the skin",
+		"tr": ""
+	},
+	{
 		"or": "Volume",
 		"tr": ""
 	},
@@ -1143,6 +1163,10 @@
 		"tr": ""
 	},
 	{
+		"or": "wait for more players",
+		"tr": ""
+	},
+	{
 		"or": "Wait for next round",
 		"tr": ""
 	},
@@ -1153,187 +1177,15 @@
 	{
 		"or": "You must wait %d seconds before making another vote",
 		"tr": ""
-	},
-	{
-		"or": "blue",
-		"tr": ""
-	},
-	{
-		"or": "blue team",
-		"tr": ""
-	},
-	{
-		"or": "game",
-		"tr": ""
-	},
-	{
-		"or": "locked",
-		"tr": ""
-	},
-	{
-		"or": "no players",
-		"tr": ""
-	},
-	{
-		"or": "red",
-		"tr": ""
-	},
-	{
-		"or": "red team",
-		"tr": ""
-	},
-	{
-		"or": "spectators",
-		"tr": ""
-	},
-	{
-		"or": "wait for more players",
-		"tr": ""
 	}],
 "old translations": [
-	{
-		"or": "New name:",
-		"tr": "Новое имя"
-	},
-	{
-		"or": "Sat.",
-		"tr": "Контраст"
-	},
-	{
-		"or": "Miscellaneous",
-		"tr": "Дополнительно"
-	},
-	{
-		"or": "Internet",
-		"tr": "Интернет"
-	},
-	{
-		"or": "Max demos",
-		"tr": "Максимальное количество демо"
-	},
-	{
-		"or": "News",
-		"tr": "Новости"
-	},
-	{
-		"or": "Join game",
-		"tr": "Играть"
-	},
-	{
-		"or": "FSAA samples",
-		"tr": "Сэмплов FSAA"
-	},
-	{
-		"or": "%d of %d servers, %d players",
-		"tr": "%d из %d серверов, %d игроков"
-	},
-	{
-		"or": "Sound volume",
-		"tr": "Громкость звука"
-	},
-	{
-		"or": "Created:",
-		"tr": "Создан:"
-	},
-	{
-		"or": "Max Screenshots",
-		"tr": "Максимальное количество снимков"
-	},
-	{
-		"or": "Length:",
-		"tr": "Длина"
-	},
-	{
-		"or": "Skin name",
-		"tr": ""
-	},
-	{
-		"or": "Rifle",
-		"tr": "Бластер"
-	},
-	{
-		"or": "Patterns",
-		"tr": ""
-	},
-	{
-		"or": "Netversion:",
-		"tr": "Версия:"
-	},
-	{
-		"or": "Map:",
-		"tr": "Карта:"
-	},
 	{
 		"or": "%d Bytes",
 		"tr": "%d байт"
 	},
 	{
-		"or": "Coloration",
-		"tr": ""
-	},
-	{
-		"or": "Info",
-		"tr": "Инфо"
-	},
-	{
-		"or": "Hue",
-		"tr": "Оттенок"
-	},
-	{
-		"or": "Record demo",
-		"tr": "Записать демо"
-	},
-	{
-		"or": "Your skin",
-		"tr": "Ваш скин"
-	},
-	{
-		"or": "Size:",
-		"tr": "Размер:"
-	},
-	{
-		"or": "Reset to defaults",
-		"tr": "Сбросить настройки"
-	},
-	{
-		"or": "Quit anyway?",
-		"tr": "Выйти?"
-	},
-	{
-		"or": "Display Modes",
-		"tr": "Разрешение экрана"
-	},
-	{
-		"or": "Version:",
-		"tr": "Версия:"
-	},
-	{
-		"or": "Round",
-		"tr": "Раунд"
-	},
-	{
-		"or": "Lht.",
-		"tr": "Яркость"
-	},
-	{
-		"or": "no limit",
-		"tr": "Без лимита"
-	},
-	{
-		"or": "Quick search:",
-		"tr": "Быстрый поиск:"
-	},
-	{
-		"or": "UI Color",
-		"tr": "Цвет интерфейса"
-	},
-	{
-		"or": "Host address",
-		"tr": "Адрес сервера"
-	},
-	{
-		"or": "Crc:",
-		"tr": "Crc:"
+		"or": "%d of %d servers, %d players",
+		"tr": "%d из %d серверов, %d игроков"
 	},
 	{
 		"or": "Alpha",
@@ -1344,23 +1196,191 @@
 		"tr": ""
 	},
 	{
+		"or": "Bodies",
+		"tr": ""
+	},
+	{
+		"or": "Body",
+		"tr": "Тело"
+	},
+	{
+		"or": "Coloration",
+		"tr": ""
+	},
+	{
+		"or": "Crc:",
+		"tr": "Crc:"
+	},
+	{
+		"or": "Created:",
+		"tr": "Создан:"
+	},
+	{
 		"or": "Current version: %s",
 		"tr": "Текущая версия: %s"
+	},
+	{
+		"or": "Decoration",
+		"tr": ""
+	},
+	{
+		"or": "Display Modes",
+		"tr": "Разрешение экрана"
+	},
+	{
+		"or": "Eyes",
+		"tr": ""
+	},
+	{
+		"or": "Feet",
+		"tr": "Ноги"
 	},
 	{
 		"or": "Filter",
 		"tr": "Фильтр"
 	},
 	{
+		"or": "FSAA samples",
+		"tr": "Сэмплов FSAA"
+	},
+	{
+		"or": "Hands",
+		"tr": ""
+	},
+	{
+		"or": "Host address",
+		"tr": "Адрес сервера"
+	},
+	{
+		"or": "Hue",
+		"tr": "Оттенок"
+	},
+	{
+		"or": "Info",
+		"tr": "Инфо"
+	},
+	{
+		"or": "Internet",
+		"tr": "Интернет"
+	},
+	{
+		"or": "Join game",
+		"tr": "Играть"
+	},
+	{
 		"or": "LAN",
 		"tr": "LAN"
+	},
+	{
+		"or": "Length:",
+		"tr": "Длина"
+	},
+	{
+		"or": "Lht.",
+		"tr": "Яркость"
+	},
+	{
+		"or": "Map:",
+		"tr": "Карта:"
+	},
+	{
+		"or": "Max demos",
+		"tr": "Максимальное количество демо"
+	},
+	{
+		"or": "Max Screenshots",
+		"tr": "Максимальное количество снимков"
+	},
+	{
+		"or": "Miscellaneous",
+		"tr": "Дополнительно"
 	},
 	{
 		"or": "Name plates size",
 		"tr": "Размер"
 	},
 	{
+		"or": "Netversion:",
+		"tr": "Версия:"
+	},
+	{
+		"or": "New name:",
+		"tr": "Новое имя"
+	},
+	{
+		"or": "News",
+		"tr": "Новости"
+	},
+	{
+		"or": "no limit",
+		"tr": "Без лимита"
+	},
+	{
+		"or": "Patterns",
+		"tr": ""
+	},
+	{
+		"or": "Quick search:",
+		"tr": "Быстрый поиск:"
+	},
+	{
+		"or": "Quit anyway?",
+		"tr": "Выйти?"
+	},
+	{
+		"or": "Record demo",
+		"tr": "Записать демо"
+	},
+	{
+		"or": "Reset to defaults",
+		"tr": "Сбросить настройки"
+	},
+	{
+		"or": "Rifle",
+		"tr": "Бластер"
+	},
+	{
+		"or": "Round",
+		"tr": "Раунд"
+	},
+	{
+		"or": "Sat.",
+		"tr": "Контраст"
+	},
+	{
+		"or": "Size:",
+		"tr": "Размер:"
+	},
+	{
+		"or": "Skin name",
+		"tr": ""
+	},
+	{
+		"or": "Sound volume",
+		"tr": "Громкость звука"
+	},
+	{
+		"or": "Tattoo",
+		"tr": ""
+	},
+	{
+		"or": "Tattoos",
+		"tr": ""
+	},
+	{
 		"or": "Type:",
 		"tr": "Тип:"
+	},
+	{
+		"or": "UI Color",
+		"tr": "Цвет интерфейса"
+	},
+	{
+		"or": "Version:",
+		"tr": "Версия:"
+	},
+	{
+		"or": "Your skin",
+		"tr": "Ваш скин"
 	}]
 }

@@ -93,10 +93,6 @@
 		"tr": "Кăвак ушкăн çĕнтерчĕ!"
 	},
 	{
-		"or": "Body",
-		"tr": "Ӳт"
-	},
-	{
 		"or": "Call vote",
 		"tr": "Сасăла"
 	},
@@ -225,10 +221,6 @@
 		"tr": "Суйланнисем"
 	},
 	{
-		"or": "Feet",
-		"tr": "Урасем"
-	},
-	{
 		"or": "Fire",
 		"tr": "Пĕрӳ"
 	},
@@ -329,16 +321,16 @@
 		"tr": "Кĕт, тархасшăн"
 	},
 	{
-		"or": "MOTD",
-		"tr": "MOTD"
-	},
-	{
 		"or": "Map",
 		"tr": "Карта"
 	},
 	{
 		"or": "Maximum ping:",
 		"tr": "Чи пысăк пинг:"
+	},
+	{
+		"or": "MOTD",
+		"tr": "MOTD"
 	},
 	{
 		"or": "Mouse sens.",
@@ -461,12 +453,12 @@
 		"tr": "Туху"
 	},
 	{
-		"or": "REC %3d:%02d",
-		"tr": "REC %3d:%02d"
-	},
-	{
 		"or": "Reason:",
 		"tr": "Сăлтав:"
+	},
+	{
+		"or": "REC %3d:%02d",
+		"tr": "REC %3d:%02d"
 	},
 	{
 		"or": "Red team",
@@ -822,6 +814,10 @@
 		"tr": ""
 	},
 	{
+		"or": "Are you sure that you want to delete the skin?",
+		"tr": ""
+	},
+	{
 		"or": "Are you sure you want to rename the demo?",
 		"tr": ""
 	},
@@ -838,7 +834,11 @@
 		"tr": ""
 	},
 	{
-		"or": "Bodies",
+		"or": "blue",
+		"tr": ""
+	},
+	{
+		"or": "blue team",
 		"tr": ""
 	},
 	{
@@ -870,7 +870,7 @@
 		"tr": ""
 	},
 	{
-		"or": "Decoration",
+		"or": "Delete skin",
 		"tr": ""
 	},
 	{
@@ -886,11 +886,11 @@
 		"tr": ""
 	},
 	{
-		"or": "Eyes",
+		"or": "Format",
 		"tr": ""
 	},
 	{
-		"or": "Format",
+		"or": "game",
 		"tr": ""
 	},
 	{
@@ -903,10 +903,6 @@
 	},
 	{
 		"or": "Global",
-		"tr": ""
-	},
-	{
-		"or": "Hands",
 		"tr": ""
 	},
 	{
@@ -962,6 +958,10 @@
 		"tr": ""
 	},
 	{
+		"or": "locked",
+		"tr": ""
+	},
+	{
 		"or": "Match",
 		"tr": ""
 	},
@@ -979,6 +979,10 @@
 	},
 	{
 		"or": "Nickname is empty.",
+		"tr": ""
+	},
+	{
+		"or": "no players",
 		"tr": ""
 	},
 	{
@@ -1003,6 +1007,14 @@
 	},
 	{
 		"or": "Recorded",
+		"tr": ""
+	},
+	{
+		"or": "red",
+		"tr": ""
+	},
+	{
+		"or": "red team",
 		"tr": ""
 	},
 	{
@@ -1074,19 +1086,15 @@
 		"tr": ""
 	},
 	{
+		"or": "spectators",
+		"tr": ""
+	},
+	{
 		"or": "Spectators aren't allowed to start a vote.",
 		"tr": ""
 	},
 	{
 		"or": "Standard Gametype",
-		"tr": ""
-	},
-	{
-		"or": "Tattoo",
-		"tr": ""
-	},
-	{
-		"or": "Tattoos",
 		"tr": ""
 	},
 	{
@@ -1122,6 +1130,18 @@
 		"tr": ""
 	},
 	{
+		"or": "The %s flag was captured by '%s'",
+		"tr": ""
+	},
+	{
+		"or": "The %s flag was captured by '%s' (%.2f seconds)",
+		"tr": ""
+	},
+	{
+		"or": "Unable to delete the skin",
+		"tr": ""
+	},
+	{
 		"or": "Volume",
 		"tr": ""
 	},
@@ -1138,6 +1158,10 @@
 		"tr": ""
 	},
 	{
+		"or": "wait for more players",
+		"tr": ""
+	},
+	{
 		"or": "Wait for next round",
 		"tr": ""
 	},
@@ -1148,155 +1172,131 @@
 	{
 		"or": "You must wait %d seconds before making another vote",
 		"tr": ""
-	},
-	{
-		"or": "blue",
-		"tr": ""
-	},
-	{
-		"or": "blue team",
-		"tr": ""
-	},
-	{
-		"or": "game",
-		"tr": ""
-	},
-	{
-		"or": "locked",
-		"tr": ""
-	},
-	{
-		"or": "no players",
-		"tr": ""
-	},
-	{
-		"or": "red",
-		"tr": ""
-	},
-	{
-		"or": "red team",
-		"tr": ""
-	},
-	{
-		"or": "spectators",
-		"tr": ""
-	},
-	{
-		"or": "wait for more players",
-		"tr": ""
 	}],
 "old translations": [
 	{
-		"or": "New name:",
-		"tr": "Çĕн ят"
-	},
-	{
-		"or": "Sat.",
-		"tr": "Контраст"
-	},
-	{
-		"or": "Miscellaneous",
-		"tr": "Хушнисем"
-	},
-	{
-		"or": "Internet",
-		"tr": "Интернет"
-	},
-	{
-		"or": "Max demos",
-		"tr": "Чи пысăк демо хисепĕ"
-	},
-	{
-		"or": "News",
-		"tr": "Хыпарсем"
-	},
-	{
-		"or": "Join game",
-		"tr": "Выляма"
-	},
-	{
-		"or": "FSAA samples",
-		"tr": "FSAA якату"
+		"or": "%d Bytes",
+		"tr": "%d байт"
 	},
 	{
 		"or": "%d of %d servers, %d players",
 		"tr": "%d серв. %d тупнă, %d çын"
 	},
 	{
-		"or": "Sound volume",
-		"tr": "Сасă янравлăш"
+		"or": "Alpha",
+		"tr": "Тăрă"
+	},
+	{
+		"or": "Bodies",
+		"tr": ""
+	},
+	{
+		"or": "Body",
+		"tr": "Ӳт"
+	},
+	{
+		"or": "Crc:",
+		"tr": "Crc:"
 	},
 	{
 		"or": "Created:",
 		"tr": "Хайланă:"
 	},
 	{
-		"or": "Max Screenshots",
-		"tr": "Ӳкерчĕксен чи пысăк хисепĕ"
+		"or": "Current version: %s",
+		"tr": "Хальхи версие: %s"
 	},
 	{
-		"or": "Length:",
-		"tr": "Вăрăмăш"
-	},
-	{
-		"or": "Rifle",
-		"tr": "Бластер"
-	},
-	{
-		"or": "Netversion:",
-		"tr": "Версия:"
-	},
-	{
-		"or": "Map:",
-		"tr": "Карта:"
-	},
-	{
-		"or": "%d Bytes",
-		"tr": "%d байт"
-	},
-	{
-		"or": "Info",
-		"tr": "Пĕлтерӳ"
-	},
-	{
-		"or": "Hue",
-		"tr": "Тĕс сĕмĕ"
-	},
-	{
-		"or": "Record demo",
-		"tr": "Демо çыр"
-	},
-	{
-		"or": "Your skin",
-		"tr": "Санăн сăн"
-	},
-	{
-		"or": "Size:",
-		"tr": "Пыçăкăш:"
-	},
-	{
-		"or": "Reset to defaults",
-		"tr": "Йĕркелӳ тасат"
-	},
-	{
-		"or": "Quit anyway?",
-		"tr": "Туху?"
+		"or": "Decoration",
+		"tr": ""
 	},
 	{
 		"or": "Display Modes",
 		"tr": "Экран режимсем"
 	},
 	{
-		"or": "Version:",
-		"tr": "Версие:"
+		"or": "Eyes",
+		"tr": ""
 	},
 	{
-		"or": "Round",
-		"tr": "Раунд"
+		"or": "Feet",
+		"tr": "Урасем"
+	},
+	{
+		"or": "Filter",
+		"tr": "Фильтр"
+	},
+	{
+		"or": "FSAA samples",
+		"tr": "FSAA якату"
+	},
+	{
+		"or": "Hands",
+		"tr": ""
+	},
+	{
+		"or": "Host address",
+		"tr": "Сервер адресĕ"
+	},
+	{
+		"or": "Hue",
+		"tr": "Тĕс сĕмĕ"
+	},
+	{
+		"or": "Info",
+		"tr": "Пĕлтерӳ"
+	},
+	{
+		"or": "Internet",
+		"tr": "Интернет"
+	},
+	{
+		"or": "Join game",
+		"tr": "Выляма"
+	},
+	{
+		"or": "LAN",
+		"tr": "LAN"
+	},
+	{
+		"or": "Length:",
+		"tr": "Вăрăмăш"
 	},
 	{
 		"or": "Lht.",
 		"tr": "Çутăллăх"
+	},
+	{
+		"or": "Map:",
+		"tr": "Карта:"
+	},
+	{
+		"or": "Max demos",
+		"tr": "Чи пысăк демо хисепĕ"
+	},
+	{
+		"or": "Max Screenshots",
+		"tr": "Ӳкерчĕксен чи пысăк хисепĕ"
+	},
+	{
+		"or": "Miscellaneous",
+		"tr": "Хушнисем"
+	},
+	{
+		"or": "Name plates size",
+		"tr": "Пысăкăш"
+	},
+	{
+		"or": "Netversion:",
+		"tr": "Версия:"
+	},
+	{
+		"or": "New name:",
+		"tr": "Çĕн ят"
+	},
+	{
+		"or": "News",
+		"tr": "Хыпарсем"
 	},
 	{
 		"or": "no limit",
@@ -1307,43 +1307,63 @@
 		"tr": "Хăвăрт шырав:"
 	},
 	{
-		"or": "UI Color",
-		"tr": "Интерфейс тĕсĕ"
+		"or": "Quit anyway?",
+		"tr": "Туху?"
 	},
 	{
-		"or": "Host address",
-		"tr": "Сервер адресĕ"
+		"or": "Record demo",
+		"tr": "Демо çыр"
+	},
+	{
+		"or": "Reset to defaults",
+		"tr": "Йĕркелӳ тасат"
+	},
+	{
+		"or": "Rifle",
+		"tr": "Бластер"
+	},
+	{
+		"or": "Round",
+		"tr": "Раунд"
+	},
+	{
+		"or": "Sat.",
+		"tr": "Контраст"
+	},
+	{
+		"or": "Size:",
+		"tr": "Пыçăкăш:"
+	},
+	{
+		"or": "Sound volume",
+		"tr": "Сасă янравлăш"
+	},
+	{
+		"or": "Tattoo",
+		"tr": ""
+	},
+	{
+		"or": "Tattoos",
+		"tr": ""
 	},
 	{
 		"or": "Teeworlds %s is out! Download it at [url=http://www.teeworlds.com]www.teeworlds.com[/url]!",
 		"tr": "Тухрĕ Teeworlds %s! Кунта: [url=http://www.teeworlds.com]www.teeworlds.com[/url]!"
 	},
 	{
-		"or": "Crc:",
-		"tr": "Crc:"
-	},
-	{
-		"or": "Alpha",
-		"tr": "Тăрă"
-	},
-	{
-		"or": "Current version: %s",
-		"tr": "Хальхи версие: %s"
-	},
-	{
-		"or": "Filter",
-		"tr": "Фильтр"
-	},
-	{
-		"or": "LAN",
-		"tr": "LAN"
-	},
-	{
-		"or": "Name plates size",
-		"tr": "Пысăкăш"
-	},
-	{
 		"or": "Type:",
 		"tr": "Тĕс:"
+	},
+	{
+		"or": "UI Color",
+		"tr": "Интерфейс тĕсĕ"
+	},
+	{
+		"or": "Version:",
+		"tr": "Версие:"
+	},
+	{
+		"or": "Your skin",
+		"tr": "Санăн сăн"
 	}]
 }

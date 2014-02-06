@@ -99,10 +99,6 @@
 		"tr": "Echipa albastră a câștigat!"
 	},
 	{
-		"or": "Body",
-		"tr": "Corp"
-	},
-	{
 		"or": "Call vote",
 		"tr": "Votează"
 	},
@@ -231,10 +227,6 @@
 		"tr": "Favorite"
 	},
 	{
-		"or": "Feet",
-		"tr": "Picioare"
-	},
-	{
 		"or": "Fire",
 		"tr": "Foc"
 	},
@@ -339,16 +331,16 @@
 		"tr": "Se încarcă"
 	},
 	{
-		"or": "MOTD",
-		"tr": "Mesajul zilei"
-	},
-	{
 		"or": "Map",
 		"tr": "Hartă"
 	},
 	{
 		"or": "Maximum ping:",
 		"tr": "Ping maxim:"
+	},
+	{
+		"or": "MOTD",
+		"tr": "Mesajul zilei"
 	},
 	{
 		"or": "Mouse sens.",
@@ -471,12 +463,12 @@
 		"tr": "Ieșire"
 	},
 	{
-		"or": "REC %3d:%02d",
-		"tr": "REC %3d:%02d"
-	},
-	{
 		"or": "Reason:",
 		"tr": "Motiv:"
+	},
+	{
+		"or": "REC %3d:%02d",
+		"tr": "REC %3d:%02d"
 	},
 	{
 		"or": "Red team",
@@ -840,6 +832,10 @@
 		"tr": ""
 	},
 	{
+		"or": "Are you sure that you want to delete the skin?",
+		"tr": ""
+	},
+	{
 		"or": "Are you sure you want to rename the demo?",
 		"tr": ""
 	},
@@ -856,7 +852,11 @@
 		"tr": ""
 	},
 	{
-		"or": "Bodies",
+		"or": "blue",
+		"tr": ""
+	},
+	{
+		"or": "blue team",
 		"tr": ""
 	},
 	{
@@ -888,7 +888,7 @@
 		"tr": ""
 	},
 	{
-		"or": "Decoration",
+		"or": "Delete skin",
 		"tr": ""
 	},
 	{
@@ -904,11 +904,11 @@
 		"tr": ""
 	},
 	{
-		"or": "Eyes",
+		"or": "Format",
 		"tr": ""
 	},
 	{
-		"or": "Format",
+		"or": "game",
 		"tr": ""
 	},
 	{
@@ -917,10 +917,6 @@
 	},
 	{
 		"or": "Global",
-		"tr": ""
-	},
-	{
-		"or": "Hands",
 		"tr": ""
 	},
 	{
@@ -976,6 +972,10 @@
 		"tr": ""
 	},
 	{
+		"or": "locked",
+		"tr": ""
+	},
+	{
 		"or": "Match",
 		"tr": ""
 	},
@@ -993,6 +993,10 @@
 	},
 	{
 		"or": "Nickname is empty.",
+		"tr": ""
+	},
+	{
+		"or": "no players",
 		"tr": ""
 	},
 	{
@@ -1017,6 +1021,14 @@
 	},
 	{
 		"or": "Recorded",
+		"tr": ""
+	},
+	{
+		"or": "red",
+		"tr": ""
+	},
+	{
+		"or": "red team",
 		"tr": ""
 	},
 	{
@@ -1080,19 +1092,15 @@
 		"tr": ""
 	},
 	{
+		"or": "spectators",
+		"tr": ""
+	},
+	{
 		"or": "Spectators aren't allowed to start a vote.",
 		"tr": ""
 	},
 	{
 		"or": "Standard Gametype",
-		"tr": ""
-	},
-	{
-		"or": "Tattoo",
-		"tr": ""
-	},
-	{
-		"or": "Tattoos",
 		"tr": ""
 	},
 	{
@@ -1124,6 +1132,18 @@
 		"tr": ""
 	},
 	{
+		"or": "The %s flag was captured by '%s'",
+		"tr": ""
+	},
+	{
+		"or": "The %s flag was captured by '%s' (%.2f seconds)",
+		"tr": ""
+	},
+	{
+		"or": "Unable to delete the skin",
+		"tr": ""
+	},
+	{
 		"or": "Volume",
 		"tr": ""
 	},
@@ -1144,6 +1164,10 @@
 		"tr": ""
 	},
 	{
+		"or": "wait for more players",
+		"tr": ""
+	},
+	{
 		"or": "Wait for next round",
 		"tr": ""
 	},
@@ -1154,187 +1178,15 @@
 	{
 		"or": "You must wait %d seconds before making another vote",
 		"tr": ""
-	},
-	{
-		"or": "blue",
-		"tr": ""
-	},
-	{
-		"or": "blue team",
-		"tr": ""
-	},
-	{
-		"or": "game",
-		"tr": ""
-	},
-	{
-		"or": "locked",
-		"tr": ""
-	},
-	{
-		"or": "no players",
-		"tr": ""
-	},
-	{
-		"or": "red",
-		"tr": ""
-	},
-	{
-		"or": "red team",
-		"tr": ""
-	},
-	{
-		"or": "spectators",
-		"tr": ""
-	},
-	{
-		"or": "wait for more players",
-		"tr": ""
 	}],
 "old translations": [
-	{
-		"or": "New name:",
-		"tr": "Nume nou:"
-	},
-	{
-		"or": "Sat.",
-		"tr": "Saturație"
-	},
-	{
-		"or": "Miscellaneous",
-		"tr": "Diverse"
-	},
-	{
-		"or": "Internet",
-		"tr": "Internet"
-	},
-	{
-		"or": "Max demos",
-		"tr": "Număr maxim de demo-uri"
-	},
-	{
-		"or": "News",
-		"tr": "Știri"
-	},
-	{
-		"or": "Join game",
-		"tr": "Intră în joc"
-	},
-	{
-		"or": "FSAA samples",
-		"tr": "Eșantioane FSAA"
-	},
-	{
-		"or": "%d of %d servers, %d players",
-		"tr": "%d/%d servere, %d jucători"
-	},
-	{
-		"or": "Sound volume",
-		"tr": "Volum sunet"
-	},
-	{
-		"or": "Created:",
-		"tr": "Creată la data:"
-	},
-	{
-		"or": "Max Screenshots",
-		"tr": "Număr maxim de capturi de ecran"
-	},
-	{
-		"or": "Length:",
-		"tr": "Durată:"
-	},
-	{
-		"or": "Skin name",
-		"tr": ""
-	},
-	{
-		"or": "Rifle",
-		"tr": "Carabină"
-	},
-	{
-		"or": "Patterns",
-		"tr": ""
-	},
-	{
-		"or": "Netversion:",
-		"tr": "Cod rețea:"
-	},
-	{
-		"or": "Map:",
-		"tr": "Harta:"
-	},
 	{
 		"or": "%d Bytes",
 		"tr": "%d octeți"
 	},
 	{
-		"or": "Coloration",
-		"tr": ""
-	},
-	{
-		"or": "Info",
-		"tr": "Informații"
-	},
-	{
-		"or": "Hue",
-		"tr": "Tentă"
-	},
-	{
-		"or": "Record demo",
-		"tr": "Înreg. demo"
-	},
-	{
-		"or": "Your skin",
-		"tr": "Costumul tău"
-	},
-	{
-		"or": "Size:",
-		"tr": "Dimensiunea:"
-	},
-	{
-		"or": "Reset to defaults",
-		"tr": "Setări implicite"
-	},
-	{
-		"or": "Quit anyway?",
-		"tr": "Ieși oricum?"
-	},
-	{
-		"or": "Display Modes",
-		"tr": "Moduri de afișare"
-	},
-	{
-		"or": "Version:",
-		"tr": "Versiune:"
-	},
-	{
-		"or": "Round",
-		"tr": "Runda"
-	},
-	{
-		"or": "Lht.",
-		"tr": "Luminozitate"
-	},
-	{
-		"or": "no limit",
-		"tr": "fără limită"
-	},
-	{
-		"or": "Quick search:",
-		"tr": "Căutare rapidă:"
-	},
-	{
-		"or": "UI Color",
-		"tr": "Culoare meniu"
-	},
-	{
-		"or": "Host address",
-		"tr": "Adresa gazdei"
-	},
-	{
-		"or": "Crc:",
-		"tr": "Suma de control:"
+		"or": "%d of %d servers, %d players",
+		"tr": "%d/%d servere, %d jucători"
 	},
 	{
 		"or": "Alpha",
@@ -1345,23 +1197,191 @@
 		"tr": ""
 	},
 	{
+		"or": "Bodies",
+		"tr": ""
+	},
+	{
+		"or": "Body",
+		"tr": "Corp"
+	},
+	{
+		"or": "Coloration",
+		"tr": ""
+	},
+	{
+		"or": "Crc:",
+		"tr": "Suma de control:"
+	},
+	{
+		"or": "Created:",
+		"tr": "Creată la data:"
+	},
+	{
 		"or": "Current version: %s",
 		"tr": "Versiunea actuală: %s"
+	},
+	{
+		"or": "Decoration",
+		"tr": ""
+	},
+	{
+		"or": "Display Modes",
+		"tr": "Moduri de afișare"
+	},
+	{
+		"or": "Eyes",
+		"tr": ""
+	},
+	{
+		"or": "Feet",
+		"tr": "Picioare"
 	},
 	{
 		"or": "Filter",
 		"tr": "Filtre"
 	},
 	{
+		"or": "FSAA samples",
+		"tr": "Eșantioane FSAA"
+	},
+	{
+		"or": "Hands",
+		"tr": ""
+	},
+	{
+		"or": "Host address",
+		"tr": "Adresa gazdei"
+	},
+	{
+		"or": "Hue",
+		"tr": "Tentă"
+	},
+	{
+		"or": "Info",
+		"tr": "Informații"
+	},
+	{
+		"or": "Internet",
+		"tr": "Internet"
+	},
+	{
+		"or": "Join game",
+		"tr": "Intră în joc"
+	},
+	{
 		"or": "LAN",
 		"tr": "Rețea"
+	},
+	{
+		"or": "Length:",
+		"tr": "Durată:"
+	},
+	{
+		"or": "Lht.",
+		"tr": "Luminozitate"
+	},
+	{
+		"or": "Map:",
+		"tr": "Harta:"
+	},
+	{
+		"or": "Max demos",
+		"tr": "Număr maxim de demo-uri"
+	},
+	{
+		"or": "Max Screenshots",
+		"tr": "Număr maxim de capturi de ecran"
+	},
+	{
+		"or": "Miscellaneous",
+		"tr": "Diverse"
 	},
 	{
 		"or": "Name plates size",
 		"tr": "Dimensiune nume placă"
 	},
 	{
+		"or": "Netversion:",
+		"tr": "Cod rețea:"
+	},
+	{
+		"or": "New name:",
+		"tr": "Nume nou:"
+	},
+	{
+		"or": "News",
+		"tr": "Știri"
+	},
+	{
+		"or": "no limit",
+		"tr": "fără limită"
+	},
+	{
+		"or": "Patterns",
+		"tr": ""
+	},
+	{
+		"or": "Quick search:",
+		"tr": "Căutare rapidă:"
+	},
+	{
+		"or": "Quit anyway?",
+		"tr": "Ieși oricum?"
+	},
+	{
+		"or": "Record demo",
+		"tr": "Înreg. demo"
+	},
+	{
+		"or": "Reset to defaults",
+		"tr": "Setări implicite"
+	},
+	{
+		"or": "Rifle",
+		"tr": "Carabină"
+	},
+	{
+		"or": "Round",
+		"tr": "Runda"
+	},
+	{
+		"or": "Sat.",
+		"tr": "Saturație"
+	},
+	{
+		"or": "Size:",
+		"tr": "Dimensiunea:"
+	},
+	{
+		"or": "Skin name",
+		"tr": ""
+	},
+	{
+		"or": "Sound volume",
+		"tr": "Volum sunet"
+	},
+	{
+		"or": "Tattoo",
+		"tr": ""
+	},
+	{
+		"or": "Tattoos",
+		"tr": ""
+	},
+	{
 		"or": "Type:",
 		"tr": "Tip:"
+	},
+	{
+		"or": "UI Color",
+		"tr": "Culoare meniu"
+	},
+	{
+		"or": "Version:",
+		"tr": "Versiune:"
+	},
+	{
+		"or": "Your skin",
+		"tr": "Costumul tău"
 	}]
 }
