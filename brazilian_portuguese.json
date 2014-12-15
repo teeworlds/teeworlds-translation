@@ -1,16 +1,17 @@
 {"authors": {
 	"originally created by": "slinack",
 	"modified by": [
-		"yemDX				2010-05-29 17:22:42",
-		"yemDX				2010-05-30 02:51:34",
-		"slinack			2010-06-02 20:57:46",
-		"slinack			2011-05-02 18:24:12",
-		"Isadora			2011-05-09 17:26:02",
-		"slinack			2011-07-03 00:23:26",
-		"Ryomou Hentai Girl	2011-07-11 11:33:42",
-		"Isadora			2011-07-20 21:47:11",
-		"HeroiAmarelo		2012-08-01 15:50:18",
-		"Rafael Ferreira	2013-03-30 16:52:33"
+        "yemDX              2010-05-29 17:22:42",
+        "yemDX              2010-05-30 02:51:34",
+        "slinack            2010-06-02 20:57:46",
+        "slinack            2011-05-02 18:24:12",
+        "Isadora            2011-05-09 17:26:02",
+        "slinack            2011-07-03 00:23:26",
+        "Ryomou Hentai Girl	2011-07-11 11:33:42",
+        "Isadora            2011-07-20 21:47:11",
+        "HeroiAmarelo       2012-08-01 15:50:18",
+        "Rafael Ferreira	2013-03-30 16:52:33",
+        "Rafael Ferreira	2014-12-15 01:35:02"
 	]},
 "translated strings": [
 	{
@@ -275,15 +276,15 @@
 	},
 	{
 		"or": "Custom",
-		"tr": "Personalizado"
+		"tr": "customizado"
 	},
 	{
 		"or": "Custom colors",
-		"tr": "Cores personalizadas"
+		"tr": "Cores customizadas"
 	},
 	{
 		"or": "Customize",
-		"tr": "Personalizar"
+		"tr": "Customizar"
 	},
 	{
 		"or": "Delete",
@@ -1164,47 +1165,47 @@
 "needs translation": [
 	{
 		"or": "Are you sure that you want to delete the skin?",
-		"tr": ""
+		"tr": "Você tem certeza que deseja deletar a skin?"
 	},
 	{
 		"or": "Delete skin",
-		"tr": ""
+		"tr": "Deletar skin"
 	},
 	{
 		"or": "The %s flag was captured by '%s'",
-		"tr": ""
+		"tr": "A bandeira %s foi capturada por '%s'"
 	},
 	{
 		"or": "The %s flag was captured by '%s' (%.2f seconds)",
-		"tr": ""
+		"tr": "A bandeira %s foi capturada por '%s' (%.2f segundos)"
 	},
 	{
 		"or": "Unable to delete the skin",
-		"tr": ""
+		"tr": "Não foi possível deletar a skin"
 	},
 	{
 		"or": "body",
-		"tr": ""
+		"tr": "corpo"
 	},
 	{
 		"or": "decoration",
-		"tr": ""
+		"tr": "decoração"
 	},
 	{
 		"or": "eyes",
-		"tr": ""
+		"tr": "olhos"
 	},
 	{
 		"or": "feet",
-		"tr": ""
+		"tr": "pés"
 	},
 	{
 		"or": "hands",
-		"tr": ""
+		"tr": "mãos"
 	},
 	{
 		"or": "marking",
-		"tr": ""
+		"tr": "marcas"
 	}],
 "old translations": [
 	{
