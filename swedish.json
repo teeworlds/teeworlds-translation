@@ -94,10 +94,6 @@
 		"tr": "Blå laget vann!"
 	},
 	{
-		"or": "Body",
-		"tr": "Kropp"
-	},
-	{
 		"or": "Call vote",
 		"tr": "Röstning"
 	},
@@ -224,10 +220,6 @@
 	{
 		"or": "Favorites",
 		"tr": "Favoriter"
-	},
-	{
-		"or": "Feet",
-		"tr": "Fötter"
 	},
 	{
 		"or": "Fire",
@@ -823,6 +815,10 @@
 		"tr": ""
 	},
 	{
+		"or": "Are you sure that you want to delete the skin?",
+		"tr": ""
+	},
+	{
 		"or": "Are you sure you want to rename the demo?",
 		"tr": ""
 	},
@@ -836,10 +832,6 @@
 	},
 	{
 		"or": "Basic",
-		"tr": ""
-	},
-	{
-		"or": "Bodies",
 		"tr": ""
 	},
 	{
@@ -871,7 +863,7 @@
 		"tr": ""
 	},
 	{
-		"or": "Decoration",
+		"or": "Delete skin",
 		"tr": ""
 	},
 	{
@@ -884,10 +876,6 @@
 	},
 	{
 		"or": "Editor",
-		"tr": ""
-	},
-	{
-		"or": "Eyes",
 		"tr": ""
 	},
 	{
@@ -904,10 +892,6 @@
 	},
 	{
 		"or": "Global",
-		"tr": ""
-	},
-	{
-		"or": "Hands",
 		"tr": ""
 	},
 	{
@@ -1083,14 +1067,6 @@
 		"tr": ""
 	},
 	{
-		"or": "Tattoo",
-		"tr": ""
-	},
-	{
-		"or": "Tattoos",
-		"tr": ""
-	},
-	{
 		"or": "Team:",
 		"tr": ""
 	},
@@ -1116,6 +1092,18 @@
 	},
 	{
 		"or": "Texture",
+		"tr": ""
+	},
+	{
+		"or": "The %s flag was captured by '%s'",
+		"tr": ""
+	},
+	{
+		"or": "The %s flag was captured by '%s' (%.2f seconds)",
+		"tr": ""
+	},
+	{
+		"or": "Unable to delete the skin",
 		"tr": ""
 	},
 	{
@@ -1159,11 +1147,35 @@
 		"tr": ""
 	},
 	{
+		"or": "body",
+		"tr": ""
+	},
+	{
+		"or": "decoration",
+		"tr": ""
+	},
+	{
+		"or": "eyes",
+		"tr": ""
+	},
+	{
+		"or": "feet",
+		"tr": ""
+	},
+	{
 		"or": "game",
 		"tr": ""
 	},
 	{
+		"or": "hands",
+		"tr": ""
+	},
+	{
 		"or": "locked",
+		"tr": ""
+	},
+	{
+		"or": "marking",
 		"tr": ""
 	},
 	{
@@ -1188,92 +1200,32 @@
 	}],
 "old translations": [
 	{
+		"or": "Created:",
+		"tr": "Skapad:"
+	},
+	{
+		"or": "Hands",
+		"tr": ""
+	},
+	{
 		"or": "New name:",
 		"tr": "Nytt namn:"
-	},
-	{
-		"or": "Sat.",
-		"tr": "Mättnad"
-	},
-	{
-		"or": "Miscellaneous",
-		"tr": "Övrigt"
-	},
-	{
-		"or": "Internet",
-		"tr": "Internet"
-	},
-	{
-		"or": "Max demos",
-		"tr": "Max antal demon"
-	},
-	{
-		"or": "News",
-		"tr": "Nyheter"
-	},
-	{
-		"or": "Join game",
-		"tr": "Spela"
-	},
-	{
-		"or": "FSAA samples",
-		"tr": "FSAA-samplingar"
 	},
 	{
 		"or": "%d of %d servers, %d players",
 		"tr": "%d av %d servrar, %d spelare"
 	},
 	{
-		"or": "Sound volume",
-		"tr": "Volym"
-	},
-	{
-		"or": "Created:",
-		"tr": "Skapad:"
-	},
-	{
-		"or": "Max Screenshots",
-		"tr": "Max antal skärmdumpar"
+		"or": "Tattoos",
+		"tr": ""
 	},
 	{
 		"or": "Length:",
 		"tr": "Längd"
 	},
 	{
-		"or": "Skin name",
-		"tr": ""
-	},
-	{
-		"or": "Rifle",
-		"tr": "Gevär"
-	},
-	{
-		"or": "Patterns",
-		"tr": ""
-	},
-	{
-		"or": "Netversion:",
-		"tr": "Nätversion:"
-	},
-	{
-		"or": "Map:",
-		"tr": "Bana"
-	},
-	{
-		"or": "%d Bytes",
-		"tr": "%d Bytes"
-	},
-	{
-		"or": "Coloration",
-		"tr": ""
-	},
-	{
-		"or": "Info",
-		"tr": "Info"
-	},
-	{
-		"or": "Hue",
-		"tr": "Nyans"
+		"or": "Host address",
+		"tr": "Serveraddress"
 	},
 	{
 		"or": "Record demo",
@@ -1284,79 +1236,171 @@
 		"tr": "Ditt skin"
 	},
 	{
-		"or": "Size:",
-		"tr": "Storlek:"
-	},
-	{
-		"or": "Reset to defaults",
-		"tr": "Återställ till standard"
-	},
-	{
-		"or": "Quit anyway?",
-		"tr": "Avsluta i alla fall?"
-	},
-	{
-		"or": "Display Modes",
-		"tr": "Skärmlägen"
-	},
-	{
-		"or": "Version:",
-		"tr": "Version:"
-	},
-	{
-		"or": "Round",
-		"tr": "Runda"
-	},
-	{
-		"or": "Lht.",
-		"tr": "Ljusstyrka"
-	},
-	{
-		"or": "no limit",
-		"tr": "Ingen gräns"
-	},
-	{
-		"or": "Quick search:",
-		"tr": "Snabbsök:"
-	},
-	{
-		"or": "UI Color",
-		"tr": "Gränssnittfärg"
-	},
-	{
-		"or": "Host address",
-		"tr": "Serveraddress"
-	},
-	{
-		"or": "Crc:",
-		"tr": "Crc:"
-	},
-	{
-		"or": "Alpha",
-		"tr": "Alpha"
+		"or": "Filter",
+		"tr": "Filter"
 	},
 	{
 		"or": "Are you sure you want to save your skin ? If a skin with this name already exists, it will be replaced.",
 		"tr": ""
 	},
 	{
+		"or": "Name plates size",
+		"tr": "Storlek på namnskyltar"
+	},
+	{
 		"or": "Current version: %s",
 		"tr": "Nuvarande version: %s"
 	},
 	{
-		"or": "Filter",
-		"tr": "Filter"
+		"or": "Map:",
+		"tr": "Bana"
+	},
+	{
+		"or": "Skin name",
+		"tr": ""
+	},
+	{
+		"or": "Sat.",
+		"tr": "Mättnad"
+	},
+	{
+		"or": "Bodies",
+		"tr": ""
+	},
+	{
+		"or": "Decoration",
+		"tr": ""
+	},
+	{
+		"or": "Max Screenshots",
+		"tr": "Max antal skärmdumpar"
+	},
+	{
+		"or": "Join game",
+		"tr": "Spela"
+	},
+	{
+		"or": "Patterns",
+		"tr": ""
+	},
+	{
+		"or": "Netversion:",
+		"tr": "Nätversion:"
+	},
+	{
+		"or": "Type:",
+		"tr": "Typ:"
+	},
+	{
+		"or": "Lht.",
+		"tr": "Ljusstyrka"
+	},
+	{
+		"or": "Body",
+		"tr": "Kropp"
+	},
+	{
+		"or": "FSAA samples",
+		"tr": "FSAA-samplingar"
+	},
+	{
+		"or": "Rifle",
+		"tr": "Gevär"
+	},
+	{
+		"or": "Miscellaneous",
+		"tr": "Övrigt"
+	},
+	{
+		"or": "Quick search:",
+		"tr": "Snabbsök:"
+	},
+	{
+		"or": "News",
+		"tr": "Nyheter"
+	},
+	{
+		"or": "Max demos",
+		"tr": "Max antal demon"
+	},
+	{
+		"or": "no limit",
+		"tr": "Ingen gräns"
+	},
+	{
+		"or": "Reset to defaults",
+		"tr": "Återställ till standard"
+	},
+	{
+		"or": "Feet",
+		"tr": "Fötter"
+	},
+	{
+		"or": "Size:",
+		"tr": "Storlek:"
+	},
+	{
+		"or": "Version:",
+		"tr": "Version:"
+	},
+	{
+		"or": "%d Bytes",
+		"tr": "%d Bytes"
+	},
+	{
+		"or": "UI Color",
+		"tr": "Gränssnittfärg"
+	},
+	{
+		"or": "Tattoo",
+		"tr": ""
+	},
+	{
+		"or": "Internet",
+		"tr": "Internet"
+	},
+	{
+		"or": "Quit anyway?",
+		"tr": "Avsluta i alla fall?"
+	},
+	{
+		"or": "Sound volume",
+		"tr": "Volym"
+	},
+	{
+		"or": "Hue",
+		"tr": "Nyans"
+	},
+	{
+		"or": "Eyes",
+		"tr": ""
 	},
 	{
 		"or": "LAN",
 		"tr": "LAN"
 	},
 	{
-		"or": "Name plates size",
-		"tr": "Storlek på namnskyltar"
+		"or": "Crc:",
+		"tr": "Crc:"
 	},
 	{
-		"or": "Type:",
-		"tr": "Typ:"
+		"or": "Coloration",
+		"tr": ""
+	},
+	{
+		"or": "Round",
+		"tr": "Runda"
+	},
+	{
+		"or": "Display Modes",
+		"tr": "Skärmlägen"
+	},
+	{
+		"or": "Info",
+		"tr": "Info"
+	},
+	{
+		"or": "Alpha",
+		"tr": "Alpha"
 	}]
 }

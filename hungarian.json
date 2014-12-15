@@ -93,10 +93,6 @@
 		"tr": "A kék csapat nyert!"
 	},
 	{
-		"or": "Body",
-		"tr": "Test"
-	},
-	{
 		"or": "Call vote",
 		"tr": "Szavazás"
 	},
@@ -219,10 +215,6 @@
 	{
 		"or": "Favorites",
 		"tr": "Kedvencek"
-	},
-	{
-		"or": "Feet",
-		"tr": "Láb"
 	},
 	{
 		"or": "Fire",
@@ -798,6 +790,10 @@
 		"tr": ""
 	},
 	{
+		"or": "Are you sure that you want to delete the skin?",
+		"tr": ""
+	},
+	{
 		"or": "Are you sure you want to rename the demo?",
 		"tr": ""
 	},
@@ -811,10 +807,6 @@
 	},
 	{
 		"or": "Basic",
-		"tr": ""
-	},
-	{
-		"or": "Bodies",
 		"tr": ""
 	},
 	{
@@ -846,7 +838,7 @@
 		"tr": ""
 	},
 	{
-		"or": "Decoration",
+		"or": "Delete skin",
 		"tr": ""
 	},
 	{
@@ -866,10 +858,6 @@
 		"tr": ""
 	},
 	{
-		"or": "Eyes",
-		"tr": ""
-	},
-	{
 		"or": "Format",
 		"tr": ""
 	},
@@ -883,10 +871,6 @@
 	},
 	{
 		"or": "Global",
-		"tr": ""
-	},
-	{
-		"or": "Hands",
 		"tr": ""
 	},
 	{
@@ -1082,14 +1066,6 @@
 		"tr": ""
 	},
 	{
-		"or": "Tattoo",
-		"tr": ""
-	},
-	{
-		"or": "Tattoos",
-		"tr": ""
-	},
-	{
 		"or": "Team:",
 		"tr": ""
 	},
@@ -1115,6 +1091,18 @@
 	},
 	{
 		"or": "Texture",
+		"tr": ""
+	},
+	{
+		"or": "The %s flag was captured by '%s'",
+		"tr": ""
+	},
+	{
+		"or": "The %s flag was captured by '%s' (%.2f seconds)",
+		"tr": ""
+	},
+	{
+		"or": "Unable to delete the skin",
 		"tr": ""
 	},
 	{
@@ -1158,11 +1146,35 @@
 		"tr": ""
 	},
 	{
+		"or": "body",
+		"tr": ""
+	},
+	{
+		"or": "decoration",
+		"tr": ""
+	},
+	{
+		"or": "eyes",
+		"tr": ""
+	},
+	{
+		"or": "feet",
+		"tr": ""
+	},
+	{
 		"or": "game",
 		"tr": ""
 	},
 	{
+		"or": "hands",
+		"tr": ""
+	},
+	{
 		"or": "locked",
+		"tr": ""
+	},
+	{
+		"or": "marking",
 		"tr": ""
 	},
 	{
@@ -1187,88 +1199,32 @@
 	}],
 "old translations": [
 	{
+		"or": "Created:",
+		"tr": "Készítette:"
+	},
+	{
+		"or": "Hands",
+		"tr": ""
+	},
+	{
 		"or": "New name:",
 		"tr": "Új Név:"
-	},
-	{
-		"or": "Sat.",
-		"tr": "Sat."
-	},
-	{
-		"or": "Internet",
-		"tr": "Internet"
-	},
-	{
-		"or": "Max demos",
-		"tr": "Maximum Demó"
-	},
-	{
-		"or": "News",
-		"tr": "Hírek"
-	},
-	{
-		"or": "Join game",
-		"tr": "Csatlakozás a játékhoz"
-	},
-	{
-		"or": "FSAA samples",
-		"tr": "FSAA mintáku"
 	},
 	{
 		"or": "%d of %d servers, %d players",
 		"tr": "%d Szerver, %d Játékos"
 	},
 	{
-		"or": "Sound volume",
-		"tr": "Hangerő"
-	},
-	{
-		"or": "Created:",
-		"tr": "Készítette:"
-	},
-	{
-		"or": "Max Screenshots",
-		"tr": "Maximum Fotó"
+		"or": "Tattoos",
+		"tr": ""
 	},
 	{
 		"or": "Length:",
 		"tr": "Hossza:"
 	},
 	{
-		"or": "Skin name",
-		"tr": ""
-	},
-	{
-		"or": "Rifle",
-		"tr": "Lézer"
-	},
-	{
-		"or": "Patterns",
-		"tr": ""
-	},
-	{
-		"or": "Netversion:",
-		"tr": "Netes verzió:"
-	},
-	{
-		"or": "Map:",
-		"tr": "Pálya:"
-	},
-	{
-		"or": "%d Bytes",
-		"tr": "%d Bit"
-	},
-	{
-		"or": "Coloration",
-		"tr": ""
-	},
-	{
-		"or": "Info",
-		"tr": "Infó"
-	},
-	{
-		"or": "Miscellaneous",
-		"tr": "Vegyes"
+		"or": "Host address",
+		"tr": "Szerver címe"
 	},
 	{
 		"or": "Record demo",
@@ -1279,83 +1235,171 @@
 		"tr": "Te skined"
 	},
 	{
-		"or": "Size:",
-		"tr": "Méret:"
-	},
-	{
-		"or": "Reset to defaults",
-		"tr": "Visszaállítás az alapértelmezettre"
-	},
-	{
-		"or": "Quit anyway?",
-		"tr": "Mindenképpen kilép?"
-	},
-	{
-		"or": "Display Modes",
-		"tr": "Kijelző módok"
-	},
-	{
-		"or": "Version:",
-		"tr": "Verzió:"
-	},
-	{
-		"or": "Round",
-		"tr": "Menet"
-	},
-	{
-		"or": "Lht.",
-		"tr": "Lht."
-	},
-	{
-		"or": "no limit",
-		"tr": "Nincs korlát"
-	},
-	{
-		"or": "Quick search:",
-		"tr": "Gyors keresés:"
-	},
-	{
-		"or": "UI Color",
-		"tr": "UI Szín"
-	},
-	{
-		"or": "Host address",
-		"tr": "Szerver címe"
-	},
-	{
-		"or": "Hue",
-		"tr": "Színárnyalat"
-	},
-	{
-		"or": "Crc:",
-		"tr": "Crc:"
-	},
-	{
-		"or": "Alpha",
-		"tr": "Alpha"
+		"or": "Filter",
+		"tr": "Szűrő"
 	},
 	{
 		"or": "Are you sure you want to save your skin ? If a skin with this name already exists, it will be replaced.",
 		"tr": ""
 	},
 	{
+		"or": "Name plates size",
+		"tr": "Névtáblák mérete"
+	},
+	{
 		"or": "Current version: %s",
 		"tr": "Aktuális verzió: %s"
 	},
 	{
-		"or": "Filter",
-		"tr": "Szűrő"
+		"or": "Map:",
+		"tr": "Pálya:"
+	},
+	{
+		"or": "Skin name",
+		"tr": ""
+	},
+	{
+		"or": "Sat.",
+		"tr": "Sat."
+	},
+	{
+		"or": "Bodies",
+		"tr": ""
+	},
+	{
+		"or": "Decoration",
+		"tr": ""
+	},
+	{
+		"or": "Max Screenshots",
+		"tr": "Maximum Fotó"
+	},
+	{
+		"or": "Join game",
+		"tr": "Csatlakozás a játékhoz"
+	},
+	{
+		"or": "Patterns",
+		"tr": ""
+	},
+	{
+		"or": "Type:",
+		"tr": "Típus:"
+	},
+	{
+		"or": "Lht.",
+		"tr": "Lht."
+	},
+	{
+		"or": "Body",
+		"tr": "Test"
+	},
+	{
+		"or": "FSAA samples",
+		"tr": "FSAA mintáku"
+	},
+	{
+		"or": "Rifle",
+		"tr": "Lézer"
+	},
+	{
+		"or": "Miscellaneous",
+		"tr": "Vegyes"
+	},
+	{
+		"or": "Quick search:",
+		"tr": "Gyors keresés:"
+	},
+	{
+		"or": "News",
+		"tr": "Hírek"
+	},
+	{
+		"or": "Max demos",
+		"tr": "Maximum Demó"
+	},
+	{
+		"or": "no limit",
+		"tr": "Nincs korlát"
+	},
+	{
+		"or": "Reset to defaults",
+		"tr": "Visszaállítás az alapértelmezettre"
+	},
+	{
+		"or": "Feet",
+		"tr": "Láb"
+	},
+	{
+		"or": "Size:",
+		"tr": "Méret:"
+	},
+	{
+		"or": "Version:",
+		"tr": "Verzió:"
+	},
+	{
+		"or": "%d Bytes",
+		"tr": "%d Bit"
+	},
+	{
+		"or": "UI Color",
+		"tr": "UI Szín"
+	},
+	{
+		"or": "Netversion:",
+		"tr": "Netes verzió:"
+	},
+	{
+		"or": "Tattoo",
+		"tr": ""
+	},
+	{
+		"or": "Internet",
+		"tr": "Internet"
+	},
+	{
+		"or": "Quit anyway?",
+		"tr": "Mindenképpen kilép?"
+	},
+	{
+		"or": "Sound volume",
+		"tr": "Hangerő"
+	},
+	{
+		"or": "Hue",
+		"tr": "Színárnyalat"
+	},
+	{
+		"or": "Eyes",
+		"tr": ""
 	},
 	{
 		"or": "LAN",
 		"tr": "Helyi"
 	},
 	{
-		"or": "Name plates size",
-		"tr": "Névtáblák mérete"
+		"or": "Crc:",
+		"tr": "Crc:"
 	},
 	{
-		"or": "Type:",
-		"tr": "Típus:"
+		"or": "Coloration",
+		"tr": ""
+	},
+	{
+		"or": "Round",
+		"tr": "Menet"
+	},
+	{
+		"or": "Display Modes",
+		"tr": "Kijelző módok"
+	},
+	{
+		"or": "Info",
+		"tr": "Infó"
+	},
+	{
+		"or": "Alpha",
+		"tr": "Alpha"
 	}]
 }

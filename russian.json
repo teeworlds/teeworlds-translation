@@ -98,10 +98,6 @@
 		"tr": "Синие победили!"
 	},
 	{
-		"or": "Body",
-		"tr": "Тело"
-	},
-	{
 		"or": "Call vote",
 		"tr": "Голосовать"
 	},
@@ -228,10 +224,6 @@
 	{
 		"or": "Favorites",
 		"tr": "Избранные"
-	},
-	{
-		"or": "Feet",
-		"tr": "Ноги"
 	},
 	{
 		"or": "Fire",
@@ -827,6 +819,10 @@
 		"tr": ""
 	},
 	{
+		"or": "Are you sure that you want to delete the skin?",
+		"tr": ""
+	},
+	{
 		"or": "Are you sure you want to rename the demo?",
 		"tr": ""
 	},
@@ -840,10 +836,6 @@
 	},
 	{
 		"or": "Basic",
-		"tr": ""
-	},
-	{
-		"or": "Bodies",
 		"tr": ""
 	},
 	{
@@ -875,7 +867,7 @@
 		"tr": ""
 	},
 	{
-		"or": "Decoration",
+		"or": "Delete skin",
 		"tr": ""
 	},
 	{
@@ -888,10 +880,6 @@
 	},
 	{
 		"or": "Editor",
-		"tr": ""
-	},
-	{
-		"or": "Eyes",
 		"tr": ""
 	},
 	{
@@ -908,10 +896,6 @@
 	},
 	{
 		"or": "Global",
-		"tr": ""
-	},
-	{
-		"or": "Hands",
 		"tr": ""
 	},
 	{
@@ -1087,14 +1071,6 @@
 		"tr": ""
 	},
 	{
-		"or": "Tattoo",
-		"tr": ""
-	},
-	{
-		"or": "Tattoos",
-		"tr": ""
-	},
-	{
 		"or": "Team:",
 		"tr": ""
 	},
@@ -1120,6 +1096,18 @@
 	},
 	{
 		"or": "Texture",
+		"tr": ""
+	},
+	{
+		"or": "The %s flag was captured by '%s'",
+		"tr": ""
+	},
+	{
+		"or": "The %s flag was captured by '%s' (%.2f seconds)",
+		"tr": ""
+	},
+	{
+		"or": "Unable to delete the skin",
 		"tr": ""
 	},
 	{
@@ -1163,11 +1151,35 @@
 		"tr": ""
 	},
 	{
+		"or": "body",
+		"tr": ""
+	},
+	{
+		"or": "decoration",
+		"tr": ""
+	},
+	{
+		"or": "eyes",
+		"tr": ""
+	},
+	{
+		"or": "feet",
+		"tr": ""
+	},
+	{
 		"or": "game",
 		"tr": ""
 	},
 	{
+		"or": "hands",
+		"tr": ""
+	},
+	{
 		"or": "locked",
+		"tr": ""
+	},
+	{
+		"or": "marking",
 		"tr": ""
 	},
 	{
@@ -1192,92 +1204,32 @@
 	}],
 "old translations": [
 	{
+		"or": "Created:",
+		"tr": "Создан:"
+	},
+	{
+		"or": "Hands",
+		"tr": ""
+	},
+	{
 		"or": "New name:",
 		"tr": "Новое имя"
-	},
-	{
-		"or": "Sat.",
-		"tr": "Контраст"
-	},
-	{
-		"or": "Miscellaneous",
-		"tr": "Дополнительно"
-	},
-	{
-		"or": "Internet",
-		"tr": "Интернет"
-	},
-	{
-		"or": "Max demos",
-		"tr": "Максимальное количество демо"
-	},
-	{
-		"or": "News",
-		"tr": "Новости"
-	},
-	{
-		"or": "Join game",
-		"tr": "Играть"
-	},
-	{
-		"or": "FSAA samples",
-		"tr": "Сэмплов FSAA"
 	},
 	{
 		"or": "%d of %d servers, %d players",
 		"tr": "%d из %d серверов, %d игроков"
 	},
 	{
-		"or": "Sound volume",
-		"tr": "Громкость звука"
-	},
-	{
-		"or": "Created:",
-		"tr": "Создан:"
-	},
-	{
-		"or": "Max Screenshots",
-		"tr": "Максимальное количество снимков"
+		"or": "Tattoos",
+		"tr": ""
 	},
 	{
 		"or": "Length:",
 		"tr": "Длина"
 	},
 	{
-		"or": "Skin name",
-		"tr": ""
-	},
-	{
-		"or": "Rifle",
-		"tr": "Бластер"
-	},
-	{
-		"or": "Patterns",
-		"tr": ""
-	},
-	{
-		"or": "Netversion:",
-		"tr": "Версия:"
-	},
-	{
-		"or": "Map:",
-		"tr": "Карта:"
-	},
-	{
-		"or": "%d Bytes",
-		"tr": "%d байт"
-	},
-	{
-		"or": "Coloration",
-		"tr": ""
-	},
-	{
-		"or": "Info",
-		"tr": "Инфо"
-	},
-	{
-		"or": "Hue",
-		"tr": "Оттенок"
+		"or": "Host address",
+		"tr": "Адрес сервера"
 	},
 	{
 		"or": "Record demo",
@@ -1288,79 +1240,171 @@
 		"tr": "Ваш скин"
 	},
 	{
-		"or": "Size:",
-		"tr": "Размер:"
-	},
-	{
-		"or": "Reset to defaults",
-		"tr": "Сбросить настройки"
-	},
-	{
-		"or": "Quit anyway?",
-		"tr": "Выйти?"
-	},
-	{
-		"or": "Display Modes",
-		"tr": "Разрешение экрана"
-	},
-	{
-		"or": "Version:",
-		"tr": "Версия:"
-	},
-	{
-		"or": "Round",
-		"tr": "Раунд"
-	},
-	{
-		"or": "Lht.",
-		"tr": "Яркость"
-	},
-	{
-		"or": "no limit",
-		"tr": "Без лимита"
-	},
-	{
-		"or": "Quick search:",
-		"tr": "Быстрый поиск:"
-	},
-	{
-		"or": "UI Color",
-		"tr": "Цвет интерфейса"
-	},
-	{
-		"or": "Host address",
-		"tr": "Адрес сервера"
-	},
-	{
-		"or": "Crc:",
-		"tr": "Crc:"
-	},
-	{
-		"or": "Alpha",
-		"tr": "Прозрачн."
+		"or": "Filter",
+		"tr": "Фильтр"
 	},
 	{
 		"or": "Are you sure you want to save your skin ? If a skin with this name already exists, it will be replaced.",
 		"tr": ""
 	},
 	{
+		"or": "Name plates size",
+		"tr": "Размер"
+	},
+	{
 		"or": "Current version: %s",
 		"tr": "Текущая версия: %s"
 	},
 	{
-		"or": "Filter",
-		"tr": "Фильтр"
+		"or": "Map:",
+		"tr": "Карта:"
+	},
+	{
+		"or": "Skin name",
+		"tr": ""
+	},
+	{
+		"or": "Sat.",
+		"tr": "Контраст"
+	},
+	{
+		"or": "Bodies",
+		"tr": ""
+	},
+	{
+		"or": "Decoration",
+		"tr": ""
+	},
+	{
+		"or": "Max Screenshots",
+		"tr": "Максимальное количество снимков"
+	},
+	{
+		"or": "Join game",
+		"tr": "Играть"
+	},
+	{
+		"or": "Patterns",
+		"tr": ""
+	},
+	{
+		"or": "Netversion:",
+		"tr": "Версия:"
+	},
+	{
+		"or": "Type:",
+		"tr": "Тип:"
+	},
+	{
+		"or": "Lht.",
+		"tr": "Яркость"
+	},
+	{
+		"or": "Body",
+		"tr": "Тело"
+	},
+	{
+		"or": "FSAA samples",
+		"tr": "Сэмплов FSAA"
+	},
+	{
+		"or": "Rifle",
+		"tr": "Бластер"
+	},
+	{
+		"or": "Miscellaneous",
+		"tr": "Дополнительно"
+	},
+	{
+		"or": "Quick search:",
+		"tr": "Быстрый поиск:"
+	},
+	{
+		"or": "News",
+		"tr": "Новости"
+	},
+	{
+		"or": "Max demos",
+		"tr": "Максимальное количество демо"
+	},
+	{
+		"or": "no limit",
+		"tr": "Без лимита"
+	},
+	{
+		"or": "Reset to defaults",
+		"tr": "Сбросить настройки"
+	},
+	{
+		"or": "Feet",
+		"tr": "Ноги"
+	},
+	{
+		"or": "Size:",
+		"tr": "Размер:"
+	},
+	{
+		"or": "Version:",
+		"tr": "Версия:"
+	},
+	{
+		"or": "%d Bytes",
+		"tr": "%d байт"
+	},
+	{
+		"or": "UI Color",
+		"tr": "Цвет интерфейса"
+	},
+	{
+		"or": "Tattoo",
+		"tr": ""
+	},
+	{
+		"or": "Internet",
+		"tr": "Интернет"
+	},
+	{
+		"or": "Quit anyway?",
+		"tr": "Выйти?"
+	},
+	{
+		"or": "Sound volume",
+		"tr": "Громкость звука"
+	},
+	{
+		"or": "Hue",
+		"tr": "Оттенок"
+	},
+	{
+		"or": "Eyes",
+		"tr": ""
 	},
 	{
 		"or": "LAN",
 		"tr": "LAN"
 	},
 	{
-		"or": "Name plates size",
-		"tr": "Размер"
+		"or": "Crc:",
+		"tr": "Crc:"
 	},
 	{
-		"or": "Type:",
-		"tr": "Тип:"
+		"or": "Coloration",
+		"tr": ""
+	},
+	{
+		"or": "Round",
+		"tr": "Раунд"
+	},
+	{
+		"or": "Display Modes",
+		"tr": "Разрешение экрана"
+	},
+	{
+		"or": "Info",
+		"tr": "Инфо"
+	},
+	{
+		"or": "Alpha",
+		"tr": "Прозрачн."
 	}]
 }

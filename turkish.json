@@ -96,10 +96,6 @@
 		"tr": "Mavi takım kazandı!"
 	},
 	{
-		"or": "Body",
-		"tr": "Gövde"
-	},
-	{
 		"or": "Call vote",
 		"tr": "Oylama başlat"
 	},
@@ -226,10 +222,6 @@
 	{
 		"or": "Favorites",
 		"tr": "Favoriler"
-	},
-	{
-		"or": "Feet",
-		"tr": "Ayak"
 	},
 	{
 		"or": "Fire",
@@ -821,6 +813,10 @@
 		"tr": ""
 	},
 	{
+		"or": "Are you sure that you want to delete the skin?",
+		"tr": ""
+	},
+	{
 		"or": "Are you sure you want to rename the demo?",
 		"tr": ""
 	},
@@ -834,10 +830,6 @@
 	},
 	{
 		"or": "Basic",
-		"tr": ""
-	},
-	{
-		"or": "Bodies",
 		"tr": ""
 	},
 	{
@@ -869,7 +861,7 @@
 		"tr": ""
 	},
 	{
-		"or": "Decoration",
+		"or": "Delete skin",
 		"tr": ""
 	},
 	{
@@ -882,10 +874,6 @@
 	},
 	{
 		"or": "Editor",
-		"tr": ""
-	},
-	{
-		"or": "Eyes",
 		"tr": ""
 	},
 	{
@@ -902,10 +890,6 @@
 	},
 	{
 		"or": "Global",
-		"tr": ""
-	},
-	{
-		"or": "Hands",
 		"tr": ""
 	},
 	{
@@ -1085,14 +1069,6 @@
 		"tr": ""
 	},
 	{
-		"or": "Tattoo",
-		"tr": ""
-	},
-	{
-		"or": "Tattoos",
-		"tr": ""
-	},
-	{
 		"or": "Team:",
 		"tr": ""
 	},
@@ -1118,6 +1094,18 @@
 	},
 	{
 		"or": "Texture",
+		"tr": ""
+	},
+	{
+		"or": "The %s flag was captured by '%s'",
+		"tr": ""
+	},
+	{
+		"or": "The %s flag was captured by '%s' (%.2f seconds)",
+		"tr": ""
+	},
+	{
+		"or": "Unable to delete the skin",
 		"tr": ""
 	},
 	{
@@ -1161,11 +1149,35 @@
 		"tr": ""
 	},
 	{
+		"or": "body",
+		"tr": ""
+	},
+	{
+		"or": "decoration",
+		"tr": ""
+	},
+	{
+		"or": "eyes",
+		"tr": ""
+	},
+	{
+		"or": "feet",
+		"tr": ""
+	},
+	{
 		"or": "game",
 		"tr": ""
 	},
 	{
+		"or": "hands",
+		"tr": ""
+	},
+	{
 		"or": "locked",
+		"tr": ""
+	},
+	{
+		"or": "marking",
 		"tr": ""
 	},
 	{
@@ -1190,156 +1202,48 @@
 	}],
 "old translations": [
 	{
+		"or": "Created:",
+		"tr": "Yaratıldı:"
+	},
+	{
+		"or": "Hands",
+		"tr": ""
+	},
+	{
 		"or": "New name:",
 		"tr": "Yeni isim :"
-	},
-	{
-		"or": "Sat.",
-		"tr": "Doygunluk"
-	},
-	{
-		"or": "Miscellaneous",
-		"tr": "Çeşitli"
-	},
-	{
-		"or": "Internet",
-		"tr": "Internet"
-	},
-	{
-		"or": "Max demos",
-		"tr": "Maksimum Demo Sayısı"
-	},
-	{
-		"or": "News",
-		"tr": "Haberler"
-	},
-	{
-		"or": "Join game",
-		"tr": "Oyuna katıl"
-	},
-	{
-		"or": "FSAA samples",
-		"tr": "FSAA örnekleri"
 	},
 	{
 		"or": "%d of %d servers, %d players",
 		"tr": "%d/%d sunucu, %d oyuncu"
 	},
 	{
-		"or": "Sound volume",
-		"tr": "Ses yüksekliği"
-	},
-	{
-		"or": "Created:",
-		"tr": "Yaratıldı:"
-	},
-	{
-		"or": "Max Screenshots",
-		"tr": "Maksimum Ekran Alıntısı Sayısı"
+		"or": "Tattoos",
+		"tr": ""
 	},
 	{
 		"or": "Length:",
 		"tr": "Uzunluk:"
 	},
 	{
-		"or": "Skin name",
-		"tr": ""
-	},
-	{
-		"or": "Rifle",
-		"tr": "Lazer"
-	},
-	{
-		"or": "Patterns",
-		"tr": ""
-	},
-	{
-		"or": "Netversion:",
-		"tr": "Netversion :"
-	},
-	{
-		"or": "Map:",
-		"tr": "Harita:"
-	},
-	{
-		"or": "%d Bytes",
-		"tr": "%d Bayt"
-	},
-	{
-		"or": "Coloration",
-		"tr": ""
-	},
-	{
-		"or": "Info",
-		"tr": "Bilgi"
-	},
-	{
-		"or": "Hue",
-		"tr": "Renk"
+		"or": "Host address",
+		"tr": "Sunucu adresi"
 	},
 	{
 		"or": "Record demo",
 		"tr": "Demo kaydet"
 	},
 	{
-		"or": "Your skin",
-		"tr": "Sizin görünüşünüz"
-	},
-	{
-		"or": "Size:",
-		"tr": "Boyut:"
-	},
-	{
 		"or": "﻿",
 		"tr": "## translated strings #####"
 	},
 	{
-		"or": "Reset to defaults",
-		"tr": "Varsayılanlara getir"
+		"or": "Your skin",
+		"tr": "Sizin görünüşünüz"
 	},
 	{
-		"or": "Quit anyway?",
-		"tr": "Çıkmak istediğinize emin misiniz?"
-	},
-	{
-		"or": "Display Modes",
-		"tr": "Çözünürlük"
-	},
-	{
-		"or": "Version:",
-		"tr": "Versyon :"
-	},
-	{
-		"or": "Round",
-		"tr": "Raund"
-	},
-	{
-		"or": "Lht.",
-		"tr": "Parlaklık"
-	},
-	{
-		"or": "no limit",
-		"tr": "limit yok"
-	},
-	{
-		"or": "Quick search:",
-		"tr": "Hızlı Arama :"
-	},
-	{
-		"or": "UI Color",
-		"tr": "Menü rengi"
-	},
-	{
-		"or": "Host address",
-		"tr": "Sunucu adresi"
-	},
-	{
-		"or": "Crc:",
-		"tr": "Crc:"
-	},
-	{
-		"or": "Alpha",
-		"tr": "Şeffaflık"
+		"or": "Filter",
+		"tr": "Filtre"
 	},
 	{
 		"or": "Are you sure you want to save your skin ? If a skin with this name already exists, it will be replaced.",
@@ -1350,19 +1254,159 @@
 		"tr": "Mevcut versiyon: %s"
 	},
 	{
-		"or": "Filter",
-		"tr": "Filtre"
+		"or": "Map:",
+		"tr": "Harita:"
+	},
+	{
+		"or": "Skin name",
+		"tr": ""
+	},
+	{
+		"or": "Sat.",
+		"tr": "Doygunluk"
+	},
+	{
+		"or": "Bodies",
+		"tr": ""
+	},
+	{
+		"or": "Decoration",
+		"tr": ""
+	},
+	{
+		"or": "Max Screenshots",
+		"tr": "Maksimum Ekran Alıntısı Sayısı"
+	},
+	{
+		"or": "Join game",
+		"tr": "Oyuna katıl"
+	},
+	{
+		"or": "Patterns",
+		"tr": ""
+	},
+	{
+		"or": "Netversion:",
+		"tr": "Netversion :"
+	},
+	{
+		"or": "Type:",
+		"tr": "Tür:"
+	},
+	{
+		"or": "Lht.",
+		"tr": "Parlaklık"
+	},
+	{
+		"or": "Body",
+		"tr": "Gövde"
+	},
+	{
+		"or": "FSAA samples",
+		"tr": "FSAA örnekleri"
+	},
+	{
+		"or": "Rifle",
+		"tr": "Lazer"
+	},
+	{
+		"or": "Miscellaneous",
+		"tr": "Çeşitli"
+	},
+	{
+		"or": "Quick search:",
+		"tr": "Hızlı Arama :"
+	},
+	{
+		"or": "News",
+		"tr": "Haberler"
+	},
+	{
+		"or": "Max demos",
+		"tr": "Maksimum Demo Sayısı"
+	},
+	{
+		"or": "Reset to defaults",
+		"tr": "Varsayılanlara getir"
+	},
+	{
+		"or": "Feet",
+		"tr": "Ayak"
+	},
+	{
+		"or": "Size:",
+		"tr": "Boyut:"
+	},
+	{
+		"or": "Version:",
+		"tr": "Versyon :"
+	},
+	{
+		"or": "%d Bytes",
+		"tr": "%d Bayt"
+	},
+	{
+		"or": "UI Color",
+		"tr": "Menü rengi"
+	},
+	{
+		"or": "no limit",
+		"tr": "limit yok"
+	},
+	{
+		"or": "Internet",
+		"tr": "Internet"
+	},
+	{
+		"or": "Quit anyway?",
+		"tr": "Çıkmak istediğinize emin misiniz?"
+	},
+	{
+		"or": "Sound volume",
+		"tr": "Ses yüksekliği"
+	},
+	{
+		"or": "Hue",
+		"tr": "Renk"
+	},
+	{
+		"or": "Eyes",
+		"tr": ""
 	},
 	{
 		"or": "LAN",
 		"tr": "LAN"
 	},
 	{
+		"or": "Crc:",
+		"tr": "Crc:"
+	},
+	{
+		"or": "Coloration",
+		"tr": ""
+	},
+	{
+		"or": "Round",
+		"tr": "Raund"
+	},
+	{
+		"or": "Tattoo",
+		"tr": ""
+	},
+	{
+		"or": "Display Modes",
+		"tr": "Çözünürlük"
+	},
+	{
+		"or": "Info",
+		"tr": "Bilgi"
+	},
+	{
 		"or": "Name plates size",
 		"tr": "Boyut"
 	},
 	{
-		"or": "Type:",
-		"tr": "Tür:"
+		"or": "Alpha",
+		"tr": "Şeffaflık"
 	}]
 }

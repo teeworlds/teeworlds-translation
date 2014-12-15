@@ -99,10 +99,6 @@
 		"tr": "Echipa albastră a câștigat!"
 	},
 	{
-		"or": "Body",
-		"tr": "Corp"
-	},
-	{
 		"or": "Call vote",
 		"tr": "Votează"
 	},
@@ -229,10 +225,6 @@
 	{
 		"or": "Favorites",
 		"tr": "Favorite"
-	},
-	{
-		"or": "Feet",
-		"tr": "Picioare"
 	},
 	{
 		"or": "Fire",
@@ -840,6 +832,10 @@
 		"tr": ""
 	},
 	{
+		"or": "Are you sure that you want to delete the skin?",
+		"tr": ""
+	},
+	{
 		"or": "Are you sure you want to rename the demo?",
 		"tr": ""
 	},
@@ -853,10 +849,6 @@
 	},
 	{
 		"or": "Basic",
-		"tr": ""
-	},
-	{
-		"or": "Bodies",
 		"tr": ""
 	},
 	{
@@ -888,7 +880,7 @@
 		"tr": ""
 	},
 	{
-		"or": "Decoration",
+		"or": "Delete skin",
 		"tr": ""
 	},
 	{
@@ -904,10 +896,6 @@
 		"tr": ""
 	},
 	{
-		"or": "Eyes",
-		"tr": ""
-	},
-	{
 		"or": "Format",
 		"tr": ""
 	},
@@ -917,10 +905,6 @@
 	},
 	{
 		"or": "Global",
-		"tr": ""
-	},
-	{
-		"or": "Hands",
 		"tr": ""
 	},
 	{
@@ -1088,14 +1072,6 @@
 		"tr": ""
 	},
 	{
-		"or": "Tattoo",
-		"tr": ""
-	},
-	{
-		"or": "Tattoos",
-		"tr": ""
-	},
-	{
 		"or": "Team:",
 		"tr": ""
 	},
@@ -1121,6 +1097,18 @@
 	},
 	{
 		"or": "Texture",
+		"tr": ""
+	},
+	{
+		"or": "The %s flag was captured by '%s'",
+		"tr": ""
+	},
+	{
+		"or": "The %s flag was captured by '%s' (%.2f seconds)",
+		"tr": ""
+	},
+	{
+		"or": "Unable to delete the skin",
 		"tr": ""
 	},
 	{
@@ -1164,11 +1152,35 @@
 		"tr": ""
 	},
 	{
+		"or": "body",
+		"tr": ""
+	},
+	{
+		"or": "decoration",
+		"tr": ""
+	},
+	{
+		"or": "eyes",
+		"tr": ""
+	},
+	{
+		"or": "feet",
+		"tr": ""
+	},
+	{
 		"or": "game",
 		"tr": ""
 	},
 	{
+		"or": "hands",
+		"tr": ""
+	},
+	{
 		"or": "locked",
+		"tr": ""
+	},
+	{
+		"or": "marking",
 		"tr": ""
 	},
 	{
@@ -1193,92 +1205,32 @@
 	}],
 "old translations": [
 	{
+		"or": "Created:",
+		"tr": "Creată la data:"
+	},
+	{
+		"or": "Hands",
+		"tr": ""
+	},
+	{
 		"or": "New name:",
 		"tr": "Nume nou:"
-	},
-	{
-		"or": "Sat.",
-		"tr": "Saturație"
-	},
-	{
-		"or": "Miscellaneous",
-		"tr": "Diverse"
-	},
-	{
-		"or": "Internet",
-		"tr": "Internet"
-	},
-	{
-		"or": "Max demos",
-		"tr": "Număr maxim de demo-uri"
-	},
-	{
-		"or": "News",
-		"tr": "Știri"
-	},
-	{
-		"or": "Join game",
-		"tr": "Intră în joc"
-	},
-	{
-		"or": "FSAA samples",
-		"tr": "Eșantioane FSAA"
 	},
 	{
 		"or": "%d of %d servers, %d players",
 		"tr": "%d/%d servere, %d jucători"
 	},
 	{
-		"or": "Sound volume",
-		"tr": "Volum sunet"
-	},
-	{
-		"or": "Created:",
-		"tr": "Creată la data:"
-	},
-	{
-		"or": "Max Screenshots",
-		"tr": "Număr maxim de capturi de ecran"
+		"or": "Tattoos",
+		"tr": ""
 	},
 	{
 		"or": "Length:",
 		"tr": "Durată:"
 	},
 	{
-		"or": "Skin name",
-		"tr": ""
-	},
-	{
-		"or": "Rifle",
-		"tr": "Carabină"
-	},
-	{
-		"or": "Patterns",
-		"tr": ""
-	},
-	{
-		"or": "Netversion:",
-		"tr": "Cod rețea:"
-	},
-	{
-		"or": "Map:",
-		"tr": "Harta:"
-	},
-	{
-		"or": "%d Bytes",
-		"tr": "%d octeți"
-	},
-	{
-		"or": "Coloration",
-		"tr": ""
-	},
-	{
-		"or": "Info",
-		"tr": "Informații"
-	},
-	{
-		"or": "Hue",
-		"tr": "Tentă"
+		"or": "Host address",
+		"tr": "Adresa gazdei"
 	},
 	{
 		"or": "Record demo",
@@ -1289,56 +1241,8 @@
 		"tr": "Costumul tău"
 	},
 	{
-		"or": "Size:",
-		"tr": "Dimensiunea:"
-	},
-	{
-		"or": "Reset to defaults",
-		"tr": "Setări implicite"
-	},
-	{
-		"or": "Quit anyway?",
-		"tr": "Ieși oricum?"
-	},
-	{
-		"or": "Display Modes",
-		"tr": "Moduri de afișare"
-	},
-	{
-		"or": "Version:",
-		"tr": "Versiune:"
-	},
-	{
-		"or": "Round",
-		"tr": "Runda"
-	},
-	{
-		"or": "Lht.",
-		"tr": "Luminozitate"
-	},
-	{
-		"or": "no limit",
-		"tr": "fără limită"
-	},
-	{
-		"or": "Quick search:",
-		"tr": "Căutare rapidă:"
-	},
-	{
-		"or": "UI Color",
-		"tr": "Culoare meniu"
-	},
-	{
-		"or": "Host address",
-		"tr": "Adresa gazdei"
-	},
-	{
-		"or": "Crc:",
-		"tr": "Suma de control:"
-	},
-	{
-		"or": "Alpha",
-		"tr": "Alfa"
+		"or": "Filter",
+		"tr": "Filtre"
 	},
 	{
 		"or": "Are you sure you want to save your skin ? If a skin with this name already exists, it will be replaced.",
@@ -1349,19 +1253,159 @@
 		"tr": "Versiunea actuală: %s"
 	},
 	{
-		"or": "Filter",
-		"tr": "Filtre"
+		"or": "Map:",
+		"tr": "Harta:"
+	},
+	{
+		"or": "Skin name",
+		"tr": ""
+	},
+	{
+		"or": "Sat.",
+		"tr": "Saturație"
+	},
+	{
+		"or": "Bodies",
+		"tr": ""
+	},
+	{
+		"or": "Decoration",
+		"tr": ""
+	},
+	{
+		"or": "Max Screenshots",
+		"tr": "Număr maxim de capturi de ecran"
+	},
+	{
+		"or": "Join game",
+		"tr": "Intră în joc"
+	},
+	{
+		"or": "Patterns",
+		"tr": ""
+	},
+	{
+		"or": "Netversion:",
+		"tr": "Cod rețea:"
+	},
+	{
+		"or": "Type:",
+		"tr": "Tip:"
+	},
+	{
+		"or": "Lht.",
+		"tr": "Luminozitate"
+	},
+	{
+		"or": "Body",
+		"tr": "Corp"
+	},
+	{
+		"or": "FSAA samples",
+		"tr": "Eșantioane FSAA"
+	},
+	{
+		"or": "Rifle",
+		"tr": "Carabină"
+	},
+	{
+		"or": "Miscellaneous",
+		"tr": "Diverse"
+	},
+	{
+		"or": "Quick search:",
+		"tr": "Căutare rapidă:"
+	},
+	{
+		"or": "News",
+		"tr": "Știri"
+	},
+	{
+		"or": "Max demos",
+		"tr": "Număr maxim de demo-uri"
+	},
+	{
+		"or": "Reset to defaults",
+		"tr": "Setări implicite"
+	},
+	{
+		"or": "Feet",
+		"tr": "Picioare"
+	},
+	{
+		"or": "Size:",
+		"tr": "Dimensiunea:"
+	},
+	{
+		"or": "Version:",
+		"tr": "Versiune:"
+	},
+	{
+		"or": "%d Bytes",
+		"tr": "%d octeți"
+	},
+	{
+		"or": "UI Color",
+		"tr": "Culoare meniu"
+	},
+	{
+		"or": "no limit",
+		"tr": "fără limită"
+	},
+	{
+		"or": "Internet",
+		"tr": "Internet"
+	},
+	{
+		"or": "Quit anyway?",
+		"tr": "Ieși oricum?"
+	},
+	{
+		"or": "Sound volume",
+		"tr": "Volum sunet"
+	},
+	{
+		"or": "Hue",
+		"tr": "Tentă"
+	},
+	{
+		"or": "Eyes",
+		"tr": ""
 	},
 	{
 		"or": "LAN",
 		"tr": "Rețea"
 	},
 	{
+		"or": "Crc:",
+		"tr": "Suma de control:"
+	},
+	{
+		"or": "Coloration",
+		"tr": ""
+	},
+	{
+		"or": "Round",
+		"tr": "Runda"
+	},
+	{
+		"or": "Tattoo",
+		"tr": ""
+	},
+	{
+		"or": "Display Modes",
+		"tr": "Moduri de afișare"
+	},
+	{
+		"or": "Info",
+		"tr": "Informații"
+	},
+	{
 		"or": "Name plates size",
 		"tr": "Dimensiune nume placă"
 	},
 	{
-		"or": "Type:",
-		"tr": "Tip:"
+		"or": "Alpha",
+		"tr": "Alfa"
 	}]
 }

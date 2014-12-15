@@ -106,10 +106,6 @@
 		"tr": "Blauwe team wint!"
 	},
 	{
-		"or": "Body",
-		"tr": "Lichaam"
-	},
-	{
 		"or": "Call vote",
 		"tr": "Stem"
 	},
@@ -236,10 +232,6 @@
 	{
 		"or": "Favorites",
 		"tr": "Favorieten"
-	},
-	{
-		"or": "Feet",
-		"tr": "Voeten"
 	},
 	{
 		"or": "Fire",
@@ -835,6 +827,10 @@
 		"tr": ""
 	},
 	{
+		"or": "Are you sure that you want to delete the skin?",
+		"tr": ""
+	},
+	{
 		"or": "Are you sure you want to rename the demo?",
 		"tr": ""
 	},
@@ -848,10 +844,6 @@
 	},
 	{
 		"or": "Basic",
-		"tr": ""
-	},
-	{
-		"or": "Bodies",
 		"tr": ""
 	},
 	{
@@ -883,7 +875,7 @@
 		"tr": ""
 	},
 	{
-		"or": "Decoration",
+		"or": "Delete skin",
 		"tr": ""
 	},
 	{
@@ -896,10 +888,6 @@
 	},
 	{
 		"or": "Editor",
-		"tr": ""
-	},
-	{
-		"or": "Eyes",
 		"tr": ""
 	},
 	{
@@ -916,10 +904,6 @@
 	},
 	{
 		"or": "Global",
-		"tr": ""
-	},
-	{
-		"or": "Hands",
 		"tr": ""
 	},
 	{
@@ -1095,14 +1079,6 @@
 		"tr": ""
 	},
 	{
-		"or": "Tattoo",
-		"tr": ""
-	},
-	{
-		"or": "Tattoos",
-		"tr": ""
-	},
-	{
 		"or": "Team:",
 		"tr": ""
 	},
@@ -1128,6 +1104,18 @@
 	},
 	{
 		"or": "Texture",
+		"tr": ""
+	},
+	{
+		"or": "The %s flag was captured by '%s'",
+		"tr": ""
+	},
+	{
+		"or": "The %s flag was captured by '%s' (%.2f seconds)",
+		"tr": ""
+	},
+	{
+		"or": "Unable to delete the skin",
 		"tr": ""
 	},
 	{
@@ -1171,11 +1159,35 @@
 		"tr": ""
 	},
 	{
+		"or": "body",
+		"tr": ""
+	},
+	{
+		"or": "decoration",
+		"tr": ""
+	},
+	{
+		"or": "eyes",
+		"tr": ""
+	},
+	{
+		"or": "feet",
+		"tr": ""
+	},
+	{
 		"or": "game",
 		"tr": ""
 	},
 	{
+		"or": "hands",
+		"tr": ""
+	},
+	{
 		"or": "locked",
+		"tr": ""
+	},
+	{
+		"or": "marking",
 		"tr": ""
 	},
 	{
@@ -1200,92 +1212,32 @@
 	}],
 "old translations": [
 	{
+		"or": "Created:",
+		"tr": "Gemaakt:"
+	},
+	{
+		"or": "Hands",
+		"tr": ""
+	},
+	{
 		"or": "New name:",
 		"tr": "Nieuwe naam:"
-	},
-	{
-		"or": "Sat.",
-		"tr": "Verz."
-	},
-	{
-		"or": "Miscellaneous",
-		"tr": "Diverse"
-	},
-	{
-		"or": "Internet",
-		"tr": "Internet"
-	},
-	{
-		"or": "Max demos",
-		"tr": "Maximaal aantal demo's"
-	},
-	{
-		"or": "News",
-		"tr": "Nieuws"
-	},
-	{
-		"or": "Join game",
-		"tr": "Binnenkomen"
-	},
-	{
-		"or": "FSAA samples",
-		"tr": "FSAA samples"
 	},
 	{
 		"or": "%d of %d servers, %d players",
 		"tr": "%d van %d Servers, %d spelers"
 	},
 	{
-		"or": "Sound volume",
-		"tr": "Volume"
-	},
-	{
-		"or": "Created:",
-		"tr": "Gemaakt:"
-	},
-	{
-		"or": "Max Screenshots",
-		"tr": "Maximaal aantal schermafbeeldingen"
+		"or": "Tattoos",
+		"tr": ""
 	},
 	{
 		"or": "Length:",
 		"tr": "Lengte:"
 	},
 	{
-		"or": "Skin name",
-		"tr": ""
-	},
-	{
-		"or": "Rifle",
-		"tr": "Laser"
-	},
-	{
-		"or": "Patterns",
-		"tr": ""
-	},
-	{
-		"or": "Netversion:",
-		"tr": "Netversie:"
-	},
-	{
-		"or": "Map:",
-		"tr": "Kaart:"
-	},
-	{
-		"or": "%d Bytes",
-		"tr": "%d Bytes"
-	},
-	{
-		"or": "Coloration",
-		"tr": ""
-	},
-	{
-		"or": "Info",
-		"tr": "Info"
-	},
-	{
-		"or": "Hue",
-		"tr": "Tint"
+		"or": "Host address",
+		"tr": "Server adres"
 	},
 	{
 		"or": "Record demo",
@@ -1296,79 +1248,171 @@
 		"tr": "Jouw skin"
 	},
 	{
-		"or": "Size:",
-		"tr": "Grootte:"
-	},
-	{
-		"or": "Reset to defaults",
-		"tr": "Standaardinstellingen"
-	},
-	{
-		"or": "Quit anyway?",
-		"tr": "Toch afsluiten?"
-	},
-	{
-		"or": "Display Modes",
-		"tr": "Laat modes zien"
-	},
-	{
-		"or": "Version:",
-		"tr": "Versie:"
-	},
-	{
-		"or": "Round",
-		"tr": "Ronde"
-	},
-	{
-		"or": "Lht.",
-		"tr": "Licht"
-	},
-	{
-		"or": "no limit",
-		"tr": "ongelimiteerd"
-	},
-	{
-		"or": "Quick search:",
-		"tr": "Snel zoeken:"
-	},
-	{
-		"or": "UI Color",
-		"tr": "UI kleur"
-	},
-	{
-		"or": "Host address",
-		"tr": "Server adres"
-	},
-	{
-		"or": "Crc:",
-		"tr": "Crc:"
-	},
-	{
-		"or": "Alpha",
-		"tr": "Alpha"
+		"or": "Filter",
+		"tr": "Filter"
 	},
 	{
 		"or": "Are you sure you want to save your skin ? If a skin with this name already exists, it will be replaced.",
 		"tr": ""
 	},
 	{
+		"or": "Name plates size",
+		"tr": "Grootte naamplaat"
+	},
+	{
 		"or": "Current version: %s",
 		"tr": "Huidige versie: %s"
 	},
 	{
-		"or": "Filter",
-		"tr": "Filter"
+		"or": "Map:",
+		"tr": "Kaart:"
+	},
+	{
+		"or": "Skin name",
+		"tr": ""
+	},
+	{
+		"or": "Sat.",
+		"tr": "Verz."
+	},
+	{
+		"or": "Bodies",
+		"tr": ""
+	},
+	{
+		"or": "Decoration",
+		"tr": ""
+	},
+	{
+		"or": "Max Screenshots",
+		"tr": "Maximaal aantal schermafbeeldingen"
+	},
+	{
+		"or": "Join game",
+		"tr": "Binnenkomen"
+	},
+	{
+		"or": "Patterns",
+		"tr": ""
+	},
+	{
+		"or": "Netversion:",
+		"tr": "Netversie:"
+	},
+	{
+		"or": "Type:",
+		"tr": "Type:"
+	},
+	{
+		"or": "Lht.",
+		"tr": "Licht"
+	},
+	{
+		"or": "Body",
+		"tr": "Lichaam"
+	},
+	{
+		"or": "FSAA samples",
+		"tr": "FSAA samples"
+	},
+	{
+		"or": "Rifle",
+		"tr": "Laser"
+	},
+	{
+		"or": "Miscellaneous",
+		"tr": "Diverse"
+	},
+	{
+		"or": "Quick search:",
+		"tr": "Snel zoeken:"
+	},
+	{
+		"or": "News",
+		"tr": "Nieuws"
+	},
+	{
+		"or": "Max demos",
+		"tr": "Maximaal aantal demo's"
+	},
+	{
+		"or": "no limit",
+		"tr": "ongelimiteerd"
+	},
+	{
+		"or": "Reset to defaults",
+		"tr": "Standaardinstellingen"
+	},
+	{
+		"or": "Feet",
+		"tr": "Voeten"
+	},
+	{
+		"or": "Size:",
+		"tr": "Grootte:"
+	},
+	{
+		"or": "Version:",
+		"tr": "Versie:"
+	},
+	{
+		"or": "%d Bytes",
+		"tr": "%d Bytes"
+	},
+	{
+		"or": "UI Color",
+		"tr": "UI kleur"
+	},
+	{
+		"or": "Tattoo",
+		"tr": ""
+	},
+	{
+		"or": "Internet",
+		"tr": "Internet"
+	},
+	{
+		"or": "Quit anyway?",
+		"tr": "Toch afsluiten?"
+	},
+	{
+		"or": "Sound volume",
+		"tr": "Volume"
+	},
+	{
+		"or": "Hue",
+		"tr": "Tint"
+	},
+	{
+		"or": "Eyes",
+		"tr": ""
 	},
 	{
 		"or": "LAN",
 		"tr": "LAN"
 	},
 	{
-		"or": "Name plates size",
-		"tr": "Grootte naamplaat"
+		"or": "Crc:",
+		"tr": "Crc:"
 	},
 	{
-		"or": "Type:",
-		"tr": "Type:"
+		"or": "Coloration",
+		"tr": ""
+	},
+	{
+		"or": "Round",
+		"tr": "Ronde"
+	},
+	{
+		"or": "Display Modes",
+		"tr": "Laat modes zien"
+	},
+	{
+		"or": "Info",
+		"tr": "Info"
+	},
+	{
+		"or": "Alpha",
+		"tr": "Alpha"
 	}]
 }

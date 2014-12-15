@@ -94,10 +94,6 @@
 		"tr": "Sininen joukkue voitti!"
 	},
 	{
-		"or": "Body",
-		"tr": "Vartalo"
-	},
-	{
 		"or": "Call vote",
 		"tr": "Aloita äänestys"
 	},
@@ -224,10 +220,6 @@
 	{
 		"or": "Favorites",
 		"tr": "Suosikit"
-	},
-	{
-		"or": "Feet",
-		"tr": "Jalat"
 	},
 	{
 		"or": "Fire",
@@ -823,6 +815,10 @@
 		"tr": ""
 	},
 	{
+		"or": "Are you sure that you want to delete the skin?",
+		"tr": ""
+	},
+	{
 		"or": "Are you sure you want to rename the demo?",
 		"tr": ""
 	},
@@ -836,10 +832,6 @@
 	},
 	{
 		"or": "Basic",
-		"tr": ""
-	},
-	{
-		"or": "Bodies",
 		"tr": ""
 	},
 	{
@@ -871,7 +863,7 @@
 		"tr": ""
 	},
 	{
-		"or": "Decoration",
+		"or": "Delete skin",
 		"tr": ""
 	},
 	{
@@ -884,10 +876,6 @@
 	},
 	{
 		"or": "Editor",
-		"tr": ""
-	},
-	{
-		"or": "Eyes",
 		"tr": ""
 	},
 	{
@@ -904,10 +892,6 @@
 	},
 	{
 		"or": "Global",
-		"tr": ""
-	},
-	{
-		"or": "Hands",
 		"tr": ""
 	},
 	{
@@ -1083,14 +1067,6 @@
 		"tr": ""
 	},
 	{
-		"or": "Tattoo",
-		"tr": ""
-	},
-	{
-		"or": "Tattoos",
-		"tr": ""
-	},
-	{
 		"or": "Team:",
 		"tr": ""
 	},
@@ -1116,6 +1092,18 @@
 	},
 	{
 		"or": "Texture",
+		"tr": ""
+	},
+	{
+		"or": "The %s flag was captured by '%s'",
+		"tr": ""
+	},
+	{
+		"or": "The %s flag was captured by '%s' (%.2f seconds)",
+		"tr": ""
+	},
+	{
+		"or": "Unable to delete the skin",
 		"tr": ""
 	},
 	{
@@ -1159,11 +1147,35 @@
 		"tr": ""
 	},
 	{
+		"or": "body",
+		"tr": ""
+	},
+	{
+		"or": "decoration",
+		"tr": ""
+	},
+	{
+		"or": "eyes",
+		"tr": ""
+	},
+	{
+		"or": "feet",
+		"tr": ""
+	},
+	{
 		"or": "game",
 		"tr": ""
 	},
 	{
+		"or": "hands",
+		"tr": ""
+	},
+	{
 		"or": "locked",
+		"tr": ""
+	},
+	{
+		"or": "marking",
 		"tr": ""
 	},
 	{
@@ -1188,92 +1200,32 @@
 	}],
 "old translations": [
 	{
+		"or": "Created:",
+		"tr": "Luotu:"
+	},
+	{
+		"or": "Hands",
+		"tr": ""
+	},
+	{
 		"or": "New name:",
 		"tr": "Uusi nimi:"
-	},
-	{
-		"or": "Sat.",
-		"tr": "Kyllästys"
-	},
-	{
-		"or": "Miscellaneous",
-		"tr": "Sekalaista"
-	},
-	{
-		"or": "Internet",
-		"tr": "Internet"
-	},
-	{
-		"or": "Max demos",
-		"tr": "Demomaksimi"
-	},
-	{
-		"or": "News",
-		"tr": "Uutiset"
-	},
-	{
-		"or": "Join game",
-		"tr": "Liity peliin"
-	},
-	{
-		"or": "FSAA samples",
-		"tr": "FSAA näytteet"
 	},
 	{
 		"or": "%d of %d servers, %d players",
 		"tr": "%d/%d palvelinta, %d pelaajaa"
 	},
 	{
-		"or": "Sound volume",
-		"tr": "Äänenvoimakkuus"
-	},
-	{
-		"or": "Created:",
-		"tr": "Luotu:"
-	},
-	{
-		"or": "Max Screenshots",
-		"tr": "Kuvankaappausmaksimi"
+		"or": "Tattoos",
+		"tr": ""
 	},
 	{
 		"or": "Length:",
 		"tr": "Pituus:"
 	},
 	{
-		"or": "Skin name",
-		"tr": ""
-	},
-	{
-		"or": "Rifle",
-		"tr": "Kivääri"
-	},
-	{
-		"or": "Patterns",
-		"tr": ""
-	},
-	{
-		"or": "Netversion:",
-		"tr": "Yhteysversio:"
-	},
-	{
-		"or": "Map:",
-		"tr": "Kenttä:"
-	},
-	{
-		"or": "%d Bytes",
-		"tr": "%d tavua"
-	},
-	{
-		"or": "Coloration",
-		"tr": ""
-	},
-	{
-		"or": "Info",
-		"tr": "Info"
-	},
-	{
-		"or": "Hue",
-		"tr": "Värisävy"
+		"or": "Host address",
+		"tr": "Palvelimen osoite"
 	},
 	{
 		"or": "Record demo",
@@ -1284,79 +1236,171 @@
 		"tr": "Sinun ulkonäkösi"
 	},
 	{
-		"or": "Size:",
-		"tr": "Koko:"
-	},
-	{
-		"or": "Reset to defaults",
-		"tr": "Palaa oletusasetuksiin"
-	},
-	{
-		"or": "Quit anyway?",
-		"tr": "Lopeta siitä huolimatta?"
-	},
-	{
-		"or": "Display Modes",
-		"tr": "Näyttötilat"
-	},
-	{
-		"or": "Version:",
-		"tr": "Versio:"
-	},
-	{
-		"or": "Round",
-		"tr": "Kierros"
-	},
-	{
-		"or": "Lht.",
-		"tr": "Valoisuus"
-	},
-	{
-		"or": "no limit",
-		"tr": "ei rajaa"
-	},
-	{
-		"or": "Quick search:",
-		"tr": "Pikahaku:"
-	},
-	{
-		"or": "UI Color",
-		"tr": "Käyttöliittymäväri"
-	},
-	{
-		"or": "Host address",
-		"tr": "Palvelimen osoite"
-	},
-	{
-		"or": "Crc:",
-		"tr": "Crc:"
-	},
-	{
-		"or": "Alpha",
-		"tr": "Alfa"
+		"or": "Filter",
+		"tr": "Suotimet"
 	},
 	{
 		"or": "Are you sure you want to save your skin ? If a skin with this name already exists, it will be replaced.",
 		"tr": ""
 	},
 	{
+		"or": "Name plates size",
+		"tr": "Nimikylttien koko"
+	},
+	{
 		"or": "Current version: %s",
 		"tr": "Nykyinen versio: %s"
 	},
 	{
-		"or": "Filter",
-		"tr": "Suotimet"
+		"or": "Map:",
+		"tr": "Kenttä:"
+	},
+	{
+		"or": "Skin name",
+		"tr": ""
+	},
+	{
+		"or": "Sat.",
+		"tr": "Kyllästys"
+	},
+	{
+		"or": "Bodies",
+		"tr": ""
+	},
+	{
+		"or": "Decoration",
+		"tr": ""
+	},
+	{
+		"or": "Max Screenshots",
+		"tr": "Kuvankaappausmaksimi"
+	},
+	{
+		"or": "Join game",
+		"tr": "Liity peliin"
+	},
+	{
+		"or": "Patterns",
+		"tr": ""
+	},
+	{
+		"or": "Netversion:",
+		"tr": "Yhteysversio:"
+	},
+	{
+		"or": "Type:",
+		"tr": "Tyyppi:"
+	},
+	{
+		"or": "Lht.",
+		"tr": "Valoisuus"
+	},
+	{
+		"or": "Body",
+		"tr": "Vartalo"
+	},
+	{
+		"or": "FSAA samples",
+		"tr": "FSAA näytteet"
+	},
+	{
+		"or": "Rifle",
+		"tr": "Kivääri"
+	},
+	{
+		"or": "Miscellaneous",
+		"tr": "Sekalaista"
+	},
+	{
+		"or": "Quick search:",
+		"tr": "Pikahaku:"
+	},
+	{
+		"or": "News",
+		"tr": "Uutiset"
+	},
+	{
+		"or": "Max demos",
+		"tr": "Demomaksimi"
+	},
+	{
+		"or": "no limit",
+		"tr": "ei rajaa"
+	},
+	{
+		"or": "Reset to defaults",
+		"tr": "Palaa oletusasetuksiin"
+	},
+	{
+		"or": "Feet",
+		"tr": "Jalat"
+	},
+	{
+		"or": "Size:",
+		"tr": "Koko:"
+	},
+	{
+		"or": "Version:",
+		"tr": "Versio:"
+	},
+	{
+		"or": "%d Bytes",
+		"tr": "%d tavua"
+	},
+	{
+		"or": "UI Color",
+		"tr": "Käyttöliittymäväri"
+	},
+	{
+		"or": "Tattoo",
+		"tr": ""
+	},
+	{
+		"or": "Internet",
+		"tr": "Internet"
+	},
+	{
+		"or": "Quit anyway?",
+		"tr": "Lopeta siitä huolimatta?"
+	},
+	{
+		"or": "Sound volume",
+		"tr": "Äänenvoimakkuus"
+	},
+	{
+		"or": "Hue",
+		"tr": "Värisävy"
+	},
+	{
+		"or": "Eyes",
+		"tr": ""
 	},
 	{
 		"or": "LAN",
 		"tr": "LAN"
 	},
 	{
-		"or": "Name plates size",
-		"tr": "Nimikylttien koko"
+		"or": "Crc:",
+		"tr": "Crc:"
 	},
 	{
-		"or": "Type:",
-		"tr": "Tyyppi:"
+		"or": "Coloration",
+		"tr": ""
+	},
+	{
+		"or": "Round",
+		"tr": "Kierros"
+	},
+	{
+		"or": "Display Modes",
+		"tr": "Näyttötilat"
+	},
+	{
+		"or": "Info",
+		"tr": "Info"
+	},
+	{
+		"or": "Alpha",
+		"tr": "Alfa"
 	}]
 }

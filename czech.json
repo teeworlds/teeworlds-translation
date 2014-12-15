@@ -96,10 +96,6 @@
 		"tr": "Modří vyhráli!"
 	},
 	{
-		"or": "Body",
-		"tr": "Tělo"
-	},
-	{
 		"or": "Call vote",
 		"tr": "Hlasovat"
 	},
@@ -226,10 +222,6 @@
 	{
 		"or": "Favorites",
 		"tr": "Oblíbené"
-	},
-	{
-		"or": "Feet",
-		"tr": "Nohy"
 	},
 	{
 		"or": "Fire",
@@ -825,6 +817,10 @@
 		"tr": ""
 	},
 	{
+		"or": "Are you sure that you want to delete the skin?",
+		"tr": ""
+	},
+	{
 		"or": "Are you sure you want to rename the demo?",
 		"tr": ""
 	},
@@ -838,10 +834,6 @@
 	},
 	{
 		"or": "Basic",
-		"tr": ""
-	},
-	{
-		"or": "Bodies",
 		"tr": ""
 	},
 	{
@@ -873,7 +865,7 @@
 		"tr": ""
 	},
 	{
-		"or": "Decoration",
+		"or": "Delete skin",
 		"tr": ""
 	},
 	{
@@ -886,10 +878,6 @@
 	},
 	{
 		"or": "Editor",
-		"tr": ""
-	},
-	{
-		"or": "Eyes",
 		"tr": ""
 	},
 	{
@@ -906,10 +894,6 @@
 	},
 	{
 		"or": "Global",
-		"tr": ""
-	},
-	{
-		"or": "Hands",
 		"tr": ""
 	},
 	{
@@ -1085,14 +1069,6 @@
 		"tr": ""
 	},
 	{
-		"or": "Tattoo",
-		"tr": ""
-	},
-	{
-		"or": "Tattoos",
-		"tr": ""
-	},
-	{
 		"or": "Team:",
 		"tr": ""
 	},
@@ -1118,6 +1094,18 @@
 	},
 	{
 		"or": "Texture",
+		"tr": ""
+	},
+	{
+		"or": "The %s flag was captured by '%s'",
+		"tr": ""
+	},
+	{
+		"or": "The %s flag was captured by '%s' (%.2f seconds)",
+		"tr": ""
+	},
+	{
+		"or": "Unable to delete the skin",
 		"tr": ""
 	},
 	{
@@ -1161,11 +1149,35 @@
 		"tr": ""
 	},
 	{
+		"or": "body",
+		"tr": ""
+	},
+	{
+		"or": "decoration",
+		"tr": ""
+	},
+	{
+		"or": "eyes",
+		"tr": ""
+	},
+	{
+		"or": "feet",
+		"tr": ""
+	},
+	{
 		"or": "game",
 		"tr": ""
 	},
 	{
+		"or": "hands",
+		"tr": ""
+	},
+	{
 		"or": "locked",
+		"tr": ""
+	},
+	{
+		"or": "marking",
 		"tr": ""
 	},
 	{
@@ -1190,92 +1202,32 @@
 	}],
 "old translations": [
 	{
+		"or": "Created:",
+		"tr": "Vytvořeno:"
+	},
+	{
+		"or": "Hands",
+		"tr": ""
+	},
+	{
 		"or": "New name:",
 		"tr": "Nové jméno:"
-	},
-	{
-		"or": "Sat.",
-		"tr": "Barva"
-	},
-	{
-		"or": "Miscellaneous",
-		"tr": "Ostatní"
-	},
-	{
-		"or": "Internet",
-		"tr": "Internet"
-	},
-	{
-		"or": "Max demos",
-		"tr": "Maximální počet záznamů"
-	},
-	{
-		"or": "News",
-		"tr": "Novinky"
-	},
-	{
-		"or": "Join game",
-		"tr": "Do hry"
-	},
-	{
-		"or": "FSAA samples",
-		"tr": "FSAA vzorkování"
 	},
 	{
 		"or": "%d of %d servers, %d players",
 		"tr": "Serverů: %d z %d, Hráčů: %d"
 	},
 	{
-		"or": "Sound volume",
-		"tr": "Hlasitost"
-	},
-	{
-		"or": "Created:",
-		"tr": "Vytvořeno:"
-	},
-	{
-		"or": "Max Screenshots",
-		"tr": "Maximální počet vyfocených obrazovek"
+		"or": "Tattoos",
+		"tr": ""
 	},
 	{
 		"or": "Length:",
 		"tr": "Délka:"
 	},
 	{
-		"or": "Skin name",
-		"tr": ""
-	},
-	{
-		"or": "Rifle",
-		"tr": "Laser"
-	},
-	{
-		"or": "Patterns",
-		"tr": ""
-	},
-	{
-		"or": "Netversion:",
-		"tr": "Netversion:"
-	},
-	{
-		"or": "Map:",
-		"tr": "Mapa:"
-	},
-	{
-		"or": "%d Bytes",
-		"tr": "%d Bajtů"
-	},
-	{
-		"or": "Coloration",
-		"tr": ""
-	},
-	{
-		"or": "Info",
-		"tr": "Info"
-	},
-	{
-		"or": "Hue",
-		"tr": "Tón"
+		"or": "Host address",
+		"tr": "Adresa serveru"
 	},
 	{
 		"or": "Record demo",
@@ -1286,79 +1238,171 @@
 		"tr": "Zvolený vzhled"
 	},
 	{
-		"or": "Size:",
-		"tr": "Velikost:"
-	},
-	{
-		"or": "Reset to defaults",
-		"tr": "Obnovit výchozí"
-	},
-	{
-		"or": "Quit anyway?",
-		"tr": "Opravdu odejít?"
-	},
-	{
-		"or": "Display Modes",
-		"tr": "Režimy zobrazení"
-	},
-	{
-		"or": "Version:",
-		"tr": "Verze:"
-	},
-	{
-		"or": "Round",
-		"tr": "Kolo"
-	},
-	{
-		"or": "Lht.",
-		"tr": "Jas"
-	},
-	{
-		"or": "no limit",
-		"tr": "neomezeno"
-	},
-	{
-		"or": "Quick search:",
-		"tr": "Vyhledávání:"
-	},
-	{
-		"or": "UI Color",
-		"tr": "Barvy uživatelského rozhraní"
-	},
-	{
-		"or": "Host address",
-		"tr": "Adresa serveru"
-	},
-	{
-		"or": "Crc:",
-		"tr": "Crc:"
-	},
-	{
-		"or": "Alpha",
-		"tr": "Alfa"
+		"or": "Filter",
+		"tr": "Filtr"
 	},
 	{
 		"or": "Are you sure you want to save your skin ? If a skin with this name already exists, it will be replaced.",
 		"tr": ""
 	},
 	{
+		"or": "Name plates size",
+		"tr": "Velikost jmen"
+	},
+	{
 		"or": "Current version: %s",
 		"tr": "Aktuální verze: %s"
 	},
 	{
-		"or": "Filter",
-		"tr": "Filtr"
+		"or": "Map:",
+		"tr": "Mapa:"
+	},
+	{
+		"or": "Skin name",
+		"tr": ""
+	},
+	{
+		"or": "Sat.",
+		"tr": "Barva"
+	},
+	{
+		"or": "Bodies",
+		"tr": ""
+	},
+	{
+		"or": "Decoration",
+		"tr": ""
+	},
+	{
+		"or": "Max Screenshots",
+		"tr": "Maximální počet vyfocených obrazovek"
+	},
+	{
+		"or": "Join game",
+		"tr": "Do hry"
+	},
+	{
+		"or": "Patterns",
+		"tr": ""
+	},
+	{
+		"or": "Netversion:",
+		"tr": "Netversion:"
+	},
+	{
+		"or": "Type:",
+		"tr": "Typ:"
+	},
+	{
+		"or": "Lht.",
+		"tr": "Jas"
+	},
+	{
+		"or": "Body",
+		"tr": "Tělo"
+	},
+	{
+		"or": "FSAA samples",
+		"tr": "FSAA vzorkování"
+	},
+	{
+		"or": "Rifle",
+		"tr": "Laser"
+	},
+	{
+		"or": "Miscellaneous",
+		"tr": "Ostatní"
+	},
+	{
+		"or": "Quick search:",
+		"tr": "Vyhledávání:"
+	},
+	{
+		"or": "News",
+		"tr": "Novinky"
+	},
+	{
+		"or": "Max demos",
+		"tr": "Maximální počet záznamů"
+	},
+	{
+		"or": "no limit",
+		"tr": "neomezeno"
+	},
+	{
+		"or": "Reset to defaults",
+		"tr": "Obnovit výchozí"
+	},
+	{
+		"or": "Feet",
+		"tr": "Nohy"
+	},
+	{
+		"or": "Size:",
+		"tr": "Velikost:"
+	},
+	{
+		"or": "Version:",
+		"tr": "Verze:"
+	},
+	{
+		"or": "%d Bytes",
+		"tr": "%d Bajtů"
+	},
+	{
+		"or": "UI Color",
+		"tr": "Barvy uživatelského rozhraní"
+	},
+	{
+		"or": "Tattoo",
+		"tr": ""
+	},
+	{
+		"or": "Internet",
+		"tr": "Internet"
+	},
+	{
+		"or": "Quit anyway?",
+		"tr": "Opravdu odejít?"
+	},
+	{
+		"or": "Sound volume",
+		"tr": "Hlasitost"
+	},
+	{
+		"or": "Hue",
+		"tr": "Tón"
+	},
+	{
+		"or": "Eyes",
+		"tr": ""
 	},
 	{
 		"or": "LAN",
 		"tr": "LAN"
 	},
 	{
-		"or": "Name plates size",
-		"tr": "Velikost jmen"
+		"or": "Crc:",
+		"tr": "Crc:"
 	},
 	{
-		"or": "Type:",
-		"tr": "Typ:"
+		"or": "Coloration",
+		"tr": ""
+	},
+	{
+		"or": "Round",
+		"tr": "Kolo"
+	},
+	{
+		"or": "Display Modes",
+		"tr": "Režimy zobrazení"
+	},
+	{
+		"or": "Info",
+		"tr": "Info"
+	},
+	{
+		"or": "Alpha",
+		"tr": "Alfa"
 	}]
 }

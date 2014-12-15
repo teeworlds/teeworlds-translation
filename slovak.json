@@ -93,10 +93,6 @@
 		"tr": "Modrý tým vyhráva!"
 	},
 	{
-		"or": "Body",
-		"tr": "Telo"
-	},
-	{
 		"or": "Call vote",
 		"tr": "Hlasovať"
 	},
@@ -223,10 +219,6 @@
 	{
 		"or": "Favorites",
 		"tr": "Obľúbené"
-	},
-	{
-		"or": "Feet",
-		"tr": "Nohy"
 	},
 	{
 		"or": "Fire",
@@ -822,6 +814,10 @@
 		"tr": ""
 	},
 	{
+		"or": "Are you sure that you want to delete the skin?",
+		"tr": ""
+	},
+	{
 		"or": "Are you sure you want to rename the demo?",
 		"tr": ""
 	},
@@ -835,10 +831,6 @@
 	},
 	{
 		"or": "Basic",
-		"tr": ""
-	},
-	{
-		"or": "Bodies",
 		"tr": ""
 	},
 	{
@@ -870,7 +862,7 @@
 		"tr": ""
 	},
 	{
-		"or": "Decoration",
+		"or": "Delete skin",
 		"tr": ""
 	},
 	{
@@ -883,10 +875,6 @@
 	},
 	{
 		"or": "Editor",
-		"tr": ""
-	},
-	{
-		"or": "Eyes",
 		"tr": ""
 	},
 	{
@@ -903,10 +891,6 @@
 	},
 	{
 		"or": "Global",
-		"tr": ""
-	},
-	{
-		"or": "Hands",
 		"tr": ""
 	},
 	{
@@ -1082,14 +1066,6 @@
 		"tr": ""
 	},
 	{
-		"or": "Tattoo",
-		"tr": ""
-	},
-	{
-		"or": "Tattoos",
-		"tr": ""
-	},
-	{
 		"or": "Team:",
 		"tr": ""
 	},
@@ -1115,6 +1091,18 @@
 	},
 	{
 		"or": "Texture",
+		"tr": ""
+	},
+	{
+		"or": "The %s flag was captured by '%s'",
+		"tr": ""
+	},
+	{
+		"or": "The %s flag was captured by '%s' (%.2f seconds)",
+		"tr": ""
+	},
+	{
+		"or": "Unable to delete the skin",
 		"tr": ""
 	},
 	{
@@ -1158,11 +1146,35 @@
 		"tr": ""
 	},
 	{
+		"or": "body",
+		"tr": ""
+	},
+	{
+		"or": "decoration",
+		"tr": ""
+	},
+	{
+		"or": "eyes",
+		"tr": ""
+	},
+	{
+		"or": "feet",
+		"tr": ""
+	},
+	{
 		"or": "game",
 		"tr": ""
 	},
 	{
+		"or": "hands",
+		"tr": ""
+	},
+	{
 		"or": "locked",
+		"tr": ""
+	},
+	{
+		"or": "marking",
 		"tr": ""
 	},
 	{
@@ -1187,92 +1199,32 @@
 	}],
 "old translations": [
 	{
+		"or": "Created:",
+		"tr": "Vytvorené:"
+	},
+	{
+		"or": "Hands",
+		"tr": ""
+	},
+	{
 		"or": "New name:",
 		"tr": "Nové meno:"
-	},
-	{
-		"or": "Sat.",
-		"tr": "Sat."
-	},
-	{
-		"or": "Miscellaneous",
-		"tr": "Ostatné"
-	},
-	{
-		"or": "Internet",
-		"tr": "Internet"
-	},
-	{
-		"or": "Max demos",
-		"tr": "Maximum nahrávok"
-	},
-	{
-		"or": "News",
-		"tr": "Novinky"
-	},
-	{
-		"or": "Join game",
-		"tr": "Hrať"
-	},
-	{
-		"or": "FSAA samples",
-		"tr": "Anti-aliasing"
 	},
 	{
 		"or": "%d of %d servers, %d players",
 		"tr": "%d z %d serverov, %d hráčov online"
 	},
 	{
-		"or": "Sound volume",
-		"tr": "Hlasitosť"
-	},
-	{
-		"or": "Created:",
-		"tr": "Vytvorené:"
-	},
-	{
-		"or": "Max Screenshots",
-		"tr": "Maximum obrázkov"
+		"or": "Tattoos",
+		"tr": ""
 	},
 	{
 		"or": "Length:",
 		"tr": "Dĺžka:"
 	},
 	{
-		"or": "Skin name",
-		"tr": ""
-	},
-	{
-		"or": "Rifle",
-		"tr": "Laser"
-	},
-	{
-		"or": "Patterns",
-		"tr": ""
-	},
-	{
-		"or": "Netversion:",
-		"tr": "Netversion:"
-	},
-	{
-		"or": "Map:",
-		"tr": "Mapa:"
-	},
-	{
-		"or": "%d Bytes",
-		"tr": "%d Bajtov"
-	},
-	{
-		"or": "Coloration",
-		"tr": ""
-	},
-	{
-		"or": "Info",
-		"tr": "Info"
-	},
-	{
-		"or": "Hue",
-		"tr": "Hue"
+		"or": "Host address",
+		"tr": "Hostiteľ"
 	},
 	{
 		"or": "Record demo",
@@ -1283,79 +1235,171 @@
 		"tr": "Váš skin"
 	},
 	{
-		"or": "Size:",
-		"tr": "Veľkosť:"
-	},
-	{
-		"or": "Reset to defaults",
-		"tr": "Vrátiť na pôvodné"
-	},
-	{
-		"or": "Quit anyway?",
-		"tr": "Aj tak ukončiť?"
-	},
-	{
-		"or": "Display Modes",
-		"tr": "Možnosti zobrazenia"
-	},
-	{
-		"or": "Version:",
-		"tr": "Verzia:"
-	},
-	{
-		"or": "Round",
-		"tr": "Kolo"
-	},
-	{
-		"or": "Lht.",
-		"tr": "Lht."
-	},
-	{
-		"or": "no limit",
-		"tr": "bez limitu"
-	},
-	{
-		"or": "Quick search:",
-		"tr": "Hľadanie:"
-	},
-	{
-		"or": "UI Color",
-		"tr": "Farba prostredia"
-	},
-	{
-		"or": "Host address",
-		"tr": "Hostiteľ"
-	},
-	{
-		"or": "Crc:",
-		"tr": "Crc:"
-	},
-	{
-		"or": "Alpha",
-		"tr": "Alpha"
+		"or": "Filter",
+		"tr": "Filter"
 	},
 	{
 		"or": "Are you sure you want to save your skin ? If a skin with this name already exists, it will be replaced.",
 		"tr": ""
 	},
 	{
+		"or": "Name plates size",
+		"tr": "Veľkosť menoviek"
+	},
+	{
 		"or": "Current version: %s",
 		"tr": "Aktuálna verzia: %s"
 	},
 	{
-		"or": "Filter",
-		"tr": "Filter"
+		"or": "Map:",
+		"tr": "Mapa:"
+	},
+	{
+		"or": "Skin name",
+		"tr": ""
+	},
+	{
+		"or": "Sat.",
+		"tr": "Sat."
+	},
+	{
+		"or": "Bodies",
+		"tr": ""
+	},
+	{
+		"or": "Decoration",
+		"tr": ""
+	},
+	{
+		"or": "Max Screenshots",
+		"tr": "Maximum obrázkov"
+	},
+	{
+		"or": "Join game",
+		"tr": "Hrať"
+	},
+	{
+		"or": "Patterns",
+		"tr": ""
+	},
+	{
+		"or": "Netversion:",
+		"tr": "Netversion:"
+	},
+	{
+		"or": "Type:",
+		"tr": "Typ:"
+	},
+	{
+		"or": "Lht.",
+		"tr": "Lht."
+	},
+	{
+		"or": "Body",
+		"tr": "Telo"
+	},
+	{
+		"or": "FSAA samples",
+		"tr": "Anti-aliasing"
+	},
+	{
+		"or": "Rifle",
+		"tr": "Laser"
+	},
+	{
+		"or": "Miscellaneous",
+		"tr": "Ostatné"
+	},
+	{
+		"or": "Quick search:",
+		"tr": "Hľadanie:"
+	},
+	{
+		"or": "News",
+		"tr": "Novinky"
+	},
+	{
+		"or": "Max demos",
+		"tr": "Maximum nahrávok"
+	},
+	{
+		"or": "no limit",
+		"tr": "bez limitu"
+	},
+	{
+		"or": "Reset to defaults",
+		"tr": "Vrátiť na pôvodné"
+	},
+	{
+		"or": "Feet",
+		"tr": "Nohy"
+	},
+	{
+		"or": "Size:",
+		"tr": "Veľkosť:"
+	},
+	{
+		"or": "Version:",
+		"tr": "Verzia:"
+	},
+	{
+		"or": "%d Bytes",
+		"tr": "%d Bajtov"
+	},
+	{
+		"or": "UI Color",
+		"tr": "Farba prostredia"
+	},
+	{
+		"or": "Tattoo",
+		"tr": ""
+	},
+	{
+		"or": "Internet",
+		"tr": "Internet"
+	},
+	{
+		"or": "Quit anyway?",
+		"tr": "Aj tak ukončiť?"
+	},
+	{
+		"or": "Sound volume",
+		"tr": "Hlasitosť"
+	},
+	{
+		"or": "Hue",
+		"tr": "Hue"
+	},
+	{
+		"or": "Eyes",
+		"tr": ""
 	},
 	{
 		"or": "LAN",
 		"tr": "LAN"
 	},
 	{
-		"or": "Name plates size",
-		"tr": "Veľkosť menoviek"
+		"or": "Crc:",
+		"tr": "Crc:"
 	},
 	{
-		"or": "Type:",
-		"tr": "Typ:"
+		"or": "Coloration",
+		"tr": ""
+	},
+	{
+		"or": "Round",
+		"tr": "Kolo"
+	},
+	{
+		"or": "Display Modes",
+		"tr": "Možnosti zobrazenia"
+	},
+	{
+		"or": "Info",
+		"tr": "Info"
+	},
+	{
+		"or": "Alpha",
+		"tr": "Alpha"
 	}]
 }

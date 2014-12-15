@@ -175,14 +175,6 @@
 		"tr": "A Equipa azul ganhou!"
 	},
 	{
-		"or": "Bodies",
-		"tr": "Corpos"
-	},
-	{
-		"or": "Body",
-		"tr": "Corpo"
-	},
-	{
 		"or": "Borderless window",
 		"tr": "Janela S/ Bordas"
 	},
@@ -267,10 +259,6 @@
 		"tr": "Personalizável"
 	},
 	{
-		"or": "Decoration",
-		"tr": "Decoração"
-	},
-	{
 		"or": "Delete",
 		"tr": "Eliminar"
 	},
@@ -339,20 +327,12 @@
 		"tr": "Erro a carregar a demo"
 	},
 	{
-		"or": "Eyes",
-		"tr": "Olhos"
-	},
-	{
 		"or": "Favorite",
 		"tr": "Favorito"
 	},
 	{
 		"or": "Favorites",
 		"tr": "Favoritos"
-	},
-	{
-		"or": "Feet",
-		"tr": "Pés"
 	},
 	{
 		"or": "Fire",
@@ -425,10 +405,6 @@
 	{
 		"or": "Hammer",
 		"tr": "Martelo"
-	},
-	{
-		"or": "Hands",
-		"tr": "Mãos"
 	},
 	{
 		"or": "Has people playing",
@@ -911,10 +887,6 @@
 		"tr": "Mudar de arma ao agarrar"
 	},
 	{
-		"or": "Tattoos",
-		"tr": "Tatuagens"
-	},
-	{
 		"or": "Team",
 		"tr": "Equipa"
 	},
@@ -1116,6 +1088,10 @@
 		"tr": ""
 	},
 	{
+		"or": "Are you sure that you want to delete the skin?",
+		"tr": ""
+	},
+	{
 		"or": "Are you sure you want to rename the demo?",
 		"tr": ""
 	},
@@ -1129,6 +1105,10 @@
 	},
 	{
 		"or": "Color",
+		"tr": ""
+	},
+	{
+		"or": "Delete skin",
 		"tr": ""
 	},
 	{
@@ -1176,11 +1156,43 @@
 		"tr": ""
 	},
 	{
-		"or": "Tattoo",
+		"or": "The %s flag was captured by '%s'",
+		"tr": ""
+	},
+	{
+		"or": "The %s flag was captured by '%s' (%.2f seconds)",
+		"tr": ""
+	},
+	{
+		"or": "Unable to delete the skin",
+		"tr": ""
+	},
+	{
+		"or": "body",
+		"tr": ""
+	},
+	{
+		"or": "decoration",
+		"tr": ""
+	},
+	{
+		"or": "eyes",
+		"tr": ""
+	},
+	{
+		"or": "feet",
+		"tr": ""
+	},
+	{
+		"or": "hands",
 		"tr": ""
 	},
 	{
 		"or": "locked",
+		"tr": ""
+	},
+	{
+		"or": "marking",
 		"tr": ""
 	},
 	{
@@ -1189,32 +1201,8 @@
 	}],
 "old translations": [
 	{
-		"or": "Internet",
-		"tr": "Internet"
-	},
-	{
-		"or": "Max demos",
-		"tr": "Demos maximas"
-	},
-	{
-		"or": "Are you sure you want to save your skin ? If a skin with this name already exists, it will be replaced.",
-		"tr": "Tens a serteza que queres guardar a skin? Se já existir uma como o meu nome, ela será substituida."
-	},
-	{
-		"or": "News",
-		"tr": "Notícias"
-	},
-	{
-		"or": "Sat.",
-		"tr": "Sat."
-	},
-	{
-		"or": "Join game",
-		"tr": "Entrar no jogo"
-	},
-	{
-		"or": "Patterns",
-		"tr": "Patterns"
+		"or": "Created:",
+		"tr": "Criado:"
 	},
 	{
 		"or": "New name:",
@@ -1225,139 +1213,195 @@
 		"tr": "%d de %d servidores, %d jogadores"
 	},
 	{
-		"or": "Sound volume",
-		"tr": "Volume"
-	},
-	{
-		"or": "Created:",
-		"tr": "Criado:"
-	},
-	{
-		"or": "Max Screenshots",
-		"tr": "Máx. de Capturas de Tela"
-	},
-	{
-		"or": "Record demo",
-		"tr": "Gravar uma demo"
+		"or": "Tattoos",
+		"tr": "Tatuagens"
 	},
 	{
 		"or": "Length:",
 		"tr": "Longitude:"
 	},
 	{
-		"or": "Skin name",
-		"tr": "Nome da skin"
+		"or": "Host address",
+		"tr": "Endereço do Host"
 	},
 	{
-		"or": "Coloration",
-		"tr": "Coloração"
-	},
-	{
-		"or": "Netversion:",
-		"tr": "Netversion"
-	},
-	{
-		"or": "Map:",
-		"tr": "Mapa:"
-	},
-	{
-		"or": "FSAA samples",
-		"tr": "Amostras FSAA"
-	},
-	{
-		"or": "%d Bytes",
-		"tr": "%d Bytes"
-	},
-	{
-		"or": "Info",
-		"tr": "Info."
-	},
-	{
-		"or": "Miscellaneous",
-		"tr": "Diversos"
-	},
-	{
-		"or": "Lht.",
-		"tr": "Luz"
+		"or": "Record demo",
+		"tr": "Gravar uma demo"
 	},
 	{
 		"or": "Your skin",
 		"tr": "A tua skin"
 	},
 	{
-		"or": "Size:",
-		"tr": "Tamanho:"
-	},
-	{
-		"or": "Reset to defaults",
-		"tr": "Pôr como defeito"
-	},
-	{
-		"or": "Rifle",
-		"tr": "Laser"
-	},
-	{
-		"or": "Quit anyway?",
-		"tr": "Sair na mesma?"
-	},
-	{
-		"or": "Display Modes",
-		"tr": "Modos de exibição"
-	},
-	{
-		"or": "Version:",
-		"tr": "Versão:"
-	},
-	{
-		"or": "Round",
-		"tr": "Ronda"
-	},
-	{
-		"or": "no limit",
-		"tr": "sem limite"
-	},
-	{
-		"or": "Quick search:",
-		"tr": "Busca rápida:"
-	},
-	{
-		"or": "UI Color",
-		"tr": "Cor do menu"
-	},
-	{
-		"or": "Host address",
-		"tr": "Endereço do Host"
-	},
-	{
-		"or": "Hue",
-		"tr": "Matiz"
-	},
-	{
-		"or": "Crc:",
-		"tr": "Crc:"
-	},
-	{
-		"or": "Alpha",
-		"tr": "Alpha"
+		"or": "Filter",
+		"tr": "Filtro"
 	},
 	{
 		"or": "Current version: %s",
 		"tr": "Versão atual : %s"
 	},
 	{
-		"or": "Filter",
-		"tr": "Filtro"
+		"or": "Map:",
+		"tr": "Mapa:"
+	},
+	{
+		"or": "Skin name",
+		"tr": "Nome da skin"
+	},
+	{
+		"or": "Sat.",
+		"tr": "Sat."
+	},
+	{
+		"or": "Bodies",
+		"tr": "Corpos"
+	},
+	{
+		"or": "Decoration",
+		"tr": "Decoração"
+	},
+	{
+		"or": "Max Screenshots",
+		"tr": "Máx. de Capturas de Tela"
+	},
+	{
+		"or": "Join game",
+		"tr": "Entrar no jogo"
+	},
+	{
+		"or": "Patterns",
+		"tr": "Patterns"
+	},
+	{
+		"or": "Netversion:",
+		"tr": "Netversion"
+	},
+	{
+		"or": "Type:",
+		"tr": "Tipo:"
+	},
+	{
+		"or": "Lht.",
+		"tr": "Luz"
+	},
+	{
+		"or": "Body",
+		"tr": "Corpo"
+	},
+	{
+		"or": "FSAA samples",
+		"tr": "Amostras FSAA"
+	},
+	{
+		"or": "Rifle",
+		"tr": "Laser"
+	},
+	{
+		"or": "Miscellaneous",
+		"tr": "Diversos"
+	},
+	{
+		"or": "Quick search:",
+		"tr": "Busca rápida:"
+	},
+	{
+		"or": "News",
+		"tr": "Notícias"
+	},
+	{
+		"or": "Max demos",
+		"tr": "Demos maximas"
+	},
+	{
+		"or": "Reset to defaults",
+		"tr": "Pôr como defeito"
+	},
+	{
+		"or": "Feet",
+		"tr": "Pés"
+	},
+	{
+		"or": "Are you sure you want to save your skin ? If a skin with this name already exists, it will be replaced.",
+		"tr": "Tens a serteza que queres guardar a skin? Se já existir uma como o meu nome, ela será substituida."
+	},
+	{
+		"or": "Size:",
+		"tr": "Tamanho:"
+	},
+	{
+		"or": "Version:",
+		"tr": "Versão:"
+	},
+	{
+		"or": "%d Bytes",
+		"tr": "%d Bytes"
+	},
+	{
+		"or": "UI Color",
+		"tr": "Cor do menu"
+	},
+	{
+		"or": "no limit",
+		"tr": "sem limite"
+	},
+	{
+		"or": "Internet",
+		"tr": "Internet"
+	},
+	{
+		"or": "Quit anyway?",
+		"tr": "Sair na mesma?"
+	},
+	{
+		"or": "Sound volume",
+		"tr": "Volume"
+	},
+	{
+		"or": "Hue",
+		"tr": "Matiz"
+	},
+	{
+		"or": "Eyes",
+		"tr": "Olhos"
 	},
 	{
 		"or": "LAN",
 		"tr": "LAN"
 	},
 	{
+		"or": "Hands",
+		"tr": "Mãos"
+	},
+	{
+		"or": "Crc:",
+		"tr": "Crc:"
+	},
+	{
+		"or": "Coloration",
+		"tr": "Coloração"
+	},
+	{
+		"or": "Round",
+		"tr": "Ronda"
+	},
+	{
+		"or": "Tattoo",
+		"tr": ""
+	},
+	{
+		"or": "Display Modes",
+		"tr": "Modos de exibição"
+	},
+	{
+		"or": "Info",
+		"tr": "Info."
+	},
+	{
 		"or": "Name plates size",
 		"tr": "Caracteres maximos nos nicks"
 	},
 	{
-		"or": "Type:",
-		"tr": "Tipo:"
+		"or": "Alpha",
+		"tr": "Alpha"
 	}]
 }

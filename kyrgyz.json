@@ -1154,35 +1154,114 @@
 		"tr": "дагы оюнчуларды күтүңүз"
 	}],
 "needs translation": [
-],
+	{
+		"or": "Are you sure that you want to delete the skin?",
+		"tr": ""
+	},
+	{
+		"or": "Delete skin",
+		"tr": ""
+	},
+	{
+		"or": "The %s flag was captured by '%s'",
+		"tr": ""
+	},
+	{
+		"or": "The %s flag was captured by '%s' (%.2f seconds)",
+		"tr": ""
+	},
+	{
+		"or": "Unable to delete the skin",
+		"tr": ""
+	},
+	{
+		"or": "body",
+		"tr": ""
+	},
+	{
+		"or": "decoration",
+		"tr": ""
+	},
+	{
+		"or": "eyes",
+		"tr": ""
+	},
+	{
+		"or": "feet",
+		"tr": ""
+	},
+	{
+		"or": "hands",
+		"tr": ""
+	},
+	{
+		"or": "marking",
+		"tr": ""
+	}],
 "old translations": [
 	{
-		"or": "Internet",
-		"tr": "Интернет"
+		"or": "Created:",
+		"tr": "Жаратылды:"
 	},
 	{
-		"or": "Body",
-		"tr": "Дене"
+		"or": "New name:",
+		"tr": "Жаңы ат:"
 	},
 	{
-		"or": "Max demos",
-		"tr": "Демолордун жогорчеги"
+		"or": "%d of %d servers, %d players",
+		"tr": "%d/%d сервер, %d оюнчу"
 	},
 	{
-		"or": "Are you sure you want to save your skin ? If a skin with this name already exists, it will be replaced.",
-		"tr": "Бул ат бош эмес, эгер сактасаңыз эски териңиз жаңы тери менен алмаштырылып калат."
+		"or": "Tattoos",
+		"tr": "Татулар"
 	},
 	{
-		"or": "Hands",
-		"tr": "Кол"
+		"or": "Length:",
+		"tr": "Узундук:"
 	},
 	{
-		"or": "News",
-		"tr": "Жаңылыктар"
+		"or": "Host address",
+		"tr": "Сервер дареги"
+	},
+	{
+		"or": "Record demo",
+		"tr": "Демо жазуу"
+	},
+	{
+		"or": "Your skin",
+		"tr": "Сиздин териңиз"
+	},
+	{
+		"or": "Filter",
+		"tr": "Фильтр"
+	},
+	{
+		"or": "Current version: %s",
+		"tr": "Кезектеги версия: %s"
+	},
+	{
+		"or": "Map:",
+		"tr": "Карта:"
+	},
+	{
+		"or": "Skin name",
+		"tr": "Тери аты"
 	},
 	{
 		"or": "Sat.",
 		"tr": "Кан."
+	},
+	{
+		"or": "Bodies",
+		"tr": "Денелер"
+	},
+	{
+		"or": "Decoration",
+		"tr": "Жасалга"
+	},
+	{
+		"or": "Max Screenshots",
+		"tr": "Экран сүрөттөрүнүн жогорчеги"
 	},
 	{
 		"or": "Join game",
@@ -1193,171 +1272,135 @@
 		"tr": "Шаблондор"
 	},
 	{
-		"or": "New name:",
-		"tr": "Жаңы ат:"
-	},
-	{
-		"or": "Bodies",
-		"tr": "Денелер"
-	},
-	{
-		"or": "%d of %d servers, %d players",
-		"tr": "%d/%d сервер, %d оюнчу"
-	},
-	{
-		"or": "Sound volume",
-		"tr": "Үндүн катуулугу"
-	},
-	{
-		"or": "Created:",
-		"tr": "Жаратылды:"
-	},
-	{
-		"or": "Max Screenshots",
-		"tr": "Экран сүрөттөрүнүн жогорчеги"
-	},
-	{
-		"or": "Record demo",
-		"tr": "Демо жазуу"
-	},
-	{
-		"or": "Length:",
-		"tr": "Узундук:"
-	},
-	{
-		"or": "Skin name",
-		"tr": "Тери аты"
-	},
-	{
-		"or": "Coloration",
-		"tr": "Түс"
-	},
-	{
 		"or": "Netversion:",
 		"tr": "Версия:"
 	},
 	{
-		"or": "Map:",
-		"tr": "Карта:"
-	},
-	{
-		"or": "FSAA samples",
-		"tr": "FSAA сэмплдери"
-	},
-	{
-		"or": "%d Bytes",
-		"tr": "%d байт"
-	},
-	{
-		"or": "Tattoo",
-		"tr": "Тату"
-	},
-	{
-		"or": "Info",
-		"tr": "Маалымат"
-	},
-	{
-		"or": "Miscellaneous",
-		"tr": "Кошумча"
+		"or": "Type:",
+		"tr": "Түр:"
 	},
 	{
 		"or": "Lht.",
 		"tr": "Ачык түс."
 	},
 	{
-		"or": "Your skin",
-		"tr": "Сиздин териңиз"
+		"or": "Internet",
+		"tr": "Интернет"
 	},
 	{
-		"or": "Size:",
-		"tr": "Өлчөм:"
+		"or": "Body",
+		"tr": "Дене"
 	},
 	{
-		"or": "Reset to defaults",
-		"tr": "Ырастоолорду түшүрүү"
+		"or": "FSAA samples",
+		"tr": "FSAA сэмплдери"
 	},
 	{
 		"or": "Rifle",
 		"tr": "Лазер"
 	},
 	{
-		"or": "Quit anyway?",
-		"tr": "Баар деле чыгасызбы?"
-	},
-	{
-		"or": "Display Modes",
-		"tr": "Экран чечими"
-	},
-	{
-		"or": "Version:",
-		"tr": "Версия:"
-	},
-	{
-		"or": "Round",
-		"tr": "Раунд"
-	},
-	{
-		"or": "no limit",
-		"tr": "лимитсиз"
+		"or": "Miscellaneous",
+		"tr": "Кошумча"
 	},
 	{
 		"or": "Quick search:",
 		"tr": "Тез издөө:"
 	},
 	{
+		"or": "News",
+		"tr": "Жаңылыктар"
+	},
+	{
+		"or": "Max demos",
+		"tr": "Демолордун жогорчеги"
+	},
+	{
+		"or": "Reset to defaults",
+		"tr": "Ырастоолорду түшүрүү"
+	},
+	{
 		"or": "Feet",
 		"tr": "Бут"
 	},
 	{
-		"or": "Eyes",
-		"tr": "Көз"
+		"or": "Are you sure you want to save your skin ? If a skin with this name already exists, it will be replaced.",
+		"tr": "Бул ат бош эмес, эгер сактасаңыз эски териңиз жаңы тери менен алмаштырылып калат."
+	},
+	{
+		"or": "Size:",
+		"tr": "Өлчөм:"
+	},
+	{
+		"or": "Version:",
+		"tr": "Версия:"
+	},
+	{
+		"or": "%d Bytes",
+		"tr": "%d байт"
 	},
 	{
 		"or": "UI Color",
 		"tr": "Интерфейс түсү"
 	},
 	{
-		"or": "Host address",
-		"tr": "Сервер дареги"
+		"or": "no limit",
+		"tr": "лимитсиз"
 	},
 	{
-		"or": "Tattoos",
-		"tr": "Татулар"
+		"or": "Quit anyway?",
+		"tr": "Баар деле чыгасызбы?"
+	},
+	{
+		"or": "Sound volume",
+		"tr": "Үндүн катуулугу"
 	},
 	{
 		"or": "Hue",
 		"tr": "Түс"
 	},
 	{
-		"or": "Crc:",
-		"tr": "Crc:"
-	},
-	{
-		"or": "Alpha",
-		"tr": "Альфа"
-	},
-	{
-		"or": "Current version: %s",
-		"tr": "Кезектеги версия: %s"
-	},
-	{
-		"or": "Filter",
-		"tr": "Фильтр"
+		"or": "Eyes",
+		"tr": "Көз"
 	},
 	{
 		"or": "LAN",
 		"tr": "LAN"
 	},
 	{
+		"or": "Hands",
+		"tr": "Кол"
+	},
+	{
+		"or": "Crc:",
+		"tr": "Crc:"
+	},
+	{
+		"or": "Coloration",
+		"tr": "Түс"
+	},
+	{
+		"or": "Round",
+		"tr": "Раунд"
+	},
+	{
+		"or": "Tattoo",
+		"tr": "Тату"
+	},
+	{
+		"or": "Display Modes",
+		"tr": "Экран чечими"
+	},
+	{
+		"or": "Info",
+		"tr": "Маалымат"
+	},
+	{
 		"or": "Name plates size",
 		"tr": "Өлчөм"
 	},
 	{
-		"or": "Decoration",
-		"tr": "Жасалга"
-	},
-	{
-		"or": "Type:",
-		"tr": "Түр:"
+		"or": "Alpha",
+		"tr": "Альфа"
 	}]
 }

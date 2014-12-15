@@ -93,10 +93,6 @@
 		"tr": "Кăвак ушкăн çĕнтерчĕ!"
 	},
 	{
-		"or": "Body",
-		"tr": "Ӳт"
-	},
-	{
 		"or": "Call vote",
 		"tr": "Сасăла"
 	},
@@ -223,10 +219,6 @@
 	{
 		"or": "Favorites",
 		"tr": "Суйланнисем"
-	},
-	{
-		"or": "Feet",
-		"tr": "Урасем"
 	},
 	{
 		"or": "Fire",
@@ -822,6 +814,10 @@
 		"tr": ""
 	},
 	{
+		"or": "Are you sure that you want to delete the skin?",
+		"tr": ""
+	},
+	{
 		"or": "Are you sure you want to rename the demo?",
 		"tr": ""
 	},
@@ -835,10 +831,6 @@
 	},
 	{
 		"or": "Basic",
-		"tr": ""
-	},
-	{
-		"or": "Bodies",
 		"tr": ""
 	},
 	{
@@ -870,7 +862,7 @@
 		"tr": ""
 	},
 	{
-		"or": "Decoration",
+		"or": "Delete skin",
 		"tr": ""
 	},
 	{
@@ -883,10 +875,6 @@
 	},
 	{
 		"or": "Editor",
-		"tr": ""
-	},
-	{
-		"or": "Eyes",
 		"tr": ""
 	},
 	{
@@ -903,10 +891,6 @@
 	},
 	{
 		"or": "Global",
-		"tr": ""
-	},
-	{
-		"or": "Hands",
 		"tr": ""
 	},
 	{
@@ -1082,14 +1066,6 @@
 		"tr": ""
 	},
 	{
-		"or": "Tattoo",
-		"tr": ""
-	},
-	{
-		"or": "Tattoos",
-		"tr": ""
-	},
-	{
 		"or": "Team:",
 		"tr": ""
 	},
@@ -1119,6 +1095,18 @@
 	},
 	{
 		"or": "Texture",
+		"tr": ""
+	},
+	{
+		"or": "The %s flag was captured by '%s'",
+		"tr": ""
+	},
+	{
+		"or": "The %s flag was captured by '%s' (%.2f seconds)",
+		"tr": ""
+	},
+	{
+		"or": "Unable to delete the skin",
 		"tr": ""
 	},
 	{
@@ -1158,11 +1146,35 @@
 		"tr": ""
 	},
 	{
+		"or": "body",
+		"tr": ""
+	},
+	{
+		"or": "decoration",
+		"tr": ""
+	},
+	{
+		"or": "eyes",
+		"tr": ""
+	},
+	{
+		"or": "feet",
+		"tr": ""
+	},
+	{
 		"or": "game",
 		"tr": ""
 	},
 	{
+		"or": "hands",
+		"tr": ""
+	},
+	{
 		"or": "locked",
+		"tr": ""
+	},
+	{
+		"or": "marking",
 		"tr": ""
 	},
 	{
@@ -1187,163 +1199,195 @@
 	}],
 "old translations": [
 	{
+		"or": "Created:",
+		"tr": "Хайланă:"
+	},
+	{
+		"or": "Hands",
+		"tr": ""
+	},
+	{
 		"or": "New name:",
 		"tr": "Çĕн ят"
-	},
-	{
-		"or": "Sat.",
-		"tr": "Контраст"
-	},
-	{
-		"or": "Miscellaneous",
-		"tr": "Хушнисем"
-	},
-	{
-		"or": "Internet",
-		"tr": "Интернет"
-	},
-	{
-		"or": "Max demos",
-		"tr": "Чи пысăк демо хисепĕ"
-	},
-	{
-		"or": "News",
-		"tr": "Хыпарсем"
-	},
-	{
-		"or": "Join game",
-		"tr": "Выляма"
-	},
-	{
-		"or": "FSAA samples",
-		"tr": "FSAA якату"
 	},
 	{
 		"or": "%d of %d servers, %d players",
 		"tr": "%d серв. %d тупнă, %d çын"
 	},
 	{
-		"or": "Sound volume",
-		"tr": "Сасă янравлăш"
-	},
-	{
-		"or": "Created:",
-		"tr": "Хайланă:"
-	},
-	{
-		"or": "Max Screenshots",
-		"tr": "Ӳкерчĕксен чи пысăк хисепĕ"
+		"or": "Tattoos",
+		"tr": ""
 	},
 	{
 		"or": "Length:",
 		"tr": "Вăрăмăш"
 	},
 	{
-		"or": "Rifle",
-		"tr": "Бластер"
-	},
-	{
-		"or": "Netversion:",
-		"tr": "Версия:"
-	},
-	{
-		"or": "Map:",
-		"tr": "Карта:"
-	},
-	{
-		"or": "%d Bytes",
-		"tr": "%d байт"
-	},
-	{
-		"or": "Info",
-		"tr": "Пĕлтерӳ"
-	},
-	{
-		"or": "Hue",
-		"tr": "Тĕс сĕмĕ"
-	},
-	{
-		"or": "Record demo",
-		"tr": "Демо çыр"
+		"or": "Host address",
+		"tr": "Сервер адресĕ"
 	},
 	{
 		"or": "Your skin",
 		"tr": "Санăн сăн"
 	},
 	{
-		"or": "Size:",
-		"tr": "Пыçăкăш:"
-	},
-	{
-		"or": "Reset to defaults",
-		"tr": "Йĕркелӳ тасат"
-	},
-	{
-		"or": "Quit anyway?",
-		"tr": "Туху?"
-	},
-	{
-		"or": "Display Modes",
-		"tr": "Экран режимсем"
-	},
-	{
-		"or": "Version:",
-		"tr": "Версие:"
-	},
-	{
-		"or": "Round",
-		"tr": "Раунд"
-	},
-	{
-		"or": "Lht.",
-		"tr": "Çутăллăх"
-	},
-	{
-		"or": "no limit",
-		"tr": "Лимитсăр"
-	},
-	{
-		"or": "Quick search:",
-		"tr": "Хăвăрт шырав:"
-	},
-	{
-		"or": "UI Color",
-		"tr": "Интерфейс тĕсĕ"
-	},
-	{
-		"or": "Host address",
-		"tr": "Сервер адресĕ"
-	},
-	{
-		"or": "Teeworlds %s is out! Download it at [url=http://www.teeworlds.com]www.teeworlds.com[/url]!",
-		"tr": "Тухрĕ Teeworlds %s! Кунта: [url=http://www.teeworlds.com]www.teeworlds.com[/url]!"
-	},
-	{
-		"or": "Crc:",
-		"tr": "Crc:"
-	},
-	{
-		"or": "Alpha",
-		"tr": "Тăрă"
-	},
-	{
-		"or": "Current version: %s",
-		"tr": "Хальхи версие: %s"
-	},
-	{
 		"or": "Filter",
 		"tr": "Фильтр"
-	},
-	{
-		"or": "LAN",
-		"tr": "LAN"
 	},
 	{
 		"or": "Name plates size",
 		"tr": "Пысăкăш"
 	},
 	{
+		"or": "Current version: %s",
+		"tr": "Хальхи версие: %s"
+	},
+	{
+		"or": "Map:",
+		"tr": "Карта:"
+	},
+	{
+		"or": "Sat.",
+		"tr": "Контраст"
+	},
+	{
+		"or": "Bodies",
+		"tr": ""
+	},
+	{
+		"or": "Decoration",
+		"tr": ""
+	},
+	{
+		"or": "Max Screenshots",
+		"tr": "Ӳкерчĕксен чи пысăк хисепĕ"
+	},
+	{
+		"or": "Join game",
+		"tr": "Выляма"
+	},
+	{
+		"or": "Netversion:",
+		"tr": "Версия:"
+	},
+	{
 		"or": "Type:",
 		"tr": "Тĕс:"
+	},
+	{
+		"or": "Lht.",
+		"tr": "Çутăллăх"
+	},
+	{
+		"or": "Body",
+		"tr": "Ӳт"
+	},
+	{
+		"or": "FSAA samples",
+		"tr": "FSAA якату"
+	},
+	{
+		"or": "Rifle",
+		"tr": "Бластер"
+	},
+	{
+		"or": "Miscellaneous",
+		"tr": "Хушнисем"
+	},
+	{
+		"or": "Quick search:",
+		"tr": "Хăвăрт шырав:"
+	},
+	{
+		"or": "News",
+		"tr": "Хыпарсем"
+	},
+	{
+		"or": "Max demos",
+		"tr": "Чи пысăк демо хисепĕ"
+	},
+	{
+		"or": "no limit",
+		"tr": "Лимитсăр"
+	},
+	{
+		"or": "Reset to defaults",
+		"tr": "Йĕркелӳ тасат"
+	},
+	{
+		"or": "Feet",
+		"tr": "Урасем"
+	},
+	{
+		"or": "Size:",
+		"tr": "Пыçăкăш:"
+	},
+	{
+		"or": "Version:",
+		"tr": "Версие:"
+	},
+	{
+		"or": "Teeworlds %s is out! Download it at [url=http://www.teeworlds.com]www.teeworlds.com[/url]!",
+		"tr": "Тухрĕ Teeworlds %s! Кунта: [url=http://www.teeworlds.com]www.teeworlds.com[/url]!"
+	},
+	{
+		"or": "%d Bytes",
+		"tr": "%d байт"
+	},
+	{
+		"or": "UI Color",
+		"tr": "Интерфейс тĕсĕ"
+	},
+	{
+		"or": "Tattoo",
+		"tr": ""
+	},
+	{
+		"or": "Internet",
+		"tr": "Интернет"
+	},
+	{
+		"or": "Quit anyway?",
+		"tr": "Туху?"
+	},
+	{
+		"or": "Sound volume",
+		"tr": "Сасă янравлăш"
+	},
+	{
+		"or": "Hue",
+		"tr": "Тĕс сĕмĕ"
+	},
+	{
+		"or": "Eyes",
+		"tr": ""
+	},
+	{
+		"or": "LAN",
+		"tr": "LAN"
+	},
+	{
+		"or": "Crc:",
+		"tr": "Crc:"
+	},
+	{
+		"or": "Round",
+		"tr": "Раунд"
+	},
+	{
+		"or": "Record demo",
+		"tr": "Демо çыр"
+	},
+	{
+		"or": "Display Modes",
+		"tr": "Экран режимсем"
+	},
+	{
+		"or": "Info",
+		"tr": "Пĕлтерӳ"
+	},
+	{
+		"or": "Alpha",
+		"tr": "Тăрă"
 	}]
 }

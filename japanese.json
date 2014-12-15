@@ -93,10 +93,6 @@
 		"tr": "青チームの勝ち！"
 	},
 	{
-		"or": "Body",
-		"tr": "体"
-	},
-	{
 		"or": "Call vote",
 		"tr": "投票を開始する"
 	},
@@ -223,10 +219,6 @@
 	{
 		"or": "Favorites",
 		"tr": "お気に入り"
-	},
-	{
-		"or": "Feet",
-		"tr": "足"
 	},
 	{
 		"or": "Fire",
@@ -822,6 +814,10 @@
 		"tr": ""
 	},
 	{
+		"or": "Are you sure that you want to delete the skin?",
+		"tr": ""
+	},
+	{
 		"or": "Are you sure you want to rename the demo?",
 		"tr": ""
 	},
@@ -835,10 +831,6 @@
 	},
 	{
 		"or": "Basic",
-		"tr": ""
-	},
-	{
-		"or": "Bodies",
 		"tr": ""
 	},
 	{
@@ -870,7 +862,7 @@
 		"tr": ""
 	},
 	{
-		"or": "Decoration",
+		"or": "Delete skin",
 		"tr": ""
 	},
 	{
@@ -883,10 +875,6 @@
 	},
 	{
 		"or": "Editor",
-		"tr": ""
-	},
-	{
-		"or": "Eyes",
 		"tr": ""
 	},
 	{
@@ -903,10 +891,6 @@
 	},
 	{
 		"or": "Global",
-		"tr": ""
-	},
-	{
-		"or": "Hands",
 		"tr": ""
 	},
 	{
@@ -1082,14 +1066,6 @@
 		"tr": ""
 	},
 	{
-		"or": "Tattoo",
-		"tr": ""
-	},
-	{
-		"or": "Tattoos",
-		"tr": ""
-	},
-	{
 		"or": "Team:",
 		"tr": ""
 	},
@@ -1115,6 +1091,18 @@
 	},
 	{
 		"or": "Texture",
+		"tr": ""
+	},
+	{
+		"or": "The %s flag was captured by '%s'",
+		"tr": ""
+	},
+	{
+		"or": "The %s flag was captured by '%s' (%.2f seconds)",
+		"tr": ""
+	},
+	{
+		"or": "Unable to delete the skin",
 		"tr": ""
 	},
 	{
@@ -1158,11 +1146,35 @@
 		"tr": ""
 	},
 	{
+		"or": "body",
+		"tr": ""
+	},
+	{
+		"or": "decoration",
+		"tr": ""
+	},
+	{
+		"or": "eyes",
+		"tr": ""
+	},
+	{
+		"or": "feet",
+		"tr": ""
+	},
+	{
 		"or": "game",
 		"tr": ""
 	},
 	{
+		"or": "hands",
+		"tr": ""
+	},
+	{
 		"or": "locked",
+		"tr": ""
+	},
+	{
+		"or": "marking",
 		"tr": ""
 	},
 	{
@@ -1187,159 +1199,191 @@
 	}],
 "old translations": [
 	{
+		"or": "Created:",
+		"tr": "作成:"
+	},
+	{
+		"or": "Hands",
+		"tr": ""
+	},
+	{
 		"or": "New name:",
 		"tr": "新しい名前:"
-	},
-	{
-		"or": "Sat.",
-		"tr": "彩度"
-	},
-	{
-		"or": "Miscellaneous",
-		"tr": "その他"
-	},
-	{
-		"or": "Internet",
-		"tr": "オンライン"
-	},
-	{
-		"or": "Max demos",
-		"tr": "デモの最大数"
-	},
-	{
-		"or": "News",
-		"tr": "ニュース"
-	},
-	{
-		"or": "Join game",
-		"tr": "ゲームに参加"
-	},
-	{
-		"or": "FSAA samples",
-		"tr": "FSAAサンプル数"
 	},
 	{
 		"or": "%d of %d servers, %d players",
 		"tr": "%d of %d サーバー, %d プレイヤー"
 	},
 	{
-		"or": "Sound volume",
-		"tr": "音量"
-	},
-	{
-		"or": "Created:",
-		"tr": "作成:"
-	},
-	{
-		"or": "Max Screenshots",
-		"tr": "スクリーンショットの最大数"
+		"or": "Tattoos",
+		"tr": ""
 	},
 	{
 		"or": "Length:",
 		"tr": "長さ:"
 	},
 	{
-		"or": "Rifle",
-		"tr": "ライフル"
-	},
-	{
-		"or": "Netversion:",
-		"tr": "Netversion:"
-	},
-	{
-		"or": "Map:",
-		"tr": "マップ:"
-	},
-	{
-		"or": "%d Bytes",
-		"tr": "%d バイト"
-	},
-	{
-		"or": "Info",
-		"tr": "情報"
-	},
-	{
-		"or": "Hue",
-		"tr": "色相"
-	},
-	{
-		"or": "Record demo",
-		"tr": "デモを録画"
+		"or": "Host address",
+		"tr": "IPアドレス:ポート"
 	},
 	{
 		"or": "Your skin",
 		"tr": "あなたのスキン"
 	},
 	{
-		"or": "Size:",
-		"tr": "サイズ:"
-	},
-	{
-		"or": "Reset to defaults",
-		"tr": "初期設定に戻す"
-	},
-	{
-		"or": "Quit anyway?",
-		"tr": "終了しますか？"
-	},
-	{
-		"or": "Display Modes",
-		"tr": "画面モード"
-	},
-	{
-		"or": "Version:",
-		"tr": "バージョン:"
-	},
-	{
-		"or": "Round",
-		"tr": "ラウンド"
-	},
-	{
-		"or": "Lht.",
-		"tr": "明るさ"
-	},
-	{
-		"or": "no limit",
-		"tr": "無制限"
-	},
-	{
-		"or": "Quick search:",
-		"tr": "ワード検索:"
-	},
-	{
-		"or": "UI Color",
-		"tr": "UIカラー"
-	},
-	{
-		"or": "Host address",
-		"tr": "IPアドレス:ポート"
-	},
-	{
-		"or": "Crc:",
-		"tr": "Crc:"
-	},
-	{
-		"or": "Alpha",
-		"tr": "透明度"
+		"or": "Filter",
+		"tr": "フィルタ"
 	},
 	{
 		"or": "Current version: %s",
 		"tr": "クライアントのバージョン: %s"
 	},
 	{
-		"or": "Filter",
-		"tr": "フィルタ"
+		"or": "Map:",
+		"tr": "マップ:"
 	},
 	{
-		"or": "LAN",
-		"tr": "LAN"
+		"or": "Sat.",
+		"tr": "彩度"
+	},
+	{
+		"or": "Bodies",
+		"tr": ""
+	},
+	{
+		"or": "Decoration",
+		"tr": ""
+	},
+	{
+		"or": "Max Screenshots",
+		"tr": "スクリーンショットの最大数"
+	},
+	{
+		"or": "Join game",
+		"tr": "ゲームに参加"
+	},
+	{
+		"or": "Netversion:",
+		"tr": "Netversion:"
+	},
+	{
+		"or": "Type:",
+		"tr": "タイプ:"
+	},
+	{
+		"or": "Lht.",
+		"tr": "明るさ"
+	},
+	{
+		"or": "Body",
+		"tr": "体"
+	},
+	{
+		"or": "FSAA samples",
+		"tr": "FSAAサンプル数"
+	},
+	{
+		"or": "Rifle",
+		"tr": "ライフル"
+	},
+	{
+		"or": "Miscellaneous",
+		"tr": "その他"
+	},
+	{
+		"or": "Quick search:",
+		"tr": "ワード検索:"
+	},
+	{
+		"or": "News",
+		"tr": "ニュース"
+	},
+	{
+		"or": "Max demos",
+		"tr": "デモの最大数"
 	},
 	{
 		"or": "Name plates size",
 		"tr": "名前表示の大きさ"
 	},
 	{
-		"or": "Type:",
-		"tr": "タイプ:"
+		"or": "Reset to defaults",
+		"tr": "初期設定に戻す"
+	},
+	{
+		"or": "Feet",
+		"tr": "足"
+	},
+	{
+		"or": "Size:",
+		"tr": "サイズ:"
+	},
+	{
+		"or": "Version:",
+		"tr": "バージョン:"
+	},
+	{
+		"or": "%d Bytes",
+		"tr": "%d バイト"
+	},
+	{
+		"or": "UI Color",
+		"tr": "UIカラー"
+	},
+	{
+		"or": "Tattoo",
+		"tr": ""
+	},
+	{
+		"or": "Internet",
+		"tr": "オンライン"
+	},
+	{
+		"or": "Quit anyway?",
+		"tr": "終了しますか？"
+	},
+	{
+		"or": "Sound volume",
+		"tr": "音量"
+	},
+	{
+		"or": "Hue",
+		"tr": "色相"
+	},
+	{
+		"or": "Eyes",
+		"tr": ""
+	},
+	{
+		"or": "LAN",
+		"tr": "LAN"
+	},
+	{
+		"or": "Crc:",
+		"tr": "Crc:"
+	},
+	{
+		"or": "Round",
+		"tr": "ラウンド"
+	},
+	{
+		"or": "Record demo",
+		"tr": "デモを録画"
+	},
+	{
+		"or": "no limit",
+		"tr": "無制限"
+	},
+	{
+		"or": "Display Modes",
+		"tr": "画面モード"
+	},
+	{
+		"or": "Info",
+		"tr": "情報"
+	},
+	{
+		"or": "Alpha",
+		"tr": "透明度"
 	}]
 }

@@ -93,10 +93,6 @@
 		"tr": "Η μπλε ομάδα νίκησε!"
 	},
 	{
-		"or": "Body",
-		"tr": "Σώμα"
-	},
-	{
 		"or": "Call vote",
 		"tr": "Ψηφοφορία"
 	},
@@ -225,10 +221,6 @@
 		"tr": "Αγαπημένοι"
 	},
 	{
-		"or": "Feet",
-		"tr": "Πόδια"
-	},
-	{
 		"or": "Fire",
 		"tr": "Πυρ"
 	},
@@ -266,7 +258,7 @@
 	},
 	{
 		"or": "Game paused",
-		"tr": "Παιχνίδι σε παύση"
+		"tr": "Παιχνίδι εν παύση"
 	},
 	{
 		"or": "Game type",
@@ -394,7 +386,7 @@
 	},
 	{
 		"or": "No servers match your filter criteria",
-		"tr": "Δεν υπάρχει διακομιστής με αυτά τα κριτήρια"
+		"tr": "Κανένας διακομιστής με αυτά τα κριτήρια"
 	},
 	{
 		"or": "Ok",
@@ -442,7 +434,7 @@
 	},
 	{
 		"or": "Player options",
-		"tr": "Επιλογές παικτών"
+		"tr": "Επιλογές παίκτη"
 	},
 	{
 		"or": "Players",
@@ -759,355 +751,339 @@
 "needs translation": [
 	{
 		"or": "%.3f KiB",
-		"tr": "%.3f KiB"
+		"tr": ""
 	},
 	{
 		"or": "%d player left",
-		"tr": "απομένει %d παίκτης"
+		"tr": ""
 	},
 	{
 		"or": "%d player not ready",
-		"tr": "%d παίκτης δεν είναι έτοιμος"
+		"tr": ""
 	},
 	{
 		"or": "%d players left",
-		"tr": "απομένουν %d παίκτες"
+		"tr": ""
 	},
 	{
 		"or": "%d players not ready",
-		"tr": "%d παίκτης δεν είναι έτοιμοι"
+		"tr": ""
 	},
 	{
 		"or": "%d servers, %d players",
-		"tr": "%d διακομιστές, %d παίκτες"
+		"tr": ""
 	},
 	{
 		"or": "'%s' called for vote to kick '%s' (%s)",
-		"tr": "Ο «%s» ζήτηση ψήφο για την αποβολή του «%s» (%s)"
+		"tr": ""
 	},
 	{
 		"or": "'%s' called for vote to move '%s' to spectators (%s)",
-		"tr": "Ο «%s» ζήτησε ψήφο για τη μετακίνηση του «%s» στους θεατές (%s)"
+		"tr": ""
 	},
 	{
 		"or": "'%s' called vote to change server option '%s' (%s)",
-		"tr": "Ο «%s» ζήτησε ψήφο για την αλλαγή επιλογής διακομιστή «%s» (%s)"
+		"tr": ""
 	},
 	{
 		"or": "'%s' entered and joined the %s",
-		"tr": "Ο «%s» εισήλθε και συμμετήχε στην %s"
+		"tr": ""
 	},
 	{
 		"or": "'%s' has left the game",
-		"tr": "Ο «%s» εγκατέλειψε το παιχνίδι"
+		"tr": ""
 	},
 	{
 		"or": "'%s' has left the game (%s)",
-		"tr": "Ο «%s» εγκατέλειψε το παιχνίδι (%s)"
+		"tr": ""
 	},
 	{
 		"or": "'%s' joined the %s",
-		"tr": "Ο «%s» συμμετήχε στην %s"
+		"tr": ""
 	},
 	{
 		"or": "Admin forced server option '%s' (%s)",
-		"tr": "Ο διαχειριστής ανάγκασε την επιλογη «%s» (%s)"
+		"tr": ""
 	},
 	{
 		"or": "Admin forced vote no",
-		"tr": "Ο διαχειριστής ανάγκασε την ψήφο «όχι»"
+		"tr": ""
 	},
 	{
 		"or": "Admin forced vote yes",
-		"tr": "Ο διαχειριστής ανάγκασε την ψήφο «ναι»"
+		"tr": ""
 	},
 	{
 		"or": "Admin moved '%s' to spectator (%s)",
-		"tr": "Ο διαχειριστής μετακίνησε τον «%s» στους θεατές (%s)"
+		"tr": ""
 	},
 	{
 		"or": "Alp:",
-		"tr": "Άλφ:"
+		"tr": ""
 	},
 	{
 		"or": "Anti Aliasing",
-		"tr": "Εξομάλυνση"
+		"tr": ""
+	},
+	{
+		"or": "Are you sure that you want to delete the skin?",
+		"tr": ""
 	},
 	{
 		"or": "Are you sure you want to rename the demo?",
-		"tr": "Θέλετε σίγουρα να μετονομάσετε την επίδειξη;"
+		"tr": ""
 	},
 	{
 		"or": "Are you sure you want to save your skin? If a skin with this name already exists, it will be replaced.",
-		"tr": "Θέλετε σίγουρα να αποθηκεύσετε τη στολή σας; Αν υπαρχεί ήδη στολή με το ίδιο όνομα, θα αντικατασταθεί."
+		"tr": ""
 	},
 	{
 		"or": "Back",
-		"tr": "Επιστροφή"
+		"tr": ""
 	},
 	{
 		"or": "Basic",
-		"tr": "Βασικό"
-	},
-	{
-		"or": "Bodies",
-		"tr": "Σώματα"
+		"tr": ""
 	},
 	{
 		"or": "Borderless window",
-		"tr": "Παράθυρο χωρίς περιθώρια"
+		"tr": ""
 	},
 	{
 		"or": "Browser",
-		"tr": "Περιηγητής"
+		"tr": ""
 	},
 	{
 		"or": "Color",
-		"tr": "Χρώμα"
+		"tr": ""
 	},
 	{
 		"or": "Crc",
-		"tr": "Διόρθ"
+		"tr": ""
 	},
 	{
 		"or": "Created",
-		"tr": "Δημιουργήθηκε"
+		"tr": ""
 	},
 	{
 		"or": "Custom",
-		"tr": "Προσαρμοσμένο"
+		"tr": ""
 	},
 	{
 		"or": "Customize",
-		"tr": "Προσαρμογή"
+		"tr": ""
 	},
 	{
-		"or": "Decoration",
-		"tr": "Διακόσμηση"
+		"or": "Delete skin",
+		"tr": ""
 	},
 	{
 		"or": "Demo",
-		"tr": "Επίδειξη"
+		"tr": ""
 	},
 	{
 		"or": "Detail",
-		"tr": "Λεπτομέρεια"
+		"tr": ""
 	},
 	{
 		"or": "Editor",
 		"tr": ""
 	},
 	{
-		"or": "Eyes",
-		"tr": "Μάτια"
-	},
-	{
 		"or": "Format",
-		"tr": "Τύπος"
+		"tr": ""
 	},
 	{
 		"or": "Game starts in",
-		"tr": "Το παιχνίδι αρχίζει σε"
+		"tr": ""
 	},
 	{
 		"or": "Global",
-		"tr": "Παγκόσμια"
-	},
-	{
-		"or": "Hands",
-		"tr": "Χέρια"
+		"tr": ""
 	},
 	{
 		"or": "Host address:",
-		"tr": "Διεύθυνση διακομιστή:"
+		"tr": ""
 	},
 	{
 		"or": "Hue:",
-		"tr": "Απόχ:"
+		"tr": ""
 	},
 	{
 		"or": "Join",
-		"tr": "Συμμετοχή στην"
+		"tr": ""
 	},
 	{
 		"or": "Joined",
-		"tr": "Έθεσε συμμετοχή"
+		"tr": ""
 	},
 	{
 		"or": "Joined blue",
-		"tr": "Έθεσε συμμετοχή στη μπλε"
+		"tr": ""
 	},
 	{
 		"or": "Joined red",
-		"tr": "Έθεσε συμμετοχή στην κόκκινη"
+		"tr": ""
 	},
 	{
 		"or": "Kick voting requires %d players on the server",
-		"tr": "Ψήφισμα προς αποβολή χρειάζεται %d παίκτες σε αυτόν τον διακομιστή"
+		"tr": ""
 	},
 	{
 		"or": "Laser",
-		"tr": "Λέιζερ"
+		"tr": ""
 	},
 	{
 		"or": "Length",
-		"tr": "Μάκρος"
+		"tr": ""
 	},
 	{
 		"or": "Letterbox",
-		"tr": "Γραμματοκιβώτιο"
+		"tr": ""
 	},
 	{
 		"or": "Lgt:",
-		"tr": "Φωτ:"
+		"tr": ""
 	},
 	{
 		"or": "Local",
-		"tr": "Τοπικά"
+		"tr": ""
 	},
 	{
 		"or": "Local server",
-		"tr": "Τοπικός διακομιστής"
+		"tr": ""
 	},
 	{
 		"or": "Match",
-		"tr": "Ταίρι"
+		"tr": ""
 	},
 	{
 		"or": "Max",
-		"tr": "Μεγ"
+		"tr": ""
 	},
 	{
 		"or": "Misc",
-		"tr": "Διάφορα"
+		"tr": ""
 	},
 	{
 		"or": "Netversion",
-		"tr": "Έκδοση"
+		"tr": ""
 	},
 	{
 		"or": "Nickname is empty.",
-		"tr": "Το ξευδώνυμο είναι κενό."
+		"tr": ""
 	},
 	{
 		"or": "Normal:",
-		"tr": "Κανονικό:"
+		"tr": ""
 	},
 	{
 		"or": "Only %d active players are allowed",
-		"tr": "Επιτρέπονται μέχρι %d ενεργοί παίκτες"
+		"tr": ""
 	},
 	{
 		"or": "Personal",
-		"tr": "Προσωπικό"
+		"tr": ""
 	},
 	{
 		"or": "Ready",
-		"tr": "Έτοιμος"
+		"tr": ""
 	},
 	{
 		"or": "Record",
-		"tr": "Καταγραφή"
+		"tr": ""
 	},
 	{
 		"or": "Recorded",
-		"tr": "Καταγράφη"
+		"tr": ""
 	},
 	{
 		"or": "Reset",
-		"tr": "Επαναφορά"
+		"tr": ""
 	},
 	{
 		"or": "Resolutions",
-		"tr": "Αναλύσεις"
+		"tr": ""
 	},
 	{
 		"or": "Round over",
-		"tr": "Τέλος γύρου"
+		"tr": ""
 	},
 	{
 		"or": "Round over!",
-		"tr": "Τέλος γύρου!"
+		"tr": ""
 	},
 	{
 		"or": "Sat:",
-		"tr": "Κορ:"
+		"tr": ""
 	},
 	{
 		"or": "Save",
-		"tr": "Αποθήκευση"
+		"tr": ""
 	},
 	{
 		"or": "Save skin",
-		"tr": "Αποθήκευση στολής"
+		"tr": ""
 	},
 	{
 		"or": "Screen",
-		"tr": "Οθόνη"
+		"tr": ""
 	},
 	{
 		"or": "Search:",
-		"tr": "Αναζήτηση:"
+		"tr": ""
 	},
 	{
 		"or": "Server does not allow voting to kick players",
-		"tr": "Ο διακομιστής δεν επιτρέπει ψήφους για αποβολή παικτών"
+		"tr": ""
 	},
 	{
 		"or": "Server does not allow voting to move players to spectators",
-		"tr": "Ο διακομιστής δεν επιτρέπει μετακίνηση παικτών στους θεατές"
+		"tr": ""
 	},
 	{
 		"or": "Servers",
-		"tr": "Διακομιστές"
+		"tr": ""
 	},
 	{
 		"or": "Size",
-		"tr": "Μέγεθος"
+		"tr": ""
 	},
 	{
 		"or": "Skin",
-		"tr": "Στολή"
+		"tr": ""
 	},
 	{
 		"or": "Spectating",
-		"tr": "Θέαση"
+		"tr": ""
 	},
 	{
 		"or": "Spectators aren't allowed to start a vote.",
-		"tr": "Οι θεατές δεν μπορούν να εκκινήσουν ψήφο"
+		"tr": ""
 	},
 	{
 		"or": "Standard Gametype",
-		"tr": "Κανονικός Τύπος Παιχνιδιού"
-	},
-	{
-		"or": "Tattoo",
-		"tr": "Τατουάζ"
-	},
-	{
-		"or": "Tattoos",
-		"tr": "Τατουάζ"
+		"tr": ""
 	},
 	{
 		"or": "Team:",
-		"tr": "Ομάδα"
+		"tr": ""
 	},
 	{
 		"or": "Teams are locked",
-		"tr": "Οι ομάδες είναι κλειδωμένες"
+		"tr": ""
 	},
 	{
 		"or": "Teams are locked. Time to wait before changing team: %02d:%02d",
-		"tr": "Οι ομάδες είναι κλειδωμένες. Αναμοή πριν μπορείτε να αλλάξετε ομάδα: %02d:%02d"
+		"tr": ""
 	},
 	{
 		"or": "Teams were locked",
-		"tr": "Οι ομάδες κλειδώθηκαν"
+		"tr": ""
 	},
 	{
 		"or": "Teams were unlocked",
-		"tr": "Οι ομάδες ξεκλειδώθηκαν"
+		"tr": ""
 	},
 	{
 		"or": "Tee",
@@ -1115,164 +1091,140 @@
 	},
 	{
 		"or": "Texture",
-		"tr": "Υφή"
+		"tr": ""
+	},
+	{
+		"or": "The %s flag was captured by '%s'",
+		"tr": ""
+	},
+	{
+		"or": "The %s flag was captured by '%s' (%.2f seconds)",
+		"tr": ""
+	},
+	{
+		"or": "Unable to delete the skin",
+		"tr": ""
 	},
 	{
 		"or": "Volume",
-		"tr": "Ένταση"
+		"tr": ""
 	},
 	{
 		"or": "Vote aborted",
-		"tr": "Η ψήφος ματαιώθηκε"
+		"tr": ""
 	},
 	{
 		"or": "Vote failed",
-		"tr": "Η ψήφος απέτυχε"
+		"tr": ""
 	},
 	{
 		"or": "Vote passed",
-		"tr": "Η ψήφος πέρασε"
+		"tr": ""
 	},
 	{
 		"or": "Wait for current vote to end before calling a new one.",
-		"tr": "Περιμένετε για τη λήξη της τρέχον ψηφοφορίας πριν ζητήσετε καινούργια."
+		"tr": ""
 	},
 	{
 		"or": "Wait for next round",
-		"tr": "Αναμονή για τον επόμενο γύρο"
+		"tr": ""
 	},
 	{
 		"or": "Wide",
-		"tr": "Ευρύς"
+		"tr": ""
 	},
 	{
 		"or": "You must wait %d seconds before making another vote",
-		"tr": "Πρέπει να περιμένετε %d δευτερόλεπτα πριν ζητήσετε καινούργια ψήφο"
+		"tr": ""
 	},
 	{
 		"or": "blue",
-		"tr": "μπλε"
+		"tr": ""
 	},
 	{
 		"or": "blue team",
-		"tr": "μπλε ομάδα"
+		"tr": ""
+	},
+	{
+		"or": "body",
+		"tr": ""
+	},
+	{
+		"or": "decoration",
+		"tr": ""
+	},
+	{
+		"or": "eyes",
+		"tr": ""
+	},
+	{
+		"or": "feet",
+		"tr": ""
 	},
 	{
 		"or": "game",
-		"tr": "παιχνίδι"
+		"tr": ""
+	},
+	{
+		"or": "hands",
+		"tr": ""
 	},
 	{
 		"or": "locked",
-		"tr": "κλειδομένο"
+		"tr": ""
+	},
+	{
+		"or": "marking",
+		"tr": ""
 	},
 	{
 		"or": "no players",
-		"tr": "δεν έχει παίκτες"
+		"tr": ""
 	},
 	{
 		"or": "red",
-		"tr": "κόκκινη"
+		"tr": ""
 	},
 	{
 		"or": "red team",
-		"tr": "κόκκινη ομάδα"
+		"tr": ""
 	},
 	{
 		"or": "spectators",
-		"tr": "θεατές"
+		"tr": ""
 	},
 	{
 		"or": "wait for more players",
-		"tr": "αναμονή για περισσότερους παίκτες"
+		"tr": ""
 	}],
 "old translations": [
 	{
+		"or": "Created:",
+		"tr": "Δημιουργήθηκε:"
+	},
+	{
+		"or": "Hands",
+		"tr": ""
+	},
+	{
 		"or": "New name:",
 		"tr": "Νέο όνομα:"
-	},
-	{
-		"or": "Sat.",
-		"tr": "Κορεσμός"
-	},
-	{
-		"or": "Miscellaneous",
-		"tr": "Διάφορα"
-	},
-	{
-		"or": "Internet",
-		"tr": "Διαδίκτυο"
-	},
-	{
-		"or": "Max demos",
-		"tr": "Μέγιστος αριθμός επιδείξεων"
-	},
-	{
-		"or": "News",
-		"tr": "Νέα"
-	},
-	{
-		"or": "Join game",
-		"tr": "Συμμετοχή"
-	},
-	{
-		"or": "FSAA samples",
-		"tr": "Δείγματα FSAA"
 	},
 	{
 		"or": "%d of %d servers, %d players",
 		"tr": "%d από %d διακ/στές, %d παίκτες"
 	},
 	{
-		"or": "Sound volume",
-		"tr": "Ένταση ήχου"
-	},
-	{
-		"or": "Created:",
-		"tr": "Δημιουργήθηκε:"
-	},
-	{
-		"or": "Max Screenshots",
-		"tr": "Μέγιστος αριθμός στιγμιότυπων"
+		"or": "Tattoos",
+		"tr": ""
 	},
 	{
 		"or": "Length:",
 		"tr": "Διάρκεια:"
 	},
 	{
-		"or": "Skin name",
-		"tr": ""
-	},
-	{
-		"or": "Rifle",
-		"tr": "Λέιζερ"
-	},
-	{
-		"or": "Patterns",
-		"tr": ""
-	},
-	{
-		"or": "Netversion:",
-		"tr": "Έκδοση:"
-	},
-	{
-		"or": "Map:",
-		"tr": "Χάρτης:"
-	},
-	{
-		"or": "%d Bytes",
-		"tr": "%d Bytes"
-	},
-	{
-		"or": "Coloration",
-		"tr": ""
-	},
-	{
-		"or": "Info",
-		"tr": "Πληροφορίες"
-	},
-	{
-		"or": "Hue",
-		"tr": "Απόχρωση"
+		"or": "Host address",
+		"tr": "Διεύθυνση διακομιστή"
 	},
 	{
 		"or": "Record demo",
@@ -1283,56 +1235,8 @@
 		"tr": "Η στολή σας"
 	},
 	{
-		"or": "Size:",
-		"tr": "Μέγεθος:"
-	},
-	{
-		"or": "Reset to defaults",
-		"tr": "Επαναφορά προεπιλογών"
-	},
-	{
-		"or": "Quit anyway?",
-		"tr": "Έξοδος οπωσδήποτε;"
-	},
-	{
-		"or": "Display Modes",
-		"tr": "Ανάλυσεις Οθόνης"
-	},
-	{
-		"or": "Version:",
-		"tr": "Έκδοση:"
-	},
-	{
-		"or": "Round",
-		"tr": "Γύρος"
-	},
-	{
-		"or": "Lht.",
-		"tr": "Φωτεινότ."
-	},
-	{
-		"or": "no limit",
-		"tr": "χωρίς όριο"
-	},
-	{
-		"or": "Quick search:",
-		"tr": "Γρήγορη αναζήτηση:"
-	},
-	{
-		"or": "UI Color",
-		"tr": "Χρώμα Μενού"
-	},
-	{
-		"or": "Host address",
-		"tr": "Διεύθυνση διακομιστή"
-	},
-	{
-		"or": "Crc:",
-		"tr": "Crc:"
-	},
-	{
-		"or": "Alpha",
-		"tr": "Άλφα"
+		"or": "Filter",
+		"tr": "Φίλτρο"
 	},
 	{
 		"or": "Are you sure you want to save your skin ? If a skin with this name already exists, it will be replaced.",
@@ -1343,19 +1247,159 @@
 		"tr": "Τρέχουσα έκδοση: %s"
 	},
 	{
-		"or": "Filter",
-		"tr": "Φίλτρο"
+		"or": "Map:",
+		"tr": "Χάρτης:"
+	},
+	{
+		"or": "Skin name",
+		"tr": ""
+	},
+	{
+		"or": "Sat.",
+		"tr": "Κορεσμός"
+	},
+	{
+		"or": "Bodies",
+		"tr": ""
+	},
+	{
+		"or": "Decoration",
+		"tr": ""
+	},
+	{
+		"or": "Max Screenshots",
+		"tr": "Μέγιστος αριθμός στιγμιότυπων"
+	},
+	{
+		"or": "Join game",
+		"tr": "Συμμετοχή"
+	},
+	{
+		"or": "Patterns",
+		"tr": ""
+	},
+	{
+		"or": "Netversion:",
+		"tr": "Έκδοση:"
+	},
+	{
+		"or": "Type:",
+		"tr": "Τύπος:"
+	},
+	{
+		"or": "Lht.",
+		"tr": "Φωτεινότ."
+	},
+	{
+		"or": "Body",
+		"tr": "Σώμα"
+	},
+	{
+		"or": "FSAA samples",
+		"tr": "Δείγματα FSAA"
+	},
+	{
+		"or": "Rifle",
+		"tr": "Λέιζερ"
+	},
+	{
+		"or": "Miscellaneous",
+		"tr": "Διάφορα"
+	},
+	{
+		"or": "Quick search:",
+		"tr": "Γρήγορη αναζήτηση:"
+	},
+	{
+		"or": "News",
+		"tr": "Νέα"
+	},
+	{
+		"or": "Max demos",
+		"tr": "Μέγιστος αριθμός επιδείξεων"
+	},
+	{
+		"or": "Reset to defaults",
+		"tr": "Επαναφορά προεπιλογών"
+	},
+	{
+		"or": "Feet",
+		"tr": "Πόδια"
+	},
+	{
+		"or": "Size:",
+		"tr": "Μέγεθος:"
+	},
+	{
+		"or": "Version:",
+		"tr": "Έκδοση:"
+	},
+	{
+		"or": "%d Bytes",
+		"tr": "%d Bytes"
+	},
+	{
+		"or": "UI Color",
+		"tr": "Χρώμα Μενού"
+	},
+	{
+		"or": "no limit",
+		"tr": "χωρίς όριο"
+	},
+	{
+		"or": "Internet",
+		"tr": "Διαδίκτυο"
+	},
+	{
+		"or": "Quit anyway?",
+		"tr": "Έξοδος οπωσδήποτε;"
+	},
+	{
+		"or": "Sound volume",
+		"tr": "Ένταση ήχου"
+	},
+	{
+		"or": "Hue",
+		"tr": "Απόχρωση"
+	},
+	{
+		"or": "Eyes",
+		"tr": ""
 	},
 	{
 		"or": "LAN",
 		"tr": "Τοπικά"
 	},
 	{
+		"or": "Crc:",
+		"tr": "Crc:"
+	},
+	{
+		"or": "Coloration",
+		"tr": ""
+	},
+	{
+		"or": "Round",
+		"tr": "Γύρος"
+	},
+	{
+		"or": "Tattoo",
+		"tr": ""
+	},
+	{
+		"or": "Display Modes",
+		"tr": "Ανάλυσεις Οθόνης"
+	},
+	{
+		"or": "Info",
+		"tr": "Πληροφορίες"
+	},
+	{
 		"or": "Name plates size",
 		"tr": "Μήκος ψευδωνύμου"
 	},
 	{
-		"or": "Type:",
-		"tr": "Τύπος:"
+		"or": "Alpha",
+		"tr": "Άλφα"
 	}]
 }

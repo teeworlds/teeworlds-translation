@@ -49,10 +49,6 @@
 		"tr": "Сині перемогли!"
 	},
 	{
-		"or": "Body",
-		"tr": "Тіло"
-	},
-	{
 		"or": "Call vote",
 		"tr": "Голосувати"
 	},
@@ -147,10 +143,6 @@
 	{
 		"or": "Favorites",
 		"tr": "Обрані"
-	},
-	{
-		"or": "Feet",
-		"tr": "Ноги"
 	},
 	{
 		"or": "Fire",
@@ -662,6 +654,10 @@
 		"tr": ""
 	},
 	{
+		"or": "Are you sure that you want to delete the skin?",
+		"tr": ""
+	},
+	{
 		"or": "Are you sure that you want to remove the player from your friends list?",
 		"tr": ""
 	},
@@ -687,10 +683,6 @@
 	},
 	{
 		"or": "Basic",
-		"tr": ""
-	},
-	{
-		"or": "Bodies",
 		"tr": ""
 	},
 	{
@@ -742,11 +734,11 @@
 		"tr": ""
 	},
 	{
-		"or": "Decoration",
+		"or": "Delete demo",
 		"tr": ""
 	},
 	{
-		"or": "Delete demo",
+		"or": "Delete skin",
 		"tr": ""
 	},
 	{
@@ -767,10 +759,6 @@
 	},
 	{
 		"or": "Editor",
-		"tr": ""
-	},
-	{
-		"or": "Eyes",
 		"tr": ""
 	},
 	{
@@ -795,10 +783,6 @@
 	},
 	{
 		"or": "Global",
-		"tr": ""
-	},
-	{
-		"or": "Hands",
 		"tr": ""
 	},
 	{
@@ -1054,14 +1038,6 @@
 		"tr": ""
 	},
 	{
-		"or": "Tattoo",
-		"tr": ""
-	},
-	{
-		"or": "Tattoos",
-		"tr": ""
-	},
-	{
 		"or": "Team:",
 		"tr": ""
 	},
@@ -1090,6 +1066,14 @@
 		"tr": ""
 	},
 	{
+		"or": "The %s flag was captured by '%s'",
+		"tr": ""
+	},
+	{
+		"or": "The %s flag was captured by '%s' (%.2f seconds)",
+		"tr": ""
+	},
+	{
 		"or": "The audio device couldn't be initialised.",
 		"tr": ""
 	},
@@ -1099,6 +1083,10 @@
 	},
 	{
 		"or": "Unable to delete the demo",
+		"tr": ""
+	},
+	{
+		"or": "Unable to delete the skin",
 		"tr": ""
 	},
 	{
@@ -1158,11 +1146,35 @@
 		"tr": ""
 	},
 	{
+		"or": "body",
+		"tr": ""
+	},
+	{
+		"or": "decoration",
+		"tr": ""
+	},
+	{
+		"or": "eyes",
+		"tr": ""
+	},
+	{
+		"or": "feet",
+		"tr": ""
+	},
+	{
 		"or": "game",
 		"tr": ""
 	},
 	{
+		"or": "hands",
+		"tr": ""
+	},
+	{
 		"or": "locked",
+		"tr": ""
+	},
+	{
+		"or": "marking",
 		"tr": ""
 	},
 	{
@@ -1187,47 +1199,23 @@
 	}],
 "old translations": [
 	{
+		"or": "Created:",
+		"tr": ""
+	},
+	{
+		"or": "Hands",
+		"tr": ""
+	},
+	{
 		"or": "New name:",
 		"tr": ""
-	},
-	{
-		"or": "Sat.",
-		"tr": "Контраст."
-	},
-	{
-		"or": "Max demos",
-		"tr": ""
-	},
-	{
-		"or": "Internet",
-		"tr": "Інтернет"
-	},
-	{
-		"or": "Are you sure you want to save your skin ? If a skin with this name already exists, it will be replaced.",
-		"tr": ""
-	},
-	{
-		"or": "News",
-		"tr": "Новини"
-	},
-	{
-		"or": "Join game",
-		"tr": "Приєднатись до гри"
 	},
 	{
 		"or": "%d of %d servers, %d players",
 		"tr": "%d/%d серверів, %d гравців"
 	},
 	{
-		"or": "Sound volume",
-		"tr": "Гучність звуку"
-	},
-	{
-		"or": "Created:",
-		"tr": ""
-	},
-	{
-		"or": "Max Screenshots",
+		"or": "Tattoos",
 		"tr": ""
 	},
 	{
@@ -1235,16 +1223,64 @@
 		"tr": ""
 	},
 	{
-		"or": "Rifle",
-		"tr": "Лазер"
+		"or": "Host address",
+		"tr": "Адреса сервера"
+	},
+	{
+		"or": "Record demo",
+		"tr": "Запис демо"
+	},
+	{
+		"or": "Your skin",
+		"tr": "Ваш скін"
+	},
+	{
+		"or": "Filter",
+		"tr": "Фільтр"
+	},
+	{
+		"or": "Are you sure you want to save your skin ? If a skin with this name already exists, it will be replaced.",
+		"tr": ""
+	},
+	{
+		"or": "Name plates size",
+		"tr": ""
+	},
+	{
+		"or": "Current version: %s",
+		"tr": "Поточна версія: %s"
+	},
+	{
+		"or": "Map:",
+		"tr": ""
 	},
 	{
 		"or": "Skin name",
 		"tr": ""
 	},
 	{
-		"or": "Coloration",
+		"or": "%d Bytes",
 		"tr": ""
+	},
+	{
+		"or": "Sat.",
+		"tr": "Контраст."
+	},
+	{
+		"or": "Bodies",
+		"tr": ""
+	},
+	{
+		"or": "Decoration",
+		"tr": ""
+	},
+	{
+		"or": "Max Screenshots",
+		"tr": ""
+	},
+	{
+		"or": "Join game",
+		"tr": "Приєднатись до гри"
 	},
 	{
 		"or": "Patterns",
@@ -1255,67 +1291,59 @@
 		"tr": ""
 	},
 	{
-		"or": "Map:",
+		"or": "Type:",
 		"tr": ""
-	},
-	{
-		"or": "FSAA samples",
-		"tr": "Семплів FSAA"
-	},
-	{
-		"or": "Your skin",
-		"tr": "Ваш скін"
-	},
-	{
-		"or": "%d Bytes",
-		"tr": ""
-	},
-	{
-		"or": "Info",
-		"tr": "Інфо"
-	},
-	{
-		"or": "Version:",
-		"tr": ""
-	},
-	{
-		"or": "Hue",
-		"tr": "Відтінок"
-	},
-	{
-		"or": "Reset to defaults",
-		"tr": "Скинути налаштування"
-	},
-	{
-		"or": "Quit anyway?",
-		"tr": ""
-	},
-	{
-		"or": "Display Modes",
-		"tr": "Режими дисплея"
-	},
-	{
-		"or": "Round",
-		"tr": "Раунд"
 	},
 	{
 		"or": "Lht.",
 		"tr": "Яскравість"
 	},
 	{
-		"or": "no limit",
-		"tr": ""
+		"or": "Body",
+		"tr": "Тіло"
 	},
 	{
-		"or": "Quick search:",
-		"tr": "Швидкий пошук:"
+		"or": "FSAA samples",
+		"tr": "Семплів FSAA"
+	},
+	{
+		"or": "Rifle",
+		"tr": "Лазер"
 	},
 	{
 		"or": "Miscellaneous",
 		"tr": "Додатково"
 	},
 	{
-		"or": "Size:",
+		"or": "Quick search:",
+		"tr": "Швидкий пошук:"
+	},
+	{
+		"or": "News",
+		"tr": "Новини"
+	},
+	{
+		"or": "Max demos",
+		"tr": ""
+	},
+	{
+		"or": "no limit",
+		"tr": ""
+	},
+	{
+		"or": "Reset to defaults",
+		"tr": "Скинути налаштування"
+	},
+	{
+		"or": "Feet",
+		"tr": "Ноги"
+	},
+	{
+		"or": "Alpha",
+		"tr": "Прозор.."
+	},
+	{
+		"or": "Version:",
 		"tr": ""
 	},
 	{
@@ -1323,39 +1351,55 @@
 		"tr": "колір інтерфейсу"
 	},
 	{
-		"or": "Host address",
-		"tr": "Адреса сервера"
-	},
-	{
-		"or": "Crc:",
+		"or": "Tattoo",
 		"tr": ""
 	},
 	{
-		"or": "Alpha",
-		"tr": "Прозор.."
+		"or": "Internet",
+		"tr": "Інтернет"
 	},
 	{
-		"or": "Current version: %s",
-		"tr": "Поточна версія: %s"
+		"or": "Quit anyway?",
+		"tr": ""
 	},
 	{
-		"or": "Filter",
-		"tr": "Фільтр"
+		"or": "Sound volume",
+		"tr": "Гучність звуку"
+	},
+	{
+		"or": "Hue",
+		"tr": "Відтінок"
+	},
+	{
+		"or": "Eyes",
+		"tr": ""
 	},
 	{
 		"or": "LAN",
 		"tr": "LAN"
 	},
 	{
-		"or": "Record demo",
-		"tr": "Запис демо"
-	},
-	{
-		"or": "Name plates size",
+		"or": "Crc:",
 		"tr": ""
 	},
 	{
-		"or": "Type:",
+		"or": "Coloration",
 		"tr": ""
+	},
+	{
+		"or": "Round",
+		"tr": "Раунд"
+	},
+	{
+		"or": "Size:",
+		"tr": ""
+	},
+	{
+		"or": "Display Modes",
+		"tr": "Режими дисплея"
+	},
+	{
+		"or": "Info",
+		"tr": "Інфо"
 	}]
 }

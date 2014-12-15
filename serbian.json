@@ -95,10 +95,6 @@
 		"tr": "Plavi tim je pobedio!"
 	},
 	{
-		"or": "Body",
-		"tr": "Telo"
-	},
-	{
 		"or": "Call vote",
 		"tr": "Glasanje"
 	},
@@ -225,10 +221,6 @@
 	{
 		"or": "Favorites",
 		"tr": "Omiljeni"
-	},
-	{
-		"or": "Feet",
-		"tr": "Stopala"
 	},
 	{
 		"or": "Fire",
@@ -824,6 +816,10 @@
 		"tr": ""
 	},
 	{
+		"or": "Are you sure that you want to delete the skin?",
+		"tr": ""
+	},
+	{
 		"or": "Are you sure you want to rename the demo?",
 		"tr": ""
 	},
@@ -837,10 +833,6 @@
 	},
 	{
 		"or": "Basic",
-		"tr": ""
-	},
-	{
-		"or": "Bodies",
 		"tr": ""
 	},
 	{
@@ -872,7 +864,7 @@
 		"tr": ""
 	},
 	{
-		"or": "Decoration",
+		"or": "Delete skin",
 		"tr": ""
 	},
 	{
@@ -885,10 +877,6 @@
 	},
 	{
 		"or": "Editor",
-		"tr": ""
-	},
-	{
-		"or": "Eyes",
 		"tr": ""
 	},
 	{
@@ -905,10 +893,6 @@
 	},
 	{
 		"or": "Global",
-		"tr": ""
-	},
-	{
-		"or": "Hands",
 		"tr": ""
 	},
 	{
@@ -1084,14 +1068,6 @@
 		"tr": ""
 	},
 	{
-		"or": "Tattoo",
-		"tr": ""
-	},
-	{
-		"or": "Tattoos",
-		"tr": ""
-	},
-	{
 		"or": "Team:",
 		"tr": ""
 	},
@@ -1117,6 +1093,18 @@
 	},
 	{
 		"or": "Texture",
+		"tr": ""
+	},
+	{
+		"or": "The %s flag was captured by '%s'",
+		"tr": ""
+	},
+	{
+		"or": "The %s flag was captured by '%s' (%.2f seconds)",
+		"tr": ""
+	},
+	{
+		"or": "Unable to delete the skin",
 		"tr": ""
 	},
 	{
@@ -1160,11 +1148,35 @@
 		"tr": ""
 	},
 	{
+		"or": "body",
+		"tr": ""
+	},
+	{
+		"or": "decoration",
+		"tr": ""
+	},
+	{
+		"or": "eyes",
+		"tr": ""
+	},
+	{
+		"or": "feet",
+		"tr": ""
+	},
+	{
 		"or": "game",
 		"tr": ""
 	},
 	{
+		"or": "hands",
+		"tr": ""
+	},
+	{
 		"or": "locked",
+		"tr": ""
+	},
+	{
+		"or": "marking",
 		"tr": ""
 	},
 	{
@@ -1189,92 +1201,32 @@
 	}],
 "old translations": [
 	{
+		"or": "Created:",
+		"tr": "Kreirano:"
+	},
+	{
+		"or": "Hands",
+		"tr": ""
+	},
+	{
 		"or": "New name:",
 		"tr": "Novo ime:"
-	},
-	{
-		"or": "Sat.",
-		"tr": "Zasić."
-	},
-	{
-		"or": "Miscellaneous",
-		"tr": "Razno"
-	},
-	{
-		"or": "Internet",
-		"tr": "Internet"
-	},
-	{
-		"or": "Max demos",
-		"tr": "Maksimalan broj demo-a"
-	},
-	{
-		"or": "News",
-		"tr": "Novosti"
-	},
-	{
-		"or": "Join game",
-		"tr": "Uključi se u igru"
-	},
-	{
-		"or": "FSAA samples",
-		"tr": "FSAA samples"
 	},
 	{
 		"or": "%d of %d servers, %d players",
 		"tr": "%d od %d server(a), %d igrač(a)"
 	},
 	{
-		"or": "Sound volume",
-		"tr": "Jačina zvuka"
-	},
-	{
-		"or": "Created:",
-		"tr": "Kreirano:"
-	},
-	{
-		"or": "Max Screenshots",
-		"tr": "Maksimalan broj screenshot-ova"
+		"or": "Tattoos",
+		"tr": ""
 	},
 	{
 		"or": "Length:",
 		"tr": "Dužina:"
 	},
 	{
-		"or": "Skin name",
-		"tr": ""
-	},
-	{
-		"or": "Rifle",
-		"tr": "Puška"
-	},
-	{
-		"or": "Patterns",
-		"tr": ""
-	},
-	{
-		"or": "Netversion:",
-		"tr": "Net verzija:"
-	},
-	{
-		"or": "Map:",
-		"tr": "Mapa:"
-	},
-	{
-		"or": "%d Bytes",
-		"tr": "%d Bajtova"
-	},
-	{
-		"or": "Coloration",
-		"tr": ""
-	},
-	{
-		"or": "Info",
-		"tr": "Info"
-	},
-	{
-		"or": "Hue",
-		"tr": "Nijansa"
+		"or": "Host address",
+		"tr": "Adresa servera"
 	},
 	{
 		"or": "Record demo",
@@ -1285,79 +1237,171 @@
 		"tr": "Vaš izgled"
 	},
 	{
-		"or": "Size:",
-		"tr": "Veličina:"
-	},
-	{
-		"or": "Reset to defaults",
-		"tr": "Resetuj podešavanja"
-	},
-	{
-		"or": "Quit anyway?",
-		"tr": "Izlaz?"
-	},
-	{
-		"or": "Display Modes",
-		"tr": "Rezolucija i način prikaza"
-	},
-	{
-		"or": "Version:",
-		"tr": "Verzija:"
-	},
-	{
-		"or": "Round",
-		"tr": "Runda"
-	},
-	{
-		"or": "Lht.",
-		"tr": "Svetl."
-	},
-	{
-		"or": "no limit",
-		"tr": "bez ograničenja"
-	},
-	{
-		"or": "Quick search:",
-		"tr": "Brza pretraga:"
-	},
-	{
-		"or": "UI Color",
-		"tr": "Boja menija"
-	},
-	{
-		"or": "Host address",
-		"tr": "Adresa servera"
-	},
-	{
-		"or": "Crc:",
-		"tr": "Crc:"
-	},
-	{
-		"or": "Alpha",
-		"tr": "Provid."
+		"or": "Filter",
+		"tr": "Filter"
 	},
 	{
 		"or": "Are you sure you want to save your skin ? If a skin with this name already exists, it will be replaced.",
 		"tr": ""
 	},
 	{
+		"or": "Name plates size",
+		"tr": "Veličina pločice za ime"
+	},
+	{
 		"or": "Current version: %s",
 		"tr": "Trenutna verzija: %s"
 	},
 	{
-		"or": "Filter",
-		"tr": "Filter"
+		"or": "Map:",
+		"tr": "Mapa:"
+	},
+	{
+		"or": "Skin name",
+		"tr": ""
+	},
+	{
+		"or": "Sat.",
+		"tr": "Zasić."
+	},
+	{
+		"or": "Bodies",
+		"tr": ""
+	},
+	{
+		"or": "Decoration",
+		"tr": ""
+	},
+	{
+		"or": "Max Screenshots",
+		"tr": "Maksimalan broj screenshot-ova"
+	},
+	{
+		"or": "Join game",
+		"tr": "Uključi se u igru"
+	},
+	{
+		"or": "Patterns",
+		"tr": ""
+	},
+	{
+		"or": "Netversion:",
+		"tr": "Net verzija:"
+	},
+	{
+		"or": "Type:",
+		"tr": "Tip:"
+	},
+	{
+		"or": "Lht.",
+		"tr": "Svetl."
+	},
+	{
+		"or": "Body",
+		"tr": "Telo"
+	},
+	{
+		"or": "FSAA samples",
+		"tr": "FSAA samples"
+	},
+	{
+		"or": "Rifle",
+		"tr": "Puška"
+	},
+	{
+		"or": "Miscellaneous",
+		"tr": "Razno"
+	},
+	{
+		"or": "Quick search:",
+		"tr": "Brza pretraga:"
+	},
+	{
+		"or": "News",
+		"tr": "Novosti"
+	},
+	{
+		"or": "Max demos",
+		"tr": "Maksimalan broj demo-a"
+	},
+	{
+		"or": "no limit",
+		"tr": "bez ograničenja"
+	},
+	{
+		"or": "Reset to defaults",
+		"tr": "Resetuj podešavanja"
+	},
+	{
+		"or": "Feet",
+		"tr": "Stopala"
+	},
+	{
+		"or": "Size:",
+		"tr": "Veličina:"
+	},
+	{
+		"or": "Version:",
+		"tr": "Verzija:"
+	},
+	{
+		"or": "%d Bytes",
+		"tr": "%d Bajtova"
+	},
+	{
+		"or": "UI Color",
+		"tr": "Boja menija"
+	},
+	{
+		"or": "Tattoo",
+		"tr": ""
+	},
+	{
+		"or": "Internet",
+		"tr": "Internet"
+	},
+	{
+		"or": "Quit anyway?",
+		"tr": "Izlaz?"
+	},
+	{
+		"or": "Sound volume",
+		"tr": "Jačina zvuka"
+	},
+	{
+		"or": "Hue",
+		"tr": "Nijansa"
+	},
+	{
+		"or": "Eyes",
+		"tr": ""
 	},
 	{
 		"or": "LAN",
 		"tr": "LAN"
 	},
 	{
-		"or": "Name plates size",
-		"tr": "Veličina pločice za ime"
+		"or": "Crc:",
+		"tr": "Crc:"
 	},
 	{
-		"or": "Type:",
-		"tr": "Tip:"
+		"or": "Coloration",
+		"tr": ""
+	},
+	{
+		"or": "Round",
+		"tr": "Runda"
+	},
+	{
+		"or": "Display Modes",
+		"tr": "Rezolucija i način prikaza"
+	},
+	{
+		"or": "Info",
+		"tr": "Info"
+	},
+	{
+		"or": "Alpha",
+		"tr": "Provid."
 	}]
 }

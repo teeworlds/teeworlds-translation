@@ -96,10 +96,6 @@
 		"tr": "Niebiescy wygrali!"
 	},
 	{
-		"or": "Body",
-		"tr": "Ciało"
-	},
-	{
 		"or": "Call vote",
 		"tr": "Głosowanie"
 	},
@@ -226,10 +222,6 @@
 	{
 		"or": "Favorites",
 		"tr": "Ulubione"
-	},
-	{
-		"or": "Feet",
-		"tr": "Stopy"
 	},
 	{
 		"or": "Fire",
@@ -825,6 +817,10 @@
 		"tr": ""
 	},
 	{
+		"or": "Are you sure that you want to delete the skin?",
+		"tr": ""
+	},
+	{
 		"or": "Are you sure you want to rename the demo?",
 		"tr": ""
 	},
@@ -838,10 +834,6 @@
 	},
 	{
 		"or": "Basic",
-		"tr": ""
-	},
-	{
-		"or": "Bodies",
 		"tr": ""
 	},
 	{
@@ -873,7 +865,7 @@
 		"tr": ""
 	},
 	{
-		"or": "Decoration",
+		"or": "Delete skin",
 		"tr": ""
 	},
 	{
@@ -886,10 +878,6 @@
 	},
 	{
 		"or": "Editor",
-		"tr": ""
-	},
-	{
-		"or": "Eyes",
 		"tr": ""
 	},
 	{
@@ -906,10 +894,6 @@
 	},
 	{
 		"or": "Global",
-		"tr": ""
-	},
-	{
-		"or": "Hands",
 		"tr": ""
 	},
 	{
@@ -1085,14 +1069,6 @@
 		"tr": ""
 	},
 	{
-		"or": "Tattoo",
-		"tr": ""
-	},
-	{
-		"or": "Tattoos",
-		"tr": ""
-	},
-	{
 		"or": "Team:",
 		"tr": ""
 	},
@@ -1118,6 +1094,18 @@
 	},
 	{
 		"or": "Texture",
+		"tr": ""
+	},
+	{
+		"or": "The %s flag was captured by '%s'",
+		"tr": ""
+	},
+	{
+		"or": "The %s flag was captured by '%s' (%.2f seconds)",
+		"tr": ""
+	},
+	{
+		"or": "Unable to delete the skin",
 		"tr": ""
 	},
 	{
@@ -1161,11 +1149,35 @@
 		"tr": ""
 	},
 	{
+		"or": "body",
+		"tr": ""
+	},
+	{
+		"or": "decoration",
+		"tr": ""
+	},
+	{
+		"or": "eyes",
+		"tr": ""
+	},
+	{
+		"or": "feet",
+		"tr": ""
+	},
+	{
 		"or": "game",
 		"tr": ""
 	},
 	{
+		"or": "hands",
+		"tr": ""
+	},
+	{
 		"or": "locked",
+		"tr": ""
+	},
+	{
+		"or": "marking",
 		"tr": ""
 	},
 	{
@@ -1190,96 +1202,32 @@
 	}],
 "old translations": [
 	{
+		"or": "Created:",
+		"tr": "Utworzono:"
+	},
+	{
+		"or": "Hands",
+		"tr": ""
+	},
+	{
 		"or": "New name:",
 		"tr": "Nowa nazwa:"
-	},
-	{
-		"or": "Sat.",
-		"tr": "Nasycenie"
-	},
-	{
-		"or": "Miscellaneous",
-		"tr": "Różne"
-	},
-	{
-		"or": "Internet",
-		"tr": "Internet"
-	},
-	{
-		"or": "Max demos",
-		"tr": "Maksymalnie dem"
-	},
-	{
-		"or": "News",
-		"tr": "Wiadomości"
-	},
-	{
-		"or": "Join game",
-		"tr": "Dołącz"
-	},
-	{
-		"or": "FSAA samples",
-		"tr": "Próbkowanie FSAA (Antyaliasing)"
 	},
 	{
 		"or": "%d of %d servers, %d players",
 		"tr": "%d z %d serwerów, %d graczy"
 	},
 	{
-		"or": "Sound volume",
-		"tr": "Głośność"
-	},
-	{
-		"or": "utracić swojej pracy!",
+		"or": "Tattoos",
 		"tr": ""
-	},
-	{
-		"or": "Created:",
-		"tr": "Utworzono:"
-	},
-	{
-		"or": "Max Screenshots",
-		"tr": "Maksymalnie screenshotów"
 	},
 	{
 		"or": "Length:",
 		"tr": "Długość:"
 	},
 	{
-		"or": "Skin name",
-		"tr": ""
-	},
-	{
-		"or": "Rifle",
-		"tr": "Laser"
-	},
-	{
-		"or": "Patterns",
-		"tr": ""
-	},
-	{
-		"or": "Netversion:",
-		"tr": "Wersja sieciowa:"
-	},
-	{
-		"or": "Map:",
-		"tr": "Mapa:"
-	},
-	{
-		"or": "%d Bytes",
-		"tr": "%d Bajtów"
-	},
-	{
-		"or": "Coloration",
-		"tr": ""
-	},
-	{
-		"or": "Info",
-		"tr": "Info"
-	},
-	{
-		"or": "Hue",
-		"tr": "Kolor"
+		"or": "Host address",
+		"tr": "Adres serwera"
 	},
 	{
 		"or": "Record demo",
@@ -1290,56 +1238,8 @@
 		"tr": "Twój wygląd"
 	},
 	{
-		"or": "Size:",
-		"tr": "Rozmiar:"
-	},
-	{
-		"or": "Reset to defaults",
-		"tr": "Przywróć domyślne"
-	},
-	{
-		"or": "Quit anyway?",
-		"tr": "Wyjść mimo wszystko?"
-	},
-	{
-		"or": "Display Modes",
-		"tr": "Tryby wyświetlania"
-	},
-	{
-		"or": "Version:",
-		"tr": "Wersja:"
-	},
-	{
-		"or": "Round",
-		"tr": "Runda"
-	},
-	{
-		"or": "Lht.",
-		"tr": "Jasność"
-	},
-	{
-		"or": "no limit",
-		"tr": "bez limitu"
-	},
-	{
-		"or": "Quick search:",
-		"tr": "Szybkie wyszukiwanie:"
-	},
-	{
-		"or": "UI Color",
-		"tr": "Kolor menu"
-	},
-	{
-		"or": "Host address",
-		"tr": "Adres serwera"
-	},
-	{
-		"or": "Crc:",
-		"tr": "Crc:"
-	},
-	{
-		"or": "Alpha",
-		"tr": "Alfa"
+		"or": "Filter",
+		"tr": "Filtr"
 	},
 	{
 		"or": "Are you sure you want to save your skin ? If a skin with this name already exists, it will be replaced.",
@@ -1350,19 +1250,163 @@
 		"tr": "Aktualna wersja: %s"
 	},
 	{
-		"or": "Filter",
-		"tr": "Filtr"
+		"or": "Map:",
+		"tr": "Mapa:"
+	},
+	{
+		"or": "Skin name",
+		"tr": ""
+	},
+	{
+		"or": "Sat.",
+		"tr": "Nasycenie"
+	},
+	{
+		"or": "Bodies",
+		"tr": ""
+	},
+	{
+		"or": "Decoration",
+		"tr": ""
+	},
+	{
+		"or": "Max Screenshots",
+		"tr": "Maksymalnie screenshotów"
+	},
+	{
+		"or": "utracić swojej pracy!",
+		"tr": ""
+	},
+	{
+		"or": "Join game",
+		"tr": "Dołącz"
+	},
+	{
+		"or": "Patterns",
+		"tr": ""
+	},
+	{
+		"or": "Netversion:",
+		"tr": "Wersja sieciowa:"
+	},
+	{
+		"or": "Type:",
+		"tr": "Typ:"
+	},
+	{
+		"or": "Lht.",
+		"tr": "Jasność"
+	},
+	{
+		"or": "Body",
+		"tr": "Ciało"
+	},
+	{
+		"or": "FSAA samples",
+		"tr": "Próbkowanie FSAA (Antyaliasing)"
+	},
+	{
+		"or": "Rifle",
+		"tr": "Laser"
+	},
+	{
+		"or": "Miscellaneous",
+		"tr": "Różne"
+	},
+	{
+		"or": "Quick search:",
+		"tr": "Szybkie wyszukiwanie:"
+	},
+	{
+		"or": "News",
+		"tr": "Wiadomości"
+	},
+	{
+		"or": "Max demos",
+		"tr": "Maksymalnie dem"
+	},
+	{
+		"or": "Reset to defaults",
+		"tr": "Przywróć domyślne"
+	},
+	{
+		"or": "Feet",
+		"tr": "Stopy"
+	},
+	{
+		"or": "Size:",
+		"tr": "Rozmiar:"
+	},
+	{
+		"or": "Version:",
+		"tr": "Wersja:"
+	},
+	{
+		"or": "%d Bytes",
+		"tr": "%d Bajtów"
+	},
+	{
+		"or": "UI Color",
+		"tr": "Kolor menu"
+	},
+	{
+		"or": "no limit",
+		"tr": "bez limitu"
+	},
+	{
+		"or": "Internet",
+		"tr": "Internet"
+	},
+	{
+		"or": "Quit anyway?",
+		"tr": "Wyjść mimo wszystko?"
+	},
+	{
+		"or": "Sound volume",
+		"tr": "Głośność"
+	},
+	{
+		"or": "Hue",
+		"tr": "Kolor"
+	},
+	{
+		"or": "Eyes",
+		"tr": ""
 	},
 	{
 		"or": "LAN",
 		"tr": "LAN"
 	},
 	{
+		"or": "Crc:",
+		"tr": "Crc:"
+	},
+	{
+		"or": "Coloration",
+		"tr": ""
+	},
+	{
+		"or": "Round",
+		"tr": "Runda"
+	},
+	{
+		"or": "Tattoo",
+		"tr": ""
+	},
+	{
+		"or": "Display Modes",
+		"tr": "Tryby wyświetlania"
+	},
+	{
+		"or": "Info",
+		"tr": "Info"
+	},
+	{
 		"or": "Name plates size",
 		"tr": "Wielkość wyświetlanych nicków"
 	},
 	{
-		"or": "Type:",
-		"tr": "Typ:"
+		"or": "Alpha",
+		"tr": "Alfa"
 	}]
 }
