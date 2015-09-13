@@ -1341,7 +1341,7 @@
 	},
 	{
 		"or": "Are you sure you want to save your skin ? If a skin with this name already exists, it will be replaced.",
-		"tr": ""
+		"tr": "Вы действительно хотите сохранить ваш скин ? Если скин с таким именем уже есть, он будет заменен."
 	},
 	{
 		"or": "Current version: %s",
