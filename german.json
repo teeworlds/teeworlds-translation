@@ -339,7 +339,7 @@
 	},
 	{
 		"or": "Has people playing",
-		"tr": "Server nicht leer"
+		"tr": "Server hat Spieler"
 	},
 	{
 		"or": "High Detail",
@@ -387,7 +387,7 @@
 	},
 	{
 		"or": "Loading",
-		"tr": "Laden"
+		"tr": "Lade"
 	},
 	{
 		"or": "Local",
@@ -419,7 +419,7 @@
 	},
 	{
 		"or": "Move player to spectators",
-		"tr": "Spieler zu Zuschauer machen"
+		"tr": "Spieler zum Zuschauer machen"
 	},
 	{
 		"or": "Move right",
@@ -447,7 +447,7 @@
 	},
 	{
 		"or": "Nickname is empty.",
-		"tr": "Spielername ist leer."
+		"tr": "Spitzname ist leer."
 	},
 	{
 		"or": "No",
@@ -463,7 +463,7 @@
 	},
 	{
 		"or": "No servers match your filter criteria",
-		"tr": "Kein Server entspricht den Kriterien"
+		"tr": "Kein Server entspricht deinen Kriterien"
 	},
 	{
 		"or": "Ok",
@@ -527,7 +527,7 @@
 	},
 	{
 		"or": "Prev. weapon",
-		"tr": "Vorherige Waffe"
+		"tr": "Vorh. Waffe"
 	},
 	{
 		"or": "Quality Textures",
@@ -559,7 +559,7 @@
 	},
 	{
 		"or": "Red team",
-		"tr": "Rotes team"
+		"tr": "Rotes Team"
 	},
 	{
 		"or": "Red team wins!",
@@ -567,7 +567,7 @@
 	},
 	{
 		"or": "Refresh",
-		"tr": "Erneuern"
+		"tr": "Aktualisieren"
 	},
 	{
 		"or": "Refreshing master servers",
@@ -579,7 +579,7 @@
 	},
 	{
 		"or": "Remove",
-		"tr": "Löschen"
+		"tr": "Entfernen"
 	},
 	{
 		"or": "Remove friend",
@@ -595,15 +595,15 @@
 	},
 	{
 		"or": "Reset",
-		"tr": "Zurücksetzten"
+		"tr": "Zurücksetzen"
 	},
 	{
 		"or": "Reset filter",
-		"tr": "Standardfilter"
+		"tr": "Filter zurücksetzen"
 	},
 	{
 		"or": "Respawn",
-		"tr": "Wiederbelebung"
+		"tr": "Wiedereinstieg"
 	},
 	{
 		"or": "Sample rate",
@@ -615,11 +615,11 @@
 	},
 	{
 		"or": "Save skin",
-		"tr": "Speichere Skin"
+		"tr": "Skin speichern"
 	},
 	{
 		"or": "Score",
-		"tr": "Score"
+		"tr": "Punktzahl"
 	},
 	{
 		"or": "Score board",
@@ -639,7 +639,7 @@
 	},
 	{
 		"or": "Search:",
-		"tr": "Suche"
+		"tr": "Suche:"
 	},
 	{
 		"or": "Server address:",
@@ -655,7 +655,7 @@
 	},
 	{
 		"or": "Server filter",
-		"tr": "Filter"
+		"tr": "Serverfilter"
 	},
 	{
 		"or": "Server info",
@@ -683,11 +683,11 @@
 	},
 	{
 		"or": "Show ingame HUD",
-		"tr": "Spielanzeigen"
+		"tr": "Spielanzeigen zeigen"
 	},
 	{
 		"or": "Show name plates",
-		"tr": "Zeige Namen"
+		"tr": "Namen anzeigen"
 	},
 	{
 		"or": "Show only chat messages from friends",
@@ -739,7 +739,7 @@
 	},
 	{
 		"or": "Standard Gametype",
-		"tr": "Standart Gametype"
+		"tr": "Standard-Spieltyp"
 	},
 	{
 		"or": "Standard gametype",
@@ -763,7 +763,7 @@
 	},
 	{
 		"or": "Switch weapon on pickup",
-		"tr": "Waffe beim Aufnehmen wechseln"
+		"tr": "Waffe beim Aufheben wechseln"
 	},
 	{
 		"or": "Team",
@@ -775,7 +775,7 @@
 	},
 	{
 		"or": "Team:",
-		"tr": "Team"
+		"tr": "Team:"
 	},
 	{
 		"or": "Tee",
@@ -783,7 +783,7 @@
 	},
 	{
 		"or": "Teeworlds %s is out! Download it at www.teeworlds.com!",
-		"tr": "Teeworld %s ist da! Lade es unter www.teeworlds.com runter!"
+		"tr": "Teeworld %s ist verfügbar! Lade es unter www.teeworlds.com runter!"
 	},
 	{
 		"or": "Texture Compression",
@@ -799,7 +799,7 @@
 	},
 	{
 		"or": "There's an unsaved map in the editor, you might want to save it before you quit the game.",
-		"tr": "Im Editor ist noch eine ungespeicherte Karte. Vielleicht möchtest du sie speichern."
+		"tr": "Im Editor ist noch eine ungespeicherte Karte. Vielleicht möchtest du sie speichern, bevor du das Spiel beendest."
 	},
 	{
 		"or": "Time limit",
@@ -811,7 +811,7 @@
 	},
 	{
 		"or": "Try again",
-		"tr": "Nochmal versuchen"
+		"tr": "Nochmal"
 	},
 	{
 		"or": "Type",
@@ -883,7 +883,7 @@
 	},
 	{
 		"or": "You must restart the game for all settings to take effect.",
-		"tr": "Du musst das Spiel neustarten um die Änderungen zu übernehmen."
+		"tr": "Du musst das Spiel neustarten, damit alle Änderungen übernommen werden."
 	},
 	{
 		"or": "blue",
@@ -911,7 +911,7 @@
 	},
 	{
 		"or": "%.3f KiB",
-		"tr": ""
+		"tr": "%.3f KiB"
 	},
 	{
 		"or": "%d player left",
@@ -931,11 +931,11 @@
 	},
 	{
 		"or": "'%s' called for vote to kick '%s' (%s)",
-		"tr": "'%s' startete eine Abstimmung um '%s' zu kicken (%s)"
+		"tr": "'%s' startete eine Abstimmung, um '%s' zu kicken (%s)"
 	},
 	{
 		"or": "'%s' called for vote to move '%s' to spectators (%s)",
-		"tr": "'%s' startete eine Abstimmung um '%s' zu Zuschauern zu bewegen (%s)"
+		"tr": "'%s' startete eine Abstimmung, um '%s' zu Zuschauern zu bewegen (%s)"
 	},
 	{
 		"or": "'%s' called vote to change server option '%s' (%s)",
@@ -943,7 +943,7 @@
 	},
 	{
 		"or": "'%s' entered and joined the %s",
-		"tr": "'%s' betrat und trat %s bei"
+		"tr": "'%s' betrat das Spiel und trat %s bei"
 	},
 	{
 		"or": "'%s' has left the game",
@@ -951,7 +951,7 @@
 	},
 	{
 		"or": "'%s' has left the game (%s)",
-		"tr": "'%s' hat das Spiel verlassen"
+		"tr": "'%s' hat das Spiel verlassen (%s)"
 	},
 	{
 		"or": "'%s' joined the %s",
@@ -959,7 +959,7 @@
 	},
 	{
 		"or": "Admin forced server option '%s' (%s)",
-		"tr": "Admin erzwang die Server Option '%s' (%s)"
+		"tr": "Admin erzwang die Serveroption '%s' (%s)"
 	},
 	{
 		"or": "Admin forced vote no",
@@ -971,7 +971,7 @@
 	},
 	{
 		"or": "Admin moved '%s' to spectator (%s)",
-		"tr": "Admin hat '%s' zum Zuschauer bewegt (%s)"
+		"tr": "Admin hat '%s' zum Zuschauermodus bewegt (%s)"
 	},
 	{
 		"or": "Alp:",
@@ -979,7 +979,7 @@
 	},
 	{
 		"or": "Anti Aliasing",
-		"tr": "Anti Aliasing"
+		"tr": "Kantenglättung"
 	},
 	{
 		"or": "Basic",
@@ -1019,11 +1019,11 @@
 	},
 	{
 		"or": "Host address:",
-		"tr": "Host Addresse"
+		"tr": "Hostaddresse:"
 	},
 	{
 		"or": "Hue:",
-		"tr": "Hue:"
+		"tr": "Farbton:"
 	},
 	{
 		"or": "Joined",
@@ -1031,15 +1031,15 @@
 	},
 	{
 		"or": "Joined blue",
-		"tr": "Betrat blau"
+		"tr": "Betrat Blau"
 	},
 	{
 		"or": "Joined red",
-		"tr": "Betrat rot"
+		"tr": "Betrat Rot"
 	},
 	{
 		"or": "Kick voting requires %d players on the server",
-		"tr": "Kick Abstimmung benötigt %d Spieler"
+		"tr": "Kick-Abstimmung benötigt %d Spieler auf dem Server"
 	},
 	{
 		"or": "Letterbox",
@@ -1067,7 +1067,7 @@
 	},
 	{
 		"or": "Normal:",
-		"tr": "Normal"
+		"tr": "Normal:"
 	},
 	{
 		"or": "Personal",
@@ -1075,7 +1075,7 @@
 	},
 	{
 		"or": "Resolutions",
-		"tr": "Auflösung"
+		"tr": "Auflösungen"
 	},
 	{
 		"or": "Round over",
@@ -1083,11 +1083,11 @@
 	},
 	{
 		"or": "Round over!",
-		"tr": "Rund vorbei"
+		"tr": "Runde vorbei!"
 	},
 	{
 		"or": "Sat:",
-		"tr": "Sat:"
+		"tr": "Sätt:"
 	},
 	{
 		"or": "Screen",
@@ -1095,7 +1095,7 @@
 	},
 	{
 		"or": "Server does not allow voting to move players to spectators",
-		"tr": "Server erlaubt nicht Spieler zu Zuschauern zu bewegen"
+		"tr": "Server erlaubt nicht, Spieler zu Zuschauer zu bewegen"
 	},
 	{
 		"or": "Servers",
@@ -1127,19 +1127,19 @@
 	},
 	{
 		"or": "Texture",
-		"tr": "Texture"
+		"tr": "Textur"
 	},
 	{
 		"or": "Vote aborted",
-		"tr": "Abstimmung abgebrochen"
+		"tr": "Abstimmung wurde abgebrochen"
 	},
 	{
 		"or": "Vote failed",
-		"tr": "Abstimmung gescheitert"
+		"tr": "Abstimmung ist gescheitert"
 	},
 	{
 		"or": "Vote passed",
-		"tr": "Abstimmung erfolgreich"
+		"tr": "Abstimmung war erfolgreich"
 	},
 	{
 		"or": "Wait for current vote to end before calling a new one.",
@@ -1147,11 +1147,11 @@
 	},
 	{
 		"or": "Wait for next round",
-		"tr": "Für nächste Runde warten"
+		"tr": "Auf nächste Runde warten"
 	},
 	{
 		"or": "Wide",
-		"tr": "Wide"
+		"tr": "Breit"
 	},
 	{
 		"or": "You must wait %d seconds before making another vote",
