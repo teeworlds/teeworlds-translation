@@ -50,6 +50,11 @@
 		"code": 250
 	},
 	{
+		"file": "gaelic_scottish",
+		"name": "Gàidhlig",
+		"code": 826
+	},
+	{
 		"file": "german",
 		"name": "Deutsch",
 		"code": 276
