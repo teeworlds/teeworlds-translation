@@ -1,11 +1,9 @@
-{"authors": {
-	"originally created by": "HeroiAmarelo",
-	"modified by": [
-		"HeroiAmarelo	2011-07-15 00:35:23",
-		"HeroiAmarelo	2012-08-01 15:47:40",
-		"HeroiAmarelo	2012-10-18 23:56:32"
-	]},
+{
 "translated strings": [
+	{
+		"or": "%.3f KiB",
+		"tr": "%.3f KiB"
+	},
 	{
 		"or": "%d player left",
 		"tr": "%d jogador saiu"
@@ -25,6 +23,10 @@
 	{
 		"or": "%d servers, %d players",
 		"tr": "%d servidores, %d jogadores"
+	},
+	{
+		"or": "%d subjects, %d friends and %d clans online",
+		"tr": "%d conhecidos, %d amigos e %d clãns online"
 	},
 	{
 		"or": "%d%% loaded",
@@ -55,32 +57,32 @@
 		"tr": "%s ganhou!"
 	},
 	{
-		"or": "'%s' called for vote to kick '%s' (%s)",
-		"tr": "'%s' Criou um kick-vote para kickar: '%s' (%s)"
+		"or": "'%2d: %s' called for vote to kick '%s' (%s)",
+		"tr": "'%2d: %s' abriu uma votação para expulsar '%s' (%s)"
 	},
 	{
-		"or": "'%s' called for vote to move '%s' to spectators (%s)",
-		"tr": "'%s' Criou um spec-vote para mover o jogador '%s' para spec (%s)"
+		"or": "'%2d: %s' called for vote to move '%s' to spectators (%s)",
+		"tr": "'%2d: %s' abriu uma votação para mover '%s' para os espectadores (%s)"
 	},
 	{
-		"or": "'%s' called vote to change server option '%s' (%s)",
-		"tr": "'%s' Criou um voto para mudar a opção do servidor '%s' (%s)"
+		"or": "'%2d: %s' called vote to change server option '%s' (%s)",
+		"tr": "'%2d: %s' abriu uma votação para mudar a opção do servidor '%s' (%s)"
 	},
 	{
-		"or": "'%s' entered and joined the %s",
-		"tr": "'%s' Entou e juntou-se ao %s"
+		"or": "'%2d: %s' entered and joined the %s",
+		"tr": "'%2d: %s' entrou e juntou-se à %s"
 	},
 	{
-		"or": "'%s' has left the game",
-		"tr": "'%s' saiu do jogo"
+		"or": "'%2d: %s' has left the game",
+		"tr": "'%2d: %s' saiu do jogo"
 	},
 	{
-		"or": "'%s' has left the game (%s)",
-		"tr": "'%s' saiu do jogo (%s)"
+		"or": "'%2d: %s' has left the game (%s)",
+		"tr": "'%2d: %s' saiu do jogo (%s)"
 	},
 	{
-		"or": "'%s' joined the %s",
-		"tr": "'%s' entrou no %s"
+		"or": "'%2d: %s' joined the %s",
+		"tr": "'%2d: %s' juntou-se à %s"
 	},
 	{
 		"or": "-Page %d-",
@@ -95,8 +97,8 @@
 		"tr": "Adicionar"
 	},
 	{
-		"or": "Add Friend",
-		"tr": "Adicionar Amigo"
+		"or": "Add demo marker",
+		"tr": "Adicionar marcador na demo"
 	},
 	{
 		"or": "Address",
@@ -104,7 +106,7 @@
 	},
 	{
 		"or": "Admin forced server option '%s' (%s)",
-		"tr": "O Admin forçou a server-option '%s' (%s)"
+		"tr": "O Admin forçou a opção de servidor '%s' (%s)"
 	},
 	{
 		"or": "Admin forced vote no",
@@ -124,7 +126,7 @@
 	},
 	{
 		"or": "Alp:",
-		"tr": "Alp;"
+		"tr": "Alp:"
 	},
 	{
 		"or": "Always show name plates",
@@ -139,16 +141,28 @@
 		"tr": "Tens a certeza que queres apagar a demo?"
 	},
 	{
+		"or": "Are you sure that you want to delete the skin?",
+		"tr": "Tens a certeza que queres apagar a skin?"
+	},
+	{
 		"or": "Are you sure that you want to quit?",
-		"tr": "Queres mesmo sair?"
+		"tr": "Tens a certeza de que pretendes sair?"
 	},
 	{
 		"or": "Are you sure that you want to remove the player from your friends list?",
 		"tr": "Queres mesmo apaga o jogador da tua lista de amigos?"
 	},
 	{
+		"or": "Are you sure you want to rename the demo?",
+		"tr": "Tens a certeza que queres substituir a demo?"
+	},
+	{
+		"or": "Are you sure you want to save your skin? If a skin with this name already exists, it will be replaced.",
+		"tr": "Tens a certeza que queres guardar a skin? Se a skin tiver um nome repetido vai ser substituída pela antiga."
+	},
+	{
 		"or": "As this is the first time you launch the game, please enter your nick name below. It's recommended that you check the settings to adjust them to your liking before joining a server.",
-		"tr": "Olá! Pelos vistos é a primeira vez que inicias o jogo, por isso escolhe um Nick Name para ti! Aproveita e vê as configurações antes de entrar num servidor!"
+		"tr": "Como esta é a primeira vez que abres o jogo, deves definir uma alcunha. É recomendado que alteres as definições conforme pretenderes antes de entrares num servidor."
 	},
 	{
 		"or": "Automatically record demos",
@@ -175,16 +189,12 @@
 		"tr": "A Equipa azul ganhou!"
 	},
 	{
-		"or": "Bodies",
-		"tr": "Corpos"
-	},
-	{
-		"or": "Body",
-		"tr": "Corpo"
-	},
-	{
 		"or": "Borderless window",
 		"tr": "Janela S/ Bordas"
+	},
+	{
+		"or": "Browser",
+		"tr": "Navegador"
 	},
 	{
 		"or": "Call vote",
@@ -192,7 +202,7 @@
 	},
 	{
 		"or": "Change settings",
-		"tr": "Mudar configurações"
+		"tr": "Alterar definições"
 	},
 	{
 		"or": "Chat",
@@ -211,6 +221,10 @@
 		"tr": "Fechar"
 	},
 	{
+		"or": "Color",
+		"tr": "Cor"
+	},
+	{
 		"or": "Compatible version",
 		"tr": "Versão compatível"
 	},
@@ -224,7 +238,7 @@
 	},
 	{
 		"or": "Connection Problems...",
-		"tr": "Problemas na ligação!"
+		"tr": "Problemas na ligação..."
 	},
 	{
 		"or": "Console",
@@ -251,10 +265,6 @@
 		"tr": "Criado"
 	},
 	{
-		"or": "Current",
-		"tr": "Atualmente"
-	},
-	{
 		"or": "Custom",
 		"tr": "Personalizado"
 	},
@@ -264,19 +274,19 @@
 	},
 	{
 		"or": "Customize",
-		"tr": "Personalizável"
-	},
-	{
-		"or": "Decoration",
-		"tr": "Decoração"
+		"tr": "Personalizar"
 	},
 	{
 		"or": "Delete",
-		"tr": "Eliminar"
+		"tr": "Apagar"
 	},
 	{
 		"or": "Delete demo",
 		"tr": "Eliminar demo"
+	},
+	{
+		"or": "Delete skin",
+		"tr": "Apagar skin"
 	},
 	{
 		"or": "Demo",
@@ -288,11 +298,11 @@
 	},
 	{
 		"or": "Demofile: %s",
-		"tr": "Demo: %s"
+		"tr": "Ficheiro demo: %s"
 	},
 	{
 		"or": "Demos",
-		"tr": "Demos"
+		"tr": "Demonstrações"
 	},
 	{
 		"or": "Detail",
@@ -308,7 +318,7 @@
 	},
 	{
 		"or": "Downloading map",
-		"tr": "A sacar o mapa..."
+		"tr": "A descarregar mapa..."
 	},
 	{
 		"or": "Draw!",
@@ -339,20 +349,12 @@
 		"tr": "Erro a carregar a demo"
 	},
 	{
-		"or": "Eyes",
-		"tr": "Olhos"
-	},
-	{
 		"or": "Favorite",
 		"tr": "Favorito"
 	},
 	{
 		"or": "Favorites",
 		"tr": "Favoritos"
-	},
-	{
-		"or": "Feet",
-		"tr": "Pés"
 	},
 	{
 		"or": "Fire",
@@ -365,10 +367,6 @@
 	{
 		"or": "Force vote",
 		"tr": "Forçar"
-	},
-	{
-		"or": "Format",
-		"tr": "Formato"
 	},
 	{
 		"or": "Free-View",
@@ -392,11 +390,11 @@
 	},
 	{
 		"or": "Game over",
-		"tr": "Fim de Jogo"
+		"tr": "Fim do jogo"
 	},
 	{
 		"or": "Game paused",
-		"tr": "Jogo em Pausa"
+		"tr": "Jogo pausado"
 	},
 	{
 		"or": "Game starts in",
@@ -415,6 +413,10 @@
 		"tr": "Geral"
 	},
 	{
+		"or": "Global",
+		"tr": "Global"
+	},
+	{
 		"or": "Graphics",
 		"tr": "Gráficos"
 	},
@@ -427,12 +429,8 @@
 		"tr": "Martelo"
 	},
 	{
-		"or": "Hands",
-		"tr": "Mãos"
-	},
-	{
 		"or": "Has people playing",
-		"tr": "Há gente a jogar"
+		"tr": "Com jogadores"
 	},
 	{
 		"or": "High Detail",
@@ -443,6 +441,10 @@
 		"tr": "Gancho"
 	},
 	{
+		"or": "Host address:",
+		"tr": "Endereço do Host:"
+	},
+	{
 		"or": "Hue:",
 		"tr": "Hue:"
 	},
@@ -451,12 +453,28 @@
 		"tr": "Demo inválida"
 	},
 	{
+		"or": "Join",
+		"tr": "Entrar"
+	},
+	{
 		"or": "Join blue",
-		"tr": "Juntar - Azuis"
+		"tr": "Juntar aos azuis"
 	},
 	{
 		"or": "Join red",
-		"tr": "J. Vermelhos"
+		"tr": "Juntar aos vermelhos"
+	},
+	{
+		"or": "Joined",
+		"tr": "Entrou"
+	},
+	{
+		"or": "Joined blue",
+		"tr": "Juntou-se aos azuis"
+	},
+	{
+		"or": "Joined red",
+		"tr": "Entraste na eq. vermelha"
 	},
 	{
 		"or": "Jump",
@@ -472,7 +490,7 @@
 	},
 	{
 		"or": "Language",
-		"tr": "Língua"
+		"tr": "Idioma"
 	},
 	{
 		"or": "Laser",
@@ -483,16 +501,20 @@
 		"tr": "Comprimento"
 	},
 	{
-		"or": "Letterbox",
-		"tr": "Letterbox"
-	},
-	{
 		"or": "Lgt:",
 		"tr": "Lgt:"
 	},
 	{
+		"or": "Limit Fps",
+		"tr": "Limitar Fps"
+	},
+	{
 		"or": "Loading",
 		"tr": "A carregar dados"
+	},
+	{
+		"or": "Local",
+		"tr": "Local"
 	},
 	{
 		"or": "Local server",
@@ -512,7 +534,11 @@
 	},
 	{
 		"or": "Max",
-		"tr": "Maximo"
+		"tr": "Máximo"
+	},
+	{
+		"or": "Max fps",
+		"tr": "Fps maximos"
 	},
 	{
 		"or": "Maximum ping:",
@@ -544,7 +570,7 @@
 	},
 	{
 		"or": "Mute when not active",
-		"tr": "Fazer mute em estado AFK."
+		"tr": "Fazer mute quando estiveres inativo"
 	},
 	{
 		"or": "Name",
@@ -560,7 +586,11 @@
 	},
 	{
 		"or": "Nickname",
-		"tr": "Nick"
+		"tr": "Alcunha"
+	},
+	{
+		"or": "Nickname is empty.",
+		"tr": "Tens de definir uma alcunha."
 	},
 	{
 		"or": "No",
@@ -568,7 +598,7 @@
 	},
 	{
 		"or": "No password",
-		"tr": "Sem password"
+		"tr": "Sem palavra-passe"
 	},
 	{
 		"or": "No servers found",
@@ -583,8 +613,16 @@
 		"tr": "Normal:"
 	},
 	{
+		"or": "Off",
+		"tr": "Desligado"
+	},
+	{
 		"or": "Ok",
 		"tr": "Aceitar"
+	},
+	{
+		"or": "On",
+		"tr": "Ligado"
 	},
 	{
 		"or": "Only %d active players are allowed",
@@ -595,16 +633,20 @@
 		"tr": "Abrir"
 	},
 	{
+		"or": "Other",
+		"tr": "Outros"
+	},
+	{
 		"or": "Parent Folder",
 		"tr": "Pasta superior"
 	},
 	{
 		"or": "Password",
-		"tr": "Password"
+		"tr": "Palavra-passe"
 	},
 	{
 		"or": "Password incorrect",
-		"tr": "Password errada!"
+		"tr": "Palavra-passe incorreta"
 	},
 	{
 		"or": "Personal",
@@ -621,6 +663,11 @@
 	{
 		"or": "Play",
 		"tr": "Ver"
+	},
+	{
+		"context": "DemoBrowser",
+		"or": "Play",
+		"tr": "Jogar"
 	},
 	{
 		"or": "Play background music",
@@ -652,7 +699,7 @@
 	},
 	{
 		"or": "Quality Textures",
-		"tr": "Texturas de Qualidade"
+		"tr": "Texturas de qualidade"
 	},
 	{
 		"or": "Quit",
@@ -671,8 +718,16 @@
 		"tr": "Motivo:"
 	},
 	{
+		"or": "Recommended",
+		"tr": "Recomendados"
+	},
+	{
+		"or": "Record",
+		"tr": "Gravar"
+	},
+	{
 		"or": "Recorded",
-		"tr": "A gravar"
+		"tr": "Guardado"
 	},
 	{
 		"or": "Red team",
@@ -684,11 +739,11 @@
 	},
 	{
 		"or": "Refresh",
-		"tr": "Atualizar"
+		"tr": "Recarregar"
 	},
 	{
 		"or": "Refreshing master servers",
-		"tr": "A Atualizar servidores"
+		"tr": "A atualizar servidores centrais"
 	},
 	{
 		"or": "Remote console",
@@ -696,7 +751,7 @@
 	},
 	{
 		"or": "Remove",
-		"tr": "Eliminar"
+		"tr": "Remover"
 	},
 	{
 		"or": "Remove friend",
@@ -712,15 +767,11 @@
 	},
 	{
 		"or": "Reset",
-		"tr": "Reset"
+		"tr": "Repor"
 	},
 	{
-		"or": "Reset filter",
-		"tr": "Reiniciar Fitro"
-	},
-	{
-		"or": "Resolutions",
-		"tr": "Resoluções"
+		"or": "Resolution",
+		"tr": "Resolução"
 	},
 	{
 		"or": "Respawn",
@@ -744,11 +795,11 @@
 	},
 	{
 		"or": "Save",
-		"tr": "Gravar"
+		"tr": "Guardar"
 	},
 	{
 		"or": "Save skin",
-		"tr": "Gravar skin"
+		"tr": "Guardar skin"
 	},
 	{
 		"or": "Score",
@@ -760,7 +811,7 @@
 	},
 	{
 		"or": "Score limit",
-		"tr": "Pontuação Máx."
+		"tr": "Pontuação máx."
 	},
 	{
 		"or": "Scoreboard",
@@ -773,6 +824,10 @@
 	{
 		"or": "Screenshot",
 		"tr": "Screenshot"
+	},
+	{
+		"or": "Search:",
+		"tr": "Pesquisa:"
 	},
 	{
 		"or": "Server address:",
@@ -808,7 +863,7 @@
 	},
 	{
 		"or": "Settings",
-		"tr": "Config."
+		"tr": "Definições"
 	},
 	{
 		"or": "Shotgun",
@@ -817,6 +872,10 @@
 	{
 		"or": "Show chat",
 		"tr": "Mostrar chat"
+	},
+	{
+		"or": "Show chat messages from:",
+		"tr": "Mostrar mensagens de chat de:"
 	},
 	{
 		"or": "Show friends only",
@@ -831,12 +890,8 @@
 		"tr": "Mostrar nick's"
 	},
 	{
-		"or": "Show only chat messages from friends",
-		"tr": "Mostrar apenas mensagens chat dos amigos"
-	},
-	{
-		"or": "Show only supported",
-		"tr": "Mostrar apenas suportado"
+		"or": "Show social",
+		"tr": "Mostrar social"
 	},
 	{
 		"or": "Size",
@@ -851,12 +906,16 @@
 		"tr": "Skins"
 	},
 	{
+		"or": "Skip the main menu",
+		"tr": "Saltar o menu principal"
+	},
+	{
 		"or": "Sound",
 		"tr": "Som"
 	},
 	{
 		"or": "Sound error",
-		"tr": "Erro no som!"
+		"tr": "Erro no som"
 	},
 	{
 		"or": "Spectate",
@@ -871,20 +930,20 @@
 		"tr": "Observar anterior"
 	},
 	{
+		"or": "Spectating",
+		"tr": "Modo Espectador"
+	},
+	{
 		"or": "Spectator mode",
 		"tr": "Modo spectator"
 	},
 	{
 		"or": "Spectators",
-		"tr": "Spectators"
+		"tr": "Espectadores"
 	},
 	{
 		"or": "Spectators aren't allowed to start a vote.",
 		"tr": "Os specs. não podem começar votes."
-	},
-	{
-		"or": "Standard Gametype",
-		"tr": "Tipo de jogo original"
 	},
 	{
 		"or": "Standard gametype",
@@ -909,10 +968,6 @@
 	{
 		"or": "Switch weapon on pickup",
 		"tr": "Mudar de arma ao agarrar"
-	},
-	{
-		"or": "Tattoos",
-		"tr": "Tatuagens"
 	},
 	{
 		"or": "Team",
@@ -948,7 +1003,7 @@
 	},
 	{
 		"or": "Teeworlds %s is out! Download it at www.teeworlds.com!",
-		"tr": "Teeworlds %s já saiu! Download em www.teeworlds.com!"
+		"tr": "O Teeworlds %s já saiu! Descarrega em www.teeworlds.com!"
 	},
 	{
 		"or": "Texture",
@@ -957,6 +1012,14 @@
 	{
 		"or": "Texture Compression",
 		"tr": "Compressão de Textura"
+	},
+	{
+		"or": "The %s flag was captured by '%2d: %s'",
+		"tr": "A bandeira %s foi apanhada por '%2d: %s'"
+	},
+	{
+		"or": "The %s flag was captured by '%2d: %s' (%.2f seconds)",
+		"tr": "A bandeira %s  foi apanhada por '%2d: %s' (%.2f segundos)"
 	},
 	{
 		"or": "The audio device couldn't be initialised.",
@@ -979,8 +1042,12 @@
 		"tr": "Limite de tempo: %d min"
 	},
 	{
+		"or": "To",
+		"tr": "Para"
+	},
+	{
 		"or": "Try again",
-		"tr": "Tenta outra vez"
+		"tr": "Voltar a tentar"
 	},
 	{
 		"or": "Type",
@@ -991,12 +1058,16 @@
 		"tr": "Não podes eliminar a demo"
 	},
 	{
+		"or": "Unable to delete the skin",
+		"tr": "Impossível apagar a Skin"
+	},
+	{
 		"or": "Unable to rename the demo",
 		"tr": "Impossivel renomear a demo"
 	},
 	{
 		"or": "Use sounds",
-		"tr": "Ligar efeitos sonoros"
+		"tr": "Usar sons"
 	},
 	{
 		"or": "Use team colors for name plates",
@@ -1016,7 +1087,7 @@
 	},
 	{
 		"or": "Vote aborted",
-		"tr": "Vote cancelado"
+		"tr": "Voto cancelado"
 	},
 	{
 		"or": "Vote command:",
@@ -1044,7 +1115,7 @@
 	},
 	{
 		"or": "Voting",
-		"tr": "A votar"
+		"tr": "Votação"
 	},
 	{
 		"or": "Wait for current vote to end before calling a new one.",
@@ -1067,8 +1138,8 @@
 		"tr": "Bem-vindo ao Teeworlds!"
 	},
 	{
-		"or": "Wide",
-		"tr": "Largura"
+		"or": "Whisper",
+		"tr": "Sussurrar"
 	},
 	{
 		"or": "Yes",
@@ -1087,16 +1158,68 @@
 		"tr": "azul"
 	},
 	{
+		"or": "blue flag",
+		"tr": "bandeira azul"
+	},
+	{
 		"or": "blue team",
 		"tr": "equipa azul"
+	},
+	{
+		"or": "body",
+		"tr": "corpo"
+	},
+	{
+		"or": "decoration",
+		"tr": "decoração"
+	},
+	{
+		"or": "everyone",
+		"tr": "toda a gente"
+	},
+	{
+		"or": "eyes",
+		"tr": "olhos"
+	},
+	{
+		"or": "feet",
+		"tr": "pés"
+	},
+	{
+		"or": "friends only",
+		"tr": "apenas amigos"
 	},
 	{
 		"or": "game",
 		"tr": "jogo"
 	},
 	{
+		"or": "hands",
+		"tr": "mãos"
+	},
+	{
+		"or": "locked",
+		"tr": "bloqueado"
+	},
+	{
+		"or": "marking",
+		"tr": "marca"
+	},
+	{
+		"or": "no one",
+		"tr": "ninguém"
+	},
+	{
+		"or": "no players",
+		"tr": "Sem jogadores"
+	},
+	{
 		"or": "red",
 		"tr": "vermelho"
+	},
+	{
+		"or": "red flag",
+		"tr": "bandeira vermelha"
 	},
 	{
 		"or": "red team",
@@ -1104,260 +1227,11 @@
 	},
 	{
 		"or": "spectators",
-		"tr": "specs"
+		"tr": "espectadores"
 	},
 	{
 		"or": "wait for more players",
 		"tr": "Espera por mais jogadores"
-	}],
-"needs translation": [
-	{
-		"or": "%.3f KiB",
-		"tr": ""
-	},
-	{
-		"or": "Are you sure you want to rename the demo?",
-		"tr": ""
-	},
-	{
-		"or": "Are you sure you want to save your skin? If a skin with this name already exists, it will be replaced.",
-		"tr": ""
-	},
-	{
-		"or": "Browser",
-		"tr": ""
-	},
-	{
-		"or": "Color",
-		"tr": ""
-	},
-	{
-		"or": "Global",
-		"tr": ""
-	},
-	{
-		"or": "Host address:",
-		"tr": ""
-	},
-	{
-		"or": "Join",
-		"tr": ""
-	},
-	{
-		"or": "Joined",
-		"tr": ""
-	},
-	{
-		"or": "Joined blue",
-		"tr": ""
-	},
-	{
-		"or": "Joined red",
-		"tr": ""
-	},
-	{
-		"or": "Local",
-		"tr": ""
-	},
-	{
-		"or": "Nickname is empty.",
-		"tr": ""
-	},
-	{
-		"or": "Record",
-		"tr": ""
-	},
-	{
-		"or": "Search:",
-		"tr": ""
-	},
-	{
-		"or": "Spectating",
-		"tr": ""
-	},
-	{
-		"or": "Tattoo",
-		"tr": ""
-	},
-	{
-		"or": "locked",
-		"tr": ""
-	},
-	{
-		"or": "no players",
-		"tr": ""
-	}],
-"old translations": [
-	{
-		"or": "Internet",
-		"tr": "Internet"
-	},
-	{
-		"or": "Max demos",
-		"tr": "Demos maximas"
-	},
-	{
-		"or": "Are you sure you want to save your skin ? If a skin with this name already exists, it will be replaced.",
-		"tr": "Tens a serteza que queres guardar a skin? Se já existir uma como o meu nome, ela será substituida."
-	},
-	{
-		"or": "News",
-		"tr": "Notícias"
-	},
-	{
-		"or": "Sat.",
-		"tr": "Sat."
-	},
-	{
-		"or": "Join game",
-		"tr": "Entrar no jogo"
-	},
-	{
-		"or": "Patterns",
-		"tr": "Patterns"
-	},
-	{
-		"or": "New name:",
-		"tr": "Novo nome:"
-	},
-	{
-		"or": "%d of %d servers, %d players",
-		"tr": "%d de %d servidores, %d jogadores"
-	},
-	{
-		"or": "Sound volume",
-		"tr": "Volume"
-	},
-	{
-		"or": "Created:",
-		"tr": "Criado:"
-	},
-	{
-		"or": "Max Screenshots",
-		"tr": "Máx. de Capturas de Tela"
-	},
-	{
-		"or": "Record demo",
-		"tr": "Gravar uma demo"
-	},
-	{
-		"or": "Length:",
-		"tr": "Longitude:"
-	},
-	{
-		"or": "Skin name",
-		"tr": "Nome da skin"
-	},
-	{
-		"or": "Coloration",
-		"tr": "Coloração"
-	},
-	{
-		"or": "Netversion:",
-		"tr": "Netversion"
-	},
-	{
-		"or": "Map:",
-		"tr": "Mapa:"
-	},
-	{
-		"or": "FSAA samples",
-		"tr": "Amostras FSAA"
-	},
-	{
-		"or": "%d Bytes",
-		"tr": "%d Bytes"
-	},
-	{
-		"or": "Info",
-		"tr": "Info."
-	},
-	{
-		"or": "Miscellaneous",
-		"tr": "Diversos"
-	},
-	{
-		"or": "Lht.",
-		"tr": "Luz"
-	},
-	{
-		"or": "Your skin",
-		"tr": "A tua skin"
-	},
-	{
-		"or": "Size:",
-		"tr": "Tamanho:"
-	},
-	{
-		"or": "Reset to defaults",
-		"tr": "Pôr como defeito"
-	},
-	{
-		"or": "Rifle",
-		"tr": "Laser"
-	},
-	{
-		"or": "Quit anyway?",
-		"tr": "Sair na mesma?"
-	},
-	{
-		"or": "Display Modes",
-		"tr": "Modos de exibição"
-	},
-	{
-		"or": "Version:",
-		"tr": "Versão:"
-	},
-	{
-		"or": "Round",
-		"tr": "Ronda"
-	},
-	{
-		"or": "no limit",
-		"tr": "sem limite"
-	},
-	{
-		"or": "Quick search:",
-		"tr": "Busca rápida:"
-	},
-	{
-		"or": "UI Color",
-		"tr": "Cor do menu"
-	},
-	{
-		"or": "Host address",
-		"tr": "Endereço do Host"
-	},
-	{
-		"or": "Hue",
-		"tr": "Matiz"
-	},
-	{
-		"or": "Crc:",
-		"tr": "Crc:"
-	},
-	{
-		"or": "Alpha",
-		"tr": "Alpha"
-	},
-	{
-		"or": "Current version: %s",
-		"tr": "Versão atual : %s"
-	},
-	{
-		"or": "Filter",
-		"tr": "Filtro"
-	},
-	{
-		"or": "LAN",
-		"tr": "LAN"
-	},
-	{
-		"or": "Name plates size",
-		"tr": "Caracteres maximos nos nicks"
-	},
-	{
-		"or": "Type:",
-		"tr": "Tipo:"
-	}]
+	}
+]
 }

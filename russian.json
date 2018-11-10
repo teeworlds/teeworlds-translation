@@ -1,15 +1,33 @@
-{"authors": {
-	"originally created by": "kaddyd",
-	"modified by": [
-		"carzil		2011-04-05 19:19:06",
-		"RaZeR[RT]	2011-04-12 17:57:02",
-		"BotanEgg	2011-05-02 19:07:35",
-		"Bananbl4	2011-07-07 02:03:04",
-		"Arion WT	2011-07-07 09:39:05",
-		"Arion WT	2011-08-07 12:16:28"
-		"KraevRoot	2016-01-29 19:13:33"
-	]},
+{
 "translated strings": [
+	{
+		"or": "%.3f KiB",
+		"tr": "%.3f Кбит"
+	},
+	{
+		"or": "%d player left",
+		"tr": "%d игрок вышел"
+	},
+	{
+		"or": "%d player not ready",
+		"tr": "%d игрок не готов"
+	},
+	{
+		"or": "%d players left",
+		"tr": "%d игроки вышли"
+	},
+	{
+		"or": "%d players not ready",
+		"tr": "%d игроков не готово"
+	},
+	{
+		"or": "%d servers, %d players",
+		"tr": "%d серверов, %d игроков"
+	},
+	{
+		"or": "%d subjects, %d friends and %d clans online",
+		"tr": "%d объектов, %d друзей и %d кланов в сети"
+	},
 	{
 		"or": "%d%% loaded",
 		"tr": "%d%% загружено"
@@ -24,7 +42,7 @@
 	},
 	{
 		"or": "%i minutes left",
-		"tr": "Осталось %i минут!"
+		"tr": "Осталось %i мин!"
 	},
 	{
 		"or": "%i second left",
@@ -32,11 +50,39 @@
 	},
 	{
 		"or": "%i seconds left",
-		"tr": "Осталось %i секунд!"
+		"tr": "Осталось %i сек!"
 	},
 	{
 		"or": "%s wins!",
 		"tr": "%s победил!"
+	},
+	{
+		"or": "'%2d: %s' called for vote to kick '%s' (%s)",
+		"tr": "'%2d: %s' начал голосование за изгнание игрока '%s'(%s)"
+	},
+	{
+		"or": "'%2d: %s' called for vote to move '%s' to spectators (%s)",
+		"tr": "'%2d:%s' начал голосование за перевод '%s' в наблюдатели(%s)"
+	},
+	{
+		"or": "'%2d: %s' called vote to change server option '%s' (%s)",
+		"tr": "'%2d:%s' начал голосование за изменение параметра сервера '%s'(%s)"
+	},
+	{
+		"or": "'%2d: %s' entered and joined the %s",
+		"tr": "'%2d:%s' зашел и присоединился к %s"
+	},
+	{
+		"or": "'%2d: %s' has left the game",
+		"tr": "'%2d:%s' покинул игру "
+	},
+	{
+		"or": "'%2d: %s' has left the game (%s)",
+		"tr": "'%2d:%s' покинул игру (%s)"
+	},
+	{
+		"or": "'%2d: %s' joined the %s",
+		"tr": "'%2d:%s' присоединился к %s"
 	},
 	{
 		"or": "-Page %d-",
@@ -51,44 +97,88 @@
 		"tr": "Добавить"
 	},
 	{
-		"or": "Add Friend",
-		"tr": "Добавить друга"
+		"or": "Add demo marker",
+		"tr": "Добавить временную отметку"
 	},
 	{
 		"or": "Address",
 		"tr": "Адрес"
 	},
 	{
+		"or": "Admin forced server option '%s' (%s)",
+		"tr": "Админ изменил серверный параметр '%s' (%s)"
+	},
+	{
+		"or": "Admin forced vote no",
+		"tr": "Админ принудительно проголосовал нет"
+	},
+	{
+		"or": "Admin forced vote yes",
+		"tr": "Админ принудительно проголосовал за"
+	},
+	{
+		"or": "Admin moved '%s' to spectator (%s)",
+		"tr": "Администратор перенес '%s' к наблюдателям (%s)"
+	},
+	{
 		"or": "All",
 		"tr": "Все"
+	},
+	{
+		"or": "Alp:",
+		"tr": "Прозр:"
 	},
 	{
 		"or": "Always show name plates",
 		"tr": "Всегда показывать имена игроков"
 	},
 	{
+		"or": "Anti Aliasing",
+		"tr": "Сглаживание"
+	},
+	{
 		"or": "Are you sure that you want to delete the demo?",
-		"tr": "Вы уверены, что хотите удалить демо?"
+		"tr": "Вы уверены, что хотите удалить запись?"
+	},
+	{
+		"or": "Are you sure that you want to delete the skin?",
+		"tr": "Вы действительно хотите удалить скин?"
 	},
 	{
 		"or": "Are you sure that you want to quit?",
-		"tr": "Вы действительно желаете выйти?"
+		"tr": "Вы действительно хотите выйти?"
 	},
 	{
 		"or": "Are you sure that you want to remove the player from your friends list?",
 		"tr": "Вы уверены, что хотите удалить игрока из друзей?"
 	},
 	{
+		"or": "Are you sure you want to rename the demo?",
+		"tr": "Вы действительно хотите переименовать запись?"
+	},
+	{
+		"or": "Are you sure you want to save your skin? If a skin with this name already exists, it will be replaced.",
+		"tr": "Вы действительно хотите сохранить ваш скин? Скин с таким же именем будет заменен."
+	},
+	{
 		"or": "As this is the first time you launch the game, please enter your nick name below. It's recommended that you check the settings to adjust them to your liking before joining a server.",
-		"tr": "Пожалуйста, введите своё имя. Также рекоммендуется проверить настройки игры и поменять некоторые из них перед тем, как начать играть."
+		"tr": "Пожалуйста, введите своё имя. Также рекомендуется проверить настройки игры и поменять некоторые из них перед тем, как начать играть."
 	},
 	{
 		"or": "Automatically record demos",
-		"tr": "Автоматически записывать демо"
+		"tr": "Автоматически делать запись"
 	},
 	{
 		"or": "Automatically take game over screenshot",
 		"tr": "Делать снимок результатов игры"
+	},
+	{
+		"or": "Back",
+		"tr": "Назад"
+	},
+	{
+		"or": "Basic",
+		"tr": "Основной"
 	},
 	{
 		"or": "Blue team",
@@ -99,8 +189,12 @@
 		"tr": "Синие победили!"
 	},
 	{
-		"or": "Body",
-		"tr": "Тело"
+		"or": "Borderless window",
+		"tr": "Окно без рамки"
+	},
+	{
+		"or": "Browser",
+		"tr": "Браузер"
 	},
 	{
 		"or": "Call vote",
@@ -124,7 +218,11 @@
 	},
 	{
 		"or": "Close",
-		"tr": "Выход"
+		"tr": "Закрыть"
+	},
+	{
+		"or": "Color",
+		"tr": "Цвет"
 	},
 	{
 		"or": "Compatible version",
@@ -156,15 +254,27 @@
 	},
 	{
 		"or": "Country",
-		"tr": "Флаг вашей страны"
+		"tr": "Страна"
 	},
 	{
-		"or": "Current",
-		"tr": "Текущий"
+		"or": "Crc",
+		"tr": "Crc"
+	},
+	{
+		"or": "Created",
+		"tr": "Созданный"
+	},
+	{
+		"or": "Custom",
+		"tr": "Настраиваемый "
 	},
 	{
 		"or": "Custom colors",
 		"tr": "Свои цвета"
+	},
+	{
+		"or": "Customize",
+		"tr": "Настроить"
 	},
 	{
 		"or": "Delete",
@@ -172,19 +282,31 @@
 	},
 	{
 		"or": "Delete demo",
-		"tr": "Удалить демо"
+		"tr": "Удалить запись"
+	},
+	{
+		"or": "Delete skin",
+		"tr": "Удалить скин"
+	},
+	{
+		"or": "Demo",
+		"tr": "Запись"
 	},
 	{
 		"or": "Demo details",
-		"tr": "Детали демо"
+		"tr": "Описание записи"
 	},
 	{
 		"or": "Demofile: %s",
-		"tr": "Демо: %s"
+		"tr": "Запись: %s"
 	},
 	{
 		"or": "Demos",
-		"tr": "Демо"
+		"tr": "Записи"
+	},
+	{
+		"or": "Detail",
+		"tr": "Детали"
 	},
 	{
 		"or": "Disconnect",
@@ -196,7 +318,7 @@
 	},
 	{
 		"or": "Downloading map",
-		"tr": "Скачивание карты"
+		"tr": "Загрузка карты"
 	},
 	{
 		"or": "Draw!",
@@ -205,6 +327,10 @@
 	{
 		"or": "Dynamic Camera",
 		"tr": "Динамическая камера"
+	},
+	{
+		"or": "Editor",
+		"tr": "Редактор"
 	},
 	{
 		"or": "Emoticon",
@@ -220,7 +346,7 @@
 	},
 	{
 		"or": "Error loading demo",
-		"tr": "ошибка при загрузке демо"
+		"tr": "Ошибка при загрузке записи"
 	},
 	{
 		"or": "Favorite",
@@ -229,10 +355,6 @@
 	{
 		"or": "Favorites",
 		"tr": "Избранные"
-	},
-	{
-		"or": "Feet",
-		"tr": "Ноги"
 	},
 	{
 		"or": "Fire",
@@ -271,6 +393,14 @@
 		"tr": "Игра окончена"
 	},
 	{
+		"or": "Game paused",
+		"tr": "Игра приостановлена"
+	},
+	{
+		"or": "Game starts in",
+		"tr": "Игра начнется через"
+	},
+	{
 		"or": "Game type",
 		"tr": "Тип игры"
 	},
@@ -281,6 +411,10 @@
 	{
 		"or": "General",
 		"tr": "Основные"
+	},
+	{
+		"or": "Global",
+		"tr": "Глобальный"
 	},
 	{
 		"or": "Graphics",
@@ -296,7 +430,7 @@
 	},
 	{
 		"or": "Has people playing",
-		"tr": "Не пустой сервер"
+		"tr": "С игроками"
 	},
 	{
 		"or": "High Detail",
@@ -307,8 +441,20 @@
 		"tr": "Крюк"
 	},
 	{
+		"or": "Host address:",
+		"tr": "Адрес:"
+	},
+	{
+		"or": "Hue:",
+		"tr": "Оттен:"
+	},
+	{
 		"or": "Invalid Demo",
-		"tr": "Недопустимое демо"
+		"tr": "Недопустимая запись"
+	},
+	{
+		"or": "Join",
+		"tr": "Войти"
 	},
 	{
 		"or": "Join blue",
@@ -319,20 +465,60 @@
 		"tr": "За красных"
 	},
 	{
+		"or": "Joined",
+		"tr": "Присоединился"
+	},
+	{
+		"or": "Joined blue",
+		"tr": "Зашел за синих"
+	},
+	{
+		"or": "Joined red",
+		"tr": "Присоединился к красным"
+	},
+	{
 		"or": "Jump",
 		"tr": "Прыжок"
 	},
 	{
 		"or": "Kick player",
-		"tr": "Забанить игрока"
+		"tr": "Выгнать игрока"
+	},
+	{
+		"or": "Kick voting requires %d players on the server",
+		"tr": "Голосование за изгнание требует %d игроков на сервере"
 	},
 	{
 		"or": "Language",
 		"tr": "Язык"
 	},
 	{
+		"or": "Laser",
+		"tr": "Лазер"
+	},
+	{
+		"or": "Length",
+		"tr": "Длина"
+	},
+	{
+		"or": "Lgt:",
+		"tr": "Ярк:"
+	},
+	{
+		"or": "Limit Fps",
+		"tr": "Ограничить количество кадров в секунду"
+	},
+	{
 		"or": "Loading",
 		"tr": "Загрузка"
+	},
+	{
+		"or": "Local",
+		"tr": "Локальный"
+	},
+	{
+		"or": "Local server",
+		"tr": "Локальный сервер"
 	},
 	{
 		"or": "MOTD",
@@ -343,8 +529,24 @@
 		"tr": "Карта"
 	},
 	{
+		"or": "Match",
+		"tr": "Матч"
+	},
+	{
+		"or": "Max",
+		"tr": "Макс"
+	},
+	{
+		"or": "Max fps",
+		"tr": "Максимальное количество кадров в секунду"
+	},
+	{
 		"or": "Maximum ping:",
 		"tr": "Макс. пинг:"
+	},
+	{
+		"or": "Misc",
+		"tr": "Разное"
 	},
 	{
 		"or": "Mouse sens.",
@@ -375,12 +577,20 @@
 		"tr": "Имя"
 	},
 	{
+		"or": "Netversion",
+		"tr": "Чистая версия"
+	},
+	{
 		"or": "Next weapon",
-		"tr": "След. оружие"
+		"tr": "Следующие оружие"
 	},
 	{
 		"or": "Nickname",
 		"tr": "Имя"
+	},
+	{
+		"or": "Nickname is empty.",
+		"tr": "Пустое имя."
 	},
 	{
 		"or": "No",
@@ -399,12 +609,32 @@
 		"tr": "Нет серверов, подходящих под ваш фильтр"
 	},
 	{
+		"or": "Normal:",
+		"tr": "Нормальный:"
+	},
+	{
+		"or": "Off",
+		"tr": "Выключить"
+	},
+	{
 		"or": "Ok",
 		"tr": "ОК"
 	},
 	{
+		"or": "On",
+		"tr": "Включить"
+	},
+	{
+		"or": "Only %d active players are allowed",
+		"tr": "Разрешено только %d активных игроков"
+	},
+	{
 		"or": "Open",
 		"tr": "Открыть"
+	},
+	{
+		"or": "Other",
+		"tr": "Другое"
 	},
 	{
 		"or": "Parent Folder",
@@ -419,6 +649,10 @@
 		"tr": "Пароль"
 	},
 	{
+		"or": "Personal",
+		"tr": "Персональное"
+	},
+	{
 		"or": "Ping",
 		"tr": "Пинг"
 	},
@@ -427,6 +661,11 @@
 		"tr": "Пистолет"
 	},
 	{
+		"or": "Play",
+		"tr": "Играть"
+	},
+	{
+		"context": "DemoBrowser",
 		"or": "Play",
 		"tr": "Просмотр"
 	},
@@ -444,7 +683,7 @@
 	},
 	{
 		"or": "Player options",
-		"tr": "Опции игрока"
+		"tr": "Параметры игрока"
 	},
 	{
 		"or": "Players",
@@ -456,7 +695,7 @@
 	},
 	{
 		"or": "Prev. weapon",
-		"tr": "Пред. оружие"
+		"tr": "Предыдущие оружие"
 	},
 	{
 		"or": "Quality Textures",
@@ -471,8 +710,24 @@
 		"tr": "REC %3d:%02d"
 	},
 	{
+		"or": "Ready",
+		"tr": "Готов"
+	},
+	{
 		"or": "Reason:",
 		"tr": "Причина:"
+	},
+	{
+		"or": "Recommended",
+		"tr": "Рекомендуемое"
+	},
+	{
+		"or": "Record",
+		"tr": "Запись"
+	},
+	{
+		"or": "Recorded",
+		"tr": "Записано"
 	},
 	{
 		"or": "Red team",
@@ -508,15 +763,43 @@
 	},
 	{
 		"or": "Rename demo",
-		"tr": "Переименовать демо"
+		"tr": "Переименовать запись"
 	},
 	{
-		"or": "Reset filter",
-		"tr": "Сбросить фильтры"
+		"or": "Reset",
+		"tr": "Сброс"
+	},
+	{
+		"or": "Resolution",
+		"tr": "Разрешение"
+	},
+	{
+		"or": "Respawn",
+		"tr": "Возрождение"
+	},
+	{
+		"or": "Round over",
+		"tr": "Раунд закончен"
+	},
+	{
+		"or": "Round over!",
+		"tr": "Конец раунда!"
 	},
 	{
 		"or": "Sample rate",
 		"tr": "Частота"
+	},
+	{
+		"or": "Sat:",
+		"tr": "Насыщ:"
+	},
+	{
+		"or": "Save",
+		"tr": "Сохранить"
+	},
+	{
+		"or": "Save skin",
+		"tr": "Сохранить скин"
 	},
 	{
 		"or": "Score",
@@ -535,8 +818,16 @@
 		"tr": "Табло"
 	},
 	{
+		"or": "Screen",
+		"tr": "Снимок"
+	},
+	{
 		"or": "Screenshot",
 		"tr": "Снимок"
+	},
+	{
+		"or": "Search:",
+		"tr": "Поиск:"
 	},
 	{
 		"or": "Server address:",
@@ -544,7 +835,15 @@
 	},
 	{
 		"or": "Server details",
-		"tr": "Детали сервера"
+		"tr": "Описание сервера"
+	},
+	{
+		"or": "Server does not allow voting to kick players",
+		"tr": "Сервер не позволяет голосовать за изгнание игроков"
+	},
+	{
+		"or": "Server does not allow voting to move players to spectators",
+		"tr": "На сервере не разрешено голосование за перенос игроков в наблюдатели"
 	},
 	{
 		"or": "Server filter",
@@ -559,6 +858,10 @@
 		"tr": "Сервер не заполнен"
 	},
 	{
+		"or": "Servers",
+		"tr": "Серверы"
+	},
+	{
 		"or": "Settings",
 		"tr": "Настройки"
 	},
@@ -569,6 +872,10 @@
 	{
 		"or": "Show chat",
 		"tr": "Показать чат"
+	},
+	{
+		"or": "Show chat messages from:",
+		"tr": "Показать сообщения в чате от:"
 	},
 	{
 		"or": "Show friends only",
@@ -583,12 +890,24 @@
 		"tr": "Показывать имена игроков"
 	},
 	{
-		"or": "Show only supported",
-		"tr": "Показывать только поддерживаемые разрешения экрана"
+		"or": "Show social",
+		"tr": "Показывать имена игроков"
+	},
+	{
+		"or": "Size",
+		"tr": "Размер"
+	},
+	{
+		"or": "Skin",
+		"tr": "Скин"
 	},
 	{
 		"or": "Skins",
 		"tr": "Скины"
+	},
+	{
+		"or": "Skip the main menu",
+		"tr": "Пропустить главное меню"
 	},
 	{
 		"or": "Sound",
@@ -611,6 +930,10 @@
 		"tr": "Наблюдать пред."
 	},
 	{
+		"or": "Spectating",
+		"tr": "Наблюдение"
+	},
+	{
 		"or": "Spectator mode",
 		"tr": "Наблюдатель"
 	},
@@ -619,8 +942,12 @@
 		"tr": "Наблюдатели"
 	},
 	{
+		"or": "Spectators aren't allowed to start a vote.",
+		"tr": "Наблюдатели не могут начать голосование"
+	},
+	{
 		"or": "Standard gametype",
-		"tr": "Стандартный тип игры"
+		"tr": "Стандартный тип"
 	},
 	{
 		"or": "Standard map",
@@ -632,7 +959,7 @@
 	},
 	{
 		"or": "Strict gametype filter",
-		"tr": "Строгий фильтр р-мов"
+		"tr": "Строгий фильтр режимов"
 	},
 	{
 		"or": "Sudden Death",
@@ -651,16 +978,52 @@
 		"tr": "Командный чат"
 	},
 	{
+		"or": "Team:",
+		"tr": "Команда:"
+	},
+	{
+		"or": "Teams are locked",
+		"tr": "Команды закрыты"
+	},
+	{
+		"or": "Teams are locked. Time to wait before changing team: %02d:%02d",
+		"tr": "Команды закрыты. Время ожидания до смены команд: %02d:%02d"
+	},
+	{
+		"or": "Teams were locked",
+		"tr": "Команды были закрыты"
+	},
+	{
+		"or": "Teams were unlocked",
+		"tr": "Команды были открыты"
+	},
+	{
+		"or": "Tee",
+		"tr": "Ти"
+	},
+	{
 		"or": "Teeworlds %s is out! Download it at www.teeworlds.com!",
-		"tr": "Вышла Teeworlds %s! Скачивайте на www.teeworlds.com!"
+		"tr": "Teeworlds %s вышел! Скачивайте на www.teeworlds.com!"
+	},
+	{
+		"or": "Texture",
+		"tr": "Текстура"
 	},
 	{
 		"or": "Texture Compression",
 		"tr": "Сжатие текстур"
 	},
 	{
+		"or": "The %s flag was captured by '%2d: %s'",
+		"tr": "%s флаг захватили '%2d:%s'"
+	},
+	{
+		"or": "The %s flag was captured by '%2d: %s' (%.2f seconds)",
+		"tr": "%s флаг был захвачен '%2d : %s' (%.2f секунд)"
+	},
+	{
 		"or": "The audio device couldn't be initialised.",
-		"tr": "Аудио устройство не может быть инициализировано"
+		"tr": "Аудиоустройство не может быть инициализировано"
 	},
 	{
 		"or": "The server is running a non-standard tuning on a pure game type.",
@@ -676,7 +1039,11 @@
 	},
 	{
 		"or": "Time limit: %d min",
-		"tr": "Лимит времени: %d"
+		"tr": "Лимит времени: %d мин"
+	},
+	{
+		"or": "To",
+		"tr": "Игроку"
 	},
 	{
 		"or": "Try again",
@@ -688,11 +1055,15 @@
 	},
 	{
 		"or": "Unable to delete the demo",
-		"tr": "Невозможно удалить демо"
+		"tr": "Невозможно удалить запись"
+	},
+	{
+		"or": "Unable to delete the skin",
+		"tr": "Невозможно удалить скин"
 	},
 	{
 		"or": "Unable to rename the demo",
-		"tr": "Невозможно переименовать демо"
+		"tr": "Невозможно переименовать запись"
 	},
 	{
 		"or": "Use sounds",
@@ -711,16 +1082,32 @@
 		"tr": "Версия"
 	},
 	{
+		"or": "Volume",
+		"tr": "Громкость"
+	},
+	{
+		"or": "Vote aborted",
+		"tr": "Голосование прервано"
+	},
+	{
 		"or": "Vote command:",
-		"tr": "Комманда голосования:"
+		"tr": "Команда голосования:"
 	},
 	{
 		"or": "Vote description:",
 		"tr": "Описание голосования:"
 	},
 	{
+		"or": "Vote failed",
+		"tr": "Голосование не состоялось"
+	},
+	{
 		"or": "Vote no",
 		"tr": "Против"
+	},
+	{
+		"or": "Vote passed",
+		"tr": "Голосование окончено"
 	},
 	{
 		"or": "Vote yes",
@@ -729,6 +1116,14 @@
 	{
 		"or": "Voting",
 		"tr": "Голосование"
+	},
+	{
+		"or": "Wait for current vote to end before calling a new one.",
+		"tr": "Дождитесь окончания голосования прежде чем начинать новое."
+	},
+	{
+		"or": "Wait for next round",
+		"tr": "Подождите следующего раунда"
 	},
 	{
 		"or": "Warmup",
@@ -740,7 +1135,11 @@
 	},
 	{
 		"or": "Welcome to Teeworlds",
-		"tr": "Добро пожаловать в Teeworlds!"
+		"tr": "Добро пожаловать в Teeworlds"
+	},
+	{
+		"or": "Whisper",
+		"tr": "Написать игроку"
 	},
 	{
 		"or": "Yes",
@@ -751,424 +1150,64 @@
 		"tr": "Перезапустите игру для применения изменений."
 	},
 	{
-		"or": "%.3f KiB",
-		"tr": "%.3f КиБ"
-	},
-	{
-		"or": "%d player left",
-		"tr": "%d игрок вышел"
-	},
-	{
-		"or": "%d player not ready",
-		"tr": "%d игрок не готов"
-	},
-	{
-		"or": "%d players left",
-		"tr": "%d игроков вышло"
-	},
-	{
-		"or": "%d players not ready",
-		"tr": "%d игроков не готово"
-	},
-	{
-		"or": "%d servers, %d players",
-		"tr": "%d серверов, %d игроков"
-	},
-	{
-		"or": "'%s' called for vote to kick '%s' (%s)",
-		"tr": "'%s' начал голосование за кик '%s' (%s)"
-	},
-	{
-		"or": "'%s' called for vote to move '%s' to spectators (%s)",
-		"tr": "'%s' начал голосование за перемещение '%s' в зрители (%s)"
-	},
-	{
-		"or": "'%s' called vote to change server option '%s' (%s)",
-		"tr": "'%s' начал голосование за изменение настроек сервера '%s' (%s)"
-	},
-	{
-		"or": "'%s' entered and joined the %s",
-		"tr": "'%s' зашел и присоединился к %s"
-	},
-	{
-		"or": "'%s' has left the game",
-		"tr": "'%s' покинул игру"
-	},
-	{
-		"or": "'%s' has left the game (%s)",
-		"tr": "'%s' покинул игру (%s)"
-	},
-	{
-		"or": "'%s' joined the %s",
-		"tr": "'%s' присоединился %s"
-	},
-	{
-		"or": "Admin forced server option '%s' (%s)",
-		"tr": "Администратор вынужден изменить опции сервера '%s' (%s)"
-	},
-	{
-		"or": "Admin forced vote no",
-		"tr": "Администратор вынужден проголосовать нет"
-	},
-	{
-		"or": "Admin forced vote yes",
-		"tr": "Администратор вынужден проголосовать да"
-	},
-	{
-		"or": "Admin moved '%s' to spectator (%s)",
-		"tr": "Администратор переместил '%s' в зрители (%s)"
-	},
-	{
-		"or": "Alp:",
-		"tr": "Alp:"
-	},
-	{
-		"or": "Anti Aliasing",
-		"tr": "Сглаживание"
-	},
-	{
-		"or": "Are you sure you want to rename the demo?",
-		"tr": "Вы уверены, что хотите переименовать демо?"
-	},
-	{
-		"or": "Are you sure you want to save your skin? If a skin with this name already exists, it will be replaced.",
-		"tr": "Вы уверены, что хотите сохранить скин? Если скин с таким именем существует, то он будет заменен."
-	},
-	{
-		"or": "Back",
-		"tr": "Назад"
-	},
-	{
-		"or": "Basic",
-		"tr": "Основной"
-	},
-	{
-		"or": "Bodies",
-		"tr": "Туловище"
-	},
-	{
-		"or": "Borderless window",
-		"tr": "Окно без рамок"
-	},
-	{
-		"or": "Browser",
-		"tr": "Броузер"
-	},
-	{
-		"or": "Color",
-		"tr": "Цвет"
-	},
-	{
-		"or": "Crc",
-		"tr": "Crc"
-	},
-	{
-		"or": "Created",
-		"tr": "Создан"
-	},
-	{
-		"or": "Custom",
-		"tr": "Кастом"
-	},
-	{
-		"or": "Customize",
-		"tr": "Кастомизировать"
-	},
-	{
-		"or": "Decoration",
-		"tr": "Украшение"
-	},
-	{
-		"or": "Demo",
-		"tr": "Демо"
-	},
-	{
-		"or": "Detail",
-		"tr": "Детали"
-	},
-	{
-		"or": "Editor",
-		"tr": "Редактор"
-	},
-	{
-		"or": "Eyes",
-		"tr": "Глаза"
-	},
-	{
-		"or": "Format",
-		"tr": "Формат"
-	},
-	{
-		"or": "Game paused",
-		"tr": "Игра приостановлена"
-	},
-	{
-		"or": "Game starts in",
-		"tr": "Игра начнется в"
-	},
-	{
-		"or": "Global",
-		"tr": "Глобальный"
-	},
-	{
-		"or": "Hands",
-		"tr": "Руки"
-	},
-	{
-		"or": "Host address:",
-		"tr": "Адрес хоста:"
-	},
-	{
-		"or": "Hue:",
-		"tr": "Оттенок:"
-	},
-	{
-		"or": "Join",
-		"tr": "Присоединиться"
-	},
-	{
-		"or": "Joined",
-		"tr": "Присоединился"
-	},
-	{
-		"or": "Joined blue",
-		"tr": "Присоединился к синим"
-	},
-	{
-		"or": "Joined red",
-		"tr": "Присоединился к красным"
-	},
-	{
-		"or": "Kick voting requires %d players on the server",
-		"tr": "Для голосования необходимо %d игроков на сервере"
-	},
-	{
-		"or": "Laser",
-		"tr": "Лазер"
-	},
-	{
-		"or": "Length",
-		"tr": "Длина"
-	},
-	{
-		"or": "Letterbox",
-		"tr": "Почтовый ящик"
-	},
-	{
-		"or": "Lgt:",
-		"tr": "Lgt:"
-	},
-	{
-		"or": "Local",
-		"tr": "Локальный"
-	},
-	{
-		"or": "Local server",
-		"tr": "Локальный сервер"
-	},
-	{
-		"or": "Match",
-		"tr": "Матч"
-	},
-	{
-		"or": "Max",
-		"tr": "Максимальный"
-	},
-	{
-		"or": "Misc",
-		"tr": "Разное"
-	},
-	{
-		"or": "Netversion",
-		"tr": "Версия"
-	},
-	{
-		"or": "Nickname is empty.",
-		"tr": "Ник пустой."
-	},
-	{
-		"or": "Normal:",
-		"tr": "Нормальный:"
-	},
-	{
-		"or": "Only %d active players are allowed",
-		"tr": "Только %d активных игроков разрешено"
-	},
-	{
-		"or": "Personal",
-		"tr": "Персональный"
-	},
-	{
-		"or": "Ready",
-		"tr": "Готов"
-	},
-	{
-		"or": "Record",
-		"tr": "Запись"
-	},
-	{
-		"or": "Recorded",
-		"tr": "Записанный"
-	},
-	{
-		"or": "Reset",
-		"tr": "Сброс"
-	},
-	{
-		"or": "Resolutions",
-		"tr": "Разрешения"
-	},
-	{
-		"or": "Respawn",
-		"tr": "Возрождение"
-	},
-	{
-		"or": "Round over",
-		"tr": "Раунд окончен"
-	},
-	{
-		"or": "Round over!",
-		"tr": "Раунд окончен!"
-	},
-	{
-		"or": "Sat:",
-		"tr": "Sat:"
-	},
-	{
-		"or": "Save",
-		"tr": "Сохранить"
-	},
-	{
-		"or": "Save skin",
-		"tr": "Сохранить скин"
-	},
-	{
-		"or": "Screen",
-		"tr": "Экран"
-	},
-	{
-		"or": "Search:",
-		"tr": "Поиск:"
-	},
-	{
-		"or": "Server does not allow voting to kick players",
-		"tr": "Сервер не поддерживает голосование за кик игроков"
-	},
-	{
-		"or": "Server does not allow voting to move players to spectators",
-		"tr": "Сервер не поддерживает голосование за перемещение игроков в зрители"
-	},
-	{
-		"or": "Servers",
-		"tr": "Сервера"
-	},
-	{
-		"or": "Show only chat messages from friends",
-		"tr": "Показывать только чат сообщения от друзей"
-	},
-	{
-		"or": "Size",
-		"tr": "Размер"
-	},
-	{
-		"or": "Skin",
-		"tr": "Скин"
-	},
-	{
-		"or": "Spectating",
-		"tr": "Наблюдать"
-	},
-	{
-		"or": "Spectators aren't allowed to start a vote.",
-		"tr": "Зрителям нельзя начинать голосования."
-	},
-	{
-		"or": "Standard Gametype",
-		"tr": "Стандартный тип игры"
-	},
-	{
-		"or": "Tattoo",
-		"tr": "Тату"
-	},
-	{
-		"or": "Tattoos",
-		"tr": "Тату"
-	},
-	{
-		"or": "Team:",
-		"tr": "Команда:"
-	},
-	{
-		"or": "Teams are locked",
-		"tr": "Команды будут заблокированы"
-	},
-	{
-		"or": "Teams are locked. Time to wait before changing team: %02d:%02d",
-		"tr": "Команды будут заблокированы. Время ожидания перед изменением команды: %02d:%02d"
-	},
-	{
-		"or": "Teams were locked",
-		"tr": "Команды заблокированы"
-	},
-	{
-		"or": "Teams were unlocked",
-		"tr": "Команды разблокированы"
-	},
-	{
-		"or": "Tee",
-		"tr": "Tee"
-	},
-	{
-		"or": "Texture",
-		"tr": "Текстуры"
-	},
-	{
-		"or": "Volume",
-		"tr": "Звук"
-	},
-	{
-		"or": "Vote aborted",
-		"tr": "Голосование отменено"
-	},
-	{
-		"or": "Vote failed",
-		"tr": "Голосование провалилось"
-	},
-	{
-		"or": "Vote passed",
-		"tr": "Голосование прошло успешно"
-	},
-	{
-		"or": "Wait for current vote to end before calling a new one.",
-		"tr": "Подождите завершения текущего голосования, перед началом нового."
-	},
-	{
-		"or": "Wait for next round",
-		"tr": "Подождите следующего раунда"
-	},
-	{
-		"or": "Wide",
-		"tr": "Широкий"
-	},
-	{
 		"or": "You must wait %d seconds before making another vote",
-		"tr": "Вы должны подождать %d секунд перед созданием нового голосования"
+		"tr": "Вы должны подождать %d секунд прежде чем начать другое голосование"
 	},
 	{
 		"or": "blue",
-		"tr": "синие"
+		"tr": "синий"
+	},
+	{
+		"or": "blue flag",
+		"tr": "Синий флаг"
 	},
 	{
 		"or": "blue team",
 		"tr": "синяя команда"
 	},
 	{
+		"or": "body",
+		"tr": "Тело"
+	},
+	{
+		"or": "decoration",
+		"tr": "украшение"
+	},
+	{
+		"or": "everyone",
+		"tr": "каждого"
+	},
+	{
+		"or": "eyes",
+		"tr": "глаза"
+	},
+	{
+		"or": "feet",
+		"tr": "ноги"
+	},
+	{
+		"or": "friends only",
+		"tr": "Только с друзьями"
+	},
+	{
 		"or": "game",
 		"tr": "игра"
 	},
 	{
+		"or": "hands",
+		"tr": "руки"
+	},
+	{
 		"or": "locked",
-		"tr": "заблокирована"
+		"tr": "закрыто"
+	},
+	{
+		"or": "marking",
+		"tr": "маркировка"
+	},
+	{
+		"or": "no one",
+		"tr": "никого"
 	},
 	{
 		"or": "no players",
@@ -1176,7 +1215,11 @@
 	},
 	{
 		"or": "red",
-		"tr": "красные"
+		"tr": "красный"
+	},
+	{
+		"or": "red flag",
+		"tr": "Красный флаг"
 	},
 	{
 		"or": "red team",
@@ -1184,185 +1227,11 @@
 	},
 	{
 		"or": "spectators",
-		"tr": "зрители"
+		"tr": "наблюдатели"
 	},
 	{
 		"or": "wait for more players",
-		"tr": "ожидайте больше игроков"
-	}],
-"needs translation": [
-	],
-"old translations": [
-	{
-		"or": "New name:",
-		"tr": "Новое имя"
-	},
-	{
-		"or": "Sat.",
-		"tr": "Контраст"
-	},
-	{
-		"or": "Miscellaneous",
-		"tr": "Дополнительно"
-	},
-	{
-		"or": "Internet",
-		"tr": "Интернет"
-	},
-	{
-		"or": "Max demos",
-		"tr": "Максимальное количество демо"
-	},
-	{
-		"or": "News",
-		"tr": "Новости"
-	},
-	{
-		"or": "Join game",
-		"tr": "Играть"
-	},
-	{
-		"or": "FSAA samples",
-		"tr": "Сэмплов FSAA"
-	},
-	{
-		"or": "%d of %d servers, %d players",
-		"tr": "%d из %d серверов, %d игроков"
-	},
-	{
-		"or": "Sound volume",
-		"tr": "Громкость звука"
-	},
-	{
-		"or": "Created:",
-		"tr": "Создан:"
-	},
-	{
-		"or": "Max Screenshots",
-		"tr": "Максимальное количество снимков"
-	},
-	{
-		"or": "Length:",
-		"tr": "Длина"
-	},
-	{
-		"or": "Skin name",
-		"tr": ""
-	},
-	{
-		"or": "Rifle",
-		"tr": "Бластер"
-	},
-	{
-		"or": "Patterns",
-		"tr": ""
-	},
-	{
-		"or": "Netversion:",
-		"tr": "Версия:"
-	},
-	{
-		"or": "Map:",
-		"tr": "Карта:"
-	},
-	{
-		"or": "%d Bytes",
-		"tr": "%d байт"
-	},
-	{
-		"or": "Coloration",
-		"tr": ""
-	},
-	{
-		"or": "Info",
-		"tr": "Инфо"
-	},
-	{
-		"or": "Hue",
-		"tr": "Оттенок"
-	},
-	{
-		"or": "Record demo",
-		"tr": "Записать демо"
-	},
-	{
-		"or": "Your skin",
-		"tr": "Ваш скин"
-	},
-	{
-		"or": "Size:",
-		"tr": "Размер:"
-	},
-	{
-		"or": "Reset to defaults",
-		"tr": "Сбросить настройки"
-	},
-	{
-		"or": "Quit anyway?",
-		"tr": "Выйти?"
-	},
-	{
-		"or": "Display Modes",
-		"tr": "Разрешение экрана"
-	},
-	{
-		"or": "Version:",
-		"tr": "Версия:"
-	},
-	{
-		"or": "Round",
-		"tr": "Раунд"
-	},
-	{
-		"or": "Lht.",
-		"tr": "Яркость"
-	},
-	{
-		"or": "no limit",
-		"tr": "Без лимита"
-	},
-	{
-		"or": "Quick search:",
-		"tr": "Быстрый поиск:"
-	},
-	{
-		"or": "UI Color",
-		"tr": "Цвет интерфейса"
-	},
-	{
-		"or": "Host address",
-		"tr": "Адрес сервера"
-	},
-	{
-		"or": "Crc:",
-		"tr": "Crc:"
-	},
-	{
-		"or": "Alpha",
-		"tr": "Прозрачн."
-	},
-	{
-		"or": "Are you sure you want to save your skin ? If a skin with this name already exists, it will be replaced.",
-		"tr": "Вы действительно хотите сохранить ваш скин ? Если скин с таким именем уже есть, он будет заменен."
-	},
-	{
-		"or": "Current version: %s",
-		"tr": "Текущая версия: %s"
-	},
-	{
-		"or": "Filter",
-		"tr": "Фильтр"
-	},
-	{
-		"or": "LAN",
-		"tr": "LAN"
-	},
-	{
-		"or": "Name plates size",
-		"tr": "Размер"
-	},
-	{
-		"or": "Type:",
-		"tr": "Тип:"
-	}]
+		"tr": "ожидание игроков"
+	}
+]
 }
