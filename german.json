@@ -54,11 +54,11 @@
 	},
 	{
 		"or": "'%2d: %s' called for vote to kick '%s' (%s)",
-		"tr": "'%2d: %s' startete eine Abstimmung um '%s' hinauszuwerfen (%s)"
+		"tr": "'%2d: %s' startete eine Abstimmung, um '%s' rauszuwerfen (%s)"
 	},
 	{
 		"or": "'%2d: %s' called for vote to move '%s' to spectators (%s)",
-		"tr": "'%2d: %s' startete eine Abstimmung um '%s' zu einem Zuschauer zu machen (%s)"
+		"tr": "'%2d: %s' startete eine Abstimmung, um '%s' zu einem Zuschauer zu machen (%s)"
 	},
 	{
 		"or": "'%2d: %s' called vote to change server option '%s' (%s)",
@@ -122,7 +122,7 @@
 	},
 	{
 		"or": "Anti Aliasing",
-		"tr": "Anti-Aliasing"
+		"tr": "Kantenglättung"
 	},
 	{
 		"or": "Are you sure that you want to delete the demo?",
@@ -134,7 +134,7 @@
 	},
 	{
 		"or": "Are you sure that you want to quit?",
-		"tr": "Möchtest du wirklich beenden?"
+		"tr": "Möchtest du das Spiel wirklich beenden?"
 	},
 	{
 		"or": "Are you sure that you want to remove the player from your friends list?",
@@ -154,7 +154,7 @@
 	},
 	{
 		"or": "Automatically record demos",
-		"tr": "Automatisch Aufnahmen erstellen"
+		"tr": "Aufnahmen automatisch starten"
 	},
 	{
 		"or": "Automatically take game over screenshot",
@@ -206,7 +206,7 @@
 	},
 	{
 		"or": "Close",
-		"tr": "Schließ."
+		"tr": "Schließen"
 	},
 	{
 		"or": "Color",
@@ -254,7 +254,7 @@
 	},
 	{
 		"or": "Custom",
-		"tr": "Erweitert"
+		"tr": "Benutzerdefiniert"
 	},
 	{
 		"or": "Custom colors",
@@ -282,11 +282,11 @@
 	},
 	{
 		"or": "Demo details",
-		"tr": "Aufnahmendetails:"
+		"tr": "Aufnahmendetails"
 	},
 	{
 		"or": "Demofile: %s",
-		"tr": "Aufnahme: %s"
+		"tr": "Aufnahmedatei: %s"
 	},
 	{
 		"or": "Demos",
@@ -306,7 +306,7 @@
 	},
 	{
 		"or": "Downloading map",
-		"tr": "Karte herunterladen"
+		"tr": "Karte wird heruntergeladen"
 	},
 	{
 		"or": "Draw!",
@@ -326,7 +326,7 @@
 	},
 	{
 		"or": "Enter",
-		"tr": "Starten"
+		"tr": "Eingabe"
 	},
 	{
 		"or": "Error",
@@ -358,7 +358,7 @@
 	},
 	{
 		"or": "Free-View",
-		"tr": "Freie Ansicht"
+		"tr": "Freie Kamera"
 	},
 	{
 		"or": "Friends",
@@ -418,7 +418,7 @@
 	},
 	{
 		"or": "Has people playing",
-		"tr": "Server hat Spieler"
+		"tr": "Server beinhaltet Spieler"
 	},
 	{
 		"or": "High Detail",
@@ -430,7 +430,7 @@
 	},
 	{
 		"or": "Host address:",
-		"tr": "Hostaddresse:"
+		"tr": "Hostadresse:"
 	},
 	{
 		"or": "Hue:",
@@ -458,11 +458,11 @@
 	},
 	{
 		"or": "Joined blue",
-		"tr": "In Blau"
+		"tr": "Team Blau beigetreten"
 	},
 	{
 		"or": "Joined red",
-		"tr": "In Rot"
+		"tr": "Team Rot beigetreten"
 	},
 	{
 		"or": "Jump",
@@ -494,11 +494,11 @@
 	},
 	{
 		"or": "Limit Fps",
-		"tr": "Limit FPS"
+		"tr": "FPS begrenzen"
 	},
 	{
 		"or": "Loading",
-		"tr": "Lade"
+		"tr": "Lädt"
 	},
 	{
 		"or": "Local",
@@ -538,7 +538,7 @@
 	},
 	{
 		"or": "Mouse sens.",
-		"tr": "Maus-Empfindlichkeit"
+		"tr": "Mausempfindlichkeit"
 	},
 	{
 		"or": "Move left",
@@ -594,7 +594,7 @@
 	},
 	{
 		"or": "No servers match your filter criteria",
-		"tr": "Kein Server entspricht deiner Suche"
+		"tr": "Kein Server entspricht deinen Kriterien"
 	},
 	{
 		"or": "Normal:",
@@ -1123,11 +1123,11 @@
 	},
 	{
 		"or": "You must restart the game for all settings to take effect.",
-		"tr": "Du musst das Spiel neustarten, damit alle Änderungen übernommen werden."
+		"tr": "Du musst das Spiel neu starten, damit alle Änderungen übernommen werden."
 	},
 	{
 		"or": "You must wait %d seconds before making another vote",
-		"tr": "Du musst %d Sekunden warten, bevor du eine neue Abstimmung starten darfst"
+		"tr": "Du musst noch %d Sekunden warten, bevor du eine neue Abstimmung starten darfst"
 	},
 	{
 		"or": "blue",
@@ -1143,7 +1143,7 @@
 	},
 	{
 		"or": "everyone",
-		"tr": "Allen"
+		"tr": "Jeder"
 	},
 	{
 		"or": "%.3f KiB",
@@ -1159,7 +1159,7 @@
 	},
 	{
 		"or": "friends only",
-		"tr": "Nur Freunden"
+		"tr": "Nur Freunde"
 	},
 	{
 		"or": "game",
@@ -1351,7 +1351,7 @@
 	},
 	{
 		"or": "Spectators aren't allowed to start a vote.",
-		"tr": "Zuschauer dürfen keine Abstimmung starten"
+		"tr": "Zuschauer dürfen keine Abstimmung starten."
 	},
 	{
 		"or": "Teams are locked",
@@ -1367,7 +1367,7 @@
 	},
 	{
 		"or": "Teams were unlocked",
-		"tr": "Teams wurden geöffnet"
+		"tr": "Teams wurden entsperrt"
 	},
 	{
 		"or": "Texture",
@@ -1387,7 +1387,7 @@
 	},
 	{
 		"or": "Wait for current vote to end before calling a new one.",
-		"tr": "Bis zum Ende der aktuellen Abstimmung warten, bevor eine neue gestartet werden kann"
+		"tr": "Bis zum Ende der aktuellen Abstimmung warten, bevor eine neue gestartet werden kann."
 	},
 	{
 		"or": "Wait for next round",
@@ -1411,7 +1411,7 @@
 	},
 	{
 		"or": "wait for more players",
-		"tr": "Warte auf mehr Spieler"
+		"tr": "warte auf mehr Spieler"
 	}
 ]
 }
