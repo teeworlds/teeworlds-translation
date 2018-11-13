@@ -75,6 +75,11 @@
 		"code": 380
 	},
 	{
+		"file": "lithuanian",
+		"name": "Lietuvių kalba",
+		"code": 440
+	},
+	{
 		"file": "japanese",
 		"name": "日本語",
 		"code": 392
