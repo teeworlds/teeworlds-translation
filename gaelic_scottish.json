@@ -234,7 +234,7 @@
 	},
 	{
 		"or": "Connecting to",
-		"tr": "Ga cheangal gu"
+		"tr": "’Ga cheangal gu"
 	},
 	{
 		"or": "Connection Problems...",
@@ -310,7 +310,7 @@
 	},
 	{
 		"or": "Disconnect",
-		"tr": "Bris an ceangal"
+		"tr": "Dì-cheangail"
 	},
 	{
 		"or": "Disconnected",
@@ -402,7 +402,7 @@
 	},
 	{
 		"or": "Game type",
-		"tr": "Seòrsa a’ gheama"
+		"tr": "Seòrsa"
 	},
 	{
 		"or": "Game types:",
@@ -414,7 +414,7 @@
 	},
 	{
 		"or": "Global",
-		"tr": "Uile-choitcheann"
+		"tr": "Coitcheann"
 	},
 	{
 		"or": "Graphics",
@@ -466,7 +466,7 @@
 	},
 	{
 		"or": "Joined",
-		"tr": "Air a ghabhail ann"
+		"tr": "A’ cluich"
 	},
 	{
 		"or": "Joined blue",
@@ -558,7 +558,7 @@
 	},
 	{
 		"or": "Move player to spectators",
-		"tr": "Gluais an cluicheadair dha na h-amhairc"
+		"tr": "Dèan amharc dhen chluicheadair"
 	},
 	{
 		"or": "Move right",
@@ -687,7 +687,7 @@
 	},
 	{
 		"or": "Players",
-		"tr": "Cluicheadairean"
+		"tr": "Cluichead."
 	},
 	{
 		"or": "Please balance teams!",
@@ -835,7 +835,7 @@
 	},
 	{
 		"or": "Server details",
-		"tr": "Fiosrachadh mun fhrithealaiche"
+		"tr": "Mun fhrithealaiche"
 	},
 	{
 		"or": "Server does not allow voting to kick players",
@@ -851,7 +851,7 @@
 	},
 	{
 		"or": "Server info",
-		"tr": "Fiosrachadh mun fhrithealaiche"
+		"tr": "Mun fhrithealaiche"
 	},
 	{
 		"or": "Server not full",
@@ -1147,7 +1147,7 @@
 	},
 	{
 		"or": "You must restart the game for all settings to take effect.",
-		"tr": "Feumaidh tu an geama ath-thòiseachadh gus na roghainnean uile a chur an sàs."
+		"tr": "Ath-thòisich an geama a chur an sàs nan roghainnean uile."
 	},
 	{
 		"or": "You must wait %d seconds before making another vote",
