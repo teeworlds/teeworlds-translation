@@ -418,7 +418,7 @@
 	},
 	{
 		"or": "Has people playing",
-		"tr": "Server nicht leer"
+		"tr": "Server hat Spieler"
 	},
 	{
 		"or": "High Detail",
@@ -498,7 +498,7 @@
 	},
 	{
 		"or": "Loading",
-		"tr": "Laden"
+		"tr": "Lade"
 	},
 	{
 		"or": "Local",
@@ -546,7 +546,7 @@
 	},
 	{
 		"or": "Move player to spectators",
-		"tr": "Spieler zu Zuschauer machen"
+		"tr": "Spieler zum Zuschauer machen"
 	},
 	{
 		"or": "Move right",
@@ -578,7 +578,7 @@
 	},
 	{
 		"or": "Nickname is empty.",
-		"tr": "Spielername ist leer."
+		"tr": "Spitzname ist leer."
 	},
 	{
 		"or": "No",
@@ -679,7 +679,7 @@
 	},
 	{
 		"or": "Prev. weapon",
-		"tr": "Vorherige Waffe"
+		"tr": "Vorh. Waffe"
 	},
 	{
 		"or": "Quality Textures",
@@ -731,7 +731,7 @@
 	},
 	{
 		"or": "Remove",
-		"tr": "Löschen"
+		"tr": "Entfernen"
 	},
 	{
 		"or": "Remove friend",
@@ -754,8 +754,12 @@
 		"tr": "Auflösung"
 	},
 	{
+		"or": "Reset filter",
+		"tr": "Filter zurücksetzen"
+	},
+	{
 		"or": "Respawn",
-		"tr": "Wiederbelebung"
+		"tr": "Wiedereinstieg"
 	},
 	{
 		"or": "Round over",
@@ -827,7 +831,7 @@
 	},
 	{
 		"or": "Server filter",
-		"tr": "Filter"
+		"tr": "Serverfilter"
 	},
 	{
 		"or": "Server info",
@@ -863,11 +867,11 @@
 	},
 	{
 		"or": "Show ingame HUD",
-		"tr": "HUD im Spiel anzeigen"
+		"tr": "Spielanzeigen zeigen"
 	},
 	{
 		"or": "Show name plates",
-		"tr": "Zeige Namen"
+		"tr": "Namen anzeigen"
 	},
 	{
 		"or": "Size",
@@ -1119,7 +1123,7 @@
 	},
 	{
 		"or": "You must restart the game for all settings to take effect.",
-		"tr": "Du musst das Spiel neustarten um die Änderungen zu übernehmen."
+		"tr": "Du musst das Spiel neustarten, damit alle Änderungen übernommen werden."
 	},
 	{
 		"or": "You must wait %d seconds before making another vote",
@@ -1140,6 +1144,10 @@
 	{
 		"or": "everyone",
 		"tr": "Allen"
+	},
+	{
+		"or": "%.3f KiB",
+		"tr": "%.3f KiB"
 	},
 	{
 		"or": "eyes",
@@ -1174,12 +1182,228 @@
 		"tr": "Keine Spieler"
 	},
 	{
+		"or": "'%s' entered and joined the %s",
+		"tr": "'%s' betrat das Spiel und trat %s bei"
+	},
+	{
 		"or": "red",
 		"tr": "rote"
 	},
 	{
 		"or": "red team",
 		"tr": "Team Rot"
+	},
+	{
+		"or": "'%s' has left the game (%s)",
+		"tr": "'%s' hat das Spiel verlassen (%s)"
+	},
+	{
+		"or": "'%s' joined the %s",
+		"tr": "'%s' betrat das %s"
+	},
+	{
+		"or": "Admin forced server option '%s' (%s)",
+		"tr": "Admin erzwang die Serveroption '%s' (%s)"
+	},
+	{
+		"or": "Admin forced vote no",
+		"tr": "Admin erzwang Nein Vote"
+	},
+	{
+		"or": "Admin forced vote yes",
+		"tr": "Admin erzwang Ja Vote"
+	},
+	{
+		"or": "Admin moved '%s' to spectator (%s)",
+		"tr": "Admin hat '%s' zum Zuschauermodus bewegt (%s)"
+	},
+	{
+		"or": "Alp:",
+		"tr": "Alp:"
+	},
+	{
+		"or": "Anti Aliasing",
+		"tr": "Kantenglättung"
+	},
+	{
+		"or": "Basic",
+		"tr": "Basis"
+	},
+	{
+		"or": "Borderless window",
+		"tr": "Randloses Fenster"
+	},
+	{
+		"or": "Browser",
+		"tr": "Browser"
+	},
+	{
+		"or": "Crc",
+		"tr": "Crc"
+	},
+	{
+		"or": "Customize",
+		"tr": "Anpassen"
+	},
+	{
+		"or": "Detail",
+		"tr": "Detail"
+	},
+	{
+		"or": "Editor",
+		"tr": "Editor"
+	},
+	{
+		"or": "Format",
+		"tr": "Format"
+	},
+	{
+		"or": "Global",
+		"tr": "Global"
+	},
+	{
+		"or": "Host address:",
+		"tr": "Hostaddresse:"
+	},
+	{
+		"or": "Hue:",
+		"tr": "Farbton:"
+	},
+	{
+		"or": "Joined",
+		"tr": "Betrat"
+	},
+	{
+		"or": "Joined blue",
+		"tr": "Betrat Blau"
+	},
+	{
+		"or": "Joined red",
+		"tr": "Betrat Rot"
+	},
+	{
+		"or": "Kick voting requires %d players on the server",
+		"tr": "Kick-Abstimmung benötigt %d Spieler auf dem Server"
+	},
+	{
+		"or": "Letterbox",
+		"tr": "Letterbox"
+	},
+	{
+		"or": "Lgt:",
+		"tr": "Lgt:"
+	},
+	{
+		"or": "Match",
+		"tr": "Spiel"
+	},
+	{
+		"or": "Max",
+		"tr": "Max"
+	},
+	{
+		"or": "Misc",
+		"tr": "Verschiedenes"
+	},
+	{
+		"or": "Netversion",
+		"tr": "Netversion"
+	},
+	{
+		"or": "Normal:",
+		"tr": "Normal:"
+	},
+	{
+		"or": "Personal",
+		"tr": "Persönlich"
+	},
+	{
+		"or": "Resolutions",
+		"tr": "Auflösungen"
+	},
+	{
+		"or": "Round over",
+		"tr": "Runde vorbei"
+	},
+	{
+		"or": "Round over!",
+		"tr": "Runde vorbei!"
+	},
+	{
+		"or": "Sat:",
+		"tr": "Sätt:"
+	},
+	{
+		"or": "Screen",
+		"tr": "Bild"
+	},
+	{
+		"or": "Server does not allow voting to move players to spectators",
+		"tr": "Server erlaubt nicht, Spieler zu Zuschauer zu bewegen"
+	},
+	{
+		"or": "Servers",
+		"tr": "Server"
+	},
+	{
+		"or": "Spectating",
+		"tr": "Zuschauen"
+	},
+	{
+		"or": "Spectators aren't allowed to start a vote.",
+		"tr": "Zuschauer dürfen keine Abstimmung starten"
+	},
+	{
+		"or": "Teams are locked",
+		"tr": "Teams sind gesperrt"
+	},
+	{
+		"or": "Teams are locked. Time to wait before changing team: %02d:%02d",
+		"tr": "Teams sind gesperrt. Zeit bis zum erlaubten Teamwechsel: %02d:%02d"
+	},
+	{
+		"or": "Teams were locked",
+		"tr": "Teams wurden gesperrt"
+	},
+	{
+		"or": "Teams were unlocked",
+		"tr": "Teams wurden geöffnet"
+	},
+	{
+		"or": "Texture",
+		"tr": "Textur"
+	},
+	{
+		"or": "Vote aborted",
+		"tr": "Abstimmung wurde abgebrochen"
+	},
+	{
+		"or": "Vote failed",
+		"tr": "Abstimmung ist gescheitert"
+	},
+	{
+		"or": "Vote passed",
+		"tr": "Abstimmung war erfolgreich"
+	},
+	{
+		"or": "Wait for current vote to end before calling a new one.",
+		"tr": "Bis zum Ende der aktuellen Abstimmung warten, bevor eine neue gestartet werden kann"
+	},
+	{
+		"or": "Wait for next round",
+		"tr": "Auf nächste Runde warten"
+	},
+	{
+		"or": "Wide",
+		"tr": "Breit"
+	},
+	{
+		"or": "You must wait %d seconds before making another vote",
+		"tr": "Du musst %d Sekunden warten, bevor du eine neue Abstimmung starten darfst"
+	},
+	{
+		"or": "locked",
+		"tr": "gesperrt"
 	},
 	{
 		"or": "spectators",
