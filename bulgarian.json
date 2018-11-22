@@ -1,4 +1,8 @@
-{
+{"authors": {
+	"originally created by": "Hip-Hop_Blond",
+	"modified by": [
+		"Hip-Hop_Blond		2011-07-15 01:19:13"
+	]},
 "translated strings": [
 	{
 		"or": "%.3f KiB",

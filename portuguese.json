@@ -1,4 +1,10 @@
-{
+{"authors": {
+	"originally created by": "HeroiAmarelo",
+	"modified by": [
+		"HeroiAmarelo	2011-07-15 00:35:23",
+		"HeroiAmarelo	2012-08-01 15:47:40",
+		"HeroiAmarelo	2012-10-18 23:56:32"
+	]},
 "translated strings": [
 	{
 		"or": "%.3f KiB",

@@ -1,4 +1,8 @@
-{
+{"authors": {
+	"originally created by": ".ua and Ivan",
+	"modified by": [
+		"404_not_found		2011-07-30 19:50:58"
+	]},
 "translated strings": [
 	{
 		"or": "%.3f KiB",
