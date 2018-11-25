@@ -2,7 +2,9 @@
 	"originally created by": "ziltoide",
 	"modified by": [
 		"ziltoide		2011-04-06 23:56:54",
-		"ziltoide		2011-07-05 18:31:04"
+		"ziltoide		2011-07-05 18:31:04",
+		"Aleksi Joakim Palomäki, 2015",
+		"Joonas Tamminen, 2015"
 	]},
 "translated strings": [
 	{
@@ -90,8 +92,16 @@
 		"tr": "Kaikki"
 	},
 	{
+		"or": "Alp:",
+		"tr": "Alp:"
+	},
+	{
 		"or": "Always show name plates",
 		"tr": "Näytä nimikyltit aina"
+	},
+	{
+		"or": "Anti Aliasing",
+		"tr": "Anti Aliasing"
 	},
 	{
 		"or": "Are you sure that you want to delete the demo?",
@@ -132,6 +142,10 @@
 	{
 		"or": "Back",
 		"tr": "Takaisin"
+	},
+	{
+		"or": "Basic",
+		"tr": "Perus"
 	},
 	{
 		"or": "Blue team",
@@ -210,8 +224,16 @@
 		"tr": "Maa"
 	},
 	{
+		"or": "Crc",
+		"tr": "Crc"
+	},
+	{
 		"or": "Created",
 		"tr": "Luotu"
+	},
+	{
+		"or": "Custom",
+		"tr": "Räätälöity"
 	},
 	{
 		"or": "Custom colors",
@@ -390,6 +412,10 @@
 		"tr": "Isännän osoite:"
 	},
 	{
+		"or": "Hue:",
+		"tr": "Hue:"
+	},
+	{
 		"or": "Invalid Demo",
 		"tr": "Epäkelpo demo"
 	},
@@ -442,6 +468,14 @@
 		"tr": "Pituus"
 	},
 	{
+		"or": "Lgt:",
+		"tr": "Lgt:"
+	},
+	{
+		"or": "Limit Fps",
+		"tr": "Rajaa FPS"
+	},
+	{
 		"or": "Loading",
 		"tr": "Ladataan"
 	},
@@ -464,6 +498,14 @@
 	{
 		"or": "Match",
 		"tr": "Ottelu"
+	},
+	{
+		"or": "Max",
+		"tr": "Max"
+	},
+	{
+		"or": "Max fps",
+		"tr": "Max FPS"
 	},
 	{
 		"or": "Maximum ping:",
@@ -534,8 +576,16 @@
 		"tr": "Normaali:"
 	},
 	{
+		"or": "Off",
+		"tr": "Pois päältä"
+	},
+	{
 		"or": "Ok",
 		"tr": "Ok"
+	},
+	{
+		"or": "On",
+		"tr": "Päällä"
 	},
 	{
 		"or": "Only %d active players are allowed",
@@ -544,6 +594,10 @@
 	{
 		"or": "Open",
 		"tr": "Avaa"
+	},
+	{
+		"or": "Other",
+		"tr": "Muu"
 	},
 	{
 		"or": "Parent Folder",
@@ -627,6 +681,10 @@
 		"tr": "Syy:"
 	},
 	{
+		"or": "Recommended",
+		"tr": "Suositeltu"
+	},
+	{
 		"or": "Record",
 		"tr": "Nauhoita tallenne"
 	},
@@ -671,6 +729,14 @@
 		"tr": "Uudelleennimeä demo"
 	},
 	{
+		"or": "Reset",
+		"tr": "Resetoi"
+	},
+	{
+		"or": "Resolution",
+		"tr": "Resoluutio"
+	},
+	{
 		"or": "Respawn",
 		"tr": "Synny uudestaan"
 	},
@@ -685,6 +751,10 @@
 	{
 		"or": "Sample rate",
 		"tr": "Näytteenottotaajuus"
+	},
+	{
+		"or": "Sat:",
+		"tr": "Sat:"
 	},
 	{
 		"or": "Save",
@@ -767,6 +837,10 @@
 		"tr": "Näytä chatti"
 	},
 	{
+		"or": "Show chat messages from:",
+		"tr": "Näytä chat-viestit:"
+	},
+	{
 		"or": "Show friends only",
 		"tr": "Näytä vain ystävät"
 	},
@@ -779,6 +853,10 @@
 		"tr": "Näytä nimikyltit"
 	},
 	{
+		"or": "Show social",
+		"tr": "Näytä sosiaalisuus"
+	},
+	{
 		"or": "Size",
 		"tr": "Koko"
 	},
@@ -789,6 +867,10 @@
 	{
 		"or": "Skins",
 		"tr": "Ulkonäkö"
+	},
+	{
+		"or": "Skip the main menu",
+		"tr": "Ohita päävalikko"
 	},
 	{
 		"or": "Sound",
@@ -875,6 +957,10 @@
 		"tr": "Joukkueet olivat avoimina"
 	},
 	{
+		"or": "Tee",
+		"tr": "Tee"
+	},
+	{
 		"or": "Teeworlds %s is out! Download it at www.teeworlds.com!",
 		"tr": "Teeworlds %s on julkaistu! Lataa se osoitteesta www.teeworlds.com!"
 	},
@@ -905,6 +991,10 @@
 	{
 		"or": "Time limit: %d min",
 		"tr": "Aikaraja: %d min"
+	},
+	{
+		"or": "To",
+		"tr": "Vastaanottaja"
 	},
 	{
 		"or": "Try again",
@@ -999,6 +1089,10 @@
 		"tr": "Tervetuloa Teeworldsiin"
 	},
 	{
+		"or": "Whisper",
+		"tr": "Kuiskaa"
+	},
+	{
 		"or": "Yes",
 		"tr": "Kyllä"
 	},
@@ -1015,16 +1109,56 @@
 		"tr": "sininen"
 	},
 	{
+		"or": "blue flag",
+		"tr": "sininen lippu"
+	},
+	{
 		"or": "blue team",
 		"tr": "sininen joukkue"
+	},
+	{
+		"or": "body",
+		"tr": "vartalo"
+	},
+	{
+		"or": "decoration",
+		"tr": "koristeet"
+	},
+	{
+		"or": "everyone",
+		"tr": "kaikki"
+	},
+	{
+		"or": "eyes",
+		"tr": "silmät"
+	},
+	{
+		"or": "feet",
+		"tr": "jalat"
+	},
+	{
+		"or": "friends only",
+		"tr": "vain kaverit"
 	},
 	{
 		"or": "game",
 		"tr": "peli"
 	},
 	{
+		"or": "hands",
+		"tr": "kädet"
+	},
+	{
 		"or": "locked",
 		"tr": "lukittu"
+	},
+	{
+		"or": "marking",
+		"tr": "tunnus"
+	},
+	{
+		"or": "no one",
+		"tr": "ei kukaan"
 	},
 	{
 		"or": "no players",
@@ -1033,6 +1167,10 @@
 	{
 		"or": "red",
 		"tr": "punainen"
+	},
+	{
+		"or": "red flag",
+		"tr": "punainen lippu"
 	},
 	{
 		"or": "red team",
