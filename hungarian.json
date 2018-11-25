@@ -1023,7 +1023,7 @@
 	},
 	{
 		"or": "The %s flag was captured by '%2d: %s' (%.2f seconds)",
-		"tr": "%2d bevitte a %s zászlót: %s' (%.2fmásodperc)"
+		"tr": "%2d bevitte a %s zászlót: %s (%.2fmásodperc)"
 	},
 	{
 		"or": "The audio device couldn't be initialised.",

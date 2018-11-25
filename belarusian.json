@@ -5,6 +5,30 @@
 	]},
 "translated strings": [
 	{
+		"or": "%.3f KiB",
+		"tr": "%.3f Кбіт"
+	},
+	{
+		"or": "%d player left",
+		"tr": "%d гулец выйшаў"
+	},
+	{
+		"or": "%d player not ready",
+		"tr": "%d гулец не гатовы"
+	},
+	{
+		"or": "%d players left",
+		"tr": "%d гульцы выйшлі"
+	},
+	{
+		"or": "%d players not ready",
+		"tr": "%d гульцоў не гатова"
+	},
+	{
+		"or": "%d servers, %d players",
+		"tr": "%d сервераў, %d гульцоў"
+	},
+	{
 		"or": "%d%% loaded",
 		"tr": "%d%% загружана"
 	},
@@ -18,7 +42,7 @@
 	},
 	{
 		"or": "%i minutes left",
-		"tr": "Засталося %i хвілін!"
+		"tr": "Засталося %i хв!"
 	},
 	{
 		"or": "%i second left",
@@ -26,7 +50,7 @@
 	},
 	{
 		"or": "%i seconds left",
-		"tr": "Засталося %i секунд!"
+		"tr": "Засталося %i сек!"
 	},
 	{
 		"or": "%s wins!",
@@ -45,24 +69,48 @@
 		"tr": "Дадаць"
 	},
 	{
-		"or": "Add Friend",
-		"tr": "Дадаць сябра"
-	},
-	{
 		"or": "Address",
 		"tr": "Адрас"
+	},
+	{
+		"or": "Admin forced server option '%s' (%s)",
+		"tr": "Адміністратар вымушаны прымусова змяніць опцыі сервера '%s' (%s)"
+	},
+	{
+		"or": "Admin forced vote no",
+		"tr": "Адмін прымусова прагаласаваў не"
+	},
+	{
+		"or": "Admin forced vote yes",
+		"tr": "Адміністратар вымушаны галасаваць так"
+	},
+	{
+		"or": "Admin moved '%s' to spectator (%s)",
+		"tr": "Адміністратар перанёс '%s' ў назіральнікі (%s)"
 	},
 	{
 		"or": "All",
 		"tr": "Усім"
 	},
 	{
+		"or": "Alp:",
+		"tr": "Празр:"
+	},
+	{
 		"or": "Always show name plates",
-		"tr": "Заўсёды паказваць нікі гульцоў"
+		"tr": "Заўсёды паказваць імёны гульцоў"
+	},
+	{
+		"or": "Anti Aliasing",
+		"tr": "Згладжванне"
 	},
 	{
 		"or": "Are you sure that you want to delete the demo?",
-		"tr": "Вы ўпэўнены, што жадаеце выдаліць дэма?"
+		"tr": "Вы ўпэўнены, што жадаеце выдаліць запіс?"
+	},
+	{
+		"or": "Are you sure that you want to delete the skin?",
+		"tr": "Вы сапраўды жадаеце выдаліць скін?"
 	},
 	{
 		"or": "Are you sure that you want to quit?",
@@ -73,16 +121,32 @@
 		"tr": "Вы ўпэўнены, што жадаеце выдаліць гульца з сяброў?"
 	},
 	{
+		"or": "Are you sure you want to rename the demo?",
+		"tr": "Вы ўпэўнены, што жадаеце пераназваць запіс?"
+	},
+	{
+		"or": "Are you sure you want to save your skin? If a skin with this name already exists, it will be replaced.",
+		"tr": "Вы ўпэўнены, што жадаеце захаваць ваш скін? Скін з такой жа назвай будзе заменены."
+	},
+	{
 		"or": "As this is the first time you launch the game, please enter your nick name below. It's recommended that you check the settings to adjust them to your liking before joining a server.",
-		"tr": "Бо гэта ваш першы запуск гульні, калі ласка, увядзіце свой нік у поле ніжэй. Таксама рэкамендуецца праверыць налады гульні і памяняць некаторыя з іх перад тым, як пачаць гуляць."
+		"tr": "Гэта ваш першы запуск гульні, калі ласка, увядзіце сваё імя ніжэй. Рэкамендуецца праверыць налады гульні і памяняць некаторыя з іх перад тым, як пачаць гуляць."
 	},
 	{
 		"or": "Automatically record demos",
-		"tr": "Аўтаматычна запісваць дэма"
+		"tr": "Аўтаматычна рабіць запіс"
 	},
 	{
 		"or": "Automatically take game over screenshot",
 		"tr": "Рабіць здымак вынікаў гульні"
+	},
+	{
+		"or": "Back",
+		"tr": "Назад"
+	},
+	{
+		"or": "Basic",
+		"tr": "Асноўны"
 	},
 	{
 		"or": "Blue team",
@@ -93,8 +157,12 @@
 		"tr": "Сінія перамаглі!"
 	},
 	{
-		"or": "Body",
-		"tr": "Цела"
+		"or": "Borderless window",
+		"tr": "Бязмежнае акно"
+	},
+	{
+		"or": "Browser",
+		"tr": "Браўзар"
 	},
 	{
 		"or": "Call vote",
@@ -118,7 +186,11 @@
 	},
 	{
 		"or": "Close",
-		"tr": "Выйсці"
+		"tr": "Выхад"
+	},
+	{
+		"or": "Color",
+		"tr": "Колер"
 	},
 	{
 		"or": "Compatible version",
@@ -150,15 +222,27 @@
 	},
 	{
 		"or": "Country",
-		"tr": "Сцяг вашай краіны"
+		"tr": "Краіна"
 	},
 	{
-		"or": "Current",
-		"tr": "Бягучы"
+		"or": "Crc",
+		"tr": "Crc"
+	},
+	{
+		"or": "Created",
+		"tr": "Створаны"
+	},
+	{
+		"or": "Custom",
+		"tr": "Наладжвальны"
 	},
 	{
 		"or": "Custom colors",
-		"tr": "Свае колеры"
+		"tr": "Іншыя колеры"
+	},
+	{
+		"or": "Customize",
+		"tr": "Наладзіць"
 	},
 	{
 		"or": "Delete",
@@ -166,19 +250,31 @@
 	},
 	{
 		"or": "Delete demo",
-		"tr": "Выдаліць дэма"
+		"tr": "Выдаліць запіс"
+	},
+	{
+		"or": "Delete skin",
+		"tr": "Выдаліць скін"
+	},
+	{
+		"or": "Demo",
+		"tr": "Запіс"
 	},
 	{
 		"or": "Demo details",
-		"tr": "Дэталі дэма"
+		"tr": "Апісанне запісу"
 	},
 	{
 		"or": "Demofile: %s",
-		"tr": "Дэма: %s"
+		"tr": "Запіс: %s"
 	},
 	{
 		"or": "Demos",
-		"tr": "Дэма"
+		"tr": "Запісы"
+	},
+	{
+		"or": "Detail",
+		"tr": "Апісанне"
 	},
 	{
 		"or": "Disconnect",
@@ -186,7 +282,7 @@
 	},
 	{
 		"or": "Disconnected",
-		"tr": "Адключана"
+		"tr": "Адключан"
 	},
 	{
 		"or": "Downloading map",
@@ -199,6 +295,10 @@
 	{
 		"or": "Dynamic Camera",
 		"tr": "Дынамічная камера"
+	},
+	{
+		"or": "Editor",
+		"tr": "Рэдактар"
 	},
 	{
 		"or": "Emoticon",
@@ -214,7 +314,7 @@
 	},
 	{
 		"or": "Error loading demo",
-		"tr": "Памылка пры загрузцы дэма"
+		"tr": "Памылка пры загрузцы запісу"
 	},
 	{
 		"or": "Favorite",
@@ -223,10 +323,6 @@
 	{
 		"or": "Favorites",
 		"tr": "Абраныя"
-	},
-	{
-		"or": "Feet",
-		"tr": "Ногі"
 	},
 	{
 		"or": "Fire",
@@ -250,7 +346,7 @@
 	},
 	{
 		"or": "Fullscreen",
-		"tr": "Поўнаэкранны рэжым"
+		"tr": "Ва ўвесь экран"
 	},
 	{
 		"or": "Game",
@@ -265,6 +361,14 @@
 		"tr": "Гульня скончана"
 	},
 	{
+		"or": "Game paused",
+		"tr": "Гульня прыпынена"
+	},
+	{
+		"or": "Game starts in",
+		"tr": "Гульня пачынаецца праз"
+	},
+	{
 		"or": "Game type",
 		"tr": "Тып гульні"
 	},
@@ -275,6 +379,10 @@
 	{
 		"or": "General",
 		"tr": "Асноўныя"
+	},
+	{
+		"or": "Global",
+		"tr": "Глабальны"
 	},
 	{
 		"or": "Graphics",
@@ -290,7 +398,7 @@
 	},
 	{
 		"or": "Has people playing",
-		"tr": "Не пусты сервер"
+		"tr": "З гульцамі"
 	},
 	{
 		"or": "High Detail",
@@ -301,8 +409,20 @@
 		"tr": "Крук"
 	},
 	{
+		"or": "Host address:",
+		"tr": "Адрас:"
+	},
+	{
+		"or": "Hue:",
+		"tr": "Адц:"
+	},
+	{
 		"or": "Invalid Demo",
-		"tr": "Недапушчальнае дэма"
+		"tr": "Недазволены запіс"
+	},
+	{
+		"or": "Join",
+		"tr": "Далучыцца"
 	},
 	{
 		"or": "Join blue",
@@ -313,20 +433,56 @@
 		"tr": "За чырвоных"
 	},
 	{
+		"or": "Joined",
+		"tr": "Далучыўся"
+	},
+	{
+		"or": "Joined blue",
+		"tr": "Далучыўся да сініх"
+	},
+	{
+		"or": "Joined red",
+		"tr": "Далучыўся да чырвоных"
+	},
+	{
 		"or": "Jump",
 		"tr": "Скачок"
 	},
 	{
 		"or": "Kick player",
-		"tr": "Забаніць гульца"
+		"tr": "Выкінуць гульца"
+	},
+	{
+		"or": "Kick voting requires %d players on the server",
+		"tr": "Для галасаванне патрабуецца %d гульцоў на серверы"
 	},
 	{
 		"or": "Language",
 		"tr": "Мова"
 	},
 	{
+		"or": "Laser",
+		"tr": "Лазер"
+	},
+	{
+		"or": "Length",
+		"tr": "Даўжыня"
+	},
+	{
+		"or": "Lgt:",
+		"tr": "Асвятл:"
+	},
+	{
 		"or": "Loading",
 		"tr": "Загрузка"
+	},
+	{
+		"or": "Local",
+		"tr": "Лакальны"
+	},
+	{
+		"or": "Local server",
+		"tr": "Лакальны сервер"
 	},
 	{
 		"or": "MOTD",
@@ -337,8 +493,20 @@
 		"tr": "Карта"
 	},
 	{
+		"or": "Match",
+		"tr": "Матч"
+	},
+	{
+		"or": "Max",
+		"tr": "Максімальны"
+	},
+	{
 		"or": "Maximum ping:",
 		"tr": "Макс. пінг:"
+	},
+	{
+		"or": "Misc",
+		"tr": "Рознае"
 	},
 	{
 		"or": "Mouse sens.",
@@ -369,12 +537,20 @@
 		"tr": "Імя"
 	},
 	{
+		"or": "Netversion",
+		"tr": "Чыстая версія"
+	},
+	{
 		"or": "Next weapon",
 		"tr": "Наступ. зброя"
 	},
 	{
 		"or": "Nickname",
-		"tr": "Нік"
+		"tr": "Імя"
+	},
+	{
+		"or": "Nickname is empty.",
+		"tr": "Пустое імя."
 	},
 	{
 		"or": "No",
@@ -393,8 +569,16 @@
 		"tr": "Няма сервераў, падыходных пад ваш фільтр"
 	},
 	{
+		"or": "Normal:",
+		"tr": "Нармальны:"
+	},
+	{
 		"or": "Ok",
 		"tr": "ОK"
+	},
+	{
+		"or": "Only %d active players are allowed",
+		"tr": "Толькі %d актыўных гульцоў дазволены"
 	},
 	{
 		"or": "Open",
@@ -413,6 +597,10 @@
 		"tr": "Пароль "
 	},
 	{
+		"or": "Personal",
+		"tr": "Асабісты"
+	},
+	{
 		"or": "Ping",
 		"tr": "Пінг"
 	},
@@ -422,11 +610,16 @@
 	},
 	{
 		"or": "Play",
+		"tr": "Гуляць"
+	},
+	{
+		"context": "DemoBrowser",
+		"or": "Play",
 		"tr": "Прагляд"
 	},
 	{
 		"or": "Play background music",
-		"tr": "Гуляць фонавую музыку"
+		"tr": "Іграць фонавую музыку"
 	},
 	{
 		"or": "Player",
@@ -450,7 +643,7 @@
 	},
 	{
 		"or": "Prev. weapon",
-		"tr": "Папяр. зброя"
+		"tr": "Папярэдняя зброя"
 	},
 	{
 		"or": "Quality Textures",
@@ -465,8 +658,20 @@
 		"tr": "REC %3d:%02d"
 	},
 	{
+		"or": "Ready",
+		"tr": "Гатовы"
+	},
+	{
 		"or": "Reason:",
-		"tr": "Чыннік:"
+		"tr": "Прычына:"
+	},
+	{
+		"or": "Record",
+		"tr": "Запіс"
+	},
+	{
+		"or": "Recorded",
+		"tr": "Запісана"
 	},
 	{
 		"or": "Red team",
@@ -502,15 +707,39 @@
 	},
 	{
 		"or": "Rename demo",
-		"tr": "Пераназваць дэма"
+		"tr": "Пераназваць запіс"
 	},
 	{
-		"or": "Reset filter",
-		"tr": "Скінуць фільтры"
+		"or": "Reset",
+		"tr": "Скід"
+	},
+	{
+		"or": "Respawn",
+		"tr": "Рэспаўн"
+	},
+	{
+		"or": "Round over",
+		"tr": "Раўнд скончаны"
+	},
+	{
+		"or": "Round over!",
+		"tr": "Раунд скончаны!"
 	},
 	{
 		"or": "Sample rate",
 		"tr": "Чашчыня"
+	},
+	{
+		"or": "Sat:",
+		"tr": "Насыч:"
+	},
+	{
+		"or": "Save",
+		"tr": "Захаваць"
+	},
+	{
+		"or": "Save skin",
+		"tr": "Захаваць скін"
 	},
 	{
 		"or": "Score",
@@ -529,8 +758,16 @@
 		"tr": "Табло"
 	},
 	{
+		"or": "Screen",
+		"tr": "Здымак"
+	},
+	{
 		"or": "Screenshot",
 		"tr": "Здымак"
+	},
+	{
+		"or": "Search:",
+		"tr": "Пошук:"
 	},
 	{
 		"or": "Server address:",
@@ -538,7 +775,15 @@
 	},
 	{
 		"or": "Server details",
-		"tr": "Дэталі сервера"
+		"tr": "Апісанне сервера"
+	},
+	{
+		"or": "Server does not allow voting to kick players",
+		"tr": "Сервер не дапускае галасаванне за выкіданне гульцоў"
+	},
+	{
+		"or": "Server does not allow voting to move players to spectators",
+		"tr": "Сервер не дазваляе галасаванне, каб перамясціць гульцоў у  назіральнікі"
 	},
 	{
 		"or": "Server filter",
@@ -551,6 +796,10 @@
 	{
 		"or": "Server not full",
 		"tr": "Сервер не запоўнены"
+	},
+	{
+		"or": "Servers",
+		"tr": "Серверы"
 	},
 	{
 		"or": "Settings",
@@ -570,15 +819,19 @@
 	},
 	{
 		"or": "Show ingame HUD",
-		"tr": "Паказваць нутрагульнявы HUD"
+		"tr": "Паказваць унутрыгульнявы HUD"
 	},
 	{
 		"or": "Show name plates",
-		"tr": "Паказваць нікі гульцоў"
+		"tr": "Паказваць імёны гульцоў"
 	},
 	{
-		"or": "Show only supported",
-		"tr": "Паказваць толькі падтрымоўваныя дазволы экрана"
+		"or": "Size",
+		"tr": "Памер"
+	},
+	{
+		"or": "Skin",
+		"tr": "Скін"
 	},
 	{
 		"or": "Skins",
@@ -598,11 +851,15 @@
 	},
 	{
 		"or": "Spectate next",
-		"tr": "Назіраць наст."
+		"tr": "Назіраць наступнага"
 	},
 	{
 		"or": "Spectate previous",
-		"tr": "Назіраць папяр."
+		"tr": "Назіраць папярэдняга"
+	},
+	{
+		"or": "Spectating",
+		"tr": "Назіраць"
 	},
 	{
 		"or": "Spectator mode",
@@ -613,8 +870,12 @@
 		"tr": "Назіральнікі"
 	},
 	{
+		"or": "Spectators aren't allowed to start a vote.",
+		"tr": "Назіральнікі не могуць пачаць галасаванне."
+	},
+	{
 		"or": "Standard gametype",
-		"tr": "Стандартны тып гульні"
+		"tr": "Стандартная гульня"
 	},
 	{
 		"or": "Standard map",
@@ -626,7 +887,7 @@
 	},
 	{
 		"or": "Strict gametype filter",
-		"tr": "Строгі фільтр рэжым."
+		"tr": "Строгі фільтр рэжымаў"
 	},
 	{
 		"or": "Sudden Death",
@@ -645,8 +906,36 @@
 		"tr": "Камандны чат"
 	},
 	{
+		"or": "Team:",
+		"tr": "Каманда:"
+	},
+	{
+		"or": "Teams are locked",
+		"tr": "Каманды будуць зачыненыя."
+	},
+	{
+		"or": "Teams are locked. Time to wait before changing team: %02d:%02d",
+		"tr": "Каманды зачынены. Час чакання да змены камандаў: %02d:%02d"
+	},
+	{
+		"or": "Teams were locked",
+		"tr": "Каманды былі зачынены"
+	},
+	{
+		"or": "Teams were unlocked",
+		"tr": "Каманды былі разблакаваныя"
+	},
+	{
+		"or": "Tee",
+		"tr": "Ці"
+	},
+	{
 		"or": "Teeworlds %s is out! Download it at www.teeworlds.com!",
-		"tr": "Выйшла Teeworlds %s! Спампоўвайце на www.teeworlds.com!"
+		"tr": "Выйшоў Teeworlds %s! Спампоўвайце на www.teeworlds.com!"
+	},
+	{
+		"or": "Texture",
+		"tr": "Тэкстуры"
 	},
 	{
 		"or": "Texture Compression",
@@ -670,7 +959,7 @@
 	},
 	{
 		"or": "Time limit: %d min",
-		"tr": "Ліміт часу: %d"
+		"tr": "Ліміт часу: %d хв"
 	},
 	{
 		"or": "Try again",
@@ -682,19 +971,23 @@
 	},
 	{
 		"or": "Unable to delete the demo",
-		"tr": "Немагчыма выдаліць дэма"
+		"tr": "Немагчыма выдаліць запіс"
+	},
+	{
+		"or": "Unable to delete the skin",
+		"tr": "Немагчыма выдаліць скін"
 	},
 	{
 		"or": "Unable to rename the demo",
-		"tr": "Немагчыма пераназваць дэма"
+		"tr": "Немагчыма пераназваць запіс"
 	},
 	{
 		"or": "Use sounds",
-		"tr": "Выкарыстоўваць гукі"
+		"tr": "Ужываць гукі"
 	},
 	{
 		"or": "Use team colors for name plates",
-		"tr": "Камандныя колеры для нікаў гульцоў"
+		"tr": "Камандныя колеры для імёнаў гульцоў"
 	},
 	{
 		"or": "V-Sync",
@@ -705,6 +998,14 @@
 		"tr": "Версія"
 	},
 	{
+		"or": "Volume",
+		"tr": "Гучнасць"
+	},
+	{
+		"or": "Vote aborted",
+		"tr": "Галасаванне перапынена"
+	},
+	{
 		"or": "Vote command:",
 		"tr": "Камманда галасавання:"
 	},
@@ -713,8 +1014,16 @@
 		"tr": "Апісанне галасавання:"
 	},
 	{
+		"or": "Vote failed",
+		"tr": "Прагаласаваць не атрымалася"
+	},
+	{
 		"or": "Vote no",
 		"tr": "Супраць"
+	},
+	{
+		"or": "Vote passed",
+		"tr": "Галасаванне скончана"
 	},
 	{
 		"or": "Vote yes",
@@ -723,6 +1032,14 @@
 	{
 		"or": "Voting",
 		"tr": "Галасаванне"
+	},
+	{
+		"or": "Wait for current vote to end before calling a new one.",
+		"tr": "Дачакайцеся сканчэння галасавання перш чым пачынаць новае."
+	},
+	{
+		"or": "Wait for next round",
+		"tr": "Дачакайцеся наступнага раўнду"
 	},
 	{
 		"or": "Warmup",
@@ -734,7 +1051,7 @@
 	},
 	{
 		"or": "Welcome to Teeworlds",
-		"tr": "Сардэчна запрашаем у Teeworlds!"
+		"tr": "Сардэчна запрашаем у Teeworlds"
 	},
 	{
 		"or": "Yes",
@@ -745,416 +1062,16 @@
 		"tr": "Перазапусціце гульню для ўжывання змен."
 	},
 	{
-		"or": "%.3f KiB",
-		"tr": "%.3f KiB"
-	},
-	{
-		"or": "%d player left",
-		"tr": "%d гулец выйшаў"
-	},
-	{
-		"or": "%d player not ready",
-		"tr": "%d гулец не гатовы"
-	},
-	{
-		"or": "%d players left",
-		"tr": "%d гульцоў выйшла"
-	},
-	{
-		"or": "%d players not ready",
-		"tr": "%d гульцоў не гатова"
-	},
-	{
-		"or": "%d servers, %d players",
-		"tr": "%d сервераў, %d гульцоў"
-	},
-	{
-		"or": "'%s' called for vote to kick '%s' (%s)",
-		"tr": "'%s' выклікаў галасаванне, каб забаніць '%s' (%s)"
-	},
-	{
-		"or": "'%s' called for vote to move '%s' to spectators (%s)",
-		"tr": "'%s' выклікаў галасаванне, каб перанесьці '%s' ў назіральнікі (%s)"
-	},
-	{
-		"or": "'%s' called vote to change server option '%s' (%s)",
-		"tr": "'%s' выклікаў галасаванне, каб змяніць налады сервера'%s' (%s)"
-	},
-	{
-		"or": "'%s' entered and joined the %s",
-		"tr": "'%s' увайшоў і далучыўся %s"
-	},
-	{
-		"or": "'%s' has left the game",
-		"tr": "'%s' выйшаў з гульні"
-	},
-	{
-		"or": "'%s' has left the game (%s)",
-		"tr": "'%s' выйшаў з гульні (%s)"
-	},
-	{
-		"or": "'%s' joined the %s",
-		"tr": "'%s' далучыўся %s"
-	},
-	{
-		"or": "Admin forced server option '%s' (%s)",
-		"tr": "Адміністратар вымушаны прымусова змяніць опцыі сервера '%s' (%s)"
-	},
-	{
-		"or": "Admin forced vote no",
-		"tr": "Адміністратар вымушаны галасаваць не"
-	},
-	{
-		"or": "Admin forced vote yes",
-		"tr": "Адміністратар вымушаны галасаваць так"
-	},
-	{
-		"or": "Admin moved '%s' to spectator (%s)",
-		"tr": "Адміністратар перанёс '%s' ў назіральнікі (%s)"
-	},
-	{
-		"or": "Alp:",
-		"tr": "Alp:"
-	},
-	{
-		"or": "Anti Aliasing",
-		"tr": "Згладжванне тэкстур"
-	},
-	{
-		"or": "Are you sure you want to rename the demo?",
-		"tr": "Вы ўпэўнены, што жадаеце пераназваць дэма?"
-	},
-	{
-		"or": "Are you sure you want to save your skin? If a skin with this name already exists, it will be replaced.",
-		"tr": "Вы ўпэўнены, што жадаеце захаваць ваш скін? Калі скін з такой назвай ужо існуе, ён будзе заменены."
-	},
-	{
-		"or": "Back",
-		"tr": "Назад"
-	},
-	{
-		"or": "Basic",
-		"tr": "Асноўны"
-	},
-	{
-		"or": "Bodies",
-		"tr": "Тулава"
-	},
-	{
-		"or": "Borderless window",
-		"tr": "Бязмежнае акно"
-	},
-	{
-		"or": "Browser",
-		"tr": "Браўзэр"
-	},
-	{
-		"or": "Color",
-		"tr": "Колер"
-	},
-	{
-		"or": "Crc",
-		"tr": "Crc"
-	},
-	{
-		"or": "Created",
-		"tr": "Створаны"
-	},
-	{
-		"or": "Custom",
-		"tr": "Вырабленыя"
-	},
-	{
-		"or": "Customize",
-		"tr": "Вырабіць"
-	},
-	{
-		"or": "Decoration",
-		"tr": "Упрыгожванне"
-	},
-	{
-		"or": "Demo",
-		"tr": "Дэма"
-	},
-	{
-		"or": "Detail",
-		"tr": "Дэталі"
-	},
-	{
-		"or": "Editor",
-		"tr": "Рэдактар"
-	},
-	{
-		"or": "Eyes",
-		"tr": "Вочы"
-	},
-	{
-		"or": "Format",
-		"tr": "Фармат"
-	},
-	{
-		"or": "Game paused",
-		"tr": "Гульня прыпынена"
-	},
-	{
-		"or": "Game starts in",
-		"tr": "Гульня пачынаецца ў"
-	},
-	{
-		"or": "Global",
-		"tr": "Глабальны"
-	},
-	{
-		"or": "Hands",
-		"tr": "Рукі"
-	},
-	{
-		"or": "Host address:",
-		"tr": "Адрас сервера:"
-	},
-	{
-		"or": "Hue:",
-		"tr": "Адценне:"
-	},
-	{
-		"or": "Join",
-		"tr": "Далучыцца"
-	},
-	{
-		"or": "Joined",
-		"tr": "Далучыўся"
-	},
-	{
-		"or": "Joined blue",
-		"tr": "Далучыўся да сініх"
-	},
-	{
-		"or": "Joined red",
-		"tr": "Далучыўся да чырвоных"
-	},
-	{
-		"or": "Kick voting requires %d players on the server",
-		"tr": "Галасаванне патрабуецца %d гульцоў на серверы"
-	},
-	{
-		"or": "Laser",
-		"tr": "Лазер"
-	},
-	{
-		"or": "Length",
-		"tr": "Даўжыня"
-	},
-	{
-		"or": "Letterbox",
-		"tr": "Лэтэрбоксінг"
-	},
-	{
-		"or": "Lgt:",
-		"tr": "Lgt:"
-	},
-	{
-		"or": "Local",
-		"tr": "Лакальны"
-	},
-	{
-		"or": "Local server",
-		"tr": "Лакальны сервер"
-	},
-	{
-		"or": "Match",
-		"tr": "Матч"
-	},
-	{
-		"or": "Max",
-		"tr": "Максімальны"
-	},
-	{
-		"or": "Misc",
-		"tr": "Рознае"
-	},
-	{
-		"or": "Netversion",
-		"tr": "Чыстая версія"
-	},
-	{
-		"or": "Nickname is empty.",
-		"tr": "Нік пусты."
-	},
-	{
-		"or": "Normal:",
-		"tr": "Нармальны:"
-	},
-	{
-		"or": "Only %d active players are allowed",
-		"tr": "Толькі %d актыўных гульцоў дазволены"
-	},
-	{
-		"or": "Personal",
-		"tr": "Асабісты"
-	},
-	{
-		"or": "Ready",
-		"tr": "Гатовы"
-	},
-	{
-		"or": "Record",
-		"tr": "Запіс"
-	},
-	{
-		"or": "Recorded",
-		"tr": "Запісаны"
-	},
-	{
-		"or": "Reset",
-		"tr": "Скід"
-	},
-	{
-		"or": "Resolutions",
-		"tr": "Рэзалюцыі"
-	},
-	{
-		"or": "Respawn",
-		"tr": "Рэспаўн"
-	},
-	{
-		"or": "Round over",
-		"tr": "Раунд скончаны"
-	},
-	{
-		"or": "Round over!",
-		"tr": "Раунд скончаны!"
-	},
-	{
-		"or": "Sat:",
-		"tr": "Sat:"
-	},
-	{
-		"or": "Save",
-		"tr": "Захаваць"
-	},
-	{
-		"or": "Save skin",
-		"tr": "Захаваць скін"
-	},
-	{
-		"or": "Screen",
-		"tr": "Здымак"
-	},
-	{
-		"or": "Search:",
-		"tr": "Шукаць"
-	},
-	{
-		"or": "Server does not allow voting to kick players",
-		"tr": "Сервер не дапускае галасаванне для кіка гульцоў"
-	},
-	{
-		"or": "Server does not allow voting to move players to spectators",
-		"tr": "Сервер не дазваляе галасаванне, каб перамясціць гульцоў у  назіральнікі"
-	},
-	{
-		"or": "Servers",
-		"tr": "Серверы"
-	},
-	{
-		"or": "Show only chat messages from friends",
-		"tr": "Паказаць толькі чат паведамленні ад сяброў"
-	},
-	{
-		"or": "Size",
-		"tr": "Памер"
-	},
-	{
-		"or": "Skin",
-		"tr": "Скін"
-	},
-	{
-		"or": "Spectating",
-		"tr": "Назіраць"
-	},
-	{
-		"or": "Spectators aren't allowed to start a vote.",
-		"tr": "Назіральнікі не дапускаюцца, каб пачаць галасаванне."
-	},
-	{
-		"or": "Standard Gametype",
-		"tr": "Стандартны тып гульні"
-	},
-	{
-		"or": "Tattoo",
-		"tr": "Тату"
-	},
-	{
-		"or": "Tattoos",
-		"tr": "Тату"
-	},
-	{
-		"or": "Team:",
-		"tr": "Каманда"
-	},
-	{
-		"or": "Teams are locked",
-		"tr": "Каманды будуць зачыненыя."
-	},
-	{
-		"or": "Teams are locked. Time to wait before changing team: %02d:%02d",
-		"tr": "Каманды будуць зачыненыя. Час чакання перад зменай каманды:%02d:%02d"
-	},
-	{
-		"or": "Teams were locked",
-		"tr": "Каманды былі зачыненыя"
-	},
-	{
-		"or": "Teams were unlocked",
-		"tr": "Каманды былі разблакаваныя"
-	},
-	{
-		"or": "Tee",
-		"tr": "Калабок"
-	},
-	{
-		"or": "Texture",
-		"tr": "Тэкстуры"
-	},
-	{
-		"or": "Volume",
-		"tr": "Аб'ём"
-	},
-	{
-		"or": "Vote aborted",
-		"tr": "Галасаванне перапынена"
-	},
-	{
-		"or": "Vote failed",
-		"tr": "Прагаласаваць не атрымалася"
-	},
-	{
-		"or": "Vote passed",
-		"tr": "Галасаванне завяршылася"
-	},
-	{
-		"or": "Wait for current vote to end before calling a new one.",
-		"tr": "Пачакайце для дадзенага галасавання ў канец перад выклікам новай."
-	},
-	{
-		"or": "Wait for next round",
-		"tr": "Дачакайцеся наступнага раўнду"
-	},
-	{
-		"or": "Wide",
-		"tr": "Шырокі"
-	},
-	{
 		"or": "You must wait %d seconds before making another vote",
-		"tr": "Вы павінны пачакаць %d секунд, перш чым рабіць яшчэ адно галасаванне"
+		"tr": "Вы павінны пачакаць %d секунд, перш чым зрабіць яшчэ адно галасаванне"
 	},
 	{
 		"or": "blue",
-		"tr": "Сінія"
+		"tr": "сінія"
 	},
 	{
 		"or": "blue team",
-		"tr": "Сіняя каманда"
+		"tr": "сіняя каманда"
 	},
 	{
 		"or": "game",
@@ -1162,7 +1079,7 @@
 	},
 	{
 		"or": "locked",
-		"tr": "Зачынена"
+		"tr": "зачынена"
 	},
 	{
 		"or": "no players",
@@ -1170,11 +1087,11 @@
 	},
 	{
 		"or": "red",
-		"tr": "Чырвоныя"
+		"tr": "чырвоныя"
 	},
 	{
 		"or": "red team",
-		"tr": "Чырвоная каманда"
+		"tr": "чырвоная каманда"
 	},
 	{
 		"or": "spectators",
@@ -1182,181 +1099,7 @@
 	},
 	{
 		"or": "wait for more players",
-		"tr": "Чакайце больш гульцоў"
-	}],
-"needs translation": [
-	],
-"old translations": [
-	{
-		"or": "New name:",
-		"tr": "Новае імя:"
-	},
-	{
-		"or": "Sat.",
-		"tr": "Кантраст"
-	},
-	{
-		"or": "Miscellaneous",
-		"tr": "Дадаткова"
-	},
-	{
-		"or": "Internet",
-		"tr": "Інтэрнэт"
-	},
-	{
-		"or": "Max demos",
-		"tr": "Максімальная колькасць дэма"
-	},
-	{
-		"or": "News",
-		"tr": "Навіны"
-	},
-	{
-		"or": "Join game",
-		"tr": "Гуляць"
-	},
-	{
-		"or": "FSAA samples",
-		"tr": "Сэмплаў FSAA"
-	},
-	{
-		"or": "%d of %d servers, %d players",
-		"tr": "%d з %d сервераў, %d гульцоў"
-	},
-	{
-		"or": "Sound volume",
-		"tr": "Гучнасць"
-	},
-	{
-		"or": "Created:",
-		"tr": "Створаны:"
-	},
-	{
-		"or": "Max Screenshots",
-		"tr": "Максімальная колькасць здымкаў"
-	},
-	{
-		"or": "Length:",
-		"tr": "Даўжыня"
-	},
-	{
-		"or": "Skin name",
-		"tr": "Назва скіна"
-	},
-	{
-		"or": "Rifle",
-		"tr": "Бласцер"
-	},
-	{
-		"or": "Patterns",
-		"tr": "Шаблоны"
-	},
-	{
-		"or": "Netversion:",
-		"tr": "Версія:"
-	},
-	{
-		"or": "Map:",
-		"tr": "Карта:"
-	},
-	{
-		"or": "%d Bytes",
-		"tr": "%d байт"
-	},
-	{
-		"or": "Coloration",
-		"tr": "Афарбоўка"
-	},
-	{
-		"or": "Info",
-		"tr": "Інфа"
-	},
-	{
-		"or": "Hue",
-		"tr": "Адценне"
-	},
-	{
-		"or": "Record demo",
-		"tr": "Запісаць дэма"
-	},
-	{
-		"or": "Your skin",
-		"tr": "Ваш скін"
-	},
-	{
-		"or": "Size:",
-		"tr": "Памер:"
-	},
-	{
-		"or": "Reset to defaults",
-		"tr": "Скінуць налады"
-	},
-	{
-		"or": "Quit anyway?",
-		"tr": "Выйсці?"
-	},
-	{
-		"or": "Display Modes",
-		"tr": "Дазвол экрана"
-	},
-	{
-		"or": "Version:",
-		"tr": "Версія:"
-	},
-	{
-		"or": "Round",
-		"tr": "Раўнд"
-	},
-	{
-		"or": "Lht.",
-		"tr": "Яркасць"
-	},
-	{
-		"or": "no limit",
-		"tr": "Без ліміту"
-	},
-	{
-		"or": "Quick search:",
-		"tr": "Хуткі пошук:"
-	},
-	{
-		"or": "UI Color",
-		"tr": "Колер інтэрфейсу"
-	},
-	{
-		"or": "Host address",
-		"tr": "Адрас сервера"
-	},
-	{
-		"or": "Crc:",
-		"tr": "Crc:"
-	},
-	{
-		"or": "Alpha",
-		"tr": "Празрыст."
-	},
-	{
-		"or": "Are you sure you want to save your skin ? If a skin with this name already exists, it will be replaced.",
-		"tr": "Вы ўпэўненыя, што вы хочаце захаваць ваш скін? Калі скін з такой назвай ужо існуе, ён будзе заменены."
-	},
-	{
-		"or": "Current version: %s",
-		"tr": "Бягучая версія: %s"
-	},
-	{
-		"or": "Filter",
-		"tr": "Фільтр"
-	},
-	{
-		"or": "LAN",
-		"tr": "LAN"
-	},
-	{
-		"or": "Name plates size",
-		"tr": "Памер"
-	},
-	{
-		"or": "Type:",
-		"tr": "Тып:"
-	}]
+		"tr": "чаканне гульцоў"
+	}
+]
 }
