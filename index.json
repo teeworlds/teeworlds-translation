@@ -10,6 +10,11 @@
 		"code": 70
 	},
 	{
+		"file": "breton",
+		"name": "Brezhoneg",
+		"code": -1
+	},
+	{
 		"file": "brazilian_portuguese",
 		"name": "Português brasileiro",
 		"code": 76
@@ -18,6 +23,11 @@
 		"file": "bulgarian",
 		"name": "Български",
 		"code": 100
+	},
+	{
+		"file": "catalan",
+		"name": "Català",
+		"code": -1
 	},
 	{
 		"file": "czech",
@@ -40,6 +50,16 @@
 		"code": 528
 	},
 	{
+		"file": "esperanto",
+		"name": "Esperanto",
+		"code": -1
+	},
+	{
+		"file": "estonian",
+		"name": "Eesti",
+		"code": 233
+	},
+	{
 		"file": "finnish",
 		"name": "Suomi",
 		"code": 246
@@ -55,6 +75,11 @@
 		"code": 903
 	},
 	{
+		"file": "galician",
+		"name": "Galego",
+		"code": -1
+	},
+	{
 		"file": "german",
 		"name": "Deutsch",
 		"code": 276
@@ -68,6 +93,11 @@
 		"file": "hungarian",
 		"name": "Magyar",
 		"code": 348
+	},
+	{
+		"file": "irish",
+		"name": "Gaeilge",
+		"code": 372
 	},
 	{
 		"file": "italian",
@@ -130,6 +160,11 @@
 		"code": 703
 	},
 	{
+		"file": "slovenian",
+		"name": "Slovenščina",
+		"code": 705
+	},
+	{
 		"file": "spanish",
 		"name": "Español",
 		"code": 724
@@ -148,6 +183,11 @@
 		"file": "ukrainian",
 		"name": "Українська",
 		"code": 804
+	},
+	{
+		"file": "chinese",
+		"name": "汉语",
+		"code": 156
 	},
 	{
 		"file": "simplified_chinese",

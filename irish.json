@@ -1,0 +1,1101 @@
+{
+"translated strings": [
+	{
+		"or": "%.3f KiB",
+		"tr": "%.3f KiB"
+	},
+	{
+		"or": "%d player left",
+		"tr": "D'fhág %d imreoir"
+	},
+	{
+		"or": "%d player not ready",
+		"tr": "%d imreoir neamhullamh"
+	},
+	{
+		"or": "%d players left",
+		"tr": "%d imreoir fágtha"
+	},
+	{
+		"or": "%d players not ready",
+		"tr": "%d imreoir neamhullamh"
+	},
+	{
+		"or": "%d servers, %d players",
+		"tr": "%d freastalaí, %d imreoir"
+	},
+	{
+		"or": "%d%% loaded",
+		"tr": "%d%% lódáilte"
+	},
+	{
+		"or": "%ds left",
+		"tr": "%ds fágtha"
+	},
+	{
+		"or": "%i minute left",
+		"tr": "%i nóiméad fágtha"
+	},
+	{
+		"or": "%i minutes left",
+		"tr": "%i nóiméad fágtha"
+	},
+	{
+		"or": "%i second left",
+		"tr": "%i soicind fágtha"
+	},
+	{
+		"or": "%i seconds left",
+		"tr": "%i soicind fágtha"
+	},
+	{
+		"or": "%s wins!",
+		"tr": "Tá an bua ag %s!"
+	},
+	{
+		"or": "-Page %d-",
+		"tr": "-Leathanach %d-"
+	},
+	{
+		"or": "Abort",
+		"tr": "Tobscoir"
+	},
+	{
+		"or": "Add",
+		"tr": "Cuir Vóta Leis"
+	},
+	{
+		"or": "Address",
+		"tr": "Seoladh"
+	},
+	{
+		"or": "Admin forced server option '%s' (%s)",
+		"tr": "Chuir riarthóir an rogha '%s' i bhfeidhm le lámh láidir (%s)"
+	},
+	{
+		"or": "Admin forced vote no",
+		"tr": "Réitigh riarthóir an vóta 'ní hea' le lámh láidir"
+	},
+	{
+		"or": "Admin forced vote yes",
+		"tr": "Réitigh riarthóir an vóta 'is ea' le lámh láidir"
+	},
+	{
+		"or": "Admin moved '%s' to spectator (%s)",
+		"tr": "Rinne riarthóir breathnóir as '%s' (%s)"
+	},
+	{
+		"or": "All",
+		"tr": "Uile"
+	},
+	{
+		"or": "Alp:",
+		"tr": "Alfa:"
+	},
+	{
+		"or": "Always show name plates",
+		"tr": "Taispeáin ainmchláir i gcónaí"
+	},
+	{
+		"or": "Anti Aliasing",
+		"tr": "Frithailiasáil"
+	},
+	{
+		"or": "Are you sure that you want to delete the demo?",
+		"tr": "An bhfuil tú cinnte gur mhaith leat an taispeántas a scriosadh?"
+	},
+	{
+		"or": "Are you sure that you want to delete the skin?",
+		"tr": "An bhfuil tú cinnte gur mhaith leat an craiceann a scriosadh?"
+	},
+	{
+		"or": "Are you sure that you want to quit?",
+		"tr": "An bhfuil tú cinnte gur mhaith leat fágáil?"
+	},
+	{
+		"or": "Are you sure that you want to remove the player from your friends list?",
+		"tr": "An bhfuil tú cinnte gur mhaith leat an t-imreoir a bhaint de do liosta cairde?"
+	},
+	{
+		"or": "Are you sure you want to rename the demo?",
+		"tr": "An bhfuil tú cinnte gur mhaith leat ainm nua a chur ar an taispeántas?"
+	},
+	{
+		"or": "Are you sure you want to save your skin? If a skin with this name already exists, it will be replaced.",
+		"tr": "An bhfuil tú cinnte gur mhaith leat do chraiceann a shábháil? Má tá craiceann ann leis an ainm seo, forscríobhfar é."
+	},
+	{
+		"or": "As this is the first time you launch the game, please enter your nick name below. It's recommended that you check the settings to adjust them to your liking before joining a server.",
+		"tr": "Toisc gurb é seo an chéad uair a thosóidh tú an cluiche, cuir isteach do leasainm thíos. Molaimid duit súil a chaitheamh ar na socruithe agus iad a athrú mar is áil leat sula gceanglóidh tú le freastalaí."
+	},
+	{
+		"or": "Automatically record demos",
+		"tr": "Taifead taispeántais go huathoibríoch"
+	},
+	{
+		"or": "Automatically take game over screenshot",
+		"tr": "Seat scáileáin go huathoibríoch ag deireadh an chluiche"
+	},
+	{
+		"or": "Back",
+		"tr": "Siar"
+	},
+	{
+		"or": "Basic",
+		"tr": "Bunúsach"
+	},
+	{
+		"or": "Blue team",
+		"tr": "Foireann ghorm"
+	},
+	{
+		"or": "Blue team wins!",
+		"tr": "Tá an bua ag an bhfoireann ghorm!"
+	},
+	{
+		"or": "Borderless window",
+		"tr": "Fuinneog gan imlíne"
+	},
+	{
+		"or": "Browser",
+		"tr": "Brabhsálaí"
+	},
+	{
+		"or": "Call vote",
+		"tr": "Iarr vóta"
+	},
+	{
+		"or": "Change settings",
+		"tr": "Athraigh socruithe"
+	},
+	{
+		"or": "Chat",
+		"tr": "Comhrá"
+	},
+	{
+		"or": "Clan",
+		"tr": "Clann"
+	},
+	{
+		"or": "Client",
+		"tr": "Cliant"
+	},
+	{
+		"or": "Close",
+		"tr": "Dún"
+	},
+	{
+		"or": "Color",
+		"tr": "Dath"
+	},
+	{
+		"or": "Compatible version",
+		"tr": "Leagan comhoiriúnach"
+	},
+	{
+		"or": "Connect",
+		"tr": "Ceangail"
+	},
+	{
+		"or": "Connecting to",
+		"tr": "Ag ceangal le"
+	},
+	{
+		"or": "Connection Problems...",
+		"tr": "Fadhbanna ag Ceangal..."
+	},
+	{
+		"or": "Console",
+		"tr": "Consól"
+	},
+	{
+		"or": "Controls",
+		"tr": "Rialtáin"
+	},
+	{
+		"or": "Count players only",
+		"tr": "Imreoirí amháin san áireamh"
+	},
+	{
+		"or": "Country",
+		"tr": "Tír"
+	},
+	{
+		"or": "Crc",
+		"tr": "Crc"
+	},
+	{
+		"or": "Created",
+		"tr": "Cruthaithe"
+	},
+	{
+		"or": "Custom",
+		"tr": "Saincheaptha"
+	},
+	{
+		"or": "Custom colors",
+		"tr": "Dathanna saincheaptha"
+	},
+	{
+		"or": "Customize",
+		"tr": "Saincheap"
+	},
+	{
+		"or": "Delete",
+		"tr": "Scrios"
+	},
+	{
+		"or": "Delete demo",
+		"tr": "Scrios an taispeántas"
+	},
+	{
+		"or": "Delete skin",
+		"tr": "Scrios an craiceann"
+	},
+	{
+		"or": "Demo",
+		"tr": "Taispeántas"
+	},
+	{
+		"or": "Demo details",
+		"tr": "Mionsonraí an taispeántais"
+	},
+	{
+		"or": "Demofile: %s",
+		"tr": "Comhad taispeántais: %s"
+	},
+	{
+		"or": "Demos",
+		"tr": "Taispeántais"
+	},
+	{
+		"or": "Detail",
+		"tr": "Mionsonraí"
+	},
+	{
+		"or": "Disconnect",
+		"tr": "Dícheangail"
+	},
+	{
+		"or": "Disconnected",
+		"tr": "Dícheangailte"
+	},
+	{
+		"or": "Downloading map",
+		"tr": "Mapa á íoslódáil"
+	},
+	{
+		"or": "Draw!",
+		"tr": "Comhbhua!"
+	},
+	{
+		"or": "Dynamic Camera",
+		"tr": "Ceamara Dinimiciúil"
+	},
+	{
+		"or": "Editor",
+		"tr": "Eagarthóir"
+	},
+	{
+		"or": "Emoticon",
+		"tr": "Straoiseog"
+	},
+	{
+		"or": "Enter",
+		"tr": "Téigh"
+	},
+	{
+		"or": "Error",
+		"tr": "Earráid"
+	},
+	{
+		"or": "Error loading demo",
+		"tr": "Earráid agus an taispeántas á lódáil"
+	},
+	{
+		"or": "Favorite",
+		"tr": "Ceanán"
+	},
+	{
+		"or": "Favorites",
+		"tr": "Ceanáin"
+	},
+	{
+		"or": "Fire",
+		"tr": "Tine"
+	},
+	{
+		"or": "Folder",
+		"tr": "Fillteán"
+	},
+	{
+		"or": "Force vote",
+		"tr": "Fórsáil vóta"
+	},
+	{
+		"or": "Free-View",
+		"tr": "Saoramharc"
+	},
+	{
+		"or": "Friends",
+		"tr": "Cairde"
+	},
+	{
+		"or": "Fullscreen",
+		"tr": "Lánscáileán"
+	},
+	{
+		"or": "Game",
+		"tr": "Cluiche"
+	},
+	{
+		"or": "Game info",
+		"tr": "Eolas faoin chluiche"
+	},
+	{
+		"or": "Game over",
+		"tr": "Cluiche thart"
+	},
+	{
+		"or": "Game paused",
+		"tr": "Cluiche curtha ar sos"
+	},
+	{
+		"or": "Game starts in",
+		"tr": "Tosóidh an cluiche i gceann"
+	},
+	{
+		"or": "Game type",
+		"tr": "Cineál an chluiche"
+	},
+	{
+		"or": "Game types:",
+		"tr": "Cineálacha cluiche:"
+	},
+	{
+		"or": "General",
+		"tr": "Ginearálta"
+	},
+	{
+		"or": "Global",
+		"tr": "Domhanda"
+	},
+	{
+		"or": "Graphics",
+		"tr": "Grafaic"
+	},
+	{
+		"or": "Grenade",
+		"tr": "Gránáid"
+	},
+	{
+		"or": "Hammer",
+		"tr": "Casúr"
+	},
+	{
+		"or": "Has people playing",
+		"tr": "Imreoirí air"
+	},
+	{
+		"or": "High Detail",
+		"tr": "Mionsonraithe"
+	},
+	{
+		"or": "Hook",
+		"tr": "Croch"
+	},
+	{
+		"or": "Host address:",
+		"tr": "Seoladh an óstríomhaire:"
+	},
+	{
+		"or": "Hue:",
+		"tr": "Lí:"
+	},
+	{
+		"or": "Invalid Demo",
+		"tr": "Taispeántas Neamhbhailí"
+	},
+	{
+		"or": "Join",
+		"tr": "Glac páirt"
+	},
+	{
+		"or": "Join blue",
+		"tr": "Gabh leis an bhfoireann ghorm"
+	},
+	{
+		"or": "Join red",
+		"tr": "Gabh leis an bhfoireann dhearg"
+	},
+	{
+		"or": "Joined",
+		"tr": "Sa chluiche"
+	},
+	{
+		"or": "Joined blue",
+		"tr": "Ar an bhfoireann ghorm"
+	},
+	{
+		"or": "Joined red",
+		"tr": "Ar an bhfoireann dhearg"
+	},
+	{
+		"or": "Jump",
+		"tr": "Léim"
+	},
+	{
+		"or": "Kick player",
+		"tr": "Ruaig an t-imreoir"
+	},
+	{
+		"or": "Kick voting requires %d players on the server",
+		"tr": "Ní mór ar a laghad %d imreoir a bheith ar an bhfreastalaí le vótáil ar ruaigeadh"
+	},
+	{
+		"or": "Language",
+		"tr": "Teanga"
+	},
+	{
+		"or": "Laser",
+		"tr": "Léasar"
+	},
+	{
+		"or": "Length",
+		"tr": "Fad"
+	},
+	{
+		"or": "Lgt:",
+		"tr": "Gile:"
+	},
+	{
+		"or": "Loading",
+		"tr": "Á Lódáil"
+	},
+	{
+		"or": "Local",
+		"tr": "Áitiúil"
+	},
+	{
+		"or": "Local server",
+		"tr": "Freastalaí áitiúil"
+	},
+	{
+		"or": "MOTD",
+		"tr": "Teachtaireacht na Lae"
+	},
+	{
+		"or": "Map",
+		"tr": "Mapa"
+	},
+	{
+		"or": "Match",
+		"tr": "Comórtas"
+	},
+	{
+		"or": "Max",
+		"tr": "Uasmhéid"
+	},
+	{
+		"or": "Maximum ping:",
+		"tr": "Uasmhéid pingeanna:"
+	},
+	{
+		"or": "Misc",
+		"tr": "Éagsúil"
+	},
+	{
+		"or": "Mouse sens.",
+		"tr": "Íogaireacht na luiche"
+	},
+	{
+		"or": "Move left",
+		"tr": "Ar chlé"
+	},
+	{
+		"or": "Move player to spectators",
+		"tr": "Díbir an t-imreoir go dtí an lucht féachana"
+	},
+	{
+		"or": "Move right",
+		"tr": "Ar dheis"
+	},
+	{
+		"or": "Movement",
+		"tr": "Gluaiseacht"
+	},
+	{
+		"or": "Mute when not active",
+		"tr": "Balbhaigh nuair nach bhfuil sé gníomhach"
+	},
+	{
+		"or": "Name",
+		"tr": "Ainm"
+	},
+	{
+		"or": "Netversion",
+		"tr": "Leagan líonra"
+	},
+	{
+		"or": "Next weapon",
+		"tr": "An chéad ghléas troda eile"
+	},
+	{
+		"or": "Nickname",
+		"tr": "Leasainm"
+	},
+	{
+		"or": "Nickname is empty.",
+		"tr": "Tá an leasainm folamh."
+	},
+	{
+		"or": "No",
+		"tr": "Níl"
+	},
+	{
+		"or": "No password",
+		"tr": "Gan focal faire"
+	},
+	{
+		"or": "No servers found",
+		"tr": "Níor aimsíodh aon fhreastalaí"
+	},
+	{
+		"or": "No servers match your filter criteria",
+		"tr": "Níl aon fhreastalaí comhoiriúnach leis na critéir seo"
+	},
+	{
+		"or": "Normal:",
+		"tr": "Gnáth:"
+	},
+	{
+		"or": "Ok",
+		"tr": "OK"
+	},
+	{
+		"or": "Only %d active players are allowed",
+		"tr": "Ní cheadaítear níos mó ná %d imreoir gníomhach"
+	},
+	{
+		"or": "Open",
+		"tr": "Oscail"
+	},
+	{
+		"or": "Parent Folder",
+		"tr": "Máthairfhillteán"
+	},
+	{
+		"or": "Password",
+		"tr": "Focal Faire"
+	},
+	{
+		"or": "Password incorrect",
+		"tr": "Focal faire mícheart"
+	},
+	{
+		"or": "Personal",
+		"tr": "Pearsanta"
+	},
+	{
+		"or": "Ping",
+		"tr": "Ping"
+	},
+	{
+		"or": "Pistol",
+		"tr": "Piostal"
+	},
+	{
+		"or": "Play",
+		"tr": "Imir"
+	},
+	{
+		"context": "DemoBrowser",
+		"or": "Play",
+		"tr": "Imi"
+	},
+	{
+		"or": "Play background music",
+		"tr": "Seinn ceol cúlra"
+	},
+	{
+		"or": "Player",
+		"tr": "Imreoir"
+	},
+	{
+		"or": "Player country:",
+		"tr": "Tír an imreora:"
+	},
+	{
+		"or": "Player options",
+		"tr": "Roghanna imreora"
+	},
+	{
+		"or": "Players",
+		"tr": "Imreoirí"
+	},
+	{
+		"or": "Please balance teams!",
+		"tr": "Caithfidh tú na foirne a choinneáil ar cothrom!"
+	},
+	{
+		"or": "Prev. weapon",
+		"tr": "An gléas troda roimhe seo"
+	},
+	{
+		"or": "Quality Textures",
+		"tr": "Uigeachtaí Den Scoth"
+	},
+	{
+		"or": "Quit",
+		"tr": "Scoir"
+	},
+	{
+		"or": "REC %3d:%02d",
+		"tr": "TAIF %3d:%02d"
+	},
+	{
+		"or": "Ready",
+		"tr": "Réidh"
+	},
+	{
+		"or": "Reason:",
+		"tr": "Fáth:"
+	},
+	{
+		"or": "Record",
+		"tr": "Déan Taifead"
+	},
+	{
+		"or": "Recorded",
+		"tr": "Taifeadta"
+	},
+	{
+		"or": "Red team",
+		"tr": "Foireann dhearg"
+	},
+	{
+		"or": "Red team wins!",
+		"tr": "Tá an bua ag an bhfoireann dhearg!"
+	},
+	{
+		"or": "Refresh",
+		"tr": "Athnuaigh"
+	},
+	{
+		"or": "Refreshing master servers",
+		"tr": "Liosta príomhfhreastalaithe á athnuachan"
+	},
+	{
+		"or": "Remote console",
+		"tr": "Consól i gcéin"
+	},
+	{
+		"or": "Remove",
+		"tr": "Bain"
+	},
+	{
+		"or": "Remove friend",
+		"tr": "Bain ó chairde"
+	},
+	{
+		"or": "Rename",
+		"tr": "Athainmnigh"
+	},
+	{
+		"or": "Rename demo",
+		"tr": "Athainmnigh an taispeántas"
+	},
+	{
+		"or": "Reset",
+		"tr": "Athshocraigh"
+	},
+	{
+		"or": "Respawn",
+		"tr": "Athsceith"
+	},
+	{
+		"or": "Round over",
+		"tr": "Tá an babhta thart"
+	},
+	{
+		"or": "Round over!",
+		"tr": "Tá an babhta thart!"
+	},
+	{
+		"or": "Sample rate",
+		"tr": "Ráta samplála"
+	},
+	{
+		"or": "Sat:",
+		"tr": "Sáith:"
+	},
+	{
+		"or": "Save",
+		"tr": "Sábháil"
+	},
+	{
+		"or": "Save skin",
+		"tr": "Sábháil an craiceann"
+	},
+	{
+		"or": "Score",
+		"tr": "Scór"
+	},
+	{
+		"or": "Score board",
+		"tr": "Scórchlár"
+	},
+	{
+		"or": "Score limit",
+		"tr": "Teorainn scóir"
+	},
+	{
+		"or": "Scoreboard",
+		"tr": "Scórchlár"
+	},
+	{
+		"or": "Screen",
+		"tr": "Scáileán"
+	},
+	{
+		"or": "Screenshot",
+		"tr": "Seat den scáileán"
+	},
+	{
+		"or": "Search:",
+		"tr": "Cuardach:"
+	},
+	{
+		"or": "Server address:",
+		"tr": "Seoladh an fhreastalaí:"
+	},
+	{
+		"or": "Server details",
+		"tr": "Mionsonraí an fhreastalaí"
+	},
+	{
+		"or": "Server does not allow voting to kick players",
+		"tr": "Ní cheadaíonn an freastalaí vótáil ar imreoirí a ruaigeadh"
+	},
+	{
+		"or": "Server does not allow voting to move players to spectators",
+		"tr": "Ní cheadaíonn an freastalaí vótáil ar imreoirí a dhíbirt go dtí an lucht féachana"
+	},
+	{
+		"or": "Server filter",
+		"tr": "Scagaire freastalaithe"
+	},
+	{
+		"or": "Server info",
+		"tr": "Eolas faoin fhreastalaí"
+	},
+	{
+		"or": "Server not full",
+		"tr": "Spás ar an bhfreastalaí"
+	},
+	{
+		"or": "Servers",
+		"tr": "Freastalaithe"
+	},
+	{
+		"or": "Settings",
+		"tr": "Socruithe"
+	},
+	{
+		"or": "Shotgun",
+		"tr": "Gunna gráin"
+	},
+	{
+		"or": "Show chat",
+		"tr": "Taispeáin comhrá"
+	},
+	{
+		"or": "Show friends only",
+		"tr": "Taispeáin cairde amháin"
+	},
+	{
+		"or": "Show ingame HUD",
+		"tr": "Taispeáin HUD inchluiche"
+	},
+	{
+		"or": "Show name plates",
+		"tr": "Taispeáin ainmchláir"
+	},
+	{
+		"or": "Size",
+		"tr": "Méid"
+	},
+	{
+		"or": "Skin",
+		"tr": "Craiceann"
+	},
+	{
+		"or": "Skins",
+		"tr": "Craicne"
+	},
+	{
+		"or": "Sound",
+		"tr": "Fuaim"
+	},
+	{
+		"or": "Sound error",
+		"tr": "Earráid fhuaime"
+	},
+	{
+		"or": "Spectate",
+		"tr": "Breathnaigh"
+	},
+	{
+		"or": "Spectate next",
+		"tr": "Breathnaigh ar an chéad cheann eile"
+	},
+	{
+		"or": "Spectate previous",
+		"tr": "Breathnaigh ar an gceann roimhe seo"
+	},
+	{
+		"or": "Spectating",
+		"tr": "Ag Breathnú"
+	},
+	{
+		"or": "Spectator mode",
+		"tr": "Mód breathnóra"
+	},
+	{
+		"or": "Spectators",
+		"tr": "Lucht féachana"
+	},
+	{
+		"or": "Spectators aren't allowed to start a vote.",
+		"tr": "Níl cead ag baill den lucht féachana vóta a thosú."
+	},
+	{
+		"or": "Standard gametype",
+		"tr": "Gnáthchluiche"
+	},
+	{
+		"or": "Standard map",
+		"tr": "Mapa caighdeánach"
+	},
+	{
+		"or": "Stop record",
+		"tr": "Stop ag taifeadadh"
+	},
+	{
+		"or": "Strict gametype filter",
+		"tr": "Scagaire docht cluichí"
+	},
+	{
+		"or": "Sudden Death",
+		"tr": "Bás Tobann"
+	},
+	{
+		"or": "Switch weapon on pickup",
+		"tr": "Úsáid gléas troda tár éis é a phiocadh suas"
+	},
+	{
+		"or": "Team",
+		"tr": "Foireann"
+	},
+	{
+		"or": "Team chat",
+		"tr": "Comhrá foirne"
+	},
+	{
+		"or": "Team:",
+		"tr": "Foireann:"
+	},
+	{
+		"or": "Teams are locked",
+		"tr": "Foirne faoi ghlas"
+	},
+	{
+		"or": "Teams are locked. Time to wait before changing team: %02d:%02d",
+		"tr": "Foirne faoi ghlas. Tréimhse sular féidir foirne a athrú: %02d:%02d"
+	},
+	{
+		"or": "Teams were locked",
+		"tr": "Bhí na foirne glasáilte"
+	},
+	{
+		"or": "Teams were unlocked",
+		"tr": "Bhí na foirne díghlasáilte"
+	},
+	{
+		"or": "Tee",
+		"tr": "Tí"
+	},
+	{
+		"or": "Teeworlds %s is out! Download it at www.teeworlds.com!",
+		"tr": "Tá Teeworlds %s ar fáil! Íoslódáil ó www.teeworlds.com!"
+	},
+	{
+		"or": "Texture",
+		"tr": "Uigeacht"
+	},
+	{
+		"or": "Texture Compression",
+		"tr": "Comhbhrú Uigeachtaí"
+	},
+	{
+		"or": "The audio device couldn't be initialised.",
+		"tr": "Níorbh fhéidir an gléas fuaime a thúsú."
+	},
+	{
+		"or": "The server is running a non-standard tuning on a pure game type.",
+		"tr": "Tá an freastalaí ag déanamh tiúnadh neamhchaighdeánach ar chluiche glan."
+	},
+	{
+		"or": "There's an unsaved map in the editor, you might want to save it before you quit the game.",
+		"tr": "Tá mapa gan sábháil san eagarthóir faoi láthair; ba chóir duit é a shábháil sula bhfágfaidh tú an cluiche."
+	},
+	{
+		"or": "Time limit",
+		"tr": "Teorainn ama"
+	},
+	{
+		"or": "Time limit: %d min",
+		"tr": "Teorainn ama: %d nóim"
+	},
+	{
+		"or": "Try again",
+		"tr": "Bain triail eile as"
+	},
+	{
+		"or": "Type",
+		"tr": "Cineál"
+	},
+	{
+		"or": "Unable to delete the demo",
+		"tr": "Níorbh fhéidir an taispeántas a scriosadh"
+	},
+	{
+		"or": "Unable to delete the skin",
+		"tr": "Níorbh fhéidir an craiceann a scriosadh"
+	},
+	{
+		"or": "Unable to rename the demo",
+		"tr": "Ní féidir ainm nua a chur ar an taispeántas"
+	},
+	{
+		"or": "Use sounds",
+		"tr": "Úsáid fuaimeanna"
+	},
+	{
+		"or": "Use team colors for name plates",
+		"tr": "Úsáid dathanna foirne ar ainmchláir"
+	},
+	{
+		"or": "V-Sync",
+		"tr": "V-Sionc"
+	},
+	{
+		"or": "Version",
+		"tr": "Leagan"
+	},
+	{
+		"or": "Volume",
+		"tr": "Airde"
+	},
+	{
+		"or": "Vote aborted",
+		"tr": "Cuireadh stopadh leis an vóta"
+	},
+	{
+		"or": "Vote command:",
+		"tr": "Ordú vótála:"
+	},
+	{
+		"or": "Vote description:",
+		"tr": "Cur síos ar vóta:"
+	},
+	{
+		"or": "Vote failed",
+		"tr": "Theip ar an vóta"
+	},
+	{
+		"or": "Vote no",
+		"tr": "Vótáil 'ní hea'"
+	},
+	{
+		"or": "Vote passed",
+		"tr": "Glacadh leis an vóta"
+	},
+	{
+		"or": "Vote yes",
+		"tr": "Vótáil 'is ea'"
+	},
+	{
+		"or": "Voting",
+		"tr": "Vótáil"
+	},
+	{
+		"or": "Wait for current vote to end before calling a new one.",
+		"tr": "Caithfidh tú fanacht le deireadh an vóta reatha sular féidir leat vóta nua a eagrú."
+	},
+	{
+		"or": "Wait for next round",
+		"tr": "Fan leis an chéad bhabhta eile"
+	},
+	{
+		"or": "Warmup",
+		"tr": "Réamhchleachtadh"
+	},
+	{
+		"or": "Weapon",
+		"tr": "Gléas Troda"
+	},
+	{
+		"or": "Welcome to Teeworlds",
+		"tr": "Fáilte go dtí Teeworlds"
+	},
+	{
+		"or": "Yes",
+		"tr": "Tá"
+	},
+	{
+		"or": "You must restart the game for all settings to take effect.",
+		"tr": "Ní mór duit an cluiche a atosú chun na hathruithe go léir a chur i bhfeidhm."
+	},
+	{
+		"or": "You must wait %d seconds before making another vote",
+		"tr": "Caithfidh tú feitheamh %d soicind sular féidir leat vóta eile a dhéanamh"
+	},
+	{
+		"or": "blue",
+		"tr": "gorm"
+	},
+	{
+		"or": "blue team",
+		"tr": "foireann ghorm"
+	},
+	{
+		"or": "game",
+		"tr": "cluiche"
+	},
+	{
+		"or": "locked",
+		"tr": "faoi ghlas"
+	},
+	{
+		"or": "no players",
+		"tr": "gan imreoirí"
+	},
+	{
+		"or": "red",
+		"tr": "dearg"
+	},
+	{
+		"or": "red team",
+		"tr": "foireann dhearg"
+	},
+	{
+		"or": "spectators",
+		"tr": "lucht féachana"
+	},
+	{
+		"or": "wait for more players",
+		"tr": "fan le himreoirí eile"
+	}
+]
+}

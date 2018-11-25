@@ -1,0 +1,932 @@
+{
+"translated strings": [
+	{
+		"or": "%.3f KiB",
+		"tr": "%.3f KiB"
+	},
+	{
+		"or": "%d player left",
+		"tr": "%d mängija lahkus"
+	},
+	{
+		"or": "%d player not ready",
+		"tr": "%d mängija ei ole valmis"
+	},
+	{
+		"or": "%d players left",
+		"tr": "%d mängijat järgi"
+	},
+	{
+		"or": "%d players not ready",
+		"tr": "%d mängijad ei ole valmis"
+	},
+	{
+		"or": "%d servers, %d players",
+		"tr": "%d serverit, %d mängijat"
+	},
+	{
+		"or": "%d%% loaded",
+		"tr": "%d%% laetud"
+	},
+	{
+		"or": "%ds left",
+		"tr": "%d s jäänud"
+	},
+	{
+		"or": "%i minute left",
+		"tr": "%i minut järgi"
+	},
+	{
+		"or": "%i minutes left",
+		"tr": "%i minutit järgi"
+	},
+	{
+		"or": "%i second left",
+		"tr": "%i sekund järgi"
+	},
+	{
+		"or": "%i seconds left",
+		"tr": "%i sekundit järgi"
+	},
+	{
+		"or": "%s wins!",
+		"tr": "%s võitis!"
+	},
+	{
+		"or": "-Page %d-",
+		"tr": "-Lehekülg %d-"
+	},
+	{
+		"or": "Abort",
+		"tr": "Katkesta"
+	},
+	{
+		"or": "Add",
+		"tr": "Lisa"
+	},
+	{
+		"or": "Address",
+		"tr": "Aadress"
+	},
+	{
+		"or": "Admin moved '%s' to spectator (%s)",
+		"tr": "Admin tõstis '%s' vaatlejatesse (%s)"
+	},
+	{
+		"or": "All",
+		"tr": "Kõik"
+	},
+	{
+		"or": "Always show name plates",
+		"tr": "Alati näita nimesid"
+	},
+	{
+		"or": "Are you sure that you want to delete the demo?",
+		"tr": "Oled sa kindel, et sa tahad demo kustutada?"
+	},
+	{
+		"or": "Are you sure that you want to delete the skin?",
+		"tr": "Oled sa kindel, et tahad selle välimuse kustutada?"
+	},
+	{
+		"or": "Are you sure that you want to quit?",
+		"tr": "Oled sa kindel et tahad lahkuda?"
+	},
+	{
+		"or": "Are you sure that you want to remove the player from your friends list?",
+		"tr": "Oled sa kindel, et tahad selle mängija sõbralistist eemaldada?"
+	},
+	{
+		"or": "Are you sure you want to rename the demo?",
+		"tr": "Oled sa kindel, et sa tahad demo ümber nimetada?"
+	},
+	{
+		"or": "Are you sure you want to save your skin? If a skin with this name already exists, it will be replaced.",
+		"tr": "Oled sa kindel et tahad välimue salvestada? Kui samanimeline välimus on juba olemas, asendatakse vana välimus uuega."
+	},
+	{
+		"or": "As this is the first time you launch the game, please enter your nick name below. It's recommended that you check the settings to adjust them to your liking before joining a server.",
+		"tr": "Kuna see on esimene kord, kui sa mängu käivitad, palun sisesta oma mängija nimi alla. On soovitatud kontrollida seadeid, et muuta neid oma äranägemise järgi enne serverisse sisenemist"
+	},
+	{
+		"or": "Automatically record demos",
+		"tr": "Automaatselt salvesta demod"
+	},
+	{
+		"or": "Back",
+		"tr": "Tagasi"
+	},
+	{
+		"or": "Basic",
+		"tr": "Tavaline"
+	},
+	{
+		"or": "Blue team",
+		"tr": "Sinine meeskond"
+	},
+	{
+		"or": "Blue team wins!",
+		"tr": "Sinine meeskond võitis!"
+	},
+	{
+		"or": "Borderless window",
+		"tr": "Äärteta aken"
+	},
+	{
+		"or": "Browser",
+		"tr": "Lehitseja"
+	},
+	{
+		"or": "Call vote",
+		"tr": "Kutsu hääletus"
+	},
+	{
+		"or": "Change settings",
+		"tr": "Muuda seadeid"
+	},
+	{
+		"or": "Client",
+		"tr": "Klient"
+	},
+	{
+		"or": "Close",
+		"tr": "Sulge"
+	},
+	{
+		"or": "Color",
+		"tr": "Värv"
+	},
+	{
+		"or": "Compatible version",
+		"tr": "Sobituv versioon"
+	},
+	{
+		"or": "Connect",
+		"tr": "Ühenda"
+	},
+	{
+		"or": "Connecting to",
+		"tr": "Ühendamine"
+	},
+	{
+		"or": "Connection Problems...",
+		"tr": "Ühenduse probleemid"
+	},
+	{
+		"or": "Console",
+		"tr": "Konsool"
+	},
+	{
+		"or": "Count players only",
+		"tr": "Loe ainult mängijaid"
+	},
+	{
+		"or": "Country",
+		"tr": "Riik"
+	},
+	{
+		"or": "Created",
+		"tr": "Loodud"
+	},
+	{
+		"or": "Custom",
+		"tr": "Teistsugune"
+	},
+	{
+		"or": "Custom colors",
+		"tr": "Teistsugused värvid"
+	},
+	{
+		"or": "Delete",
+		"tr": "Kustuta"
+	},
+	{
+		"or": "Delete demo",
+		"tr": "Kustuta demo"
+	},
+	{
+		"or": "Delete skin",
+		"tr": "Kustuta välimus"
+	},
+	{
+		"or": "Demo",
+		"tr": "Demo"
+	},
+	{
+		"or": "Demo details",
+		"tr": "Demo detailid"
+	},
+	{
+		"or": "Demofile: %s",
+		"tr": "Demofail: %s"
+	},
+	{
+		"or": "Demos",
+		"tr": "Demod"
+	},
+	{
+		"or": "Detail",
+		"tr": "Detail"
+	},
+	{
+		"or": "Disconnect",
+		"tr": "Välju serverist"
+	},
+	{
+		"or": "Disconnected",
+		"tr": "Ühendus katkestatud"
+	},
+	{
+		"or": "Downloading map",
+		"tr": "Laeb maailmat"
+	},
+	{
+		"or": "Draw!",
+		"tr": "Viik!"
+	},
+	{
+		"or": "Dynamic Camera",
+		"tr": "Liikuv kaamera"
+	},
+	{
+		"or": "Enter",
+		"tr": "Sisene"
+	},
+	{
+		"or": "Error",
+		"tr": "Viga"
+	},
+	{
+		"or": "Error loading demo",
+		"tr": "Viga demo laadimisel"
+	},
+	{
+		"or": "Favorite",
+		"tr": "Lemmik"
+	},
+	{
+		"or": "Favorites",
+		"tr": "Lemmikud"
+	},
+	{
+		"or": "Fire",
+		"tr": "Tuli"
+	},
+	{
+		"or": "Folder",
+		"tr": "Kaust"
+	},
+	{
+		"or": "Free-View",
+		"tr": "Vaba vaade"
+	},
+	{
+		"or": "Friends",
+		"tr": "Sõbrad"
+	},
+	{
+		"or": "Fullscreen",
+		"tr": "Täisekraan"
+	},
+	{
+		"or": "Game",
+		"tr": "Mäng"
+	},
+	{
+		"or": "Game info",
+		"tr": "Mängu info"
+	},
+	{
+		"or": "Game over",
+		"tr": "Mäng läbi"
+	},
+	{
+		"or": "Game type",
+		"tr": "Mängutüüp"
+	},
+	{
+		"or": "Game types:",
+		"tr": "Mängutüübid:"
+	},
+	{
+		"or": "General",
+		"tr": "Üldine"
+	},
+	{
+		"or": "Global",
+		"tr": "Globaalne"
+	},
+	{
+		"or": "Graphics",
+		"tr": "Graafika"
+	},
+	{
+		"or": "Grenade",
+		"tr": "Granaat"
+	},
+	{
+		"or": "Hammer",
+		"tr": "Haamer"
+	},
+	{
+		"or": "Host address:",
+		"tr": "Serveri host"
+	},
+	{
+		"or": "Invalid Demo",
+		"tr": "Vigane demo"
+	},
+	{
+		"or": "Join",
+		"tr": "Liitu"
+	},
+	{
+		"or": "Join blue",
+		"tr": "Liitu sinistega"
+	},
+	{
+		"or": "Join red",
+		"tr": "Liitu punastega"
+	},
+	{
+		"or": "Joined",
+		"tr": "Liitus"
+	},
+	{
+		"or": "Joined blue",
+		"tr": "Liitu sinistega"
+	},
+	{
+		"or": "Joined red",
+		"tr": "Liitu punastega"
+	},
+	{
+		"or": "Jump",
+		"tr": "Hüppa"
+	},
+	{
+		"or": "Kick player",
+		"tr": "Viska mängija välja"
+	},
+	{
+		"or": "Kick voting requires %d players on the server",
+		"tr": "Välja viskamise hääletus nõuab %d mängijat serveris"
+	},
+	{
+		"or": "Language",
+		"tr": "Keel"
+	},
+	{
+		"or": "Laser",
+		"tr": "Laser"
+	},
+	{
+		"or": "Length",
+		"tr": "Pikkus"
+	},
+	{
+		"or": "Lgt:",
+		"tr": "Heledus:"
+	},
+	{
+		"or": "Loading",
+		"tr": "Laeb"
+	},
+	{
+		"or": "Local",
+		"tr": "Kohalik"
+	},
+	{
+		"or": "Local server",
+		"tr": "Kohalik server"
+	},
+	{
+		"or": "MOTD",
+		"tr": "Päeva sõnum"
+	},
+	{
+		"or": "Map",
+		"tr": "Maailm"
+	},
+	{
+		"or": "Max",
+		"tr": "Max"
+	},
+	{
+		"or": "Misc",
+		"tr": "Muu"
+	},
+	{
+		"or": "Mouse sens.",
+		"tr": "Hiire tundlikkus"
+	},
+	{
+		"or": "Move left",
+		"tr": "Liigu vasakule"
+	},
+	{
+		"or": "Move player to spectators",
+		"tr": "Liiguta mängija vaatlejate hulka"
+	},
+	{
+		"or": "Move right",
+		"tr": "Liigu paremale"
+	},
+	{
+		"or": "Movement",
+		"tr": "Liikumine"
+	},
+	{
+		"or": "Mute when not active",
+		"tr": "Hääletuks, kui pole aktiivne"
+	},
+	{
+		"or": "Name",
+		"tr": "Nimi"
+	},
+	{
+		"or": "Next weapon",
+		"tr": "Järgmine relv"
+	},
+	{
+		"or": "Nickname",
+		"tr": "Hüüdnimi"
+	},
+	{
+		"or": "Nickname is empty.",
+		"tr": "Hüüdnimi on tühi."
+	},
+	{
+		"or": "No",
+		"tr": "Ei"
+	},
+	{
+		"or": "No password",
+		"tr": "Ilma salasõnata"
+	},
+	{
+		"or": "No servers found",
+		"tr": "Servereid ei leitud"
+	},
+	{
+		"or": "No servers match your filter criteria",
+		"tr": "Ükski server ei sobi otsingu tinimustega"
+	},
+	{
+		"or": "Normal:",
+		"tr": "Normaalne:"
+	},
+	{
+		"or": "Ok",
+		"tr": "Ok"
+	},
+	{
+		"or": "Only %d active players are allowed",
+		"tr": "Ainult %d aktiivset mängijat on lubatud"
+	},
+	{
+		"or": "Password",
+		"tr": "Salasõna"
+	},
+	{
+		"or": "Password incorrect",
+		"tr": "Vale salasõna"
+	},
+	{
+		"or": "Personal",
+		"tr": "Personaalne"
+	},
+	{
+		"or": "Pistol",
+		"tr": "Püstol"
+	},
+	{
+		"or": "Play",
+		"tr": "Mängima"
+	},
+	{
+		"or": "Play background music",
+		"tr": "Mängi taustamuusikat"
+	},
+	{
+		"or": "Player",
+		"tr": "Mängija"
+	},
+	{
+		"or": "Player country:",
+		"tr": "Mängija riik"
+	},
+	{
+		"or": "Player options",
+		"tr": "Mängija valikud"
+	},
+	{
+		"or": "Players",
+		"tr": "Mängijad"
+	},
+	{
+		"or": "Please balance teams!",
+		"tr": "Palun tasakaalustage meeskonnad!"
+	},
+	{
+		"or": "Prev. weapon",
+		"tr": "Eelmine relv"
+	},
+	{
+		"or": "Quality Textures",
+		"tr": "Kvaliteetsed tekstuurid"
+	},
+	{
+		"or": "Ready",
+		"tr": "Valmis"
+	},
+	{
+		"or": "Reason:",
+		"tr": "Põhjus:"
+	},
+	{
+		"or": "Record",
+		"tr": "Salesta"
+	},
+	{
+		"or": "Recorded",
+		"tr": "Salvestatud"
+	},
+	{
+		"or": "Red team",
+		"tr": "Punane meeskond"
+	},
+	{
+		"or": "Red team wins!",
+		"tr": "Punane meeskond võitis!"
+	},
+	{
+		"or": "Refresh",
+		"tr": "Värskenda"
+	},
+	{
+		"or": "Refreshing master servers",
+		"tr": "Värskendab peaservereid"
+	},
+	{
+		"or": "Remote console",
+		"tr": "kaugpaneel"
+	},
+	{
+		"or": "Remove",
+		"tr": "Eemalda"
+	},
+	{
+		"or": "Remove friend",
+		"tr": "Eemalda sõber"
+	},
+	{
+		"or": "Rename",
+		"tr": "Nimeta ümber"
+	},
+	{
+		"or": "Rename demo",
+		"tr": "Nimeta demo ümber"
+	},
+	{
+		"or": "Reset",
+		"tr": "Taasta"
+	},
+	{
+		"or": "Respawn",
+		"tr": "Sünni uuesti"
+	},
+	{
+		"or": "Save",
+		"tr": "Salvesta"
+	},
+	{
+		"or": "Save skin",
+		"tr": "Salvesta välimus"
+	},
+	{
+		"or": "Score",
+		"tr": "Skoor"
+	},
+	{
+		"or": "Score board",
+		"tr": "Skoori tabel"
+	},
+	{
+		"or": "Score limit",
+		"tr": "Skoori limiit"
+	},
+	{
+		"or": "Scoreboard",
+		"tr": "Punkti tabel"
+	},
+	{
+		"or": "Screen",
+		"tr": "Ekraan"
+	},
+	{
+		"or": "Screenshot",
+		"tr": "Ekraanitõmmis"
+	},
+	{
+		"or": "Search:",
+		"tr": "Otsi:"
+	},
+	{
+		"or": "Server address:",
+		"tr": "Serveri aadress:"
+	},
+	{
+		"or": "Server details",
+		"tr": "Serveri detailid"
+	},
+	{
+		"or": "Server does not allow voting to kick players",
+		"tr": "Server ei võimalda hääletada mängijate välja viskamist"
+	},
+	{
+		"or": "Server does not allow voting to move players to spectators",
+		"tr": "Server ei luba mängijate vaatajatesse hääletamist"
+	},
+	{
+		"or": "Server filter",
+		"tr": "Serveri filter"
+	},
+	{
+		"or": "Server info",
+		"tr": "Serveri info"
+	},
+	{
+		"or": "Server not full",
+		"tr": "Server ei ole täis"
+	},
+	{
+		"or": "Servers",
+		"tr": "Serverid"
+	},
+	{
+		"or": "Settings",
+		"tr": "Seaded"
+	},
+	{
+		"or": "Shotgun",
+		"tr": "Pump-püss"
+	},
+	{
+		"or": "Show chat",
+		"tr": "Näita vestlust"
+	},
+	{
+		"or": "Show friends only",
+		"tr": "Näita ainult sõpru"
+	},
+	{
+		"or": "Show name plates",
+		"tr": "Näita nimesilte"
+	},
+	{
+		"or": "Size",
+		"tr": "Suurus"
+	},
+	{
+		"or": "Skin",
+		"tr": "Välimus"
+	},
+	{
+		"or": "Skins",
+		"tr": "Välimused"
+	},
+	{
+		"or": "Sound",
+		"tr": "Heli"
+	},
+	{
+		"or": "Sound error",
+		"tr": "Heli viga"
+	},
+	{
+		"or": "Spectate",
+		"tr": "Vaatle"
+	},
+	{
+		"or": "Spectate next",
+		"tr": "Vaatle järgmist"
+	},
+	{
+		"or": "Spectate previous",
+		"tr": "Vaatle eelmist"
+	},
+	{
+		"or": "Spectating",
+		"tr": "Vaatleb"
+	},
+	{
+		"or": "Spectators",
+		"tr": "Vaatlejad"
+	},
+	{
+		"or": "Spectators aren't allowed to start a vote.",
+		"tr": "Vaatlejatel pole lubatud hääletust alustada."
+	},
+	{
+		"or": "Standard gametype",
+		"tr": "Standartne mängutüüp"
+	},
+	{
+		"or": "Standard map",
+		"tr": "Standartne maailm"
+	},
+	{
+		"or": "Stop record",
+		"tr": "Lõpeta salvestus"
+	},
+	{
+		"or": "Switch weapon on pickup",
+		"tr": "Vaheta relv korjamisel"
+	},
+	{
+		"or": "Team",
+		"tr": "Meeskond"
+	},
+	{
+		"or": "Team:",
+		"tr": "Meesknd:"
+	},
+	{
+		"or": "Teams are locked",
+		"tr": "Meeskonnad on lukus"
+	},
+	{
+		"or": "Teams are locked. Time to wait before changing team: %02d:%02d",
+		"tr": "Meeskonnad on lukus. Aeg enne meeskonna vahetust: %02d:%02d"
+	},
+	{
+		"or": "Teams were locked",
+		"tr": "Meeskonnad lukustati"
+	},
+	{
+		"or": "Teams were unlocked",
+		"tr": "Meeskonnad avati"
+	},
+	{
+		"or": "Teeworlds %s is out! Download it at www.teeworlds.com!",
+		"tr": "Teeworlds %s on väljas! Lae see alla www.teeworlds.com!"
+	},
+	{
+		"or": "Texture",
+		"tr": "Tekstuur"
+	},
+	{
+		"or": "The audio device couldn't be initialised.",
+		"tr": "Heliseadet ei tuvastatud."
+	},
+	{
+		"or": "There's an unsaved map in the editor, you might want to save it before you quit the game.",
+		"tr": "Maailma muutjas on salvestamata maailm, sa võid tahta selle ära salvestada, enne mängu sulgemist."
+	},
+	{
+		"or": "Time limit",
+		"tr": "Ajalimiit"
+	},
+	{
+		"or": "Time limit: %d min",
+		"tr": " Ajalimiit:%d min"
+	},
+	{
+		"or": "Try again",
+		"tr": "Proovi uuesti"
+	},
+	{
+		"or": "Type",
+		"tr": "Kirjuta"
+	},
+	{
+		"or": "Unable to delete the demo",
+		"tr": "Ei saa demo kustutada"
+	},
+	{
+		"or": "Unable to delete the skin",
+		"tr": "Välimust ei saa salvestada"
+	},
+	{
+		"or": "Unable to rename the demo",
+		"tr": "Demo ei saa ümber nimetada"
+	},
+	{
+		"or": "Use sounds",
+		"tr": "Kasuta helisid"
+	},
+	{
+		"or": "Use team colors for name plates",
+		"tr": "Kasuta meeskonna värve nimesiltidel"
+	},
+	{
+		"or": "Version",
+		"tr": "Versioon"
+	},
+	{
+		"or": "Volume",
+		"tr": "Helitugevus"
+	},
+	{
+		"or": "Vote aborted",
+		"tr": "Hääletus katkestatud"
+	},
+	{
+		"or": "Vote command:",
+		"tr": "Hääletuse käsklus:"
+	},
+	{
+		"or": "Vote description:",
+		"tr": "Hääletuse kirjeldus:"
+	},
+	{
+		"or": "Vote failed",
+		"tr": "Hääletus nurjus"
+	},
+	{
+		"or": "Vote no",
+		"tr": "Hääleta Ei"
+	},
+	{
+		"or": "Vote passed",
+		"tr": "Hääletus läks läbi"
+	},
+	{
+		"or": "Vote yes",
+		"tr": "Hääleta Jah"
+	},
+	{
+		"or": "Voting",
+		"tr": "Hääletamine"
+	},
+	{
+		"or": "Wait for current vote to end before calling a new one.",
+		"tr": "Oota praeguse hääletuse lõpuni, enne uue alustamist."
+	},
+	{
+		"or": "Wait for next round",
+		"tr": "Oota järgmist ringi"
+	},
+	{
+		"or": "Warmup",
+		"tr": "Soojendus"
+	},
+	{
+		"or": "Weapon",
+		"tr": "Relv"
+	},
+	{
+		"or": "Welcome to Teeworlds",
+		"tr": "Tere tulemast Teeworlds'i"
+	},
+	{
+		"or": "Yes",
+		"tr": "Jah"
+	},
+	{
+		"or": "You must restart the game for all settings to take effect.",
+		"tr": "Sa pead mängu taaskäivitama, et kõikseaded rakenduks."
+	},
+	{
+		"or": "You must wait %d seconds before making another vote",
+		"tr": "Sa pead ootama %d sekundit enne uue hääletuse alustamist"
+	},
+	{
+		"or": "blue",
+		"tr": "sinine"
+	},
+	{
+		"or": "blue team",
+		"tr": "sinine meeskond"
+	},
+	{
+		"or": "game",
+		"tr": "mäng"
+	},
+	{
+		"or": "locked",
+		"tr": "lukus"
+	},
+	{
+		"or": "no players",
+		"tr": "mängijaid ei ole"
+	},
+	{
+		"or": "red",
+		"tr": "punane"
+	},
+	{
+		"or": "red team",
+		"tr": "punane meeskond"
+	},
+	{
+		"or": "spectators",
+		"tr": "vaatlejad"
+	},
+	{
+		"or": "wait for more players",
+		"tr": "oota rohkem mängijaid"
+	}
+]
+}

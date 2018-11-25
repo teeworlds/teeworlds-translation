@@ -1,0 +1,1101 @@
+{
+"translated strings": [
+	{
+		"or": "%.3f KiB",
+		"tr": "%.3f KiB"
+	},
+	{
+		"or": "%d player left",
+		"tr": "%d xogador restante"
+	},
+	{
+		"or": "%d player not ready",
+		"tr": "O xogador %d non está perparado"
+	},
+	{
+		"or": "%d players left",
+		"tr": "%d xogadores restantes"
+	},
+	{
+		"or": "%d players not ready",
+		"tr": "%d xogadores non están preparados"
+	},
+	{
+		"or": "%d servers, %d players",
+		"tr": "%d servidores, %d xogadores"
+	},
+	{
+		"or": "%d%% loaded",
+		"tr": "%d%% cargado"
+	},
+	{
+		"or": "%ds left",
+		"tr": "%ds restantes"
+	},
+	{
+		"or": "%i minute left",
+		"tr": "%i minuto restante"
+	},
+	{
+		"or": "%i minutes left",
+		"tr": "%i minutos restantes"
+	},
+	{
+		"or": "%i second left",
+		"tr": "%i segundo restante"
+	},
+	{
+		"or": "%i seconds left",
+		"tr": "%i segundos restantes"
+	},
+	{
+		"or": "%s wins!",
+		"tr": "¡%s gaña!"
+	},
+	{
+		"or": "-Page %d-",
+		"tr": "-Páxina %d-"
+	},
+	{
+		"or": "Abort",
+		"tr": "Abortar"
+	},
+	{
+		"or": "Add",
+		"tr": "Engadir"
+	},
+	{
+		"or": "Address",
+		"tr": "Dirección"
+	},
+	{
+		"or": "Admin forced server option '%s' (%s)",
+		"tr": "O administrador forzou a opción do servidor '%s' (%s)"
+	},
+	{
+		"or": "Admin forced vote no",
+		"tr": "O administrador forzou a votación a non"
+	},
+	{
+		"or": "Admin forced vote yes",
+		"tr": "O administrador forzou a votación a sí"
+	},
+	{
+		"or": "Admin moved '%s' to spectator (%s)",
+		"tr": "O administrador moveu '%s' a espectadores (%s)"
+	},
+	{
+		"or": "All",
+		"tr": "Todos"
+	},
+	{
+		"or": "Alp:",
+		"tr": "Transparencia:"
+	},
+	{
+		"or": "Always show name plates",
+		"tr": "Amosar sempre os apodos"
+	},
+	{
+		"or": "Anti Aliasing",
+		"tr": "Anti-Aliasing"
+	},
+	{
+		"or": "Are you sure that you want to delete the demo?",
+		"tr": "¿Estás seguro de que queres eliminar a demo?"
+	},
+	{
+		"or": "Are you sure that you want to delete the skin?",
+		"tr": "¿Estas seguro de que queres borrar o skin?"
+	},
+	{
+		"or": "Are you sure that you want to quit?",
+		"tr": "¿Está seguro de que quere sair?"
+	},
+	{
+		"or": "Are you sure that you want to remove the player from your friends list?",
+		"tr": "¿Estás seguro de que queres eliminar este xogador da lista de amizades?"
+	},
+	{
+		"or": "Are you sure you want to rename the demo?",
+		"tr": "¿Estás seguro de que queres renomear a demo?"
+	},
+	{
+		"or": "Are you sure you want to save your skin? If a skin with this name already exists, it will be replaced.",
+		"tr": "¿Estás seguro de que queres gardar o teu skin? Se un skin con este nome xa existe, será reemplazado"
+	},
+	{
+		"or": "As this is the first time you launch the game, please enter your nick name below. It's recommended that you check the settings to adjust them to your liking before joining a server.",
+		"tr": "Como é a primeira vez que inicias o xogo, por favor, introdce o teu apodo. É recomendable que verifiques a tua configuración e xustes as preferencias antes de unirte a un servidor."
+	},
+	{
+		"or": "Automatically record demos",
+		"tr": "Grabar demos automáticamente"
+	},
+	{
+		"or": "Automatically take game over screenshot",
+		"tr": "Tomar automáticamente unha captura de pantalla o final da partida"
+	},
+	{
+		"or": "Back",
+		"tr": "Atrás"
+	},
+	{
+		"or": "Basic",
+		"tr": "Básico"
+	},
+	{
+		"or": "Blue team",
+		"tr": "Equipo azul"
+	},
+	{
+		"or": "Blue team wins!",
+		"tr": "¡O equipo azul gaña!"
+	},
+	{
+		"or": "Borderless window",
+		"tr": "Xanela sen bordes"
+	},
+	{
+		"or": "Browser",
+		"tr": "Navegador"
+	},
+	{
+		"or": "Call vote",
+		"tr": "Votar"
+	},
+	{
+		"or": "Change settings",
+		"tr": "Cambiar configuración"
+	},
+	{
+		"or": "Chat",
+		"tr": "Chat"
+	},
+	{
+		"or": "Clan",
+		"tr": "Clan"
+	},
+	{
+		"or": "Client",
+		"tr": "Cliente"
+	},
+	{
+		"or": "Close",
+		"tr": "Pechar"
+	},
+	{
+		"or": "Color",
+		"tr": "Color"
+	},
+	{
+		"or": "Compatible version",
+		"tr": "Versión compatíbel"
+	},
+	{
+		"or": "Connect",
+		"tr": "Conectar"
+	},
+	{
+		"or": "Connecting to",
+		"tr": "Conectando con"
+	},
+	{
+		"or": "Connection Problems...",
+		"tr": "Problemas de conexión..."
+	},
+	{
+		"or": "Console",
+		"tr": "Consola"
+	},
+	{
+		"or": "Controls",
+		"tr": "Controis"
+	},
+	{
+		"or": "Count players only",
+		"tr": "Únicamente contar xogadores"
+	},
+	{
+		"or": "Country",
+		"tr": "País"
+	},
+	{
+		"or": "Crc",
+		"tr": "Crc"
+	},
+	{
+		"or": "Created",
+		"tr": "Creado"
+	},
+	{
+		"or": "Custom",
+		"tr": "Personalizado"
+	},
+	{
+		"or": "Custom colors",
+		"tr": "Cores personalizadas"
+	},
+	{
+		"or": "Customize",
+		"tr": "Personalizar"
+	},
+	{
+		"or": "Delete",
+		"tr": "Eliminar"
+	},
+	{
+		"or": "Delete demo",
+		"tr": "Eliminar demo"
+	},
+	{
+		"or": "Delete skin",
+		"tr": "Borrar skin"
+	},
+	{
+		"or": "Demo",
+		"tr": "Demo"
+	},
+	{
+		"or": "Demo details",
+		"tr": "Detalles da demo"
+	},
+	{
+		"or": "Demofile: %s",
+		"tr": "Arquivo: %s"
+	},
+	{
+		"or": "Demos",
+		"tr": "Demos"
+	},
+	{
+		"or": "Detail",
+		"tr": "Detalles"
+	},
+	{
+		"or": "Disconnect",
+		"tr": "Desconectar"
+	},
+	{
+		"or": "Disconnected",
+		"tr": "Desconectado"
+	},
+	{
+		"or": "Downloading map",
+		"tr": "Descargando mapa"
+	},
+	{
+		"or": "Draw!",
+		"tr": "¡Empate!"
+	},
+	{
+		"or": "Dynamic Camera",
+		"tr": "Cámara dinámica"
+	},
+	{
+		"or": "Editor",
+		"tr": "Editor"
+	},
+	{
+		"or": "Emoticon",
+		"tr": "Emoticón"
+	},
+	{
+		"or": "Enter",
+		"tr": "Entrar"
+	},
+	{
+		"or": "Error",
+		"tr": "Error"
+	},
+	{
+		"or": "Error loading demo",
+		"tr": "Error o cargar a demo"
+	},
+	{
+		"or": "Favorite",
+		"tr": "Favorito"
+	},
+	{
+		"or": "Favorites",
+		"tr": "Favoritos"
+	},
+	{
+		"or": "Fire",
+		"tr": "Disparar"
+	},
+	{
+		"or": "Folder",
+		"tr": "Cartafol"
+	},
+	{
+		"or": "Force vote",
+		"tr": "Forzar voto"
+	},
+	{
+		"or": "Free-View",
+		"tr": "Vista libre"
+	},
+	{
+		"or": "Friends",
+		"tr": "Amizades"
+	},
+	{
+		"or": "Fullscreen",
+		"tr": "Xanela completa"
+	},
+	{
+		"or": "Game",
+		"tr": "Xogo"
+	},
+	{
+		"or": "Game info",
+		"tr": "Información do xogo"
+	},
+	{
+		"or": "Game over",
+		"tr": "Fin da partida"
+	},
+	{
+		"or": "Game paused",
+		"tr": "Xogo en pausa"
+	},
+	{
+		"or": "Game starts in",
+		"tr": "O xogo comeza en"
+	},
+	{
+		"or": "Game type",
+		"tr": "Modo"
+	},
+	{
+		"or": "Game types:",
+		"tr": "Tipo de xogo:"
+	},
+	{
+		"or": "General",
+		"tr": "Xeral"
+	},
+	{
+		"or": "Global",
+		"tr": "Global"
+	},
+	{
+		"or": "Graphics",
+		"tr": "Gráficos"
+	},
+	{
+		"or": "Grenade",
+		"tr": "Granada"
+	},
+	{
+		"or": "Hammer",
+		"tr": "Martelo"
+	},
+	{
+		"or": "Has people playing",
+		"tr": "Con xente xogando"
+	},
+	{
+		"or": "High Detail",
+		"tr": "Alta calidade"
+	},
+	{
+		"or": "Hook",
+		"tr": "Gancho"
+	},
+	{
+		"or": "Host address:",
+		"tr": "Dirección host:"
+	},
+	{
+		"or": "Hue:",
+		"tr": "Hue:"
+	},
+	{
+		"or": "Invalid Demo",
+		"tr": "Demo inválida"
+	},
+	{
+		"or": "Join",
+		"tr": "Unirse"
+	},
+	{
+		"or": "Join blue",
+		"tr": "Unirse a azul"
+	},
+	{
+		"or": "Join red",
+		"tr": "Unirse a vermello"
+	},
+	{
+		"or": "Joined",
+		"tr": "Unido"
+	},
+	{
+		"or": "Joined blue",
+		"tr": "Unido a azul"
+	},
+	{
+		"or": "Joined red",
+		"tr": "Unido a vermello"
+	},
+	{
+		"or": "Jump",
+		"tr": "Saltar"
+	},
+	{
+		"or": "Kick player",
+		"tr": "Expulsar xogador"
+	},
+	{
+		"or": "Kick voting requires %d players on the server",
+		"tr": "Votar unha expulsión require %d xogadores no servidor"
+	},
+	{
+		"or": "Language",
+		"tr": "Linguaxe"
+	},
+	{
+		"or": "Laser",
+		"tr": "Láser"
+	},
+	{
+		"or": "Length",
+		"tr": "Lonxitude"
+	},
+	{
+		"or": "Lgt:",
+		"tr": "Luminosidade:"
+	},
+	{
+		"or": "Loading",
+		"tr": "Cargando"
+	},
+	{
+		"or": "Local",
+		"tr": "Local"
+	},
+	{
+		"or": "Local server",
+		"tr": "Servidor local"
+	},
+	{
+		"or": "MOTD",
+		"tr": "MOTD"
+	},
+	{
+		"or": "Map",
+		"tr": "Mapa"
+	},
+	{
+		"or": "Match",
+		"tr": "Partida"
+	},
+	{
+		"or": "Max",
+		"tr": "Máx."
+	},
+	{
+		"or": "Maximum ping:",
+		"tr": "Ping máximo:"
+	},
+	{
+		"or": "Misc",
+		"tr": "Miscelánea"
+	},
+	{
+		"or": "Mouse sens.",
+		"tr": "Sensibilidade do Rato:"
+	},
+	{
+		"or": "Move left",
+		"tr": "Mover a esquerda"
+	},
+	{
+		"or": "Move player to spectators",
+		"tr": "Mover xogador a espectadores"
+	},
+	{
+		"or": "Move right",
+		"tr": "Mover a dereita"
+	},
+	{
+		"or": "Movement",
+		"tr": "Movemento"
+	},
+	{
+		"or": "Mute when not active",
+		"tr": "Silenciar se o xogo non está activo"
+	},
+	{
+		"or": "Name",
+		"tr": "Nome"
+	},
+	{
+		"or": "Netversion",
+		"tr": "Netversion"
+	},
+	{
+		"or": "Next weapon",
+		"tr": "Arma seguinte"
+	},
+	{
+		"or": "Nickname",
+		"tr": "Apodo"
+	},
+	{
+		"or": "Nickname is empty.",
+		"tr": "O apodo é baleiro"
+	},
+	{
+		"or": "No",
+		"tr": "Non"
+	},
+	{
+		"or": "No password",
+		"tr": "Sen contrasinal"
+	},
+	{
+		"or": "No servers found",
+		"tr": "Ningún servidor atopado"
+	},
+	{
+		"or": "No servers match your filter criteria",
+		"tr": "Ningún servidor corresponde a os criterios de filtrado"
+	},
+	{
+		"or": "Normal:",
+		"tr": "Normal:"
+	},
+	{
+		"or": "Ok",
+		"tr": "Aceptar"
+	},
+	{
+		"or": "Only %d active players are allowed",
+		"tr": "Únicamente permitese %d xogadores activos"
+	},
+	{
+		"or": "Open",
+		"tr": "Abrir"
+	},
+	{
+		"or": "Parent Folder",
+		"tr": "Directorio pai"
+	},
+	{
+		"or": "Password",
+		"tr": "Contrasinal"
+	},
+	{
+		"or": "Password incorrect",
+		"tr": "Contrasinal incorrecta"
+	},
+	{
+		"or": "Personal",
+		"tr": "Persoal"
+	},
+	{
+		"or": "Ping",
+		"tr": "Ping"
+	},
+	{
+		"or": "Pistol",
+		"tr": "Pistola"
+	},
+	{
+		"or": "Play",
+		"tr": "Xogar"
+	},
+	{
+		"context": "DemoBrowser",
+		"or": "Play",
+		"tr": "Xogar"
+	},
+	{
+		"or": "Play background music",
+		"tr": "Reproducir música de fondo"
+	},
+	{
+		"or": "Player",
+		"tr": "Xogador"
+	},
+	{
+		"or": "Player country:",
+		"tr": "País do xogador:"
+	},
+	{
+		"or": "Player options",
+		"tr": "Opcións de xogador"
+	},
+	{
+		"or": "Players",
+		"tr": "Xogadores"
+	},
+	{
+		"or": "Please balance teams!",
+		"tr": "Por favor, ¡equilibrade os equipos!"
+	},
+	{
+		"or": "Prev. weapon",
+		"tr": "Arma anterior"
+	},
+	{
+		"or": "Quality Textures",
+		"tr": "Texturas de calidade"
+	},
+	{
+		"or": "Quit",
+		"tr": "Sair"
+	},
+	{
+		"or": "REC %3d:%02d",
+		"tr": "GRABANDO %3d:%02d"
+	},
+	{
+		"or": "Ready",
+		"tr": "Listo"
+	},
+	{
+		"or": "Reason:",
+		"tr": "Motivo:"
+	},
+	{
+		"or": "Record",
+		"tr": "Grabar"
+	},
+	{
+		"or": "Recorded",
+		"tr": "Grabacións"
+	},
+	{
+		"or": "Red team",
+		"tr": "Equipo vermello"
+	},
+	{
+		"or": "Red team wins!",
+		"tr": "¡O equipo vermello gaña!"
+	},
+	{
+		"or": "Refresh",
+		"tr": "Actualizar"
+	},
+	{
+		"or": "Refreshing master servers",
+		"tr": "Actualizando servidores maestros"
+	},
+	{
+		"or": "Remote console",
+		"tr": "Consola remota"
+	},
+	{
+		"or": "Remove",
+		"tr": "Eliminar"
+	},
+	{
+		"or": "Remove friend",
+		"tr": "Eliminar amizade"
+	},
+	{
+		"or": "Rename",
+		"tr": "Renomear"
+	},
+	{
+		"or": "Rename demo",
+		"tr": "Renomear demo"
+	},
+	{
+		"or": "Reset",
+		"tr": "Reiniciar"
+	},
+	{
+		"or": "Respawn",
+		"tr": "Renacer"
+	},
+	{
+		"or": "Round over",
+		"tr": "Ronda rematada"
+	},
+	{
+		"or": "Round over!",
+		"tr": "¡Ronda rematada!"
+	},
+	{
+		"or": "Sample rate",
+		"tr": "Frec. muestreo"
+	},
+	{
+		"or": "Sat:",
+		"tr": "Saturación:"
+	},
+	{
+		"or": "Save",
+		"tr": "Gardar"
+	},
+	{
+		"or": "Save skin",
+		"tr": "Gardar skin"
+	},
+	{
+		"or": "Score",
+		"tr": "Puntuación"
+	},
+	{
+		"or": "Score board",
+		"tr": "Puntuación"
+	},
+	{
+		"or": "Score limit",
+		"tr": "Limite de puntuación"
+	},
+	{
+		"or": "Scoreboard",
+		"tr": "Táboa de Puntuacións"
+	},
+	{
+		"or": "Screen",
+		"tr": "Pantalla"
+	},
+	{
+		"or": "Screenshot",
+		"tr": "Captura de pantalla"
+	},
+	{
+		"or": "Search:",
+		"tr": "Procurar:"
+	},
+	{
+		"or": "Server address:",
+		"tr": "Dirección do servidor:"
+	},
+	{
+		"or": "Server details",
+		"tr": "Detalles do servidor"
+	},
+	{
+		"or": "Server does not allow voting to kick players",
+		"tr": "O servidor non permite votar para expulsar xogadores"
+	},
+	{
+		"or": "Server does not allow voting to move players to spectators",
+		"tr": "O servidor non permite votar para mover xogadores a espectadores"
+	},
+	{
+		"or": "Server filter",
+		"tr": "Filtro do servidor"
+	},
+	{
+		"or": "Server info",
+		"tr": "Información do Servidor"
+	},
+	{
+		"or": "Server not full",
+		"tr": "Servidor sen chear"
+	},
+	{
+		"or": "Servers",
+		"tr": "Servidores"
+	},
+	{
+		"or": "Settings",
+		"tr": "Configuración"
+	},
+	{
+		"or": "Shotgun",
+		"tr": "Escopeta"
+	},
+	{
+		"or": "Show chat",
+		"tr": "Amosar chat"
+	},
+	{
+		"or": "Show friends only",
+		"tr": "Únicamente amosar amizades"
+	},
+	{
+		"or": "Show ingame HUD",
+		"tr": "Amosar HUD durante o xogo"
+	},
+	{
+		"or": "Show name plates",
+		"tr": "Amosar apodos"
+	},
+	{
+		"or": "Size",
+		"tr": "Tamaño"
+	},
+	{
+		"or": "Skin",
+		"tr": "Skin"
+	},
+	{
+		"or": "Skins",
+		"tr": "Skins"
+	},
+	{
+		"or": "Sound",
+		"tr": "Son"
+	},
+	{
+		"or": "Sound error",
+		"tr": "Error de son"
+	},
+	{
+		"or": "Spectate",
+		"tr": "Modo Espectador"
+	},
+	{
+		"or": "Spectate next",
+		"tr": "Observar seguinte"
+	},
+	{
+		"or": "Spectate previous",
+		"tr": "Observar anterior"
+	},
+	{
+		"or": "Spectating",
+		"tr": "Espectadores"
+	},
+	{
+		"or": "Spectator mode",
+		"tr": "Modo espectador"
+	},
+	{
+		"or": "Spectators",
+		"tr": "Espectadores"
+	},
+	{
+		"or": "Spectators aren't allowed to start a vote.",
+		"tr": "Non se permite que os espectadores inicien unha votación."
+	},
+	{
+		"or": "Standard gametype",
+		"tr": "Tipo de xogo estándar"
+	},
+	{
+		"or": "Standard map",
+		"tr": "Mapa estándar"
+	},
+	{
+		"or": "Stop record",
+		"tr": "Deter grabación"
+	},
+	{
+		"or": "Strict gametype filter",
+		"tr": "Tipo de xogo do filtro"
+	},
+	{
+		"or": "Sudden Death",
+		"tr": "Muerte súbita"
+	},
+	{
+		"or": "Switch weapon on pickup",
+		"tr": "Cambiar a o arma recollida"
+	},
+	{
+		"or": "Team",
+		"tr": "Equipo"
+	},
+	{
+		"or": "Team chat",
+		"tr": "Conversación de equipo"
+	},
+	{
+		"or": "Team:",
+		"tr": "Equipo:"
+	},
+	{
+		"or": "Teams are locked",
+		"tr": "Equipos bloqueados"
+	},
+	{
+		"or": "Teams are locked. Time to wait before changing team: %02d:%02d",
+		"tr": "Os equipos atopanse bloqueados. Tempo de espera previo a cambiar equipo: %02d:%02d"
+	},
+	{
+		"or": "Teams were locked",
+		"tr": "Os equipos foron bloqueados"
+	},
+	{
+		"or": "Teams were unlocked",
+		"tr": "Os equipos atopanse desbloqueados"
+	},
+	{
+		"or": "Tee",
+		"tr": "Tee"
+	},
+	{
+		"or": "Teeworlds %s is out! Download it at www.teeworlds.com!",
+		"tr": "¡Teeworlds %s xa saiu! ¡Descárgao dende www.teeworlds.com!"
+	},
+	{
+		"or": "Texture",
+		"tr": "Textura"
+	},
+	{
+		"or": "Texture Compression",
+		"tr": "Compresión de texturas"
+	},
+	{
+		"or": "The audio device couldn't be initialised.",
+		"tr": "O dispositivo de audio non pode ser inicializado."
+	},
+	{
+		"or": "The server is running a non-standard tuning on a pure game type.",
+		"tr": "O servidor está executando unha configuración non estándar nun tipo de xogo puro."
+	},
+	{
+		"or": "There's an unsaved map in the editor, you might want to save it before you quit the game.",
+		"tr": "Tes un mapa sen gardar no editor, quizá queras gardalo antes de sair."
+	},
+	{
+		"or": "Time limit",
+		"tr": "Tempo limite"
+	},
+	{
+		"or": "Time limit: %d min",
+		"tr": "Tempo límite: %d mins."
+	},
+	{
+		"or": "Try again",
+		"tr": "intentar de novo"
+	},
+	{
+		"or": "Type",
+		"tr": "Tipo"
+	},
+	{
+		"or": "Unable to delete the demo",
+		"tr": "Non se pudo eliminar a demo"
+	},
+	{
+		"or": "Unable to delete the skin",
+		"tr": "Non se pode eliminar o skin"
+	},
+	{
+		"or": "Unable to rename the demo",
+		"tr": "Non puidose renomear a demo"
+	},
+	{
+		"or": "Use sounds",
+		"tr": "Empregar sons"
+	},
+	{
+		"or": "Use team colors for name plates",
+		"tr": "Usar o cor do equipo nos apados"
+	},
+	{
+		"or": "V-Sync",
+		"tr": "V-Sync"
+	},
+	{
+		"or": "Version",
+		"tr": "Versión"
+	},
+	{
+		"or": "Volume",
+		"tr": "Volume"
+	},
+	{
+		"or": "Vote aborted",
+		"tr": "A votación foi rexeitada"
+	},
+	{
+		"or": "Vote command:",
+		"tr": "Comando de votación:"
+	},
+	{
+		"or": "Vote description:",
+		"tr": "Descripción da votación:"
+	},
+	{
+		"or": "Vote failed",
+		"tr": "A votación fracasou"
+	},
+	{
+		"or": "Vote no",
+		"tr": "Votar non"
+	},
+	{
+		"or": "Vote passed",
+		"tr": "A votación foi aprobada"
+	},
+	{
+		"or": "Vote yes",
+		"tr": "Votar sí"
+	},
+	{
+		"or": "Voting",
+		"tr": "Votación"
+	},
+	{
+		"or": "Wait for current vote to end before calling a new one.",
+		"tr": "Agarda a que remate a votacion actual antes de iniciar unha nova."
+	},
+	{
+		"or": "Wait for next round",
+		"tr": "Esperar a seguinte ronda"
+	},
+	{
+		"or": "Warmup",
+		"tr": "Calentamento"
+	},
+	{
+		"or": "Weapon",
+		"tr": "Arma"
+	},
+	{
+		"or": "Welcome to Teeworlds",
+		"tr": "Benvido/a a Teeworlds"
+	},
+	{
+		"or": "Yes",
+		"tr": "Sí"
+	},
+	{
+		"or": "You must restart the game for all settings to take effect.",
+		"tr": "Reinicia o xogo para que os cambios teñan efecto."
+	},
+	{
+		"or": "You must wait %d seconds before making another vote",
+		"tr": "Debes esperar %d segundos antes de iniciar outra votación"
+	},
+	{
+		"or": "blue",
+		"tr": "azul"
+	},
+	{
+		"or": "blue team",
+		"tr": "equipo azul"
+	},
+	{
+		"or": "game",
+		"tr": "xogo"
+	},
+	{
+		"or": "locked",
+		"tr": "bloqueado"
+	},
+	{
+		"or": "no players",
+		"tr": "sen xogadores"
+	},
+	{
+		"or": "red",
+		"tr": "vermello"
+	},
+	{
+		"or": "red team",
+		"tr": "equipo vermello"
+	},
+	{
+		"or": "spectators",
+		"tr": "espectadores"
+	},
+	{
+		"or": "wait for more players",
+		"tr": "agarda por mais xogadores"
+	}
+]
+}
