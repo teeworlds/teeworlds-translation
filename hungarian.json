@@ -1,8 +1,9 @@
 {"authors": {
-"originally created by": "Feca",
-"modified by": [
-	""
-]},
+	"originally created by": "Feca",
+	"modified by": [
+		"vezerr05, 2014 (Transifex)",
+		"Tamás Kullai, 2018 (Transifex)",
+	]},
 "translated strings": [
 	{
 		"or": "%.3f KiB",
