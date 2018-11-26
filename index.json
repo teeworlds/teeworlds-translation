@@ -12,7 +12,7 @@
 	{
 		"file": "breton",
 		"name": "Brezhoneg",
-		"code": -1
+		"code": 950
 	},
 	{
 		"file": "brazilian_portuguese",
@@ -27,7 +27,7 @@
 	{
 		"file": "catalan",
 		"name": "Català",
-		"code": -1
+		"code": 951
 	},
 	{
 		"file": "czech",
@@ -52,7 +52,7 @@
 	{
 		"file": "esperanto",
 		"name": "Esperanto",
-		"code": -1
+		"code": 952
 	},
 	{
 		"file": "estonian",
@@ -77,7 +77,7 @@
 	{
 		"file": "galician",
 		"name": "Galego",
-		"code": -1
+		"code": 953
 	},
 	{
 		"file": "german",
