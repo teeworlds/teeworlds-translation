@@ -15,6 +15,7 @@
 		"Yared Hufkens	2012-02-03 19:57:59",
 		"Yared Hufkens	2012-12-08 10:51:30",
 		"ZiggyNL		2013-03-17 02:26:19",
+		"Maurits18 		2014-01-11",
 		"TortleWortle, 2014 (Transifex)",
 		"arisoda, 2014 (Transifex)",
 		"heinrich5991, 2014 (Transifex)",
@@ -147,7 +148,7 @@
 	},
 	{
 		"or": "As this is the first time you launch the game, please enter your nick name below. It's recommended that you check the settings to adjust them to your liking before joining a server.",
-		"tr": "Omdat dit de eerste keer is dat je het spel opstart, moet je een bijnaam kiezen. Doe dat hieronder. Het is aanbevolen om de instellingen te controleren voordat je een spel start."
+		"tr": "Omdat dit de eerste keer is dat je het spel opstart, moet je een spelersnaam kiezen. Doe dat hieronder. Het is aanbevolen om de instellingen te controleren voordat je een spel start."
 	},
 	{
 		"or": "Automatically record demos",
@@ -155,7 +156,7 @@
 	},
 	{
 		"or": "Automatically take game over screenshot",
-		"tr": "Automatisch schermafbeeldingen nemen"
+		"tr": "Automatisch screenshots nemen"
 	},
 	{
 		"or": "Back",
@@ -211,7 +212,7 @@
 	},
 	{
 		"or": "Compatible version",
-		"tr": "Samenwerkende versie"
+		"tr": "Compatibele versie"
 	},
 	{
 		"or": "Connect",
@@ -255,7 +256,7 @@
 	},
 	{
 		"or": "Custom colors",
-		"tr": "Aangepaste kleuren"
+		"tr": "Zelfgekozen kleuren"
 	},
 	{
 		"or": "Customize",
@@ -375,7 +376,7 @@
 	},
 	{
 		"or": "Game over",
-		"tr": "Spel afgelopen"
+		"tr": "Game over"
 	},
 	{
 		"or": "Game paused",
@@ -415,7 +416,7 @@
 	},
 	{
 		"or": "Has people playing",
-		"tr": "Laat geen lege servers zien"
+		"tr": "Spelers in server"
 	},
 	{
 		"or": "High Detail",
@@ -519,7 +520,7 @@
 	},
 	{
 		"or": "Maximum ping:",
-		"tr": "Hoogste ping:"
+		"tr": "Maximale ping:"
 	},
 	{
 		"or": "Misc",
@@ -527,7 +528,7 @@
 	},
 	{
 		"or": "Mouse sens.",
-		"tr": "Muis snelheid"
+		"tr": "Muis gevoeligheid"
 	},
 	{
 		"or": "Move left",
@@ -611,7 +612,7 @@
 	},
 	{
 		"or": "Password incorrect",
-		"tr": "Wachtwoord verkeerd"
+		"tr": "Wachtwoord incorrect"
 	},
 	{
 		"or": "Personal",
@@ -664,7 +665,7 @@
 	},
 	{
 		"or": "Quality Textures",
-		"tr": "Structuurkwaliteit"
+		"tr": "Betere textures"
 	},
 	{
 		"or": "Quit",
@@ -744,7 +745,7 @@
 	},
 	{
 		"or": "Sample rate",
-		"tr": "Voorbeeldssnelheid"
+		"tr": "Sample rate"
 	},
 	{
 		"or": "Sat:",
@@ -780,7 +781,7 @@
 	},
 	{
 		"or": "Screenshot",
-		"tr": "Schermafbeelding"
+		"tr": "Screenshot"
 	},
 	{
 		"or": "Search:",
@@ -824,7 +825,7 @@
 	},
 	{
 		"or": "Shotgun",
-		"tr": "Geweer"
+		"tr": "Shotgun"
 	},
 	{
 		"or": "Show chat",
@@ -868,11 +869,11 @@
 	},
 	{
 		"or": "Spectate next",
-		"tr": "Volg volgende speler"
+		"tr": "Volgende speler"
 	},
 	{
 		"or": "Spectate previous",
-		"tr": "Volg vorige speler"
+		"tr": "Vorige speler"
 	},
 	{
 		"or": "Spectating",
@@ -880,7 +881,7 @@
 	},
 	{
 		"or": "Spectator mode",
-		"tr": "Toeschouwer modus"
+		"tr": "Toeschouwermode"
 	},
 	{
 		"or": "Spectators",
@@ -912,7 +913,7 @@
 	},
 	{
 		"or": "Switch weapon on pickup",
-		"tr": "Verander wapen bij het oppakken"
+		"tr": "Verander wapen bij oppakken"
 	},
 	{
 		"or": "Team",
@@ -920,7 +921,7 @@
 	},
 	{
 		"or": "Team chat",
-		"tr": "Team chat"
+		"tr": "Teamchat"
 	},
 	{
 		"or": "Team:",
@@ -964,7 +965,7 @@
 	},
 	{
 		"or": "The server is running a non-standard tuning on a pure game type.",
-		"tr": "De tuning van de server is niet standaard, maar draait wel op een standaard speltype."
+		"tr": "The server draait geen standaard speltype."
 	},
 	{
 		"or": "There's an unsaved map in the editor, you might want to save it before you quit the game.",
