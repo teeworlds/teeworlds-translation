@@ -977,8 +977,8 @@
 		"tr": "Dolgu sıkıştırması"
 	},
 	{
-		"or": "The %s flag was captured by '%s' (%.2f seconds)",
-		"tr": "%s bayrak '%s' tarafından kaçırıldı. (%.2f saniye)"
+		"or": "The %s flag was captured by '%2d: %s' (%.2f seconds)",
+		"tr": "%s bayrak '%2d: %s' tarafından kaçırıldı. (%.2f saniye)"
 	},
 	{
 		"or": "The audio device couldn't be initialised.",
