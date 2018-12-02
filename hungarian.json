@@ -30,10 +30,6 @@
 		"tr": "%d szerver, %d játékos"
 	},
 	{
-		"or": "%d subjects, %d friends and %d clans online",
-		"tr": "%d barát és %d klán elérhető"
-	},
-	{
 		"or": "%d%% loaded",
 		"tr": "%d%% betöltve"
 	},
@@ -1020,11 +1016,11 @@
 	},
 	{
 		"or": "The %s flag was captured by '%2d: %s'",
-		"tr": "%2d bevitte a %s zászlót: %s"
+		"tr": "Bevitte a %s zászlót: '%2d: %s'"
 	},
 	{
 		"or": "The %s flag was captured by '%2d: %s' (%.2f seconds)",
-		"tr": "%2d bevitte a %s zászlót: %s (%.2fmásodperc)"
+		"tr": "Bevitte a %s zászlót: '%2d: %s' (%.2fmásodperc)"
 	},
 	{
 		"or": "The audio device couldn't be initialised.",

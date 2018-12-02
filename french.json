@@ -1043,7 +1043,7 @@
 	},
 	{
 		"or": "The %s flag was captured by '%2d: %s' (%.2f seconds)",
-		"tr": "Le drapeau %s a été capturé par '%s' (%.2f secondes)"
+		"tr": "Le drapeau %s a été capturé par '%2d: %s' (%.2f secondes)"
 	},
 	{
 		"or": "The audio device couldn't be initialised.",

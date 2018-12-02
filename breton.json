@@ -38,7 +38,7 @@
 	},
 	{
 		"or": "%i minutes left",
-		"tr": "%1 munutenn a chom"
+		"tr": "%i munutenn a chom"
 	},
 	{
 		"or": "%i second left",

@@ -66,7 +66,7 @@
 	},
 	{
 		"or": "Teams are locked. Time to wait before changing team: %02d:%02d",
-		"tr": "Komandos yra užrakintos. Liko laukti kol pasikeis komandos:% 02d:% 02d"
+		"tr": "Komandos yra užrakintos. Liko laukti kol pasikeis komandos: %02d:%02d"
 	},
 	{
 		"or": "locked",
@@ -190,7 +190,7 @@
 	},
 	{
 		"or": "You must wait %d seconds before making another vote",
-		"tr": "Jūs turite laukti % d sekundžių prieš pradedant kitą balsavimą"
+		"tr": "Jūs turite laukti %d sekundžių prieš pradedant kitą balsavimą"
 	},
 	{
 		"or": "Change settings",
@@ -210,7 +210,7 @@
 	},
 	{
 		"or": "Kick voting requires %d players on the server",
-		"tr": "Išspyrimo balsavimui reikia % d žaidėjų serveryje"
+		"tr": "Išspyrimo balsavimui reikia %d žaidėjų serveryje"
 	},
 	{
 		"or": "Server does not allow voting to move players to spectators",
@@ -335,7 +335,7 @@
 	},
 	{
 		"or": "%d servers, %d players",
-		"tr": "% d serveriai,% d žaidėjų"
+		"tr": "%d serveriai, %d žaidėjų"
 	},
 	{
 		"or": "Servers",
@@ -915,11 +915,11 @@
 	},
 	{
 		"or": "Admin forced server option '%s' (%s)",
-		"tr": "Administratorius pakeitė serverio nustatymą \"% s\" (% s)"
+		"tr": "Administratorius pakeitė serverio nustatymą \"%s\" (%s)"
 	},
 	{
 		"or": "Admin moved '%s' to spectator (%s)",
-		"tr": "Administratorius perkėlė \"% s\" į žiūrovus (% s)"
+		"tr": "Administratorius perkėlė \"%s\" į žiūrovus (%s)"
 	},
 	{
 		"or": "Vote aborted",

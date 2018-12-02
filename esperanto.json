@@ -574,7 +574,7 @@
 	},
 	{
 		"or": "Only %d active players are allowed",
-		"tr": "Nur aktivaj ludantoj estas akceptataj"
+		"tr": "Nur %d aktivaj ludantoj estas akceptataj"
 	},
 	{
 		"or": "Open",
