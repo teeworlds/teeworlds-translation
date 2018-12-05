@@ -1,16 +1,16 @@
 {"authors": {
 	"originally created by": "slinack",
 	"modified by": [
-		"yemDX				2010-05-29 17:22:42",
-		"yemDX				2010-05-30 02:51:34",
-		"slinack			2010-06-02 20:57:46",
-		"slinack			2011-05-02 18:24:12",
-		"Isadora			2011-05-09 17:26:02",
-		"slinack			2011-07-03 00:23:26",
-		"Ryomou Hentai Girl	2011-07-11 11:33:42",
-		"Isadora			2011-07-20 21:47:11",
-		"HeroiAmarelo		2012-08-01 15:50:18",
-		"Rafael Ferreira	2013-03-30 16:52:33",
+		"yemDX                  2010-05-29 17:22:42",
+		"yemDX                  2010-05-30 02:51:34",
+		"slinack                2010-06-02 20:57:46",
+		"slinack                2011-05-02 18:24:12",
+		"Isadora                2011-05-09 17:26:02",
+		"slinack                2011-07-03 00:23:26",
+		"Ryomou Hentai Girl     2011-07-11 11:33:42",
+		"Isadora                2011-07-20 21:47:11",
+		"HeroiAmarelo           2012-08-01 15:50:18",
+		"Rafael Fontenelle      2013-03-30 16:52:33",
 		"heinrich5991, 2014 (Transifex)",
 		"heinrich5991, 2014 (Transifex)",
 		"Rafael Fontenelle, 2014 (Transifex)",
@@ -19,7 +19,7 @@
 "translated strings": [
 	{
 		"or": "%.3f KiB",
-		"tr": "%.3f KB"
+		"tr": "%.3f KiB"
 	},
 	{
 		"or": "%d player left",
