@@ -16,6 +16,10 @@
 		"tr": "%.3f KiB"
 	},
 	{
+		"or": "%d other players",
+		"tr": "%d innych graczy"
+	},
+	{
 		"or": "%d player left",
 		"tr": "%d gracz wyszedł"
 	},
@@ -25,7 +29,7 @@
 	},
 	{
 		"or": "%d players left",
-		"tr": "%d graczy do końca."
+		"tr": "%d pozostałych graczy"
 	},
 	{
 		"or": "%d players not ready",
@@ -33,11 +37,7 @@
 	},
 	{
 		"or": "%d servers, %d players",
-		"tr": "Serwerów: %d, graczy: %d"
-	},
-	{
-		"or": "%d subjects, %d friends and %d clans online",
-		"tr": "Tematów: %d, przyjaciół: %d, klanów: %d"
+		"tr": "%d serwerów, %d graczy"
 	},
 	{
 		"or": "%d%% loaded",
@@ -49,19 +49,19 @@
 	},
 	{
 		"or": "%i minute left",
-		"tr": "Minut do końca: %i"
+		"tr": "%i minut do końca"
 	},
 	{
 		"or": "%i minutes left",
-		"tr": "Minut do końca: %i"
+		"tr": "%iminut do końca"
 	},
 	{
 		"or": "%i second left",
-		"tr": "Sekund do końca: %i"
+		"tr": "%i sekunda do końca"
 	},
 	{
 		"or": "%i seconds left",
-		"tr": "Sekund do końca: %i"
+		"tr": "%i sekund do końca"
 	},
 	{
 		"or": "%s wins!",
@@ -73,11 +73,11 @@
 	},
 	{
 		"or": "'%2d: %s' called for vote to move '%s' to spectators (%s)",
-		"tr": "'%2d: %s' głosuje, aby przenieść '%s' do widzów (%s)"
+		"tr": "'%2d: %s' głosuje, aby przenieść '%s' do obserwatorów (%s)"
 	},
 	{
 		"or": "'%2d: %s' called vote to change server option '%s' (%s)",
-		"tr": "'%2d: %sgłosuje, aby zmienić opcję serwera '%s' (%s)"
+		"tr": "'%2d: %s' głosuje, aby zmienić opcję serwera '%s' (%s)"
 	},
 	{
 		"or": "'%2d: %s' entered and joined the %s",
@@ -109,7 +109,11 @@
 	},
 	{
 		"or": "Add demo marker",
-		"tr": "Dodaj znacznik demo"
+		"tr": "Dodaj znacznik powtórki"
+	},
+	{
+		"or": "Add friend",
+		"tr": "Dodaj znajomego"
 	},
 	{
 		"or": "Address",
@@ -161,7 +165,7 @@
 	},
 	{
 		"or": "Are you sure that you want to remove the player from your friends list?",
-		"tr": "Jesteś pewny, że chcesz usunąć gracza ze swojej listy przyjaciół?"
+		"tr": "Jesteś pewny, że chcesz usunąć gracza ze swojej listy znajomych?"
 	},
 	{
 		"or": "Are you sure you want to rename the demo?",
@@ -173,7 +177,7 @@
 	},
 	{
 		"or": "As this is the first time you launch the game, please enter your nick name below. It's recommended that you check the settings to adjust them to your liking before joining a server.",
-		"tr": "Jest to twoje pierwsze uruchomienie gry, wpisz swoją nazwę gracza poniżej. Możesz również zmienić ustawienia gry przed wejściem na jakikolwiek serwer."
+		"tr": "Jest to twoje pierwsze uruchomienie gry, wpisz swój pseudonim poniżej. Jest zalecane sprawdzić ustawienia oraz dostosować je do siebie, przed dołączeniem do gry."
 	},
 	{
 		"or": "Automatically record demos",
@@ -196,16 +200,8 @@
 		"tr": "Niebieska drużyna"
 	},
 	{
-		"or": "Blue team wins!",
-		"tr": "Niebieska drużyna wygrała!"
-	},
-	{
 		"or": "Borderless window",
 		"tr": "Okno bez obramowania"
-	},
-	{
-		"or": "Browser",
-		"tr": "Wyszukiwarka"
 	},
 	{
 		"or": "Call vote",
@@ -222,6 +218,15 @@
 	{
 		"or": "Clan",
 		"tr": "Klan"
+	},
+	{
+		"context": "clear gametype filters",
+		"or": "Clear",
+		"tr": "Wyczyść"
+	},
+	{
+		"or": "Click on a player or a flag to follow it",
+		"tr": "Kliknij gracza lub flagę, aby go obserwować"
 	},
 	{
 		"or": "Client",
@@ -268,12 +273,20 @@
 		"tr": "Kraj"
 	},
 	{
+		"or": "Country:",
+		"tr": "Kraj:"
+	},
+	{
 		"or": "Crc",
 		"tr": "Suma kontrolna (Crc)"
 	},
 	{
 		"or": "Created",
 		"tr": "Stworzony"
+	},
+	{
+		"or": "Current: %dx%d (%d:%d)",
+		"tr": "Obecnie: %dx%d (%d:%d)"
 	},
 	{
 		"or": "Custom",
@@ -286,6 +299,10 @@
 	{
 		"or": "Customize",
 		"tr": "Dostosuj "
+	},
+	{
+		"or": "D",
+		"tr": "D"
 	},
 	{
 		"or": "Delete",
@@ -320,6 +337,10 @@
 		"tr": "Szczegóły"
 	},
 	{
+		"or": "Difficulty",
+		"tr": "Trudność"
+	},
+	{
 		"or": "Disconnect",
 		"tr": "Rozłącz"
 	},
@@ -346,6 +367,10 @@
 	{
 		"or": "Emoticon",
 		"tr": "Emotikony"
+	},
+	{
+		"or": "Enable colored server broadcasts",
+		"tr": "Włącz pokolorowane transmisje serwerowe"
 	},
 	{
 		"or": "Enter",
@@ -384,10 +409,6 @@
 		"tr": "Wolna kamera"
 	},
 	{
-		"or": "Friends",
-		"tr": "Przyjaciele"
-	},
-	{
 		"or": "Fullscreen",
 		"tr": "Pełny ekran"
 	},
@@ -397,7 +418,11 @@
 	},
 	{
 		"or": "Game info",
-		"tr": "Gra"
+		"tr": "Informacje o grze"
+	},
+	{
+		"or": "Game options",
+		"tr": "Opcje gry"
 	},
 	{
 		"or": "Game over",
@@ -444,6 +469,10 @@
 		"tr": "Ma aktywnych graczy"
 	},
 	{
+		"or": "Hide bots",
+		"tr": "Ukryj boty"
+	},
+	{
 		"or": "High Detail",
 		"tr": "Wysoka jakość"
 	},
@@ -461,9 +490,14 @@
 	},
 	{
 		"or": "Invalid Demo",
-		"tr": "Nieprawidłowa powtórka!"
+		"tr": "Nieprawidłowa powtórka"
 	},
 	{
+		"or": "Join",
+		"tr": "Dołącz"
+	},
+	{
+		"context": "Join a server",
 		"or": "Join",
 		"tr": "Dołącz"
 	},
@@ -490,6 +524,10 @@
 	{
 		"or": "Jump",
 		"tr": "Skok"
+	},
+	{
+		"or": "K",
+		"tr": "K"
 	},
 	{
 		"or": "Kick player",
@@ -520,6 +558,10 @@
 		"tr": "Limit FPS"
 	},
 	{
+		"or": "Load the sound system",
+		"tr": "Załaduj system dzwiękowy"
+	},
+	{
 		"or": "Loading",
 		"tr": "Ładowanie"
 	},
@@ -540,6 +582,7 @@
 		"tr": "Mapa"
 	},
 	{
+		"context": "rounds (scoreboard)",
 		"or": "Match",
 		"tr": "Mecz"
 	},
@@ -549,7 +592,7 @@
 	},
 	{
 		"or": "Max fps",
-		"tr": "Maksymalny FPS"
+		"tr": "Maksimum FPS"
 	},
 	{
 		"or": "Maximum ping:",
@@ -580,6 +623,10 @@
 		"tr": "Poruszanie"
 	},
 	{
+		"or": "Mute broadcasts",
+		"tr": "Wyłącz transmisje"
+	},
+	{
 		"or": "Mute when not active",
 		"tr": "Wycisz, gdy nie aktywny"
 	},
@@ -590,6 +637,10 @@
 	{
 		"or": "Netversion",
 		"tr": "Netversion"
+	},
+	{
+		"or": "New filter",
+		"tr": "Nowy filtr"
 	},
 	{
 		"or": "Next weapon",
@@ -604,6 +655,11 @@
 		"tr": "Nazwa gracza jest pusta."
 	},
 	{
+		"or": "No",
+		"tr": "Nie"
+	},
+	{
+		"context": "Without/None",
 		"or": "No",
 		"tr": "Nie"
 	},
@@ -624,24 +680,33 @@
 		"tr": "Standardowa: "
 	},
 	{
-		"or": "Off",
-		"tr": "Wyłączony"
+		"context": "friends (server browser)",
+		"or": "Offline (%d)",
+		"tr": "Niedostępnych (%d)"
 	},
 	{
 		"or": "Ok",
 		"tr": "Ok"
 	},
 	{
-		"or": "On",
-		"tr": "Włączony"
+		"or": "Online clanmates (%d)",
+		"tr": "Dostępni członkowie (%d)"
+	},
+	{
+		"or": "Online players (%d)",
+		"tr": "Dostępni gracze (%d)"
 	},
 	{
 		"or": "Only %d active players are allowed",
-		"tr": "Dozwolono aktywnych graczy: %d"
+		"tr": "Dozwolonych jest tylko %d aktywnych graczy"
 	},
 	{
 		"or": "Open",
 		"tr": "Otwórz"
+	},
+	{
+		"or": "Option",
+		"tr": "Opcja"
 	},
 	{
 		"or": "Other",
@@ -657,7 +722,7 @@
 	},
 	{
 		"or": "Password incorrect",
-		"tr": "Hasło niepoprawne"
+		"tr": "Niepoprawne hasło"
 	},
 	{
 		"or": "Personal",
@@ -673,7 +738,7 @@
 	},
 	{
 		"or": "Play",
-		"tr": "Graj"
+		"tr": "Graj "
 	},
 	{
 		"context": "DemoBrowser",
@@ -689,16 +754,17 @@
 		"tr": "Gracz"
 	},
 	{
-		"or": "Player country:",
-		"tr": "Kraj gracza: "
-	},
-	{
 		"or": "Player options",
 		"tr": "Opcje Gracza"
 	},
 	{
 		"or": "Players",
 		"tr": "Gracze"
+	},
+	{
+		"context": "Playing '(gametype)' on '(map)'",
+		"or": "Playing '%s' on '%s'",
+		"tr": "Gra  '%s' na '%s'"
 	},
 	{
 		"or": "Please balance teams!",
@@ -745,10 +811,6 @@
 		"tr": "Czerwona drużyna"
 	},
 	{
-		"or": "Red team wins!",
-		"tr": "Czerwona drużyna wygrała!"
-	},
-	{
 		"or": "Refresh",
 		"tr": "Odśwież "
 	},
@@ -766,7 +828,7 @@
 	},
 	{
 		"or": "Remove friend",
-		"tr": "Usuń przyjaciela"
+		"tr": "Usuń znajomego"
 	},
 	{
 		"or": "Rename",
@@ -779,6 +841,10 @@
 	{
 		"or": "Reset",
 		"tr": "Resetuj"
+	},
+	{
+		"or": "Reset filter",
+		"tr": "Zresetuj filtr"
 	},
 	{
 		"or": "Resolution",
@@ -815,10 +881,6 @@
 	{
 		"or": "Score",
 		"tr": "Punkty"
-	},
-	{
-		"or": "Score board",
-		"tr": "Tablica punktów"
 	},
 	{
 		"or": "Score limit",
@@ -862,7 +924,7 @@
 	},
 	{
 		"or": "Server info",
-		"tr": "Serwer"
+		"tr": "Informacje o serwerze"
 	},
 	{
 		"or": "Server not full",
@@ -890,7 +952,7 @@
 	},
 	{
 		"or": "Show friends only",
-		"tr": "Pokaż tylko przyjaciół"
+		"tr": "Pokaż tylko znajomych"
 	},
 	{
 		"or": "Show ingame HUD",
@@ -903,6 +965,10 @@
 	{
 		"or": "Show social",
 		"tr": "Pokaż społeczność"
+	},
+	{
+		"or": "Show user IDs",
+		"tr": "Pokaż ID graczy"
 	},
 	{
 		"or": "Size",
@@ -958,7 +1024,7 @@
 	},
 	{
 		"or": "Standard gametype",
-		"tr": "Główne typy gry "
+		"tr": "Standardowe tryby gry"
 	},
 	{
 		"or": "Standard map",
@@ -967,10 +1033,6 @@
 	{
 		"or": "Stop record",
 		"tr": "Zakończ nagrywanie"
-	},
-	{
-		"or": "Strict gametype filter",
-		"tr": "Szczegółowy filtr typu gry"
 	},
 	{
 		"or": "Sudden Death",
@@ -1002,7 +1064,7 @@
 	},
 	{
 		"or": "Teams were locked",
-		"tr": "Drużyny są zablokowane"
+		"tr": "Drużyny zostały zablokowane"
 	},
 	{
 		"or": "Teams were unlocked",
@@ -1026,11 +1088,11 @@
 	},
 	{
 		"or": "The %s flag was captured by '%2d: %s'",
-		"tr": "Flaga %s była przejęta przez '%2d: %s'"
+		"tr": "Flaga %s została przejęta przez '%2d: %s'"
 	},
 	{
 		"or": "The %s flag was captured by '%2d: %s' (%.2f seconds)",
-		"tr": "Flaga %s była przejęta przez '%2d: %s' (%.2f sekund)"
+		"tr": "Flaga %s została przejęta przez '%2d: %s' (%.2f sekund)"
 	},
 	{
 		"or": "The audio device couldn't be initialised.",
@@ -1038,7 +1100,11 @@
 	},
 	{
 		"or": "The server is running a non-standard tuning on a pure game type.",
-		"tr": "Serwer działa z niestandardowymi ustawieniami na czystym trybie gry."
+		"tr": "Serwer uruchomiony jest z niestandardowymi ustawieniami na czystym trybie gry."
+	},
+	{
+		"or": "Theme",
+		"tr": "Motyw"
 	},
 	{
 		"or": "There's an unsaved map in the editor, you might want to save it before you quit the game.",
@@ -1051,10 +1117,6 @@
 	{
 		"or": "Time limit: %d min",
 		"tr": "Limit czasu: %d min"
-	},
-	{
-		"or": "To",
-		"tr": "Do"
 	},
 	{
 		"or": "Try again",
@@ -1106,11 +1168,11 @@
 	},
 	{
 		"or": "Vote description:",
-		"tr": "Opis głosowania"
+		"tr": "Opis głosowania:"
 	},
 	{
 		"or": "Vote failed",
-		"tr": "Głosowanie anulowane"
+		"tr": "Głosowanie się nie udało"
 	},
 	{
 		"or": "Vote no",
@@ -1141,6 +1203,11 @@
 		"tr": "Rozgrzewka"
 	},
 	{
+		"context": "Watching '(gametype)' on '(map)'",
+		"or": "Watching '%s' on '%s'",
+		"tr": "Ogląda '%s' na '%s'"
+	},
+	{
 		"or": "Weapon",
 		"tr": "Broń"
 	},
@@ -1157,12 +1224,17 @@
 		"tr": "Tak"
 	},
 	{
+		"context": "With",
+		"or": "Yes",
+		"tr": "Tak"
+	},
+	{
 		"or": "You must restart the game for all settings to take effect.",
 		"tr": "Musisz zrestartować grę, aby wszystkie ustawienia zostały wprowadzone"
 	},
 	{
 		"or": "You must wait %d seconds before making another vote",
-		"tr": "Musisz poczekać %d sekund zanim rozpoczniesz inne głosowanie"
+		"tr": "Musisz poczekać %d sekund zanim rozpoczniesz następne głosowanie"
 	},
 	{
 		"or": "blue",
@@ -1198,11 +1270,11 @@
 	},
 	{
 		"or": "friends only",
-		"tr": "tylko przyjaciele"
+		"tr": "tylko znajomi"
 	},
 	{
 		"or": "game",
-		"tr": "gra"
+		"tr": "gry"
 	},
 	{
 		"or": "hands",
@@ -1242,7 +1314,7 @@
 	},
 	{
 		"or": "wait for more players",
-		"tr": "czekaj na więcej graczy"
+		"tr": "poczekaj na więcej graczy"
 	}
 ]
 }

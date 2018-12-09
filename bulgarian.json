@@ -12,6 +12,10 @@
 		"tr": "%.3f КиБ"
 	},
 	{
+		"or": "%d other players",
+		"tr": "%dдруги играчи"
+	},
+	{
 		"or": "%d player left",
 		"tr": "%d играч напусна"
 	},
@@ -30,10 +34,6 @@
 	{
 		"or": "%d servers, %d players",
 		"tr": "%d сървъра, %d играчи"
-	},
-	{
-		"or": "%d subjects, %d friends and %d clans online",
-		"tr": "На линия са %d разширени приятели, %d приятели и %d клана"
 	},
 	{
 		"or": "%d%% loaded",
@@ -106,6 +106,10 @@
 	{
 		"or": "Add demo marker",
 		"tr": "Добавяне на отметка за момента в записа"
+	},
+	{
+		"or": "Add friend",
+		"tr": "Добавяне на приятел"
 	},
 	{
 		"or": "Address",
@@ -192,16 +196,8 @@
 		"tr": "Син отбор"
 	},
 	{
-		"or": "Blue team wins!",
-		"tr": "Синият отбор печели!"
-	},
-	{
 		"or": "Borderless window",
 		"tr": "Прозорец без рамка"
-	},
-	{
-		"or": "Browser",
-		"tr": "Браузър"
 	},
 	{
 		"or": "Call vote",
@@ -218,6 +214,15 @@
 	{
 		"or": "Clan",
 		"tr": "Клан"
+	},
+	{
+		"context": "clear gametype filters",
+		"or": "Clear",
+		"tr": "Изчистване"
+	},
+	{
+		"or": "Click on a player or a flag to follow it",
+		"tr": "Щракнете на играч или флаг за следване"
 	},
 	{
 		"or": "Client",
@@ -264,12 +269,20 @@
 		"tr": "Държава"
 	},
 	{
+		"or": "Country:",
+		"tr": "Държава:"
+	},
+	{
 		"or": "Crc",
 		"tr": "Контролна сума"
 	},
 	{
 		"or": "Created",
 		"tr": "Създаден"
+	},
+	{
+		"or": "Current: %dx%d (%d:%d)",
+		"tr": "Текуща: %dx%d (%d:%d)"
 	},
 	{
 		"or": "Custom",
@@ -282,6 +295,10 @@
 	{
 		"or": "Customize",
 		"tr": "Персонализиране"
+	},
+	{
+		"or": "D",
+		"tr": "Ум"
 	},
 	{
 		"or": "Delete",
@@ -316,6 +333,10 @@
 		"tr": "Детайли"
 	},
 	{
+		"or": "Difficulty",
+		"tr": "Трудност"
+	},
+	{
 		"or": "Disconnect",
 		"tr": "Разкачане"
 	},
@@ -342,6 +363,10 @@
 	{
 		"or": "Emoticon",
 		"tr": "Емотиконка"
+	},
+	{
+		"or": "Enable colored server broadcasts",
+		"tr": "Включване на цветните излъчвания от сървъра"
 	},
 	{
 		"or": "Enter",
@@ -380,10 +405,6 @@
 		"tr": "Свободен изглед"
 	},
 	{
-		"or": "Friends",
-		"tr": "Приятели"
-	},
-	{
 		"or": "Fullscreen",
 		"tr": "На цял екран"
 	},
@@ -394,6 +415,10 @@
 	{
 		"or": "Game info",
 		"tr": "Информация за играта"
+	},
+	{
+		"or": "Game options",
+		"tr": "Настройки на играта"
 	},
 	{
 		"or": "Game over",
@@ -440,6 +465,10 @@
 		"tr": "Да има играчи"
 	},
 	{
+		"or": "Hide bots",
+		"tr": "Скриване на ботовете"
+	},
+	{
 		"or": "High Detail",
 		"tr": "Голяма детайлност"
 	},
@@ -460,6 +489,11 @@
 		"tr": "Невалиден запис"
 	},
 	{
+		"or": "Join",
+		"tr": "Присъединяване"
+	},
+	{
+		"context": "Join a server",
 		"or": "Join",
 		"tr": "Присъединяване"
 	},
@@ -486,6 +520,10 @@
 	{
 		"or": "Jump",
 		"tr": "Скок"
+	},
+	{
+		"or": "K",
+		"tr": "Уб"
 	},
 	{
 		"or": "Kick player",
@@ -516,6 +554,10 @@
 		"tr": "Ограничаване на кадрите/сек"
 	},
 	{
+		"or": "Load the sound system",
+		"tr": "Зареждане на звуковата система"
+	},
+	{
 		"or": "Loading",
 		"tr": "Зареждане"
 	},
@@ -536,6 +578,7 @@
 		"tr": "Карта"
 	},
 	{
+		"context": "rounds (scoreboard)",
 		"or": "Match",
 		"tr": "Мач"
 	},
@@ -576,6 +619,10 @@
 		"tr": "Движение"
 	},
 	{
+		"or": "Mute broadcasts",
+		"tr": "Заглушаване на излъчванията"
+	},
+	{
 		"or": "Mute when not active",
 		"tr": "Заглушаване на звука когато играта е неактивна"
 	},
@@ -586,6 +633,10 @@
 	{
 		"or": "Netversion",
 		"tr": "Мрежова версия"
+	},
+	{
+		"or": "New filter",
+		"tr": "Нов филтър"
 	},
 	{
 		"or": "Next weapon",
@@ -600,6 +651,11 @@
 		"tr": "Псевдонимът е празен."
 	},
 	{
+		"or": "No",
+		"tr": "Не"
+	},
+	{
+		"context": "Without/None",
 		"or": "No",
 		"tr": "Не"
 	},
@@ -620,16 +676,21 @@
 		"tr": "Нормално:"
 	},
 	{
-		"or": "Off",
-		"tr": "ИЗКЛ"
+		"context": "friends (server browser)",
+		"or": "Offline (%d)",
+		"tr": "Извън линия (%d)"
 	},
 	{
 		"or": "Ok",
 		"tr": "Добре"
 	},
 	{
-		"or": "On",
-		"tr": "ВКЛ"
+		"or": "Online clanmates (%d)",
+		"tr": "Членове на клана на линия (%d)"
+	},
+	{
+		"or": "Online players (%d)",
+		"tr": "Играчи на линия (%d)"
 	},
 	{
 		"or": "Only %d active players are allowed",
@@ -638,6 +699,10 @@
 	{
 		"or": "Open",
 		"tr": "Отваряне"
+	},
+	{
+		"or": "Option",
+		"tr": "Опция"
 	},
 	{
 		"or": "Other",
@@ -685,16 +750,17 @@
 		"tr": "Играч"
 	},
 	{
-		"or": "Player country:",
-		"tr": "Страна на играча:"
-	},
-	{
 		"or": "Player options",
 		"tr": "Настройки на играча"
 	},
 	{
 		"or": "Players",
 		"tr": "Играчи"
+	},
+	{
+		"context": "Playing '(gametype)' on '(map)'",
+		"or": "Playing '%s' on '%s'",
+		"tr": "Играе „%s“ на „%s“"
 	},
 	{
 		"or": "Please balance teams!",
@@ -741,10 +807,6 @@
 		"tr": "Червен отбор"
 	},
 	{
-		"or": "Red team wins!",
-		"tr": "Червеният отбор печели!"
-	},
-	{
 		"or": "Refresh",
 		"tr": "Опресняване"
 	},
@@ -775,6 +837,10 @@
 	{
 		"or": "Reset",
 		"tr": "Нулиране"
+	},
+	{
+		"or": "Reset filter",
+		"tr": "Нулиране на филтрите"
 	},
 	{
 		"or": "Resolution",
@@ -811,10 +877,6 @@
 	{
 		"or": "Score",
 		"tr": "Резултат"
-	},
-	{
-		"or": "Score board",
-		"tr": "Табло с резултати"
 	},
 	{
 		"or": "Score limit",
@@ -901,6 +963,10 @@
 		"tr": "Показване на обществените функционалности"
 	},
 	{
+		"or": "Show user IDs",
+		"tr": "Показване на потр. идентификатори"
+	},
+	{
 		"or": "Size",
 		"tr": "Размер"
 	},
@@ -963,10 +1029,6 @@
 	{
 		"or": "Stop record",
 		"tr": "Спиране на записването"
-	},
-	{
-		"or": "Strict gametype filter",
-		"tr": "Строг филтър за тип игра"
 	},
 	{
 		"or": "Sudden Death",
@@ -1037,6 +1099,10 @@
 		"tr": "Този сървър използва нестандартни настройки на стандартен тип игра."
 	},
 	{
+		"or": "Theme",
+		"tr": "Тема"
+	},
+	{
 		"or": "There's an unsaved map in the editor, you might want to save it before you quit the game.",
 		"tr": "Има незапазена карта в редактора. Ако напуснете играта, картата няма да бъде запазена."
 	},
@@ -1047,10 +1113,6 @@
 	{
 		"or": "Time limit: %d min",
 		"tr": "Ограничение на времето: %d мин"
-	},
-	{
-		"or": "To",
-		"tr": "До"
 	},
 	{
 		"or": "Try again",
@@ -1137,6 +1199,11 @@
 		"tr": "Разгрявка"
 	},
 	{
+		"context": "Watching '(gametype)' on '(map)'",
+		"or": "Watching '%s' on '%s'",
+		"tr": "Гледа „%s“ на „%s“"
+	},
+	{
 		"or": "Weapon",
 		"tr": "Оръжие"
 	},
@@ -1149,6 +1216,11 @@
 		"tr": "Шепот"
 	},
 	{
+		"or": "Yes",
+		"tr": "Да"
+	},
+	{
+		"context": "With",
 		"or": "Yes",
 		"tr": "Да"
 	},

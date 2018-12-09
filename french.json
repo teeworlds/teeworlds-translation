@@ -29,6 +29,10 @@
 		"tr": "%.3f Kio"
 	},
 	{
+		"or": "%d other players",
+		"tr": "%dautres joueurs"
+	},
+	{
 		"or": "%d player left",
 		"tr": "%d joueur restant"
 	},
@@ -47,10 +51,6 @@
 	{
 		"or": "%d servers, %d players",
 		"tr": "%d serveurs, %d joueurs"
-	},
-	{
-		"or": "%d subjects, %d friends and %d clans online",
-		"tr": "%d sujets, %d amis et %d clans en ligne"
 	},
 	{
 		"or": "%d%% loaded",
@@ -123,6 +123,10 @@
 	{
 		"or": "Add demo marker",
 		"tr": "Ajouter un repère"
+	},
+	{
+		"or": "Add friend",
+		"tr": "Ajouter un ami"
 	},
 	{
 		"or": "Address",
@@ -209,16 +213,8 @@
 		"tr": "Équipe bleue"
 	},
 	{
-		"or": "Blue team wins!",
-		"tr": "L'équipe bleue a gagné !"
-	},
-	{
 		"or": "Borderless window",
 		"tr": "Fenêtre sans contours"
-	},
-	{
-		"or": "Browser",
-		"tr": "Serveurs"
 	},
 	{
 		"or": "Call vote",
@@ -235,6 +231,15 @@
 	{
 		"or": "Clan",
 		"tr": "Clan"
+	},
+	{
+		"context": "clear gametype filters",
+		"or": "Clear",
+		"tr": "Effacer"
+	},
+	{
+		"or": "Click on a player or a flag to follow it",
+		"tr": "Cliquez sur un joueur ou sur un drapeau pour le suivre"
 	},
 	{
 		"or": "Client",
@@ -281,12 +286,20 @@
 		"tr": "Nationalité"
 	},
 	{
+		"or": "Country:",
+		"tr": "Nationalité :"
+	},
+	{
 		"or": "Crc",
 		"tr": "Crc"
 	},
 	{
 		"or": "Created",
 		"tr": "Créé"
+	},
+	{
+		"or": "Current: %dx%d (%d:%d)",
+		"tr": "Actuel : %dx%d (%d:%d)"
 	},
 	{
 		"or": "Custom",
@@ -299,6 +312,10 @@
 	{
 		"or": "Customize",
 		"tr": "Personnaliser"
+	},
+	{
+		"or": "D",
+		"tr": "D"
 	},
 	{
 		"or": "Delete",
@@ -333,6 +350,10 @@
 		"tr": "Détail"
 	},
 	{
+		"or": "Difficulty",
+		"tr": "Niveau"
+	},
+	{
 		"or": "Disconnect",
 		"tr": "Partir"
 	},
@@ -359,6 +380,10 @@
 	{
 		"or": "Emoticon",
 		"tr": "Émoticônes"
+	},
+	{
+		"or": "Enable colored server broadcasts",
+		"tr": "Activer les messages serveur colorés (broadcasts)"
 	},
 	{
 		"or": "Enter",
@@ -397,10 +422,6 @@
 		"tr": "Vue libre"
 	},
 	{
-		"or": "Friends",
-		"tr": "Amis"
-	},
-	{
 		"or": "Fullscreen",
 		"tr": "Plein écran"
 	},
@@ -411,6 +432,10 @@
 	{
 		"or": "Game info",
 		"tr": "Info. jeu"
+	},
+	{
+		"or": "Game options",
+		"tr": "Options de jeu"
 	},
 	{
 		"or": "Game over",
@@ -457,6 +482,10 @@
 		"tr": "Au moins un joueur"
 	},
 	{
+		"or": "Hide bots",
+		"tr": "Cacher les bots"
+	},
+	{
 		"or": "High Detail",
 		"tr": "Tous les détails"
 	},
@@ -477,6 +506,11 @@
 		"tr": "Démo invalide"
 	},
 	{
+		"or": "Join",
+		"tr": "Rejoindre"
+	},
+	{
+		"context": "Join a server",
 		"or": "Join",
 		"tr": "Rejoindre"
 	},
@@ -503,6 +537,10 @@
 	{
 		"or": "Jump",
 		"tr": "Sauter"
+	},
+	{
+		"or": "K",
+		"tr": "K"
 	},
 	{
 		"or": "Kick player",
@@ -533,6 +571,10 @@
 		"tr": "Limite d'IPS"
 	},
 	{
+		"or": "Load the sound system",
+		"tr": "Charger les sons"
+	},
+	{
 		"or": "Loading",
 		"tr": "Chargement"
 	},
@@ -553,6 +595,7 @@
 		"tr": "Carte"
 	},
 	{
+		"context": "rounds (scoreboard)",
 		"or": "Match",
 		"tr": "Match"
 	},
@@ -593,6 +636,10 @@
 		"tr": "Mouvement"
 	},
 	{
+		"or": "Mute broadcasts",
+		"tr": "Cacher les messages serveur (broadcasts)"
+	},
+	{
 		"or": "Mute when not active",
 		"tr": "Couper le son quand le jeu est réduit"
 	},
@@ -603,6 +650,10 @@
 	{
 		"or": "Netversion",
 		"tr": "Netversion"
+	},
+	{
+		"or": "New filter",
+		"tr": "Nouveau filtre"
 	},
 	{
 		"or": "Next weapon",
@@ -617,6 +668,11 @@
 		"tr": "Votre pseudo est vide."
 	},
 	{
+		"or": "No",
+		"tr": "Non"
+	},
+	{
+		"context": "Without/None",
 		"or": "No",
 		"tr": "Non"
 	},
@@ -637,16 +693,21 @@
 		"tr": "Normal :"
 	},
 	{
-		"or": "Off",
-		"tr": "Désactivé"
+		"context": "friends (server browser)",
+		"or": "Offline (%d)",
+		"tr": "Hors ligne (%d)"
 	},
 	{
 		"or": "Ok",
 		"tr": "Ok"
 	},
 	{
-		"or": "On",
-		"tr": "Activé"
+		"or": "Online clanmates (%d)",
+		"tr": "Coéquipiers en ligne (%d)"
+	},
+	{
+		"or": "Online players (%d)",
+		"tr": "Joueurs en ligne (%d)"
 	},
 	{
 		"or": "Only %d active players are allowed",
@@ -655,6 +716,10 @@
 	{
 		"or": "Open",
 		"tr": "Ouvrir"
+	},
+	{
+		"or": "Option",
+		"tr": "Option"
 	},
 	{
 		"or": "Other",
@@ -686,7 +751,7 @@
 	},
 	{
 		"or": "Play",
-		"tr": "Jouer"
+		"tr": "Lire"
 	},
 	{
 		"context": "DemoBrowser",
@@ -702,16 +767,17 @@
 		"tr": "Joueur"
 	},
 	{
-		"or": "Player country:",
-		"tr": "Nationalité :"
-	},
-	{
 		"or": "Player options",
 		"tr": "Joueurs"
 	},
 	{
 		"or": "Players",
 		"tr": "Joueurs"
+	},
+	{
+		"context": "Playing '(gametype)' on '(map)'",
+		"or": "Playing '%s' on '%s'",
+		"tr": "Joue à '%s' sur '%s'"
 	},
 	{
 		"or": "Please balance teams!",
@@ -758,10 +824,6 @@
 		"tr": "Équipe rouge"
 	},
 	{
-		"or": "Red team wins!",
-		"tr": "L'équipe rouge a gagné !"
-	},
-	{
 		"or": "Refresh",
 		"tr": "Rafraîchir"
 	},
@@ -792,6 +854,10 @@
 	{
 		"or": "Reset",
 		"tr": "Réinitialiser"
+	},
+	{
+		"or": "Reset filter",
+		"tr": "Remise à zéro du filtre"
 	},
 	{
 		"or": "Resolution",
@@ -828,10 +894,6 @@
 	{
 		"or": "Score",
 		"tr": "Score"
-	},
-	{
-		"or": "Score board",
-		"tr": "Scores"
 	},
 	{
 		"or": "Score limit",
@@ -918,6 +980,10 @@
 		"tr": "Activer les fonctionnalités sociales"
 	},
 	{
+		"or": "Show user IDs",
+		"tr": "Montrer les ID des joueurs"
+	},
+	{
 		"or": "Size",
 		"tr": "Taille"
 	},
@@ -982,10 +1048,6 @@
 		"tr": "Arrêter"
 	},
 	{
-		"or": "Strict gametype filter",
-		"tr": "Types de jeu exacts"
-	},
-	{
 		"or": "Sudden Death",
 		"tr": "Mort Subite"
 	},
@@ -1043,7 +1105,7 @@
 	},
 	{
 		"or": "The %s flag was captured by '%2d: %s' (%.2f seconds)",
-		"tr": "Le drapeau %s a été capturé par '%2d: %s' (%.2f secondes)"
+		"tr": "Le drapeau %s a été capturé par '%s' (%.2f secondes)"
 	},
 	{
 		"or": "The audio device couldn't be initialised.",
@@ -1052,6 +1114,10 @@
 	{
 		"or": "The server is running a non-standard tuning on a pure game type.",
 		"tr": "Le serveur utilise des paramètres non standards sur un type de jeu standard."
+	},
+	{
+		"or": "Theme",
+		"tr": "Thème"
 	},
 	{
 		"or": "There's an unsaved map in the editor, you might want to save it before you quit the game.",
@@ -1064,10 +1130,6 @@
 	{
 		"or": "Time limit: %d min",
 		"tr": "Temps limite : %d min"
-	},
-	{
-		"or": "To",
-		"tr": "À"
 	},
 	{
 		"or": "Try again",
@@ -1154,6 +1216,11 @@
 		"tr": "Échauffement"
 	},
 	{
+		"context": "Watching '(gametype)' on '(map)'",
+		"or": "Watching '%s' on '%s'",
+		"tr": "Regarde du '%s' sur '%s'"
+	},
+	{
 		"or": "Weapon",
 		"tr": "Arme"
 	},
@@ -1166,6 +1233,11 @@
 		"tr": "Chuchoter"
 	},
 	{
+		"or": "Yes",
+		"tr": "Oui"
+	},
+	{
+		"context": "With",
 		"or": "Yes",
 		"tr": "Oui"
 	},
