@@ -25,7 +25,7 @@
 		"heinrich5991, 2015 (Transifex)",
 		"ghost91, 2014 (Transifex)",
 		"Ronald Jäpel, 2018 (Transifex)",
-		"TheDerero, 2014 (Transifex)"
+		"TheDerero, 2014 (Transifex)",
 		"Fisico, 2018 (Transifex)"
 	]},
 "translated strings": [
@@ -1106,11 +1106,11 @@
 	},
 	{
 		"or": "The %s flag was captured by '%2d: %s'",
-		"tr": "'%2d:%s' hat die %sFlagge erobert"
+		"tr": "Die %s Flagge wurde von '%2d: %s' erobert"
 	},
 	{
 		"or": "The %s flag was captured by '%2d: %s' (%.2f seconds)",
-		"tr": "Die %s Flagge wurde von \"%2d: %s\" erobert (%.2f Sekunden)"
+		"tr": "Die %s Flagge wurde von '%2d: %s' erobert (%.2f Sekunden)"
 	},
 	{
 		"or": "The audio device couldn't be initialised.",

@@ -692,7 +692,7 @@
 	},
 	{
 		"or": "Online clanmates (%d)",
-		"tr": "Miembros del clan en línea ( )"
+		"tr": "Miembros del clan en línea (%d)"
 	},
 	{
 		"or": "Online players (%d)",
