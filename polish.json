@@ -53,7 +53,7 @@
 	},
 	{
 		"or": "%i minutes left",
-		"tr": "%iminut do końca"
+		"tr": "%i minut do końca"
 	},
 	{
 		"or": "%i second left",
@@ -661,7 +661,7 @@
 	{
 		"context": "Without/None",
 		"or": "No",
-		"tr": "Nie"
+		"tr": "Nie posiada"
 	},
 	{
 		"or": "No password",
@@ -1226,7 +1226,7 @@
 	{
 		"context": "With",
 		"or": "Yes",
-		"tr": "Tak"
+		"tr": "Posiada"
 	},
 	{
 		"or": "You must restart the game for all settings to take effect.",
