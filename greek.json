@@ -1,8 +1,10 @@
-{"authors": {
-	"originally created by": "Evropi",
+{
+"authors": {
 	"modified by": [
 		"Vangelis Skarmoutsos, 2014 (Transifex)"
-	]},
+	],
+	"originally created by": "Evropi"
+},
 "translated strings": [
 	{
 		"or": "%.3f KiB",
@@ -55,6 +57,30 @@
 	{
 		"or": "%s wins!",
 		"tr": "Ο/Η %s νίκησε!"
+	},
+	{
+		"or": "'%s' called for vote to kick '%s' (%s)",
+		"tr": "Ο «%s» ζήτηση ψήφο για την αποβολή του «%s» (%s)"
+	},
+	{
+		"or": "'%s' called for vote to move '%s' to spectators (%s)",
+		"tr": "Ο «%s» ζήτησε ψήφο για τη μετακίνηση του «%s» στους θεατές (%s)"
+	},
+	{
+		"or": "'%s' called vote to change server option '%s' (%s)",
+		"tr": "Ο «%s» ζήτησε ψήφο για την αλλαγή επιλογής διακομιστή «%s» (%s)"
+	},
+	{
+		"or": "'%s' entered and joined the %s",
+		"tr": "Ο «%s» εισήλθε και συμμετήχε στην %s"
+	},
+	{
+		"or": "'%s' has left the game",
+		"tr": "Ο «%s» εγκατέλειψε το παιχνίδι"
+	},
+	{
+		"or": "'%s' has left the game (%s)",
+		"tr": "Ο «%s» εγκατέλειψε το παιχνίδι (%s)"
 	},
 	{
 		"or": "-Page %d-",
@@ -153,16 +179,8 @@
 		"tr": "Μπλε ομάδα"
 	},
 	{
-		"or": "Blue team wins!",
-		"tr": "Η μπλε ομάδα νίκησε!"
-	},
-	{
 		"or": "Borderless window",
 		"tr": "Παράθυρο χωρίς περιθώρια"
-	},
-	{
-		"or": "Browser",
-		"tr": "Περιηγητής"
 	},
 	{
 		"or": "Call vote",
@@ -341,10 +359,6 @@
 		"tr": "Ελεύθερη Όψη"
 	},
 	{
-		"or": "Friends",
-		"tr": "Φίλοι"
-	},
-	{
 		"or": "Fullscreen",
 		"tr": "Πλήρης οθόνη"
 	},
@@ -425,6 +439,11 @@
 		"tr": "Συμμετοχή στην"
 	},
 	{
+		"context": "Join a server",
+		"or": "Join",
+		"tr": "Συμμετοχή στην"
+	},
+	{
 		"or": "Join blue",
 		"tr": "Μπλε"
 	},
@@ -493,6 +512,7 @@
 		"tr": "Χάρτης"
 	},
 	{
+		"context": "rounds (scoreboard)",
 		"or": "Match",
 		"tr": "Ταίρι"
 	},
@@ -553,6 +573,11 @@
 		"tr": "Το ξευδώνυμο είναι κενό."
 	},
 	{
+		"or": "No",
+		"tr": "Όχι"
+	},
+	{
+		"context": "Without/None",
 		"or": "No",
 		"tr": "Όχι"
 	},
@@ -626,10 +651,6 @@
 		"tr": "Παίκτης"
 	},
 	{
-		"or": "Player country:",
-		"tr": "Χώρα παίκτη:"
-	},
-	{
 		"or": "Player options",
 		"tr": "Επιλογές παικτών"
 	},
@@ -678,10 +699,6 @@
 		"tr": "Κόκκινη ομάδα"
 	},
 	{
-		"or": "Red team wins!",
-		"tr": "Η κόκκινη ομάδα νίκησε!"
-	},
-	{
 		"or": "Refresh",
 		"tr": "Ανανέωση"
 	},
@@ -714,6 +731,10 @@
 		"tr": "Επαναφορά"
 	},
 	{
+		"or": "Reset filter",
+		"tr": "Αφαίρεση φίλτρου"
+	},
+	{
 		"or": "Respawn",
 		"tr": "Αναγέννηση"
 	},
@@ -744,10 +765,6 @@
 	{
 		"or": "Score",
 		"tr": "Βαθμ."
-	},
-	{
-		"or": "Score board",
-		"tr": "Πίνακας βαθμ/γίας"
 	},
 	{
 		"or": "Score limit",
@@ -884,10 +901,6 @@
 	{
 		"or": "Stop record",
 		"tr": "Παύση καταγραφής"
-	},
-	{
-		"or": "Strict gametype filter",
-		"tr": "Αυστηρό φίλτρο παιχν."
 	},
 	{
 		"or": "Sudden Death",
@@ -1058,6 +1071,11 @@
 		"tr": "Ναι"
 	},
 	{
+		"context": "With",
+		"or": "Yes",
+		"tr": "Ναι"
+	},
+	{
 		"or": "You must restart the game for all settings to take effect.",
 		"tr": "Πρέπει να επανεκκινήσετε το παιχνίδι για να εφαρμοστούν όλες οι αλλαγές."
 	},
@@ -1066,14 +1084,12 @@
 		"tr": "Πρέπει να περιμένετε %d δευτερόλεπτα πριν ζητήσετε καινούργια ψήφο"
 	},
 	{
-		"or": "blue",
-		"tr": "μπλε"
-	},
-	{
+		"context": "'X joined the <blue team>' (server message)",
 		"or": "blue team",
 		"tr": "μπλε ομάδα"
 	},
 	{
+		"context": "'X joined the <game>' (server message)",
 		"or": "game",
 		"tr": "παιχνίδι"
 	},
@@ -1082,18 +1098,17 @@
 		"tr": "κλειδωμένο"
 	},
 	{
+		"context": "server browser message",
 		"or": "no players",
 		"tr": "δεν έχει παίκτες"
 	},
 	{
-		"or": "red",
-		"tr": "κόκκινη"
-	},
-	{
+		"context": "'X joined the <red team>' (server message)",
 		"or": "red team",
 		"tr": "κόκκινη ομάδα"
 	},
 	{
+		"context": "'X joined the <spectators>' (server message)",
 		"or": "spectators",
 		"tr": "θεατές"
 	},

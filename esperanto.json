@@ -1,4 +1,12 @@
 {
+"authors": {
+	"modified by": [
+		"Kamparano, 2015 (Transifex)",
+		"Marvin, 2015 (Transifex)",
+		"Mickaël RAYBAUD-ROIG, 2015 (Transifex)"
+	],
+	"originally created by": "Kamparano"
+},
 "translated strings": [
 	{
 		"or": "%.3f KiB",
@@ -51,6 +59,30 @@
 	{
 		"or": "%s wins!",
 		"tr": "%s venkas!"
+	},
+	{
+		"or": "'%s' called for vote to kick '%s' (%s)",
+		"tr": "%s' volas forigi '%s' (%s)"
+	},
+	{
+		"or": "'%s' called for vote to move '%s' to spectators (%s)",
+		"tr": "'%s' volas forigi '%s' al la spektantoj (%s)"
+	},
+	{
+		"or": "'%s' called vote to change server option '%s' (%s)",
+		"tr": "'%s' volas voĉdoni por ŝanĝi la servilagordo '%s' (%s)"
+	},
+	{
+		"or": "'%s' entered and joined the %s",
+		"tr": "'%s' envenis kaj aligis al %s"
+	},
+	{
+		"or": "'%s' has left the game",
+		"tr": "'%s' eliris el la ludo"
+	},
+	{
+		"or": "'%s' has left the game (%s)",
+		"tr": "'%s' eliris el la ludo (%s)"
 	},
 	{
 		"or": "-Page %d-",
@@ -149,16 +181,8 @@
 		"tr": "Blua teamo"
 	},
 	{
-		"or": "Blue team wins!",
-		"tr": "Blua teamo venkas!"
-	},
-	{
 		"or": "Borderless window",
 		"tr": "Fenestro sen framo"
-	},
-	{
-		"or": "Browser",
-		"tr": "Esplorilo"
 	},
 	{
 		"or": "Call vote",
@@ -337,10 +361,6 @@
 		"tr": "Libera-Vido"
 	},
 	{
-		"or": "Friends",
-		"tr": "Amikoj"
-	},
-	{
 		"or": "Fullscreen",
 		"tr": "Tutekrano"
 	},
@@ -421,6 +441,11 @@
 		"tr": "Aligi"
 	},
 	{
+		"context": "Join a server",
+		"or": "Join",
+		"tr": "Aligi"
+	},
+	{
 		"or": "Join blue",
 		"tr": "Aligu al la blua"
 	},
@@ -489,6 +514,7 @@
 		"tr": "Mapo"
 	},
 	{
+		"context": "rounds (scoreboard)",
 		"or": "Match",
 		"tr": "Ludbatalo"
 	},
@@ -549,6 +575,11 @@
 		"tr": "Kromnomo estas malplena."
 	},
 	{
+		"or": "No",
+		"tr": "Ne"
+	},
+	{
+		"context": "Without/None",
 		"or": "No",
 		"tr": "Ne"
 	},
@@ -622,10 +653,6 @@
 		"tr": "Ludanto"
 	},
 	{
-		"or": "Player country:",
-		"tr": "Ludanta lando:"
-	},
-	{
 		"or": "Player options",
 		"tr": "Agordoj de ludanto"
 	},
@@ -674,10 +701,6 @@
 		"tr": "Ruĝa teamo"
 	},
 	{
-		"or": "Red team wins!",
-		"tr": "Ruĝa teamo venkas!"
-	},
-	{
 		"or": "Refresh",
 		"tr": "Aktualigi"
 	},
@@ -710,6 +733,10 @@
 		"tr": "Rekomencigo"
 	},
 	{
+		"or": "Reset filter",
+		"tr": "Reŝarĝi filtrilon"
+	},
+	{
 		"or": "Respawn",
 		"tr": "Viviĝi"
 	},
@@ -740,10 +767,6 @@
 	{
 		"or": "Score",
 		"tr": "Rezulto"
-	},
-	{
-		"or": "Score board",
-		"tr": "Rezulttabelo"
 	},
 	{
 		"or": "Score limit",
@@ -880,10 +903,6 @@
 	{
 		"or": "Stop record",
 		"tr": "Halti registradon"
-	},
-	{
-		"or": "Strict gametype filter",
-		"tr": "Strikta filtrilo de ludtipo"
 	},
 	{
 		"or": "Sudden Death",
@@ -1054,6 +1073,11 @@
 		"tr": "Jes"
 	},
 	{
+		"context": "With",
+		"or": "Yes",
+		"tr": "Jes"
+	},
+	{
 		"or": "You must restart the game for all settings to take effect.",
 		"tr": "Vi devas restarti la ludon, se vi volas, ke ĉiuj agordoj efikas."
 	},
@@ -1062,14 +1086,12 @@
 		"tr": "Vi devas atendi %d sekundojn antaŭ vi povas doni alian voĉon"
 	},
 	{
-		"or": "blue",
-		"tr": "blua"
-	},
-	{
+		"context": "'X joined the <blue team>' (server message)",
 		"or": "blue team",
 		"tr": "bluan teamon"
 	},
 	{
+		"context": "'X joined the <game>' (server message)",
 		"or": "game",
 		"tr": "ludo"
 	},
@@ -1078,18 +1100,17 @@
 		"tr": "ŝlosita"
 	},
 	{
+		"context": "server browser message",
 		"or": "no players",
 		"tr": "ne ludantoj"
 	},
 	{
-		"or": "red",
-		"tr": "ruĝa"
-	},
-	{
+		"context": "'X joined the <red team>' (server message)",
 		"or": "red team",
 		"tr": "ruĝan teamon"
 	},
 	{
+		"context": "'X joined the <spectators>' (server message)",
 		"or": "spectators",
 		"tr": "spektantoj"
 	},

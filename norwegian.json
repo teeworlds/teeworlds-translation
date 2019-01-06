@@ -1,16 +1,22 @@
-{"authors": {
-	"originally created by": "MertenNor",
+{
+"authors": {
 	"modified by": [
-		"MertenNor		2011-07-02 08:46:16",
+		"MertenNor        2011-07-02 08:46:16",
 		"Anders Norman, 2018 (Transifex)",
 		"andreasgan, 2014 (Transifex)",
 		"holymadtee, 2014 (Transifex)",
 		"MertenNor, 2018 (Transifex)"
-	]},
+	],
+	"originally created by": "MertenNor"
+},
 "translated strings": [
 	{
 		"or": "%.3f KiB",
 		"tr": "%.3f KiB"
+	},
+	{
+		"or": "%d other players",
+		"tr": "%d Andre spillere"
 	},
 	{
 		"or": "%d player left",
@@ -31,10 +37,6 @@
 	{
 		"or": "%d servers, %d players",
 		"tr": "%d servere, %d spillere"
-	},
-	{
-		"or": "%d subjects, %d friends and %d clans online",
-		"tr": " 1%d bekjente, 1%d venner og 1%d klaner online"
 	},
 	{
 		"or": "%d%% loaded",
@@ -65,32 +67,32 @@
 		"tr": "%s vant!"
 	},
 	{
-		"or": "'%2d: %s' called for vote to kick '%s' (%s)",
-		"tr": "'1%2d: 2%s' stemmer for og kicke '2%s' (2%s)"
-	},
-	{
-		"or": "'%2d: %s' called for vote to move '%s' to spectators (%s)",
-		"tr": "'1%2d: 2%s' stemmer for og flytte '2%s' til spectator (2%s)"
-	},
-	{
-		"or": "'%2d: %s' called vote to change server option '%s' (%s)",
-		"tr": "'%2d: %s' stemmer for og endre server instillinger '%s' (%s)"
-	},
-	{
-		"or": "'%2d: %s' entered and joined the %s",
-		"tr": "'%2d: %s' joinet og ble med i %s"
-	},
-	{
-		"or": "'%2d: %s' has left the game",
-		"tr": "'1%2d: 2%s' har forlatt spillet"
-	},
-	{
-		"or": "'%2d: %s' has left the game (%s)",
-		"tr": "'1%2d: 2%s' har forlatt spillet (%s)"
-	},
-	{
 		"or": "'%2d: %s' joined the %s",
 		"tr": "'1%2d: 2%s' joinet 2%s"
+	},
+	{
+		"or": "'%s' called for vote to kick '%s' (%s)",
+		"tr": "'%s' stemmet for å sparke ut '%s' (%s)"
+	},
+	{
+		"or": "'%s' called for vote to move '%s' to spectators (%s)",
+		"tr": "'%s' stemte for å flytte '%s' til tilskuere (%s)"
+	},
+	{
+		"or": "'%s' called vote to change server option '%s' (%s)",
+		"tr": "'%s' stemte for å endre server innstilling '%s' (%s)"
+	},
+	{
+		"or": "'%s' entered and joined the %s",
+		"tr": "'%s' koblet til å ble med %s"
+	},
+	{
+		"or": "'%s' has left the game",
+		"tr": "'%s' har forlatt spillet"
+	},
+	{
+		"or": "'%s' has left the game (%s)",
+		"tr": "'%s' har forlatt kampen (%s)"
 	},
 	{
 		"or": "-Page %d-",
@@ -105,8 +107,20 @@
 		"tr": "Legg til"
 	},
 	{
+		"or": "Add clan",
+		"tr": "Legg til clan"
+	},
+	{
 		"or": "Add demo marker",
 		"tr": "Legg til markering"
+	},
+	{
+		"or": "Add friend",
+		"tr": "Legg til venn"
+	},
+	{
+		"or": "Add friend/clan",
+		"tr": "Legg til venn/clan"
 	},
 	{
 		"or": "Address",
@@ -157,6 +171,10 @@
 		"tr": "Er du sikker på at du vil avslutte?"
 	},
 	{
+		"or": "Are you sure that you want to remove the filter from the server browser?",
+		"tr": "Er du sikker på at du vil fjerne filteret fra server listen?"
+	},
+	{
 		"or": "Are you sure that you want to remove the player from your friends list?",
 		"tr": "Er du sikker på at du vil fjerne spilleren fra vennelisten din?"
 	},
@@ -193,16 +211,8 @@
 		"tr": "Blått lag"
 	},
 	{
-		"or": "Blue team wins!",
-		"tr": "Blått lag vant!"
-	},
-	{
 		"or": "Borderless window",
 		"tr": "Kantløst vindu"
-	},
-	{
-		"or": "Browser",
-		"tr": "Leser"
 	},
 	{
 		"or": "Call vote",
@@ -221,6 +231,10 @@
 		"tr": "Klan"
 	},
 	{
+		"or": "Click on a player or a flag to follow it",
+		"tr": "Trykk på en spiller eller flagg for og følge"
+	},
+	{
 		"or": "Client",
 		"tr": "Klient"
 	},
@@ -235,6 +249,10 @@
 	{
 		"or": "Compatible version",
 		"tr": "Kompitabel versjon"
+	},
+	{
+		"or": "Competitive",
+		"tr": "Competitive"
 	},
 	{
 		"or": "Connect",
@@ -271,6 +289,10 @@
 	{
 		"or": "Created",
 		"tr": "Opprettet"
+	},
+	{
+		"or": "Current: %dx%d (%d:%d)",
+		"tr": "valgt %dx%d (%d:%d)"
 	},
 	{
 		"or": "Custom",
@@ -317,6 +339,10 @@
 		"tr": "Detalj"
 	},
 	{
+		"or": "Difficulty",
+		"tr": "Vanskelighet"
+	},
+	{
 		"or": "Disconnect",
 		"tr": "Koble fra"
 	},
@@ -343,6 +369,10 @@
 	{
 		"or": "Emoticon",
 		"tr": "Uttrykksikoner"
+	},
+	{
+		"or": "Enable colored server broadcasts",
+		"tr": "Aktiver fargede serverutsendelser"
 	},
 	{
 		"or": "Enter",
@@ -379,10 +409,6 @@
 	{
 		"or": "Free-View",
 		"tr": "Fri visning"
-	},
-	{
-		"or": "Friends",
-		"tr": "Venner"
 	},
 	{
 		"or": "Fullscreen",
@@ -441,6 +467,10 @@
 		"tr": "Har folk som spiller"
 	},
 	{
+		"or": "Hide bots",
+		"tr": "fjern bots"
+	},
+	{
 		"or": "High Detail",
 		"tr": "Høy Detalj"
 	},
@@ -461,6 +491,11 @@
 		"tr": "Ugyldig Demo"
 	},
 	{
+		"or": "Join",
+		"tr": "Bli med"
+	},
+	{
+		"context": "Join a server",
 		"or": "Join",
 		"tr": "Bli med"
 	},
@@ -487,6 +522,10 @@
 	{
 		"or": "Jump",
 		"tr": "Hopp"
+	},
+	{
+		"or": "K",
+		"tr": "K"
 	},
 	{
 		"or": "Kick player",
@@ -517,6 +556,10 @@
 		"tr": "Begrens Fps"
 	},
 	{
+		"or": "Load the sound system",
+		"tr": "Last inn lys system"
+	},
+	{
 		"or": "Loading",
 		"tr": "Laster inn"
 	},
@@ -537,6 +580,7 @@
 		"tr": "Bane"
 	},
 	{
+		"context": "rounds (scoreboard)",
 		"or": "Match",
 		"tr": "Kamp"
 	},
@@ -605,6 +649,11 @@
 		"tr": "Nei"
 	},
 	{
+		"context": "Without/None",
+		"or": "No",
+		"tr": "Nei"
+	},
+	{
 		"or": "No password",
 		"tr": "Ingen passord"
 	},
@@ -617,20 +666,29 @@
 		"tr": "Ingen servere tilsvarer dine filter kriterier"
 	},
 	{
+		"or": "Normal",
+		"tr": "Normal"
+	},
+	{
 		"or": "Normal:",
 		"tr": "Normal:"
 	},
 	{
-		"or": "Off",
-		"tr": "Av"
+		"context": "friends (server browser)",
+		"or": "Offline (%d)",
+		"tr": "Offline (%d)"
 	},
 	{
 		"or": "Ok",
 		"tr": "Ok"
 	},
 	{
-		"or": "On",
-		"tr": "På"
+		"or": "Online clanmates (%d)",
+		"tr": "Online clan-venner (%d)"
+	},
+	{
+		"or": "Online players (%d)",
+		"tr": "Online Spillere (%d)"
 	},
 	{
 		"or": "Only %d active players are allowed",
@@ -639,6 +697,10 @@
 	{
 		"or": "Open",
 		"tr": "Åpne"
+	},
+	{
+		"or": "Option",
+		"tr": "valg"
 	},
 	{
 		"or": "Other",
@@ -686,16 +748,17 @@
 		"tr": "Spiller"
 	},
 	{
-		"or": "Player country:",
-		"tr": "Spillerland"
-	},
-	{
 		"or": "Player options",
 		"tr": "Spilleralternativer"
 	},
 	{
 		"or": "Players",
 		"tr": "Spillere"
+	},
+	{
+		"context": "Playing '(gametype)' on '(map)'",
+		"or": "Playing '%s' on '%s'",
+		"tr": "Spiller '%s' på '%s'"
 	},
 	{
 		"or": "Please balance teams!",
@@ -742,10 +805,6 @@
 		"tr": "Rødt lag"
 	},
 	{
-		"or": "Red team wins!",
-		"tr": "Rødt lag vant!"
-	},
-	{
 		"or": "Refresh",
 		"tr": "Oppdater"
 	},
@@ -762,6 +821,10 @@
 		"tr": "Fjern"
 	},
 	{
+		"or": "Remove filter",
+		"tr": "Fjern filter"
+	},
+	{
 		"or": "Remove friend",
 		"tr": "Fjern venn"
 	},
@@ -776,6 +839,10 @@
 	{
 		"or": "Reset",
 		"tr": "Tilbakestill"
+	},
+	{
+		"or": "Reset filter",
+		"tr": "Tilbakestill filter"
 	},
 	{
 		"or": "Resolution",
@@ -812,10 +879,6 @@
 	{
 		"or": "Score",
 		"tr": "Poeng"
-	},
-	{
-		"or": "Score board",
-		"tr": "Poengliste"
 	},
 	{
 		"or": "Score limit",
@@ -902,6 +965,10 @@
 		"tr": "Hvis sosial"
 	},
 	{
+		"or": "Show user IDs",
+		"tr": "Vis spiller ID"
+	},
+	{
 		"or": "Size",
 		"tr": "Størrelse"
 	},
@@ -966,10 +1033,6 @@
 		"tr": "Stopp opptak"
 	},
 	{
-		"or": "Strict gametype filter",
-		"tr": "Nøye spilltype filter"
-	},
-	{
 		"or": "Sudden Death",
 		"tr": "Sudden Death"
 	},
@@ -1022,12 +1085,12 @@
 		"tr": "Tekstur kompresjon"
 	},
 	{
-		"or": "The %s flag was captured by '%2d: %s'",
-		"tr": "Det %s flagget ble tatt av '%2d:%s'"
+		"or": "The %s was captured by '%s'",
+		"tr": "%s Flagg ble skårt av '%s'"
 	},
 	{
-		"or": "The %s flag was captured by '%2d: %s' (%.2f seconds)",
-		"tr": "Det %s flagget ble tatt av '%2d:%s' (%.2f sekunder)"
+		"or": "The %s was captured by '%s' (%.2f seconds)",
+		"tr": "%s flagg var skårt av '%s ' (%.2f senunder)"
 	},
 	{
 		"or": "The audio device couldn't be initialised.",
@@ -1048,10 +1111,6 @@
 	{
 		"or": "Time limit: %d min",
 		"tr": "Tidsgrense: %d min"
-	},
-	{
-		"or": "To",
-		"tr": "Til"
 	},
 	{
 		"or": "Try again",
@@ -1138,6 +1197,11 @@
 		"tr": "Oppvarming"
 	},
 	{
+		"context": "Watching '(gametype)' on '(map)'",
+		"or": "Watching '%s' on '%s'",
+		"tr": "Ser '%s' på '%s'"
+	},
+	{
 		"or": "Weapon",
 		"tr": "Våpen"
 	},
@@ -1146,10 +1210,19 @@
 		"tr": "Velkommen til Teeworlds"
 	},
 	{
+		"or": "When ready, press <%s>",
+		"tr": "Trykk <%s> Når du er klar"
+	},
+	{
 		"or": "Whisper",
 		"tr": "Hviske"
 	},
 	{
+		"or": "Yes",
+		"tr": "Ja"
+	},
+	{
+		"context": "With",
 		"or": "Yes",
 		"tr": "Ja"
 	},
@@ -1162,78 +1235,54 @@
 		"tr": "Du må vente %d sekunder før du kan lage en ny avstemning"
 	},
 	{
-		"or": "blue",
-		"tr": "blå"
-	},
-	{
 		"or": "blue flag",
 		"tr": "blått flagg"
 	},
 	{
+		"context": "'X joined the <blue team>' (server message)",
 		"or": "blue team",
 		"tr": "blått lag"
 	},
 	{
-		"or": "body",
-		"tr": "kropp"
-	},
-	{
-		"or": "decoration",
-		"tr": "dekorering"
-	},
-	{
+		"context": "Show chat messages from:",
 		"or": "everyone",
 		"tr": "alle"
 	},
 	{
-		"or": "eyes",
-		"tr": "øyne"
-	},
-	{
-		"or": "feet",
-		"tr": "føtter"
-	},
-	{
+		"context": "Show chat messages from:",
 		"or": "friends only",
 		"tr": "bare venner"
 	},
 	{
+		"context": "'X joined the <game>' (server message)",
 		"or": "game",
 		"tr": "spill"
-	},
-	{
-		"or": "hands",
-		"tr": "hender"
 	},
 	{
 		"or": "locked",
 		"tr": "låst"
 	},
 	{
-		"or": "marking",
-		"tr": "mønster"
-	},
-	{
+		"context": "Show chat messages from:",
 		"or": "no one",
 		"tr": "ingen"
 	},
 	{
+		"context": "server browser message",
 		"or": "no players",
 		"tr": "ingen spillere"
-	},
-	{
-		"or": "red",
-		"tr": "rød"
 	},
 	{
 		"or": "red flag",
 		"tr": "rødt flagg"
 	},
 	{
+		"context": "'X joined the <red team>' (server message)",
 		"or": "red team",
 		"tr": "rødt lag"
 	},
 	{
+		"context": "'X joined the <spectators>' (server message)",
 		"or": "spectators",
 		"tr": "tilskuere"
 	},

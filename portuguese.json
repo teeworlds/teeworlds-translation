@@ -1,13 +1,15 @@
-{"authors": {
-	"originally created by": "HeroiAmarelo",
+{
+"authors": {
 	"modified by": [
-		"HeroiAmarelo	2011-07-15 00:35:23",
-		"HeroiAmarelo	2012-08-01 15:47:40",
-		"HeroiAmarelo	2012-10-18 23:56:32",
+		"HeroiAmarelo    2011-07-15 00:35:23",
+		"HeroiAmarelo    2012-08-01 15:47:40",
+		"HeroiAmarelo    2012-10-18 23:56:32",
 		"Chris Gadzinski, 2017 (Transifex)",
 		"Gonçalo Matos, 2015 (Transifex)",
 		"HeroiAmarelo, 2018 (Transifex)"
-	]},
+	],
+	"originally created by": "HeroiAmarelo"
+},
 "translated strings": [
 	{
 		"or": "%.3f KiB",
@@ -32,10 +34,6 @@
 	{
 		"or": "%d servers, %d players",
 		"tr": "%d servidores, %d jogadores"
-	},
-	{
-		"or": "%d subjects, %d friends and %d clans online",
-		"tr": "%d conhecidos, %d amigos e %d clãns online"
 	},
 	{
 		"or": "%d%% loaded",
@@ -66,32 +64,32 @@
 		"tr": "%s ganhou!"
 	},
 	{
-		"or": "'%2d: %s' called for vote to kick '%s' (%s)",
-		"tr": "'%2d: %s' abriu uma votação para expulsar '%s' (%s)"
-	},
-	{
-		"or": "'%2d: %s' called for vote to move '%s' to spectators (%s)",
-		"tr": "'%2d: %s' abriu uma votação para mover '%s' para os espectadores (%s)"
-	},
-	{
-		"or": "'%2d: %s' called vote to change server option '%s' (%s)",
-		"tr": "'%2d: %s' abriu uma votação para mudar a opção do servidor '%s' (%s)"
-	},
-	{
-		"or": "'%2d: %s' entered and joined the %s",
-		"tr": "'%2d: %s' entrou e juntou-se à %s"
-	},
-	{
-		"or": "'%2d: %s' has left the game",
-		"tr": "'%2d: %s' saiu do jogo"
-	},
-	{
-		"or": "'%2d: %s' has left the game (%s)",
-		"tr": "'%2d: %s' saiu do jogo (%s)"
-	},
-	{
 		"or": "'%2d: %s' joined the %s",
 		"tr": "'%2d: %s' juntou-se à %s"
+	},
+	{
+		"or": "'%s' called for vote to kick '%s' (%s)",
+		"tr": "'%s' Criou um kick-vote para kickar: '%s' (%s)"
+	},
+	{
+		"or": "'%s' called for vote to move '%s' to spectators (%s)",
+		"tr": "'%s' Criou um spec-vote para mover o jogador '%s' para spec (%s)"
+	},
+	{
+		"or": "'%s' called vote to change server option '%s' (%s)",
+		"tr": "'%s' criou um voto para mudar a opção do servidor '%s' (%s)"
+	},
+	{
+		"or": "'%s' entered and joined the %s",
+		"tr": "'%s' entou e juntou-se ao %s"
+	},
+	{
+		"or": "'%s' has left the game",
+		"tr": "'%s' saiu do jogo"
+	},
+	{
+		"or": "'%s' has left the game (%s)",
+		"tr": "'%s' saiu do jogo (%s)"
 	},
 	{
 		"or": "-Page %d-",
@@ -194,16 +192,8 @@
 		"tr": "Equipa azul"
 	},
 	{
-		"or": "Blue team wins!",
-		"tr": "A Equipa azul ganhou!"
-	},
-	{
 		"or": "Borderless window",
 		"tr": "Janela S/ Bordas"
-	},
-	{
-		"or": "Browser",
-		"tr": "Navegador"
 	},
 	{
 		"or": "Call vote",
@@ -382,10 +372,6 @@
 		"tr": "Vista Livre"
 	},
 	{
-		"or": "Friends",
-		"tr": "Amigos"
-	},
-	{
 		"or": "Fullscreen",
 		"tr": "Fullscreen (Ecrã inteiro)"
 	},
@@ -466,6 +452,11 @@
 		"tr": "Entrar"
 	},
 	{
+		"context": "Join a server",
+		"or": "Join",
+		"tr": "Entrar"
+	},
+	{
 		"or": "Join blue",
 		"tr": "Juntar aos azuis"
 	},
@@ -538,6 +529,7 @@
 		"tr": "Mapa"
 	},
 	{
+		"context": "rounds (scoreboard)",
 		"or": "Match",
 		"tr": "Combate"
 	},
@@ -606,6 +598,11 @@
 		"tr": "Não"
 	},
 	{
+		"context": "Without/None",
+		"or": "No",
+		"tr": "Não"
+	},
+	{
 		"or": "No password",
 		"tr": "Sem palavra-passe"
 	},
@@ -622,16 +619,8 @@
 		"tr": "Normal:"
 	},
 	{
-		"or": "Off",
-		"tr": "Desligado"
-	},
-	{
 		"or": "Ok",
 		"tr": "Aceitar"
-	},
-	{
-		"or": "On",
-		"tr": "Ligado"
 	},
 	{
 		"or": "Only %d active players are allowed",
@@ -671,7 +660,7 @@
 	},
 	{
 		"or": "Play",
-		"tr": "Ver"
+		"tr": "Jogar"
 	},
 	{
 		"context": "DemoBrowser",
@@ -685,10 +674,6 @@
 	{
 		"or": "Player",
 		"tr": "Jogador"
-	},
-	{
-		"or": "Player country:",
-		"tr": "País do jogador"
 	},
 	{
 		"or": "Player options",
@@ -743,10 +728,6 @@
 		"tr": "Equipa verm."
 	},
 	{
-		"or": "Red team wins!",
-		"tr": "Ganhou a equipa vermelha!"
-	},
-	{
 		"or": "Refresh",
 		"tr": "Recarregar"
 	},
@@ -777,6 +758,10 @@
 	{
 		"or": "Reset",
 		"tr": "Repor"
+	},
+	{
+		"or": "Reset filter",
+		"tr": "Reiniciar Fitro"
 	},
 	{
 		"or": "Resolution",
@@ -813,10 +798,6 @@
 	{
 		"or": "Score",
 		"tr": "Pontos"
-	},
-	{
-		"or": "Score board",
-		"tr": "Tabela de Pontos"
 	},
 	{
 		"or": "Score limit",
@@ -967,10 +948,6 @@
 		"tr": "Parar de gravar"
 	},
 	{
-		"or": "Strict gametype filter",
-		"tr": "Tipo de jogo especifico"
-	},
-	{
 		"or": "Sudden Death",
 		"tr": "Morte súbita"
 	},
@@ -1023,14 +1000,6 @@
 		"tr": "Compressão de Textura"
 	},
 	{
-		"or": "The %s flag was captured by '%2d: %s'",
-		"tr": "A bandeira %s foi apanhada por '%2d: %s'"
-	},
-	{
-		"or": "The %s flag was captured by '%2d: %s' (%.2f seconds)",
-		"tr": "A bandeira %s  foi apanhada por '%2d: %s' (%.2f segundos)"
-	},
-	{
 		"or": "The audio device couldn't be initialised.",
 		"tr": "O dispositivo de som não pode ser iniciado."
 	},
@@ -1049,10 +1018,6 @@
 	{
 		"or": "Time limit: %d min",
 		"tr": "Limite de tempo: %d min"
-	},
-	{
-		"or": "To",
-		"tr": "Para"
 	},
 	{
 		"or": "Try again",
@@ -1155,6 +1120,11 @@
 		"tr": "Sim"
 	},
 	{
+		"context": "With",
+		"or": "Yes",
+		"tr": "Sim"
+	},
+	{
 		"or": "You must restart the game for all settings to take effect.",
 		"tr": "Para que as configurações sejam efectuadas deves Reiniciar o jogo."
 	},
@@ -1163,78 +1133,54 @@
 		"tr": "Tens de esperar %d seg. antes de fazer um novo vote."
 	},
 	{
-		"or": "blue",
-		"tr": "azul"
-	},
-	{
 		"or": "blue flag",
 		"tr": "bandeira azul"
 	},
 	{
+		"context": "'X joined the <blue team>' (server message)",
 		"or": "blue team",
 		"tr": "equipa azul"
 	},
 	{
-		"or": "body",
-		"tr": "corpo"
-	},
-	{
-		"or": "decoration",
-		"tr": "decoração"
-	},
-	{
+		"context": "Show chat messages from:",
 		"or": "everyone",
 		"tr": "toda a gente"
 	},
 	{
-		"or": "eyes",
-		"tr": "olhos"
-	},
-	{
-		"or": "feet",
-		"tr": "pés"
-	},
-	{
+		"context": "Show chat messages from:",
 		"or": "friends only",
 		"tr": "apenas amigos"
 	},
 	{
+		"context": "'X joined the <game>' (server message)",
 		"or": "game",
 		"tr": "jogo"
-	},
-	{
-		"or": "hands",
-		"tr": "mãos"
 	},
 	{
 		"or": "locked",
 		"tr": "bloqueado"
 	},
 	{
-		"or": "marking",
-		"tr": "marca"
-	},
-	{
+		"context": "Show chat messages from:",
 		"or": "no one",
 		"tr": "ninguém"
 	},
 	{
+		"context": "server browser message",
 		"or": "no players",
 		"tr": "Sem jogadores"
-	},
-	{
-		"or": "red",
-		"tr": "vermelho"
 	},
 	{
 		"or": "red flag",
 		"tr": "bandeira vermelha"
 	},
 	{
+		"context": "'X joined the <red team>' (server message)",
 		"or": "red team",
 		"tr": "equipa vermelha"
 	},
 	{
+		"context": "'X joined the <spectators>' (server message)",
 		"or": "spectators",
 		"tr": "espectadores"
 	},

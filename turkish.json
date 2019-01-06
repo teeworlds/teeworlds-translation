@@ -1,15 +1,17 @@
-{"authors": {
-	"originally created by": "Learath2",
+{
+"authors": {
 	"modified by": [
-		"Learath2		2011-06-27 18:54:08",
-		"Learath2		2011-08-21 00:12:50",
-		"Learath2		2011-09-07 15:59:20",
-		"Learath2		2012-01-01 22:54:29",
+		"Learath2        2011-06-27 18:54:08",
+		"Learath2        2011-08-21 00:12:50",
+		"Learath2        2011-09-07 15:59:20",
+		"Learath2        2012-01-01 22:54:29",
 		"Djan Chamd., 2015 (Transifex)",
 		"Neox, 2015 (Transifex)",
 		"ra laud, 2018 (Transifex)",
 		"ufk1234, 2014 (Transifex)"
-	]},
+	],
+	"originally created by": "Learath2"
+},
 "translated strings": [
 	{
 		"or": "%.3f KiB",
@@ -64,28 +66,32 @@
 		"tr": "%s kazandı!"
 	},
 	{
-		"or": "'%2d: %s' called for vote to kick '%s' (%s)",
-		"tr": "'%2d: %s', '%s' adıyla kişiyi oyundan atmak için oylamayı başlattı (%s)"
-	},
-	{
-		"or": "'%2d: %s' called for vote to move '%s' to spectators (%s)",
-		"tr": "'%2d: %s', '%s' adıyla kişiyi izleyici yapmak için oylamayı başlattı (%s)"
-	},
-	{
-		"or": "'%2d: %s' entered and joined the %s",
-		"tr": "'%2d: %s' oyuna girdi ve %s takıma katıldı"
-	},
-	{
-		"or": "'%2d: %s' has left the game",
-		"tr": "'%2d: %s' oyundan çıktı"
-	},
-	{
-		"or": "'%2d: %s' has left the game (%s)",
-		"tr": "'%2d: %s' oyundan çıktı (%s)"
-	},
-	{
 		"or": "'%2d: %s' joined the %s",
 		"tr": "'%2d: %s' %s'a katıldı"
+	},
+	{
+		"or": "'%s' called for vote to kick '%s' (%s)",
+		"tr": "'%s', '%s' adlı kişiyi oyundan atmak için oylama başlattı (%s)"
+	},
+	{
+		"or": "'%s' called for vote to move '%s' to spectators (%s)",
+		"tr": "'%s', '%s' adlı kişiyi izleyici yapmak için oylama başlattı (%s)"
+	},
+	{
+		"or": "'%s' called vote to change server option '%s' (%s)",
+		"tr": "'%' sunucu ayarlarını değiştirmek için oylama başlattı '%s' (%s)"
+	},
+	{
+		"or": "'%s' entered and joined the %s",
+		"tr": "'%s' oyuna girdi ve %s takıma katıldı"
+	},
+	{
+		"or": "'%s' has left the game",
+		"tr": "'%s' oyundan çıktı"
+	},
+	{
+		"or": "'%s' has left the game (%s)",
+		"tr": "'%s' oyundan cikti. (%s)"
 	},
 	{
 		"or": "-Page %d-",
@@ -184,16 +190,8 @@
 		"tr": "Mavi takım"
 	},
 	{
-		"or": "Blue team wins!",
-		"tr": "Mavi takım kazandı!"
-	},
-	{
 		"or": "Borderless window",
 		"tr": "Sınırsız pencere"
-	},
-	{
-		"or": "Browser",
-		"tr": "Tarayıcı"
 	},
 	{
 		"or": "Call vote",
@@ -297,7 +295,7 @@
 	},
 	{
 		"or": "Demofile: %s",
-		"tr": "Demo dosyası: %s"
+		"tr": "Demo dosyası"
 	},
 	{
 		"or": "Demos",
@@ -370,10 +368,6 @@
 	{
 		"or": "Free-View",
 		"tr": "Serbest Görüntü"
-	},
-	{
-		"or": "Friends",
-		"tr": "Arkadaşlar"
 	},
 	{
 		"or": "Fullscreen",
@@ -456,6 +450,11 @@
 		"tr": "Katıl"
 	},
 	{
+		"context": "Join a server",
+		"or": "Join",
+		"tr": "Katıl"
+	},
+	{
 		"or": "Join blue",
 		"tr": "Maviye katıl"
 	},
@@ -524,6 +523,7 @@
 		"tr": "Harita"
 	},
 	{
+		"context": "rounds (scoreboard)",
 		"or": "Match",
 		"tr": "Maç"
 	},
@@ -588,6 +588,11 @@
 		"tr": "Hayır"
 	},
 	{
+		"context": "Without/None",
+		"or": "No",
+		"tr": "Hayır"
+	},
+	{
 		"or": "No password",
 		"tr": "Şifresiz"
 	},
@@ -641,7 +646,7 @@
 	},
 	{
 		"or": "Play",
-		"tr": "Oynat"
+		"tr": "Oyna"
 	},
 	{
 		"context": "DemoBrowser",
@@ -655,10 +660,6 @@
 	{
 		"or": "Player",
 		"tr": "Oyuncu"
-	},
-	{
-		"or": "Player country:",
-		"tr": "Oyuncu ülkesi:"
 	},
 	{
 		"or": "Player options",
@@ -709,10 +710,6 @@
 		"tr": "Kırmızı takım"
 	},
 	{
-		"or": "Red team wins!",
-		"tr": "Kırmızı takım kazandı!"
-	},
-	{
 		"or": "Refresh",
 		"tr": "Yenile"
 	},
@@ -745,6 +742,10 @@
 		"tr": "Yenile"
 	},
 	{
+		"or": "Reset filter",
+		"tr": "Filitreleri yenile"
+	},
+	{
 		"or": "Respawn",
 		"tr": "Yeniden doğ"
 	},
@@ -775,10 +776,6 @@
 	{
 		"or": "Score",
 		"tr": "Skor"
-	},
-	{
-		"or": "Score board",
-		"tr": "Skor tahtası"
 	},
 	{
 		"or": "Score limit",
@@ -921,10 +918,6 @@
 		"tr": "Kaydı durdur"
 	},
 	{
-		"or": "Strict gametype filter",
-		"tr": "Sıkı oyun türü filtresi"
-	},
-	{
 		"or": "Sudden Death",
 		"tr": "Ani ölüm"
 	},
@@ -975,10 +968,6 @@
 	{
 		"or": "Texture Compression",
 		"tr": "Dolgu sıkıştırması"
-	},
-	{
-		"or": "The %s flag was captured by '%2d: %s' (%.2f seconds)",
-		"tr": "%s bayrak '%2d: %s' tarafından kaçırıldı. (%.2f saniye)"
 	},
 	{
 		"or": "The audio device couldn't be initialised.",
@@ -1097,6 +1086,11 @@
 		"tr": "Evet"
 	},
 	{
+		"context": "With",
+		"or": "Yes",
+		"tr": "Evet"
+	},
+	{
 		"or": "You must restart the game for all settings to take effect.",
 		"tr": "Bütün ayarların aktif olması için oyunu yeniden başlatmalısınız."
 	},
@@ -1105,26 +1099,26 @@
 		"tr": "Yeni bir oylama başlatmak için %d saniye beklemek zorundasınız"
 	},
 	{
-		"or": "blue",
-		"tr": "mavi"
-	},
-	{
 		"or": "blue flag",
 		"tr": "mavi bayrak"
 	},
 	{
+		"context": "'X joined the <blue team>' (server message)",
 		"or": "blue team",
 		"tr": "mavi takım"
 	},
 	{
+		"context": "Show chat messages from:",
 		"or": "everyone",
 		"tr": "herkes"
 	},
 	{
+		"context": "Show chat messages from:",
 		"or": "friends only",
 		"tr": "Sadece arkadaşları göster"
 	},
 	{
+		"context": "'X joined the <game>' (server message)",
 		"or": "game",
 		"tr": "oyun"
 	},
@@ -1133,26 +1127,26 @@
 		"tr": "kilitli"
 	},
 	{
+		"context": "Show chat messages from:",
 		"or": "no one",
 		"tr": "hiç kimse"
 	},
 	{
+		"context": "server browser message",
 		"or": "no players",
 		"tr": "oyuncu yok"
-	},
-	{
-		"or": "red",
-		"tr": "kırmızı"
 	},
 	{
 		"or": "red flag",
 		"tr": "kırmızı bayrak"
 	},
 	{
+		"context": "'X joined the <red team>' (server message)",
 		"or": "red team",
 		"tr": "kırmızı takım"
 	},
 	{
+		"context": "'X joined the <spectators>' (server message)",
 		"or": "spectators",
 		"tr": "izleyiciler"
 	},

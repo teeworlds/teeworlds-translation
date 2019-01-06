@@ -1,4 +1,10 @@
 {
+"authors": {
+	"modified by": [
+		"Rego Lehtsaar, 2015-2018 (Transifex)"
+	],
+	"originally created by": "Rego Lehtsaar"
+},
 "translated strings": [
 	{
 		"or": "%.3f KiB",
@@ -51,6 +57,26 @@
 	{
 		"or": "%s wins!",
 		"tr": "%s võitis!"
+	},
+	{
+		"or": "'%s' called for vote to kick '%s' (%s)",
+		"tr": "'%s' hääletas, et visata välja '%s' (%s)"
+	},
+	{
+		"or": "'%s' called for vote to move '%s' to spectators (%s)",
+		"tr": "'%s' hääletas, et viia '%s' vaatlejaks"
+	},
+	{
+		"or": "'%s' entered and joined the %s",
+		"tr": "'%s' sisenes ja liitus %s"
+	},
+	{
+		"or": "'%s' has left the game",
+		"tr": "'%s' lahkus mängust"
+	},
+	{
+		"or": "'%s' has left the game (%s)",
+		"tr": "'%s' lahkus mängust (%s)"
 	},
 	{
 		"or": "-Page %d-",
@@ -125,16 +151,8 @@
 		"tr": "Sinine meeskond"
 	},
 	{
-		"or": "Blue team wins!",
-		"tr": "Sinine meeskond võitis!"
-	},
-	{
 		"or": "Borderless window",
 		"tr": "Äärteta aken"
-	},
-	{
-		"or": "Browser",
-		"tr": "Lehitseja"
 	},
 	{
 		"or": "Call vote",
@@ -281,10 +299,6 @@
 		"tr": "Vaba vaade"
 	},
 	{
-		"or": "Friends",
-		"tr": "Sõbrad"
-	},
-	{
 		"or": "Fullscreen",
 		"tr": "Täisekraan"
 	},
@@ -337,6 +351,11 @@
 		"tr": "Vigane demo"
 	},
 	{
+		"or": "Join",
+		"tr": "Liitu"
+	},
+	{
+		"context": "Join a server",
 		"or": "Join",
 		"tr": "Liitu"
 	},
@@ -461,6 +480,11 @@
 		"tr": "Ei"
 	},
 	{
+		"context": "Without/None",
+		"or": "No",
+		"tr": "Ei"
+	},
+	{
 		"or": "No password",
 		"tr": "Ilma salasõnata"
 	},
@@ -505,16 +529,17 @@
 		"tr": "Mängima"
 	},
 	{
+		"context": "DemoBrowser",
+		"or": "Play",
+		"tr": "Mängima"
+	},
+	{
 		"or": "Play background music",
 		"tr": "Mängi taustamuusikat"
 	},
 	{
 		"or": "Player",
 		"tr": "Mängija"
-	},
-	{
-		"or": "Player country:",
-		"tr": "Mängija riik"
 	},
 	{
 		"or": "Player options",
@@ -557,10 +582,6 @@
 		"tr": "Punane meeskond"
 	},
 	{
-		"or": "Red team wins!",
-		"tr": "Punane meeskond võitis!"
-	},
-	{
 		"or": "Refresh",
 		"tr": "Värskenda"
 	},
@@ -593,6 +614,10 @@
 		"tr": "Taasta"
 	},
 	{
+		"or": "Reset filter",
+		"tr": "Taasta filter"
+	},
+	{
 		"or": "Respawn",
 		"tr": "Sünni uuesti"
 	},
@@ -607,10 +632,6 @@
 	{
 		"or": "Score",
 		"tr": "Skoor"
-	},
-	{
-		"or": "Score board",
-		"tr": "Skoori tabel"
 	},
 	{
 		"or": "Score limit",
@@ -885,6 +906,11 @@
 		"tr": "Jah"
 	},
 	{
+		"context": "With",
+		"or": "Yes",
+		"tr": "Jah"
+	},
+	{
 		"or": "You must restart the game for all settings to take effect.",
 		"tr": "Sa pead mängu taaskäivitama, et kõikseaded rakenduks."
 	},
@@ -893,14 +919,12 @@
 		"tr": "Sa pead ootama %d sekundit enne uue hääletuse alustamist"
 	},
 	{
-		"or": "blue",
-		"tr": "sinine"
-	},
-	{
+		"context": "'X joined the <blue team>' (server message)",
 		"or": "blue team",
 		"tr": "sinine meeskond"
 	},
 	{
+		"context": "'X joined the <game>' (server message)",
 		"or": "game",
 		"tr": "mäng"
 	},
@@ -909,18 +933,17 @@
 		"tr": "lukus"
 	},
 	{
+		"context": "server browser message",
 		"or": "no players",
 		"tr": "mängijaid ei ole"
 	},
 	{
-		"or": "red",
-		"tr": "punane"
-	},
-	{
+		"context": "'X joined the <red team>' (server message)",
 		"or": "red team",
 		"tr": "punane meeskond"
 	},
 	{
+		"context": "'X joined the <spectators>' (server message)",
 		"or": "spectators",
 		"tr": "vaatlejad"
 	},

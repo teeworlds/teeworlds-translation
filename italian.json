@@ -1,20 +1,26 @@
-{"authors": {
-	"originally created by": "",
+{
+"authors": {
 	"modified by": [
-		"Lanta		2010-05-30 16:26:04",
-		"Lanta		2010-05-31 22:05:45",
-		"Carmine		2011-01-23 17:54:06",
-		"Otacon		2011-05-02 18:21:08",
-		"Apmox		2011-07-15 01:09:59",
+		"Lanta        2010-05-30 16:26:04",
+		"Lanta        2010-05-31 22:05:45",
+		"Carmine        2011-01-23 17:54:06",
+		"Otacon        2011-05-02 18:21:08",
+		"Apmox        2011-07-15 01:09:59",
 		"zargon, 2014 (Transifex)",
 		"Ursino, 2014 (Transifex)",
 		"DîVîNe, 2014 (Transifex)",
 		"Riccardo Di Maio, 2015 (Transifex)"
-	]},
+	],
+	"originally created by": ""
+},
 "translated strings": [
 	{
 		"or": "%.3f KiB",
-		"tr": "%.3f KiB"
+		"tr": "%.3f KB"
+	},
+	{
+		"or": "%d other players",
+		"tr": "%d altri giocatori"
 	},
 	{
 		"or": "%d player left",
@@ -42,7 +48,7 @@
 	},
 	{
 		"or": "%ds left",
-		"tr": "%ds sec."
+		"tr": "%d sec rimanenti"
 	},
 	{
 		"or": "%i minute left",
@@ -65,6 +71,34 @@
 		"tr": "%s ha vinto!"
 	},
 	{
+		"or": "'%2d: %s' joined the %s",
+		"tr": "'%2d: %s' si è unito alla %s"
+	},
+	{
+		"or": "'%s' called for vote to kick '%s' (%s)",
+		"tr": "'%s' ha votato per cacciare '%s' (%s)"
+	},
+	{
+		"or": "'%s' called for vote to move '%s' to spectators (%s)",
+		"tr": "'%s' ha votato per spostare '%s' agli spettatori (%s)"
+	},
+	{
+		"or": "'%s' called vote to change server option '%s' (%s)",
+		"tr": "'%s' ha votato per cambiare le opzioni del server '%s' (%s)"
+	},
+	{
+		"or": "'%s' entered and joined the %s",
+		"tr": "'%s' è entrato e si è unito alla %s"
+	},
+	{
+		"or": "'%s' has left the game",
+		"tr": "'%s' è uscito dalla partita"
+	},
+	{
+		"or": "'%s' has left the game (%s)",
+		"tr": "'%s' è uscito dalla partita (%s)"
+	},
+	{
 		"or": "-Page %d-",
 		"tr": "-Pagina %d-"
 	},
@@ -75,6 +109,14 @@
 	{
 		"or": "Add",
 		"tr": "Aggiungi"
+	},
+	{
+		"or": "Add demo marker",
+		"tr": "Aggiungi segno nella demo"
+	},
+	{
+		"or": "Add friend",
+		"tr": "Aggiungi amico"
 	},
 	{
 		"or": "Address",
@@ -154,23 +196,15 @@
 	},
 	{
 		"or": "Basic",
-		"tr": "di base"
+		"tr": "Di base"
 	},
 	{
 		"or": "Blue team",
 		"tr": "Squadra blu"
 	},
 	{
-		"or": "Blue team wins!",
-		"tr": "La squadra blu ha vinto!"
-	},
-	{
 		"or": "Borderless window",
 		"tr": "Finestra senza bordo"
-	},
-	{
-		"or": "Browser",
-		"tr": "Browser"
 	},
 	{
 		"or": "Call vote",
@@ -187,6 +221,15 @@
 	{
 		"or": "Clan",
 		"tr": "Clan"
+	},
+	{
+		"context": "clear gametype filters",
+		"or": "Clear",
+		"tr": "Svuota"
+	},
+	{
+		"or": "Click on a player or a flag to follow it",
+		"tr": "Clicca su un giocatore o una bandiera per osservarla"
 	},
 	{
 		"or": "Client",
@@ -233,12 +276,20 @@
 		"tr": "Paese"
 	},
 	{
+		"or": "Country:",
+		"tr": "Paese:"
+	},
+	{
 		"or": "Crc",
 		"tr": "Crc"
 	},
 	{
 		"or": "Created",
 		"tr": "Creato"
+	},
+	{
+		"or": "Current: %dx%d (%d:%d)",
+		"tr": "Attualmente: %dx%d (%d:%d)"
 	},
 	{
 		"or": "Custom",
@@ -251,6 +302,10 @@
 	{
 		"or": "Customize",
 		"tr": "Personalizza"
+	},
+	{
+		"or": "D",
+		"tr": "D"
 	},
 	{
 		"or": "Delete",
@@ -285,6 +340,10 @@
 		"tr": "Dettaglio"
 	},
 	{
+		"or": "Difficulty",
+		"tr": "Difficoltà"
+	},
+	{
 		"or": "Disconnect",
 		"tr": "Disconnetti"
 	},
@@ -294,7 +353,7 @@
 	},
 	{
 		"or": "Downloading map",
-		"tr": "Scaricamento mappa in corso"
+		"tr": "Download mappa in corso"
 	},
 	{
 		"or": "Draw!",
@@ -311,6 +370,10 @@
 	{
 		"or": "Emoticon",
 		"tr": "Emoticon"
+	},
+	{
+		"or": "Enable colored server broadcasts",
+		"tr": "Abilità trasmissioni del server colorate"
 	},
 	{
 		"or": "Enter",
@@ -349,10 +412,6 @@
 		"tr": "Visione libera"
 	},
 	{
-		"or": "Friends",
-		"tr": "Amici"
-	},
-	{
 		"or": "Fullscreen",
 		"tr": "Schermo intero"
 	},
@@ -363,6 +422,10 @@
 	{
 		"or": "Game info",
 		"tr": "Info partita"
+	},
+	{
+		"or": "Game options",
+		"tr": "Opzioni di gioco"
 	},
 	{
 		"or": "Game over",
@@ -394,7 +457,7 @@
 	},
 	{
 		"or": "Graphics",
-		"tr": "Aspetto"
+		"tr": "Grafica"
 	},
 	{
 		"or": "Grenade",
@@ -407,6 +470,10 @@
 	{
 		"or": "Has people playing",
 		"tr": "Con giocatori"
+	},
+	{
+		"or": "Hide bots",
+		"tr": "Nascondi bot"
 	},
 	{
 		"or": "High Detail",
@@ -422,13 +489,18 @@
 	},
 	{
 		"or": "Hue:",
-		"tr": "Hue:"
+		"tr": "Colore:"
 	},
 	{
 		"or": "Invalid Demo",
 		"tr": "Demo non valida"
 	},
 	{
+		"or": "Join",
+		"tr": "Entra"
+	},
+	{
+		"context": "Join a server",
 		"or": "Join",
 		"tr": "Entra"
 	},
@@ -457,6 +529,10 @@
 		"tr": "Salta"
 	},
 	{
+		"or": "K",
+		"tr": "K"
+	},
+	{
 		"or": "Kick player",
 		"tr": "Caccia giocatore"
 	},
@@ -481,6 +557,14 @@
 		"tr": "Lgt:"
 	},
 	{
+		"or": "Limit Fps",
+		"tr": "Limite FPS"
+	},
+	{
+		"or": "Load the sound system",
+		"tr": "Carica i suoni di sistema"
+	},
+	{
 		"or": "Loading",
 		"tr": "Caricamento"
 	},
@@ -501,12 +585,17 @@
 		"tr": "Mappa"
 	},
 	{
+		"context": "rounds (scoreboard)",
 		"or": "Match",
 		"tr": "Partita"
 	},
 	{
 		"or": "Max",
 		"tr": "Max"
+	},
+	{
+		"or": "Max fps",
+		"tr": "FPS massimi"
 	},
 	{
 		"or": "Maximum ping:",
@@ -537,8 +626,12 @@
 		"tr": "Movimento"
 	},
 	{
+		"or": "Mute broadcasts",
+		"tr": "Silenzia la trasmissione"
+	},
+	{
 		"or": "Mute when not active",
-		"tr": "Silenzioso quanto inattivo"
+		"tr": "Silenzia quando inattivo"
 	},
 	{
 		"or": "Name",
@@ -547,6 +640,10 @@
 	{
 		"or": "Netversion",
 		"tr": "Versione net"
+	},
+	{
+		"or": "New filter",
+		"tr": "Nuovo filtro"
 	},
 	{
 		"or": "Next weapon",
@@ -561,6 +658,11 @@
 		"tr": "Il nickname è vuoto."
 	},
 	{
+		"or": "No",
+		"tr": "No"
+	},
+	{
+		"context": "Without/None",
 		"or": "No",
 		"tr": "No"
 	},
@@ -581,8 +683,21 @@
 		"tr": "Normale:"
 	},
 	{
+		"context": "friends (server browser)",
+		"or": "Offline (%d)",
+		"tr": "Non connesso (%d)"
+	},
+	{
 		"or": "Ok",
 		"tr": "Ok"
+	},
+	{
+		"or": "Online clanmates (%d)",
+		"tr": "Compagni di squadra online (%d)"
+	},
+	{
+		"or": "Online players (%d)",
+		"tr": "Giocatori online (%d)"
 	},
 	{
 		"or": "Only %d active players are allowed",
@@ -593,8 +708,16 @@
 		"tr": "Apri"
 	},
 	{
+		"or": "Option",
+		"tr": "Opzioni"
+	},
+	{
+		"or": "Other",
+		"tr": "Altro"
+	},
+	{
 		"or": "Parent Folder",
-		"tr": "Cartella superiore"
+		"tr": "Cartella Superiore"
 	},
 	{
 		"or": "Password",
@@ -618,7 +741,7 @@
 	},
 	{
 		"or": "Play",
-		"tr": "Riproduci"
+		"tr": "Gioca"
 	},
 	{
 		"context": "DemoBrowser",
@@ -634,16 +757,17 @@
 		"tr": "Giocatore"
 	},
 	{
-		"or": "Player country:",
-		"tr": "Filtra per paese:"
-	},
-	{
 		"or": "Player options",
 		"tr": "Opzioni giocatore"
 	},
 	{
 		"or": "Players",
 		"tr": "Giocatori"
+	},
+	{
+		"context": "Playing '(gametype)' on '(map)'",
+		"or": "Playing '%s' on '%s'",
+		"tr": "Giocando '%s' su '%s'"
 	},
 	{
 		"or": "Please balance teams!",
@@ -655,7 +779,7 @@
 	},
 	{
 		"or": "Quality Textures",
-		"tr": "Texture di qualità"
+		"tr": "Texture di Qualità"
 	},
 	{
 		"or": "Quit",
@@ -674,6 +798,10 @@
 		"tr": "Motivo:"
 	},
 	{
+		"or": "Recommended",
+		"tr": "Consigliato"
+	},
+	{
 		"or": "Record",
 		"tr": "Registra"
 	},
@@ -684,10 +812,6 @@
 	{
 		"or": "Red team",
 		"tr": "Squadra rossa"
-	},
-	{
-		"or": "Red team wins!",
-		"tr": "La squadra rossa ha vinto!"
 	},
 	{
 		"or": "Refresh",
@@ -722,6 +846,14 @@
 		"tr": "Reset"
 	},
 	{
+		"or": "Reset filter",
+		"tr": "Azzera filtri"
+	},
+	{
+		"or": "Resolution",
+		"tr": "Risoluzione"
+	},
+	{
 		"or": "Respawn",
 		"tr": "Rigenera"
 	},
@@ -752,10 +884,6 @@
 	{
 		"or": "Score",
 		"tr": "Punti"
-	},
-	{
-		"or": "Score board",
-		"tr": "Punteggio"
 	},
 	{
 		"or": "Score limit",
@@ -807,7 +935,7 @@
 	},
 	{
 		"or": "Servers",
-		"tr": "Servers"
+		"tr": "Server"
 	},
 	{
 		"or": "Settings",
@@ -822,6 +950,10 @@
 		"tr": "Mostra chat"
 	},
 	{
+		"or": "Show chat messages from:",
+		"tr": "Mostra i messaggi di:"
+	},
+	{
 		"or": "Show friends only",
 		"tr": "Mostra solo amici"
 	},
@@ -834,6 +966,14 @@
 		"tr": "Mostra nomi"
 	},
 	{
+		"or": "Show social",
+		"tr": "Mostra social"
+	},
+	{
+		"or": "Show user IDs",
+		"tr": "Mostra ID Giocatore"
+	},
+	{
 		"or": "Size",
 		"tr": "Dimensione"
 	},
@@ -844,6 +984,10 @@
 	{
 		"or": "Skins",
 		"tr": "Skin"
+	},
+	{
+		"or": "Skip the main menu",
+		"tr": "Salta il menù principale"
 	},
 	{
 		"or": "Sound",
@@ -871,7 +1015,7 @@
 	},
 	{
 		"or": "Spectator mode",
-		"tr": "Menu osservazione"
+		"tr": "Menù spettatore"
 	},
 	{
 		"or": "Spectators",
@@ -892,10 +1036,6 @@
 	{
 		"or": "Stop record",
 		"tr": "Ferma reg."
-	},
-	{
-		"or": "Strict gametype filter",
-		"tr": "Tipo di gioco preciso"
 	},
 	{
 		"or": "Sudden Death",
@@ -958,6 +1098,10 @@
 		"tr": "Il server presenta impostazioni non standard in un tipo di gioco normale."
 	},
 	{
+		"or": "Theme",
+		"tr": "Tema"
+	},
+	{
 		"or": "There's an unsaved map in the editor, you might want to save it before you quit the game.",
 		"tr": "C'è una mappa non salvata nell'editor, probabilmente vuoi salvarla prima di uscire."
 	},
@@ -971,7 +1115,7 @@
 	},
 	{
 		"or": "Try again",
-		"tr": "Ritenta"
+		"tr": "Riprova"
 	},
 	{
 		"or": "Type",
@@ -1043,7 +1187,7 @@
 	},
 	{
 		"or": "Wait for current vote to end before calling a new one.",
-		"tr": "Aspetta la fine del voto corrente prima di farne un'altro."
+		"tr": "Aspetta la fine del voto corrente prima di farne un altro."
 	},
 	{
 		"or": "Wait for next round",
@@ -1054,6 +1198,11 @@
 		"tr": "Riscaldamento"
 	},
 	{
+		"context": "Watching '(gametype)' on '(map)'",
+		"or": "Watching '%s' on '%s'",
+		"tr": "Osservando '%s' su '%s'"
+	},
+	{
 		"or": "Weapon",
 		"tr": "Arma"
 	},
@@ -1062,6 +1211,15 @@
 		"tr": "Benvenuto su Teeworlds"
 	},
 	{
+		"or": "Whisper",
+		"tr": "Sussura"
+	},
+	{
+		"or": "Yes",
+		"tr": "Sì"
+	},
+	{
+		"context": "With",
 		"or": "Yes",
 		"tr": "Sì"
 	},
@@ -1074,14 +1232,26 @@
 		"tr": "Devi aspettare %d secondi prima di farne un altro"
 	},
 	{
-		"or": "blue",
-		"tr": "blu"
+		"or": "blue flag",
+		"tr": "bandiera blu"
 	},
 	{
+		"context": "'X joined the <blue team>' (server message)",
 		"or": "blue team",
-		"tr": "Squadra blu"
+		"tr": "squadra blu"
 	},
 	{
+		"context": "Show chat messages from:",
+		"or": "everyone",
+		"tr": "tutti"
+	},
+	{
+		"context": "Show chat messages from:",
+		"or": "friends only",
+		"tr": "Solo amici"
+	},
+	{
+		"context": "'X joined the <game>' (server message)",
 		"or": "game",
 		"tr": "gioco"
 	},
@@ -1090,18 +1260,26 @@
 		"tr": "bloccato"
 	},
 	{
+		"context": "Show chat messages from:",
+		"or": "no one",
+		"tr": "nessuno"
+	},
+	{
+		"context": "server browser message",
 		"or": "no players",
 		"tr": "nessun giocatore"
 	},
 	{
-		"or": "red",
-		"tr": "rosso"
+		"or": "red flag",
+		"tr": "bandiera rossa"
 	},
 	{
+		"context": "'X joined the <red team>' (server message)",
 		"or": "red team",
 		"tr": "squadra rossa"
 	},
 	{
+		"context": "'X joined the <spectators>' (server message)",
 		"or": "spectators",
 		"tr": "spettatori"
 	},

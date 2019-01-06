@@ -1,8 +1,10 @@
-{"authors": {
-	"originally created by": "orange",
+{
+"authors": {
 	"modified by": [
 		"TD, 2014 (Transifex)"
-	]},
+	],
+	"originally created by": "orange"
+},
 "translated strings": [
 	{
 		"or": "%.3f KiB",
@@ -47,6 +49,18 @@
 	{
 		"or": "%s wins!",
 		"tr": "%s の勝ち!"
+	},
+	{
+		"or": "'%s' entered and joined the %s",
+		"tr": "「%s」が入り、%sに参加しました"
+	},
+	{
+		"or": "'%s' has left the game",
+		"tr": "「%s」が残しました"
+	},
+	{
+		"or": "'%s' has left the game (%s)",
+		"tr": "「%s」が残しました（%s）"
 	},
 	{
 		"or": "-Page %d-",
@@ -125,16 +139,8 @@
 		"tr": "青チーム"
 	},
 	{
-		"or": "Blue team wins!",
-		"tr": "青チームの勝ち！"
-	},
-	{
 		"or": "Borderless window",
 		"tr": "ボーダレスウィンドウ"
-	},
-	{
-		"or": "Browser",
-		"tr": "ブラウザー"
 	},
 	{
 		"or": "Call vote",
@@ -309,10 +315,6 @@
 		"tr": "自由視点"
 	},
 	{
-		"or": "Friends",
-		"tr": "友達"
-	},
-	{
 		"or": "Fullscreen",
 		"tr": "フルスクリーン"
 	},
@@ -385,6 +387,11 @@
 		"tr": "参加する"
 	},
 	{
+		"context": "Join a server",
+		"or": "Join",
+		"tr": "参加する"
+	},
+	{
 		"or": "Join blue",
 		"tr": "青チームに参加"
 	},
@@ -445,6 +452,7 @@
 		"tr": "マップ"
 	},
 	{
+		"context": "rounds (scoreboard)",
 		"or": "Match",
 		"tr": "試合"
 	},
@@ -497,6 +505,11 @@
 		"tr": "ハンドルネームはありません。"
 	},
 	{
+		"or": "No",
+		"tr": "いいえ"
+	},
+	{
+		"context": "Without/None",
 		"or": "No",
 		"tr": "いいえ"
 	},
@@ -562,10 +575,6 @@
 		"tr": "プレイヤー"
 	},
 	{
-		"or": "Player country:",
-		"tr": "国籍:"
-	},
-	{
 		"or": "Player options",
 		"tr": "プレイヤー設定"
 	},
@@ -606,10 +615,6 @@
 		"tr": "赤チーム"
 	},
 	{
-		"or": "Red team wins!",
-		"tr": "赤チームの勝ち！"
-	},
-	{
 		"or": "Refresh",
 		"tr": "更新"
 	},
@@ -642,6 +647,10 @@
 		"tr": "リセット"
 	},
 	{
+		"or": "Reset filter",
+		"tr": "フィルタをリセット"
+	},
+	{
 		"or": "Respawn",
 		"tr": "リスポーン"
 	},
@@ -668,10 +677,6 @@
 	{
 		"or": "Score",
 		"tr": "スコア"
-	},
-	{
-		"or": "Score board",
-		"tr": "スコアボード"
 	},
 	{
 		"or": "Score limit",
@@ -796,10 +801,6 @@
 	{
 		"or": "Stop record",
 		"tr": "録画停止"
-	},
-	{
-		"or": "Strict gametype filter",
-		"tr": "ゲームタイプ完全一致検索"
 	},
 	{
 		"or": "Sudden Death",
@@ -962,26 +963,26 @@
 		"tr": "はい"
 	},
 	{
+		"context": "With",
+		"or": "Yes",
+		"tr": "はい"
+	},
+	{
 		"or": "You must restart the game for all settings to take effect.",
 		"tr": "設定を反映するためにはゲームの再起動が必要です。"
 	},
 	{
-		"or": "blue",
-		"tr": "青"
-	},
-	{
+		"context": "'X joined the <blue team>' (server message)",
 		"or": "blue team",
 		"tr": "青チーム"
 	},
 	{
-		"or": "red",
-		"tr": "赤"
-	},
-	{
+		"context": "'X joined the <red team>' (server message)",
 		"or": "red team",
 		"tr": "赤チーム"
 	},
 	{
+		"context": "'X joined the <spectators>' (server message)",
 		"or": "spectators",
 		"tr": "観戦者"
 	}

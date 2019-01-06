@@ -1,10 +1,12 @@
-{"authors": {
-	"originally created by": "matricks",
+{
+"authors": {
 	"modified by": [
-		"Martin Pola		2011-04-02 11:17:09",
-		"Kottizen		2011-07-02 00:34:54",
+		"Martin Pola        2011-04-02 11:17:09",
+		"Kottizen        2011-07-02 00:34:54",
 		"Elinor Bratt, 2016 (Transifex)"
-	]},
+	],
+	"originally created by": "matricks"
+},
 "translated strings": [
 	{
 		"or": "%d player left",
@@ -41,6 +43,18 @@
 	{
 		"or": "%s wins!",
 		"tr": "%s vinner!"
+	},
+	{
+		"or": "'%s' entered and joined the %s",
+		"tr": "'%s' Gick in i och gick med i %s "
+	},
+	{
+		"or": "'%s' has left the game",
+		"tr": "'%s' har lämnat spelet"
+	},
+	{
+		"or": "'%s' has left the game (%s)",
+		"tr": "'%s' har lämnat spelet (%s)"
 	},
 	{
 		"or": "-Page %d-",
@@ -121,10 +135,6 @@
 	{
 		"or": "Blue team",
 		"tr": "Blå laget"
-	},
-	{
-		"or": "Blue team wins!",
-		"tr": "Blå laget vann!"
 	},
 	{
 		"or": "Borderless window",
@@ -289,10 +299,6 @@
 	{
 		"or": "Free-View",
 		"tr": "Friläge"
-	},
-	{
-		"or": "Friends",
-		"tr": "Kompisar"
 	},
 	{
 		"or": "Fullscreen",
@@ -467,6 +473,11 @@
 		"tr": "Nej"
 	},
 	{
+		"context": "Without/None",
+		"or": "No",
+		"tr": "Nej"
+	},
+	{
 		"or": "No password",
 		"tr": "Inget lösenord"
 	},
@@ -528,10 +539,6 @@
 		"tr": "Spelare"
 	},
 	{
-		"or": "Player country:",
-		"tr": "Land"
-	},
-	{
 		"or": "Player options",
 		"tr": "Spelaralternativ"
 	},
@@ -580,10 +587,6 @@
 		"tr": "Röda laget"
 	},
 	{
-		"or": "Red team wins!",
-		"tr": "Röda laget vann!"
-	},
-	{
 		"or": "Refresh",
 		"tr": "Uppdatera"
 	},
@@ -616,6 +619,10 @@
 		"tr": "Återställ"
 	},
 	{
+		"or": "Reset filter",
+		"tr": "Återställ filter"
+	},
+	{
 		"or": "Sample rate",
 		"tr": "Samplingsfrekvens"
 	},
@@ -630,10 +637,6 @@
 	{
 		"or": "Score",
 		"tr": "Poäng"
-	},
-	{
-		"or": "Score board",
-		"tr": "Poängtavla"
 	},
 	{
 		"or": "Score limit",
@@ -754,10 +757,6 @@
 	{
 		"or": "Stop record",
 		"tr": "Sluta spela in"
-	},
-	{
-		"or": "Strict gametype filter",
-		"tr": "Strikt speltypsfilter"
 	},
 	{
 		"or": "Sudden Death",
@@ -916,18 +915,21 @@
 		"tr": "Ja"
 	},
 	{
+		"context": "With",
+		"or": "Yes",
+		"tr": "Ja"
+	},
+	{
 		"or": "You must restart the game for all settings to take effect.",
 		"tr": "Du måste starta om spelet för att ändringarna skall verkställas."
 	},
 	{
-		"or": "blue",
-		"tr": "blå"
-	},
-	{
+		"context": "'X joined the <blue team>' (server message)",
 		"or": "blue team",
 		"tr": "Blått lag"
 	},
 	{
+		"context": "'X joined the <game>' (server message)",
 		"or": "game",
 		"tr": "spel"
 	},
@@ -936,18 +938,17 @@
 		"tr": "låst"
 	},
 	{
+		"context": "server browser message",
 		"or": "no players",
 		"tr": "inga spelare"
 	},
 	{
-		"or": "red",
-		"tr": "röd"
-	},
-	{
+		"context": "'X joined the <red team>' (server message)",
 		"or": "red team",
 		"tr": "Röda laget"
 	},
 	{
+		"context": "'X joined the <spectators>' (server message)",
 		"or": "spectators",
 		"tr": "Åskådare"
 	},

@@ -1,15 +1,17 @@
-{"authors": {
-	"originally created by": "Łukasz D",
+{
+"authors": {
 	"modified by": [
-		"Martin Pola		2011-04-02 22:18:00",
-		"Tsin			2011-04-06 23:15:58",
-		"Shymwo			2011-07-15 01:27:45",
-		"Shymwo			2011-07-21 18:54:53",
+		"Martin Pola        2011-04-02 22:18:00",
+		"Tsin            2011-04-06 23:15:58",
+		"Shymwo            2011-07-15 01:27:45",
+		"Shymwo            2011-07-21 18:54:53",
 		"nancin, 2018 (Transifex)",
 		"Karades, 2018 (Transifex)",
 		"Savander, 2015 (Transifex)",
 		"Kaama, 2014 (Transifex)"
-	]},
+	],
+	"originally created by": "Łukasz D"
+},
 "translated strings": [
 	{
 		"or": "%.3f KiB",
@@ -68,32 +70,32 @@
 		"tr": "%s wygrali!"
 	},
 	{
-		"or": "'%2d: %s' called for vote to kick '%s' (%s)",
-		"tr": "'%2d: %s' głosuje, aby wyrzucić '%s' (%s)"
-	},
-	{
-		"or": "'%2d: %s' called for vote to move '%s' to spectators (%s)",
-		"tr": "'%2d: %s' głosuje, aby przenieść '%s' do obserwatorów (%s)"
-	},
-	{
-		"or": "'%2d: %s' called vote to change server option '%s' (%s)",
-		"tr": "'%2d: %s' głosuje, aby zmienić opcję serwera '%s' (%s)"
-	},
-	{
-		"or": "'%2d: %s' entered and joined the %s",
-		"tr": "'%2d: %s' wszedł na serwer i dołączył do %s"
-	},
-	{
-		"or": "'%2d: %s' has left the game",
-		"tr": "'%2d: %s' wyszedł z gry"
-	},
-	{
-		"or": "'%2d: %s' has left the game (%s)",
-		"tr": "'%2d: %s' wyszedł z gry (%s)"
-	},
-	{
 		"or": "'%2d: %s' joined the %s",
 		"tr": "'%2d: %s' dołączył do %s"
+	},
+	{
+		"or": "'%s' called for vote to kick '%s' (%s)",
+		"tr": "'%s' wywołał głosowanie aby wyrzucić '%s' (%s)"
+	},
+	{
+		"or": "'%s' called for vote to move '%s' to spectators (%s)",
+		"tr": "'%s' zagłosował by przenieść '%s' do obserwatorów (%s)"
+	},
+	{
+		"or": "'%s' called vote to change server option '%s' (%s)",
+		"tr": "'%s' głosuje by zmienić opcje serwera '%s' (%s)"
+	},
+	{
+		"or": "'%s' entered and joined the %s",
+		"tr": "'%s' wszedł na serwer i dołączył do %s"
+	},
+	{
+		"or": "'%s' has left the game",
+		"tr": "'%s' wyszedł z gry"
+	},
+	{
+		"or": "'%s' has left the game (%s)",
+		"tr": "'%s' wyszedł z gry (%s)"
 	},
 	{
 		"or": "-Page %d-",
@@ -1087,14 +1089,6 @@
 		"tr": "Kompresja Tekstur"
 	},
 	{
-		"or": "The %s flag was captured by '%2d: %s'",
-		"tr": "Flaga %s została przejęta przez '%2d: %s'"
-	},
-	{
-		"or": "The %s flag was captured by '%2d: %s' (%.2f seconds)",
-		"tr": "Flaga %s została przejęta przez '%2d: %s' (%.2f sekund)"
-	},
-	{
 		"or": "The audio device couldn't be initialised.",
 		"tr": "Nie można odnaleźć urządzenia audio"
 	},
@@ -1237,78 +1231,54 @@
 		"tr": "Musisz poczekać %d sekund zanim rozpoczniesz następne głosowanie"
 	},
 	{
-		"or": "blue",
-		"tr": "niebieskich"
-	},
-	{
 		"or": "blue flag",
 		"tr": "niebieska flaga"
 	},
 	{
+		"context": "'X joined the <blue team>' (server message)",
 		"or": "blue team",
 		"tr": "drużyny niebieskich"
 	},
 	{
-		"or": "body",
-		"tr": "ciało"
-	},
-	{
-		"or": "decoration",
-		"tr": "dekoracja"
-	},
-	{
+		"context": "Show chat messages from:",
 		"or": "everyone",
 		"tr": "każdy"
 	},
 	{
-		"or": "eyes",
-		"tr": "oczy"
-	},
-	{
-		"or": "feet",
-		"tr": "stopy"
-	},
-	{
+		"context": "Show chat messages from:",
 		"or": "friends only",
 		"tr": "tylko znajomi"
 	},
 	{
+		"context": "'X joined the <game>' (server message)",
 		"or": "game",
 		"tr": "gry"
-	},
-	{
-		"or": "hands",
-		"tr": "dłonie"
 	},
 	{
 		"or": "locked",
 		"tr": "zablokowane"
 	},
 	{
-		"or": "marking",
-		"tr": "oznakowanie"
-	},
-	{
+		"context": "Show chat messages from:",
 		"or": "no one",
 		"tr": "nikt"
 	},
 	{
+		"context": "server browser message",
 		"or": "no players",
 		"tr": "Brak graczy"
-	},
-	{
-		"or": "red",
-		"tr": "czerwonych"
 	},
 	{
 		"or": "red flag",
 		"tr": "czerwona flaga"
 	},
 	{
+		"context": "'X joined the <red team>' (server message)",
 		"or": "red team",
 		"tr": "drużyny czerwonych"
 	},
 	{
+		"context": "'X joined the <spectators>' (server message)",
 		"or": "spectators",
 		"tr": "obserwatorów"
 	},

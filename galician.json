@@ -1,4 +1,10 @@
 {
+"authors": {
+	"modified by": [
+		"Alexandre Díaz, 2017-2018 (Transifex)"
+	],
+	"originally created by": "Alexandre Díaz"
+},
 "translated strings": [
 	{
 		"or": "%.3f KiB",
@@ -51,6 +57,30 @@
 	{
 		"or": "%s wins!",
 		"tr": "¡%s gaña!"
+	},
+	{
+		"or": "'%s' called for vote to kick '%s' (%s)",
+		"tr": "'%s' votou expulsar a '%s' (%s)"
+	},
+	{
+		"or": "'%s' called for vote to move '%s' to spectators (%s)",
+		"tr": "'%s' iniciou unha votación para mover '%s' a espectadores (%s)"
+	},
+	{
+		"or": "'%s' called vote to change server option '%s' (%s)",
+		"tr": "'%s' iniciou unha votación para cambiar a opcion do servidor '%s' (%s)"
+	},
+	{
+		"or": "'%s' entered and joined the %s",
+		"tr": "'%s' entrou e uniuse o %s"
+	},
+	{
+		"or": "'%s' has left the game",
+		"tr": "'%s' abandonou o xogo"
+	},
+	{
+		"or": "'%s' has left the game (%s)",
+		"tr": "'%s' abandonou o xogo (%s)"
 	},
 	{
 		"or": "-Page %d-",
@@ -149,16 +179,8 @@
 		"tr": "Equipo azul"
 	},
 	{
-		"or": "Blue team wins!",
-		"tr": "¡O equipo azul gaña!"
-	},
-	{
 		"or": "Borderless window",
 		"tr": "Xanela sen bordes"
-	},
-	{
-		"or": "Browser",
-		"tr": "Navegador"
 	},
 	{
 		"or": "Call vote",
@@ -337,10 +359,6 @@
 		"tr": "Vista libre"
 	},
 	{
-		"or": "Friends",
-		"tr": "Amizades"
-	},
-	{
 		"or": "Fullscreen",
 		"tr": "Xanela completa"
 	},
@@ -421,6 +439,11 @@
 		"tr": "Unirse"
 	},
 	{
+		"context": "Join a server",
+		"or": "Join",
+		"tr": "Unirse"
+	},
+	{
 		"or": "Join blue",
 		"tr": "Unirse a azul"
 	},
@@ -489,6 +512,7 @@
 		"tr": "Mapa"
 	},
 	{
+		"context": "rounds (scoreboard)",
 		"or": "Match",
 		"tr": "Partida"
 	},
@@ -549,6 +573,11 @@
 		"tr": "O apodo é baleiro"
 	},
 	{
+		"or": "No",
+		"tr": "Non"
+	},
+	{
+		"context": "Without/None",
 		"or": "No",
 		"tr": "Non"
 	},
@@ -622,10 +651,6 @@
 		"tr": "Xogador"
 	},
 	{
-		"or": "Player country:",
-		"tr": "País do xogador:"
-	},
-	{
 		"or": "Player options",
 		"tr": "Opcións de xogador"
 	},
@@ -674,10 +699,6 @@
 		"tr": "Equipo vermello"
 	},
 	{
-		"or": "Red team wins!",
-		"tr": "¡O equipo vermello gaña!"
-	},
-	{
 		"or": "Refresh",
 		"tr": "Actualizar"
 	},
@@ -710,6 +731,10 @@
 		"tr": "Reiniciar"
 	},
 	{
+		"or": "Reset filter",
+		"tr": "Resetear filtro"
+	},
+	{
 		"or": "Respawn",
 		"tr": "Renacer"
 	},
@@ -739,10 +764,6 @@
 	},
 	{
 		"or": "Score",
-		"tr": "Puntuación"
-	},
-	{
-		"or": "Score board",
 		"tr": "Puntuación"
 	},
 	{
@@ -880,10 +901,6 @@
 	{
 		"or": "Stop record",
 		"tr": "Deter grabación"
-	},
-	{
-		"or": "Strict gametype filter",
-		"tr": "Tipo de xogo do filtro"
 	},
 	{
 		"or": "Sudden Death",
@@ -1054,6 +1071,11 @@
 		"tr": "Sí"
 	},
 	{
+		"context": "With",
+		"or": "Yes",
+		"tr": "Sí"
+	},
+	{
 		"or": "You must restart the game for all settings to take effect.",
 		"tr": "Reinicia o xogo para que os cambios teñan efecto."
 	},
@@ -1062,14 +1084,12 @@
 		"tr": "Debes esperar %d segundos antes de iniciar outra votación"
 	},
 	{
-		"or": "blue",
-		"tr": "azul"
-	},
-	{
+		"context": "'X joined the <blue team>' (server message)",
 		"or": "blue team",
 		"tr": "equipo azul"
 	},
 	{
+		"context": "'X joined the <game>' (server message)",
 		"or": "game",
 		"tr": "xogo"
 	},
@@ -1078,18 +1098,17 @@
 		"tr": "bloqueado"
 	},
 	{
+		"context": "server browser message",
 		"or": "no players",
 		"tr": "sen xogadores"
 	},
 	{
-		"or": "red",
-		"tr": "vermello"
-	},
-	{
+		"context": "'X joined the <red team>' (server message)",
 		"or": "red team",
 		"tr": "equipo vermello"
 	},
 	{
+		"context": "'X joined the <spectators>' (server message)",
 		"or": "spectators",
 		"tr": "espectadores"
 	},

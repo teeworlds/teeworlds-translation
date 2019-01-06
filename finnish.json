@@ -1,12 +1,14 @@
-{"authors": {
-	"originally created by": "ziltoide",
+{
+"authors": {
 	"modified by": [
-		"ziltoide		2011-04-06 23:56:54",
-		"ziltoide		2011-07-05 18:31:04",
+		"ziltoide        2011-04-06 23:56:54",
+		"ziltoide        2011-07-05 18:31:04",
 		"Aleksi Joakim Palomäki, 2015 (Transifex)",
 		"Joonas Tamminen, 2015 (Transifex)",
 		"Jordy Ruiz, 2018 (Transifex)"
-	]},
+	],
+	"originally created by": "ziltoide"
+},
 "translated strings": [
 	{
 		"or": "%d player left",
@@ -55,6 +57,30 @@
 	{
 		"or": "%s wins!",
 		"tr": "%s voitti!"
+	},
+	{
+		"or": "'%s' called for vote to kick '%s' (%s)",
+		"tr": "'%s' aloitti äänestyksen potkaista pelaaja '%s' (%s)"
+	},
+	{
+		"or": "'%s' called for vote to move '%s' to spectators (%s)",
+		"tr": "'%s' aloitti äänestyksen siirtää pelaaja '%s' katsojiin (%s)"
+	},
+	{
+		"or": "'%s' called vote to change server option '%s' (%s)",
+		"tr": "'%s' aloitti äänestyksen vaihtaa serverin asetusta '%s' (%s)"
+	},
+	{
+		"or": "'%s' entered and joined the %s",
+		"tr": "'%s' saapui ja liittyi %s"
+	},
+	{
+		"or": "'%s' has left the game",
+		"tr": "'%s' poistui pelistä"
+	},
+	{
+		"or": "'%s' has left the game (%s)",
+		"tr": "'%s' poistui pelistä (%s)"
 	},
 	{
 		"or": "-Page %d-",
@@ -153,16 +179,8 @@
 		"tr": "Sininen joukkue"
 	},
 	{
-		"or": "Blue team wins!",
-		"tr": "Sininen joukkue voitti!"
-	},
-	{
 		"or": "Borderless window",
 		"tr": "Reunaton ikkuna"
-	},
-	{
-		"or": "Browser",
-		"tr": "Selain"
 	},
 	{
 		"or": "Call vote",
@@ -341,10 +359,6 @@
 		"tr": "Vapaa näkymä"
 	},
 	{
-		"or": "Friends",
-		"tr": "Ystävät"
-	},
-	{
 		"or": "Fullscreen",
 		"tr": "Koko näyttö"
 	},
@@ -425,6 +439,11 @@
 		"tr": "Liity"
 	},
 	{
+		"context": "Join a server",
+		"or": "Join",
+		"tr": "Liity"
+	},
+	{
 		"or": "Join blue",
 		"tr": "Liity sinisiin"
 	},
@@ -497,6 +516,7 @@
 		"tr": "Kenttä"
 	},
 	{
+		"context": "rounds (scoreboard)",
 		"or": "Match",
 		"tr": "Ottelu"
 	},
@@ -561,6 +581,11 @@
 		"tr": "Ei"
 	},
 	{
+		"context": "Without/None",
+		"or": "No",
+		"tr": "Ei"
+	},
+	{
 		"or": "No password",
 		"tr": "Ei salasanaa"
 	},
@@ -577,16 +602,8 @@
 		"tr": "Normaali:"
 	},
 	{
-		"or": "Off",
-		"tr": "Pois päältä"
-	},
-	{
 		"or": "Ok",
 		"tr": "Ok"
-	},
-	{
-		"or": "On",
-		"tr": "Päällä"
 	},
 	{
 		"or": "Only %d active players are allowed",
@@ -626,7 +643,7 @@
 	},
 	{
 		"or": "Play",
-		"tr": "Toista"
+		"tr": "Pelaa"
 	},
 	{
 		"context": "DemoBrowser",
@@ -640,10 +657,6 @@
 	{
 		"or": "Player",
 		"tr": "Pelaaja"
-	},
-	{
-		"or": "Player country:",
-		"tr": "Pelaajan maa:"
 	},
 	{
 		"or": "Player options",
@@ -698,10 +711,6 @@
 		"tr": "Punainen joukkue"
 	},
 	{
-		"or": "Red team wins!",
-		"tr": "Punainen joukkue voitti!"
-	},
-	{
 		"or": "Refresh",
 		"tr": "Päivitä"
 	},
@@ -732,6 +741,10 @@
 	{
 		"or": "Reset",
 		"tr": "Resetoi"
+	},
+	{
+		"or": "Reset filter",
+		"tr": "Nollaa suotimet"
 	},
 	{
 		"or": "Resolution",
@@ -768,10 +781,6 @@
 	{
 		"or": "Score",
 		"tr": "Pisteet"
-	},
-	{
-		"or": "Score board",
-		"tr": "Tulostaulu"
 	},
 	{
 		"or": "Score limit",
@@ -918,10 +927,6 @@
 		"tr": "Lopeta nauhoit."
 	},
 	{
-		"or": "Strict gametype filter",
-		"tr": "Tarkka pelityyppisuodin"
-	},
-	{
 		"or": "Sudden Death",
 		"tr": "Äkkikuolema"
 	},
@@ -992,10 +997,6 @@
 	{
 		"or": "Time limit: %d min",
 		"tr": "Aikaraja: %d min"
-	},
-	{
-		"or": "To",
-		"tr": "Vastaanottaja"
 	},
 	{
 		"or": "Try again",
@@ -1098,6 +1099,11 @@
 		"tr": "Kyllä"
 	},
 	{
+		"context": "With",
+		"or": "Yes",
+		"tr": "Kyllä"
+	},
+	{
 		"or": "You must restart the game for all settings to take effect.",
 		"tr": "Sinun täytyy uudelleenkäynnistää peli, jotta kaikki asetukset tulisivat voimaan."
 	},
@@ -1106,78 +1112,54 @@
 		"tr": "Sinun pitää odottaa %d sekuntia aloittaaksesi uuden äänestyksen"
 	},
 	{
-		"or": "blue",
-		"tr": "sininen"
-	},
-	{
 		"or": "blue flag",
 		"tr": "sininen lippu"
 	},
 	{
+		"context": "'X joined the <blue team>' (server message)",
 		"or": "blue team",
 		"tr": "sininen joukkue"
 	},
 	{
-		"or": "body",
-		"tr": "vartalo"
-	},
-	{
-		"or": "decoration",
-		"tr": "koristeet"
-	},
-	{
+		"context": "Show chat messages from:",
 		"or": "everyone",
 		"tr": "kaikki"
 	},
 	{
-		"or": "eyes",
-		"tr": "silmät"
-	},
-	{
-		"or": "feet",
-		"tr": "jalat"
-	},
-	{
+		"context": "Show chat messages from:",
 		"or": "friends only",
 		"tr": "vain kaverit"
 	},
 	{
+		"context": "'X joined the <game>' (server message)",
 		"or": "game",
 		"tr": "peli"
-	},
-	{
-		"or": "hands",
-		"tr": "kädet"
 	},
 	{
 		"or": "locked",
 		"tr": "lukittu"
 	},
 	{
-		"or": "marking",
-		"tr": "tunnus"
-	},
-	{
+		"context": "Show chat messages from:",
 		"or": "no one",
 		"tr": "ei kukaan"
 	},
 	{
+		"context": "server browser message",
 		"or": "no players",
 		"tr": "ei pelaajia"
-	},
-	{
-		"or": "red",
-		"tr": "punainen"
 	},
 	{
 		"or": "red flag",
 		"tr": "punainen lippu"
 	},
 	{
+		"context": "'X joined the <red team>' (server message)",
 		"or": "red team",
 		"tr": "punainen joukkue"
 	},
 	{
+		"context": "'X joined the <spectators>' (server message)",
 		"or": "spectators",
 		"tr": "katsojat"
 	},

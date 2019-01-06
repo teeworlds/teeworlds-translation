@@ -1,15 +1,45 @@
-{"authors": {
-	"originally created by": "MK124",
+{
+"authors": {
 	"modified by": [
-		"TsFreddie			2013-05-15 19:17:44",
+		"TsFreddie            2013-05-15 19:17:44",
 		"tiwb, 2018 (Transifex)",
 		"TsFreddie, 2014 (Transifex)",
 		"tiwb, 2018 (Transifex)"
-	]},
+	],
+	"originally created by": "MK124"
+},
 "translated strings": [
 	{
+		"or": "%.3f KiB",
+		"tr": "%.3f KiB"
+	},
+	{
+		"or": "%d other players",
+		"tr": "%d其它玩家"
+	},
+	{
+		"or": "%d player left",
+		"tr": "还剩%d名玩家"
+	},
+	{
+		"or": "%d player not ready",
+		"tr": "还有%d名玩家未准备"
+	},
+	{
+		"or": "%d players left",
+		"tr": "还剩%d名玩家"
+	},
+	{
+		"or": "%d players not ready",
+		"tr": "还有%d名玩家未准备"
+	},
+	{
+		"or": "%d servers, %d players",
+		"tr": "%d个服务器，%d名玩家"
+	},
+	{
 		"or": "%d%% loaded",
-		"tr": "已加载%d%%"
+		"tr": "列表加载中 %d%%"
 	},
 	{
 		"or": "%ds left",
@@ -36,761 +66,8 @@
 		"tr": "%s胜利!"
 	},
 	{
-		"or": "-Page %d-",
-		"tr": "-第%d页-"
-	},
-	{
-		"or": "Abort",
-		"tr": "取消"
-	},
-	{
-		"or": "Add",
-		"tr": "添加"
-	},
-	{
-		"or": "Add Friend",
-		"tr": "添加好友"
-	},
-	{
-		"or": "Address",
-		"tr": "地址"
-	},
-	{
-		"or": "All",
-		"tr": "全部"
-	},
-	{
-		"or": "Always show name plates",
-		"tr": "总是显示名字"
-	},
-	{
-		"or": "Are you sure that you want to delete the demo?",
-		"tr": "你确定要删除这个录像吗？"
-	},
-	{
-		"or": "Are you sure that you want to quit?",
-		"tr": "你确定要退出吗？"
-	},
-	{
-		"or": "Are you sure that you want to remove the player from your friends list?",
-		"tr": "你确定要把这个玩家从好友列表中删除吗？"
-	},
-	{
-		"or": "As this is the first time you launch the game, please enter your nick name below. It's recommended that you check the settings to adjust them to your liking before joining a server.",
-		"tr": "这是你第一次执行游戏，所以请在下面输入你的昵称。建议你在进入一个服务器之前，确认一下设置是否符合你的习惯。"
-	},
-	{
-		"or": "Automatically record demos",
-		"tr": "自动记录录像"
-	},
-	{
-		"or": "Automatically take game over screenshot",
-		"tr": "自动截取游戏结束画面"
-	},
-	{
-		"or": "Blue team",
-		"tr": "蓝队"
-	},
-	{
-		"or": "Blue team wins!",
-		"tr": "蓝队胜利！"
-	},
-	{
-		"or": "Body",
-		"tr": "身体"
-	},
-	{
-		"or": "Call vote",
-		"tr": "发起投票"
-	},
-	{
-		"or": "Change settings",
-		"tr": "改变设置"
-	},
-	{
-		"or": "Chat",
-		"tr": "聊天"
-	},
-	{
-		"or": "Clan",
-		"tr": "团队"
-	},
-	{
-		"or": "Client",
-		"tr": "客户端"
-	},
-	{
-		"or": "Close",
-		"tr": "关闭"
-	},
-	{
-		"or": "Compatible version",
-		"tr": "兼容的版本"
-	},
-	{
-		"or": "Connect",
-		"tr": "连接"
-	},
-	{
-		"or": "Connecting to",
-		"tr": "正在连接到"
-	},
-	{
-		"or": "Connection Problems...",
-		"tr": "连接出现问题..."
-	},
-	{
-		"or": "Console",
-		"tr": "控制台"
-	},
-	{
-		"or": "Controls",
-		"tr": "控制"
-	},
-	{
-		"or": "Count players only",
-		"tr": "只统计玩家数"
-	},
-	{
-		"or": "Country",
-		"tr": "国家/地区"
-	},
-	{
-		"or": "Current",
-		"tr": "当前"
-	},
-	{
-		"or": "Custom colors",
-		"tr": "自定义颜色"
-	},
-	{
-		"or": "Delete",
-		"tr": "删除"
-	},
-	{
-		"or": "Delete demo",
-		"tr": "删除录像"
-	},
-	{
-		"or": "Demo details",
-		"tr": "录像详细信息"
-	},
-	{
-		"or": "Demofile: %s",
-		"tr": "录像：%s"
-	},
-	{
-		"or": "Demos",
-		"tr": "录像"
-	},
-	{
-		"or": "Disconnect",
-		"tr": "断开连接"
-	},
-	{
-		"or": "Disconnected",
-		"tr": "连接已断开"
-	},
-	{
-		"or": "Downloading map",
-		"tr": "正在下载地图"
-	},
-	{
-		"or": "Draw!",
-		"tr": "平局！"
-	},
-	{
-		"or": "Dynamic Camera",
-		"tr": "动态镜头"
-	},
-	{
-		"or": "Emoticon",
-		"tr": "表情"
-	},
-	{
-		"or": "Enter",
-		"tr": "进入"
-	},
-	{
-		"or": "Error",
-		"tr": "错误"
-	},
-	{
-		"or": "Error loading demo",
-		"tr": "读取录像错误"
-	},
-	{
-		"or": "Favorite",
-		"tr": "收藏"
-	},
-	{
-		"or": "Favorites",
-		"tr": "收藏夹"
-	},
-	{
-		"or": "Feet",
-		"tr": "脚"
-	},
-	{
-		"or": "Fire",
-		"tr": "开火"
-	},
-	{
-		"or": "Folder",
-		"tr": "文件夹"
-	},
-	{
-		"or": "Force vote",
-		"tr": "强制投票"
-	},
-	{
-		"or": "Free-View",
-		"tr": "自由视角"
-	},
-	{
-		"or": "Friends",
-		"tr": "好友"
-	},
-	{
-		"or": "Fullscreen",
-		"tr": "全屏幕"
-	},
-	{
-		"or": "Game",
-		"tr": "游戏"
-	},
-	{
-		"or": "Game info",
-		"tr": "游戏信息"
-	},
-	{
-		"or": "Game over",
-		"tr": "游戏结束"
-	},
-	{
-		"or": "Game paused",
-		"tr": "游戏已暂停"
-	},
-	{
-		"or": "Game type",
-		"tr": "游戏类型"
-	},
-	{
-		"or": "Game types:",
-		"tr": "游戏类型:"
-	},
-	{
-		"or": "General",
-		"tr": "常规"
-	},
-	{
-		"or": "Graphics",
-		"tr": "图像"
-	},
-	{
-		"or": "Grenade",
-		"tr": "手榴弹"
-	},
-	{
-		"or": "Hammer",
-		"tr": "锤子"
-	},
-	{
-		"or": "Has people playing",
-		"tr": "有人在玩"
-	},
-	{
-		"or": "High Detail",
-		"tr": "高细节"
-	},
-	{
-		"or": "Hook",
-		"tr": "钩子"
-	},
-	{
-		"or": "Invalid Demo",
-		"tr": "无效的录像"
-	},
-	{
-		"or": "Join blue",
-		"tr": "加入蓝队"
-	},
-	{
-		"or": "Join red",
-		"tr": "加入红队"
-	},
-	{
-		"or": "Jump",
-		"tr": "跳跃"
-	},
-	{
-		"or": "Kick player",
-		"tr": "踢除玩家"
-	},
-	{
-		"or": "Language",
-		"tr": "语言"
-	},
-	{
-		"or": "Loading",
-		"tr": "载入中"
-	},
-	{
-		"or": "MOTD",
-		"tr": "公告板"
-	},
-	{
-		"or": "Map",
-		"tr": "地图"
-	},
-	{
-		"or": "Maximum ping:",
-		"tr": "最高延迟:"
-	},
-	{
-		"or": "Mouse sens.",
-		"tr": "鼠标灵敏度"
-	},
-	{
-		"or": "Move left",
-		"tr": "向左移动"
-	},
-	{
-		"or": "Move player to spectators",
-		"tr": "移动玩家为观众"
-	},
-	{
-		"or": "Move right",
-		"tr": "向右移动"
-	},
-	{
-		"or": "Movement",
-		"tr": "移动"
-	},
-	{
-		"or": "Mute when not active",
-		"tr": "不活动的时候静音"
-	},
-	{
-		"or": "Name",
-		"tr": "名字"
-	},
-	{
-		"or": "Next weapon",
-		"tr": "下一个武器"
-	},
-	{
-		"or": "Nickname",
-		"tr": "昵称"
-	},
-	{
-		"or": "No",
-		"tr": "否"
-	},
-	{
-		"or": "No password",
-		"tr": "无密码"
-	},
-	{
-		"or": "No servers found",
-		"tr": "找不到任何服务器"
-	},
-	{
-		"or": "No servers match your filter criteria",
-		"tr": "没有任何服务器匹配你的过滤器"
-	},
-	{
-		"or": "Ok",
-		"tr": "确定"
-	},
-	{
-		"or": "Open",
-		"tr": "打开"
-	},
-	{
-		"or": "Parent Folder",
-		"tr": "上级目录"
-	},
-	{
-		"or": "Password",
-		"tr": "密码"
-	},
-	{
-		"or": "Password incorrect",
-		"tr": "密码错误"
-	},
-	{
-		"or": "Ping",
-		"tr": "延迟"
-	},
-	{
-		"or": "Pistol",
-		"tr": "手枪"
-	},
-	{
-		"or": "Play",
-		"tr": "开始游戏"
-	},
-    {
-        "or": "Play",
-        "tr": "播放",
-        "context": "DemoBrowser"
-    },
-	{
-		"or": "Play background music",
-		"tr": "播放背景音乐"
-	},
-	{
-		"or": "Player",
-		"tr": "玩家"
-	},
-	{
-		"or": "Player country:",
-		"tr": "玩家的国家/地区:"
-	},
-	{
-		"or": "Player options",
-		"tr": "玩家选项"
-	},
-	{
-		"or": "Players",
-		"tr": "玩家数"
-	},
-	{
-		"or": "Please balance teams!",
-		"tr": "请平衡团队人数！"
-	},
-	{
-		"or": "Prev. weapon",
-		"tr": "上一个武器"
-	},
-	{
-		"or": "Quality Textures",
-		"tr": "高品质纹理"
-	},
-	{
-		"or": "Quit",
-		"tr": "退出"
-	},
-	{
-		"or": "REC %3d:%02d",
-		"tr": "REC %3d:%02d"
-	},
-	{
-		"or": "Reason:",
-		"tr": "理由:"
-	},
-	{
-		"or": "Red team",
-		"tr": "红队"
-	},
-	{
-		"or": "Red team wins!",
-		"tr": "红队胜利！"
-	},
-	{
-		"or": "Refresh",
-		"tr": "刷新"
-	},
-	{
-		"or": "Refreshing master servers",
-		"tr": "刷新主服务器中"
-	},
-	{
-		"or": "Remote console",
-		"tr": "远程控制台"
-	},
-	{
-		"or": "Remove",
-		"tr": "移除"
-	},
-	{
-		"or": "Remove friend",
-		"tr": "删除好友"
-	},
-	{
-		"or": "Rename",
-		"tr": "重命名"
-	},
-	{
-		"or": "Rename demo",
-		"tr": "重命名录像"
-	},
-	{
-		"or": "Reset filter",
-		"tr": "重置过滤器"
-	},
-	{
-		"or": "Respawn",
-		"tr": "重生"
-	},
-	{
-		"or": "Sample rate",
-		"tr": "采样率"
-	},
-	{
-		"or": "Score",
-		"tr": "分数"
-	},
-	{
-		"or": "Score board",
-		"tr": "得分榜"
-	},
-	{
-		"or": "Score limit",
-		"tr": "分数限制"
-	},
-	{
-		"or": "Scoreboard",
-		"tr": "得分榜"
-	},
-	{
-		"or": "Screenshot",
-		"tr": "截图"
-	},
-	{
-		"or": "Server address:",
-		"tr": "服务器地址:"
-	},
-	{
-		"or": "Server details",
-		"tr": "服务器详细信息"
-	},
-	{
-		"or": "Server filter",
-		"tr": "服务器过滤器"
-	},
-	{
-		"or": "Server info",
-		"tr": "服务器信息"
-	},
-	{
-		"or": "Server not full",
-		"tr": "服务器未满"
-	},
-	{
-		"or": "Settings",
-		"tr": "设置"
-	},
-	{
-		"or": "Shotgun",
-		"tr": "霰弹枪"
-	},
-	{
-		"or": "Show chat",
-		"tr": "显示聊天"
-	},
-	{
-		"or": "Show friends only",
-		"tr": "只显示好友"
-	},
-	{
-		"or": "Show ingame HUD",
-		"tr": "显示游戏内HUD"
-	},
-	{
-		"or": "Show name plates",
-		"tr": "显示名字板"
-	},
-	{
-		"or": "Show only chat messages from friends",
-		"tr": "只显示好友消息"
-	},
-	{
-		"or": "Show only supported",
-		"tr": "只显示支持的"
-	},
-	{
-		"or": "Skins",
-		"tr": "皮肤"
-	},
-	{
-		"or": "Sound",
-		"tr": "声音"
-	},
-	{
-		"or": "Sound error",
-		"tr": "声音出现错误"
-	},
-	{
-		"or": "Spectate",
-		"tr": "旁观"
-	},
-	{
-		"or": "Spectate next",
-		"tr": "观看后一个"
-	},
-	{
-		"or": "Spectate previous",
-		"tr": "观看前一个"
-	},
-	{
-		"or": "Spectator mode",
-		"tr": "旁观者模式"
-	},
-	{
-		"or": "Spectators",
-		"tr": "旁观者"
-	},
-	{
-		"or": "Standard gametype",
-		"tr": "标准游戏类型"
-	},
-	{
-		"or": "Standard map",
-		"tr": "标准地图"
-	},
-	{
-		"or": "Stop record",
-		"tr": "停止录制"
-	},
-	{
-		"or": "Strict gametype filter",
-		"tr": "严格过滤游戏类型"
-	},
-	{
-		"or": "Sudden Death",
-		"tr": "加时赛"
-	},
-	{
-		"or": "Switch weapon on pickup",
-		"tr": "拾取武器时自动装备"
-	},
-	{
-		"or": "Team",
-		"tr": "团队"
-	},
-	{
-		"or": "Team chat",
-		"tr": "团队聊天"
-	},
-	{
-		"or": "Teeworlds %s is out! Download it at www.teeworlds.com!",
-		"tr": "新版Teeworlds %s已经发布！请到www.teeworlds.com下载最新版！"
-	},
-	{
-		"or": "Texture Compression",
-		"tr": "纹理压缩"
-	},
-	{
-		"or": "The audio device couldn't be initialised.",
-		"tr": "无法初始化音频设备。"
-	},
-	{
-		"or": "The server is running a non-standard tuning on a pure game type.",
-		"tr": "此服务器运行着经过调整的非标准游戏类型。"
-	},
-	{
-		"or": "There's an unsaved map in the editor, you might want to save it before you quit the game.",
-		"tr": "编辑器中的地图尚未保存, 或许你应该在退出游戏之前保存一下。"
-	},
-	{
-		"or": "Time limit",
-		"tr": "时间限制"
-	},
-	{
-		"or": "Time limit: %d min",
-		"tr": "时间限制：%d分钟"
-	},
-	{
-		"or": "Try again",
-		"tr": "重试"
-	},
-	{
-		"or": "Type",
-		"tr": "类型"
-	},
-	{
-		"or": "Unable to delete the demo",
-		"tr": "无法删除这个录像"
-	},
-	{
-		"or": "Unable to rename the demo",
-		"tr": "无法重命名这个录像"
-	},
-	{
-		"or": "Use sounds",
-		"tr": "开启声音"
-	},
-	{
-		"or": "Use team colors for name plates",
-		"tr": "为名字板使用团队颜色"
-	},
-	{
-		"or": "V-Sync",
-		"tr": "垂直同步"
-	},
-	{
-		"or": "Version",
-		"tr": "版本"
-	},
-	{
-		"or": "Vote command:",
-		"tr": "投票命令:"
-	},
-	{
-		"or": "Vote description:",
-		"tr": "投票描述:"
-	},
-	{
-		"or": "Vote no",
-		"tr": "否决"
-	},
-	{
-		"or": "Vote yes",
-		"tr": "赞成"
-	},
-	{
-		"or": "Voting",
-		"tr": "投票"
-	},
-	{
-		"or": "Warmup",
-		"tr": "热身"
-	},
-	{
-		"or": "Weapon",
-		"tr": "武器"
-	},
-	{
-		"or": "Welcome to Teeworlds",
-		"tr": "欢迎来到Teeworlds！"
-	},
-	{
-		"or": "Yes",
-		"tr": "是"
-	},
-	{
-		"or": "You must restart the game for all settings to take effect.",
-		"tr": "你必须重启游戏才能让所有设置起效。"
-	},
-	{
-		"or": "%.3f KiB",
-		"tr": "%.3f KiB"
-	},
-	{
-		"or": "%d player left",
-		"tr": "还剩%d名玩家"
-	},
-	{
-		"or": "%d player not ready",
-		"tr": "还有%d名玩家未准备"
-	},
-	{
-		"or": "%d players left",
-		"tr": "还剩%d名玩家"
-	},
-	{
-		"or": "%d players not ready",
-		"tr": "还有%d名玩家未准备"
-	},
-	{
-		"or": "%d servers, %d players",
-		"tr": "%d个服务器，%d名玩家"
-	},
-	{
 		"or": "'%s' called for vote to kick '%s' (%s)",
-		"tr": "'%s'发起投票想要踢掉'%s'(%s)"
+		"tr": "'%s'发起投票想要踢除'%s'(%s)"
 	},
 	{
 		"or": "'%s' called for vote to move '%s' to spectators (%s)",
@@ -813,8 +90,28 @@
 		"tr": "'%s'离开了游戏 (%s)"
 	},
 	{
-		"or": "'%s' joined the %s",
-		"tr": "'%s'加入了%s"
+		"or": "-Page %d-",
+		"tr": "-第%d页-"
+	},
+	{
+		"or": "Abort",
+		"tr": "取消"
+	},
+	{
+		"or": "Add",
+		"tr": "添加"
+	},
+	{
+		"or": "Add clan",
+		"tr": "添加战队"
+	},
+	{
+		"or": "Add friend",
+		"tr": "添加好友"
+	},
+	{
+		"or": "Address",
+		"tr": "地址"
 	},
 	{
 		"or": "Admin forced server option '%s' (%s)",
@@ -833,12 +130,40 @@
 		"tr": "管理员将'%s'移至了旁观位 (%s)"
 	},
 	{
+		"or": "All",
+		"tr": "全部"
+	},
+	{
 		"or": "Alp:",
 		"tr": "透明度:"
 	},
 	{
+		"or": "Always show name plates",
+		"tr": "总是显示昵称"
+	},
+	{
 		"or": "Anti Aliasing",
 		"tr": "抗锯齿"
+	},
+	{
+		"or": "Are you sure that you want to delete the demo?",
+		"tr": "你确定要删除这个录像吗？"
+	},
+	{
+		"or": "Are you sure that you want to delete the skin?",
+		"tr": "你确定要删除这个皮肤吗？"
+	},
+	{
+		"or": "Are you sure that you want to quit?",
+		"tr": "你确定要退出吗？"
+	},
+	{
+		"or": "Are you sure that you want to remove the filter from the server browser?",
+		"tr": "你确定要在服务器浏览器中删除这个过滤器吗？"
+	},
+	{
+		"or": "Are you sure that you want to remove the player from your friends list?",
+		"tr": "你确定要把这个玩家从好友列表中删除吗？"
 	},
 	{
 		"or": "Are you sure you want to rename the demo?",
@@ -849,6 +174,18 @@
 		"tr": "你确定要保存这个皮肤吗？如果这个皮肤名已经存在，原皮肤将会被覆盖。"
 	},
 	{
+		"or": "As this is the first time you launch the game, please enter your nick name below. It's recommended that you check the settings to adjust them to your liking before joining a server.",
+		"tr": "这是你第一次打开游戏，请在下面输入你的昵称。建议你在进入服务器之前，确认一下设置是否符合你的习惯。"
+	},
+	{
+		"or": "Automatically record demos",
+		"tr": "自动保存录像"
+	},
+	{
+		"or": "Automatically take game over screenshot",
+		"tr": "自动截取游戏结束画面"
+	},
+	{
 		"or": "Back",
 		"tr": "返回"
 	},
@@ -857,20 +194,89 @@
 		"tr": "基础"
 	},
 	{
-		"or": "Bodies",
-		"tr": "身体"
+		"or": "Blue team",
+		"tr": "蓝队"
 	},
 	{
 		"or": "Borderless window",
 		"tr": "无边框窗口"
 	},
 	{
-		"or": "Browser",
-		"tr": "浏览器"
+		"or": "Call vote",
+		"tr": "发起投票"
+	},
+	{
+		"or": "Casual",
+		"tr": "随意"
+	},
+	{
+		"or": "Change settings",
+		"tr": "改变设置"
+	},
+	{
+		"or": "Chat",
+		"tr": "聊天"
+	},
+	{
+		"or": "Clan",
+		"tr": "战队"
+	},
+	{
+		"context": "clear gametype filters",
+		"or": "Clear",
+		"tr": "清除"
+	},
+	{
+		"or": "Click on a player or a flag to follow it",
+		"tr": "点击一名玩家或一面旗以跟随他们。"
+	},
+	{
+		"or": "Client",
+		"tr": "客户端"
+	},
+	{
+		"or": "Close",
+		"tr": "关闭"
 	},
 	{
 		"or": "Color",
 		"tr": "颜色"
+	},
+	{
+		"or": "Compatible version",
+		"tr": "兼容版本"
+	},
+	{
+		"or": "Competitive",
+		"tr": "可对战"
+	},
+	{
+		"or": "Connect",
+		"tr": "连接"
+	},
+	{
+		"or": "Connecting to",
+		"tr": "正在连接到"
+	},
+	{
+		"or": "Connection Problems...",
+		"tr": "连接中断..."
+	},
+	{
+		"or": "Console",
+		"tr": "控制台"
+	},
+	{
+		"or": "Controls",
+		"tr": "控制"
+	},
+	{
+		"or": "Count players only",
+		"tr": "屏蔽旁观位"
+	},
+	{
+		"or": "Country",
+		"tr": "国家/地区"
 	},
 	{
 		"or": "Crc",
@@ -881,19 +287,51 @@
 		"tr": "已创建"
 	},
 	{
+		"or": "Current: %dx%d (%d:%d)",
+		"tr": "目前：%dx%d（%d：%d）"
+	},
+	{
 		"or": "Custom",
 		"tr": "自订"
+	},
+	{
+		"or": "Custom colors",
+		"tr": "自定义颜色"
 	},
 	{
 		"or": "Customize",
 		"tr": "自定义"
 	},
 	{
-		"or": "Decoration",
-		"tr": "装饰"
+		"or": "D",
+		"tr": "死亡"
+	},
+	{
+		"or": "Delete",
+		"tr": "删除"
+	},
+	{
+		"or": "Delete demo",
+		"tr": "删除录像"
+	},
+	{
+		"or": "Delete skin",
+		"tr": "删除皮肤"
 	},
 	{
 		"or": "Demo",
+		"tr": "录像"
+	},
+	{
+		"or": "Demo details",
+		"tr": "录像详细信息"
+	},
+	{
+		"or": "Demofile: %s",
+		"tr": "录像文件：%s"
+	},
+	{
+		"or": "Demos",
 		"tr": "录像"
 	},
 	{
@@ -901,28 +339,140 @@
 		"tr": "详情"
 	},
 	{
+		"or": "Difficulty",
+		"tr": "难度"
+	},
+	{
+		"or": "Disconnect",
+		"tr": "断开连接"
+	},
+	{
+		"or": "Disconnected",
+		"tr": "连接已断开"
+	},
+	{
+		"or": "Downloading map",
+		"tr": "正在下载地图"
+	},
+	{
+		"or": "Draw!",
+		"tr": "平局！"
+	},
+	{
+		"or": "Dynamic Camera",
+		"tr": "动态镜头"
+	},
+	{
 		"or": "Editor",
 		"tr": "编辑器"
 	},
 	{
-		"or": "Eyes",
-		"tr": "眼睛"
+		"or": "Emoticon",
+		"tr": "表情"
 	},
 	{
-		"or": "Format",
-		"tr": "格式"
+		"or": "Enter",
+		"tr": "进入"
+	},
+	{
+		"or": "Error",
+		"tr": "错误"
+	},
+	{
+		"or": "Error loading demo",
+		"tr": "录像读取错误"
+	},
+	{
+		"or": "Favorite",
+		"tr": "收藏"
+	},
+	{
+		"or": "Favorites",
+		"tr": "收藏夹"
+	},
+	{
+		"or": "Fire",
+		"tr": "开火"
+	},
+	{
+		"or": "Folder",
+		"tr": "文件夹"
+	},
+	{
+		"or": "Force vote",
+		"tr": "强制投票"
+	},
+	{
+		"or": "Free-View",
+		"tr": "自由视角"
+	},
+	{
+		"or": "Fullscreen",
+		"tr": "全屏幕"
+	},
+	{
+		"or": "Game",
+		"tr": "游戏"
+	},
+	{
+		"or": "Game info",
+		"tr": "游戏信息"
+	},
+	{
+		"or": "Game options",
+		"tr": "游戏选项"
+	},
+	{
+		"or": "Game over",
+		"tr": "游戏结束"
+	},
+	{
+		"or": "Game paused",
+		"tr": "游戏已暂停"
 	},
 	{
 		"or": "Game starts in",
-		"tr": "游戏开始于"
+		"tr": "游戏即将开始 :"
+	},
+	{
+		"or": "Game type",
+		"tr": "游戏模式"
+	},
+	{
+		"or": "Game types:",
+		"tr": "游戏模式:"
+	},
+	{
+		"or": "General",
+		"tr": "常规"
 	},
 	{
 		"or": "Global",
-		"tr": "全球"
+		"tr": "互联网"
 	},
 	{
-		"or": "Hands",
-		"tr": "手部"
+		"or": "Graphics",
+		"tr": "图像"
+	},
+	{
+		"or": "Grenade",
+		"tr": "榴弹"
+	},
+	{
+		"or": "Hammer",
+		"tr": "锤子"
+	},
+	{
+		"or": "Has people playing",
+		"tr": "有人在玩"
+	},
+	{
+		"or": "High Detail",
+		"tr": "显示地图细节"
+	},
+	{
+		"or": "Hook",
+		"tr": "钩子"
 	},
 	{
 		"or": "Host address:",
@@ -933,8 +483,25 @@
 		"tr": "色调："
 	},
 	{
+		"or": "Invalid Demo",
+		"tr": "录像文件无效或已损坏"
+	},
+	{
 		"or": "Join",
 		"tr": "加入"
+	},
+	{
+		"context": "Join a server",
+		"or": "Join",
+		"tr": "加入"
+	},
+	{
+		"or": "Join blue",
+		"tr": "加入蓝队"
+	},
+	{
+		"or": "Join red",
+		"tr": "加入红队"
 	},
 	{
 		"or": "Joined",
@@ -942,15 +509,31 @@
 	},
 	{
 		"or": "Joined blue",
-		"tr": "加入了蓝队"
+		"tr": "已加入蓝队"
 	},
 	{
 		"or": "Joined red",
-		"tr": "加入了红队"
+		"tr": "已加入红队"
+	},
+	{
+		"or": "Jump",
+		"tr": "跳跃"
+	},
+	{
+		"or": "K",
+		"tr": "杀敌"
+	},
+	{
+		"or": "Kick player",
+		"tr": "踢除玩家"
 	},
 	{
 		"or": "Kick voting requires %d players on the server",
-		"tr": "投票踢人需要服务器中至少有%d名玩家才能够发起"
+		"tr": "踢人投票需要服务器中至少有%d名玩家才能发起"
+	},
+	{
+		"or": "Language",
+		"tr": "语言"
 	},
 	{
 		"or": "Laser",
@@ -961,12 +544,16 @@
 		"tr": "长度"
 	},
 	{
-		"or": "Letterbox",
-		"tr": "传统屏"
-	},
-	{
 		"or": "Lgt:",
 		"tr": "亮度："
+	},
+	{
+		"or": "Load the sound system",
+		"tr": "加载声音系统"
+	},
+	{
+		"or": "Loading",
+		"tr": "载入中"
 	},
 	{
 		"or": "Local",
@@ -977,6 +564,19 @@
 		"tr": "本地服务器"
 	},
 	{
+		"or": "MOTD",
+		"tr": "公告"
+	},
+	{
+		"or": "Map",
+		"tr": "地图"
+	},
+	{
+		"or": "Markers",
+		"tr": "记号笔"
+	},
+	{
+		"context": "rounds (scoreboard)",
 		"or": "Match",
 		"tr": "比赛"
 	},
@@ -985,32 +585,204 @@
 		"tr": "最大"
 	},
 	{
+		"or": "Maximum ping:",
+		"tr": "最高延迟:"
+	},
+	{
 		"or": "Misc",
 		"tr": "其他"
+	},
+	{
+		"or": "Mouse sens.",
+		"tr": "鼠标灵敏度"
+	},
+	{
+		"or": "Move left",
+		"tr": "向左移动"
+	},
+	{
+		"or": "Move player to spectators",
+		"tr": "移至旁观位"
+	},
+	{
+		"or": "Move right",
+		"tr": "向右移动"
+	},
+	{
+		"or": "Movement",
+		"tr": "移动"
+	},
+	{
+		"or": "Mute broadcasts",
+		"tr": "屏蔽广播"
+	},
+	{
+		"or": "Mute when not active",
+		"tr": "在后台的时静音"
+	},
+	{
+		"or": "Name",
+		"tr": "名字"
 	},
 	{
 		"or": "Netversion",
 		"tr": "通信版本"
 	},
 	{
+		"or": "New filter",
+		"tr": "新过滤器"
+	},
+	{
+		"or": "Next weapon",
+		"tr": "下一个武器"
+	},
+	{
+		"or": "Nickname",
+		"tr": "昵称"
+	},
+	{
 		"or": "Nickname is empty.",
-		"tr": "昵称为空。"
+		"tr": "昵称不能为空。"
+	},
+	{
+		"or": "No",
+		"tr": "否"
+	},
+	{
+		"context": "Without/None",
+		"or": "No",
+		"tr": "否"
+	},
+	{
+		"or": "No password",
+		"tr": "没有密码"
+	},
+	{
+		"or": "No servers found",
+		"tr": "找不到任何服务器"
+	},
+	{
+		"or": "No servers match your filter criteria",
+		"tr": "没有服务器匹配你的过滤器"
+	},
+	{
+		"or": "Normal",
+		"tr": "普通"
 	},
 	{
 		"or": "Normal:",
 		"tr": "普通："
 	},
 	{
+		"context": "friends (server browser)",
+		"or": "Offline (%d)",
+		"tr": "离线（%d）"
+	},
+	{
+		"or": "Ok",
+		"tr": "确定"
+	},
+	{
+		"or": "Online clanmates (%d)",
+		"tr": "在线战友（%d）"
+	},
+	{
+		"or": "Online players (%d)",
+		"tr": "在线玩家（%d）"
+	},
+	{
 		"or": "Only %d active players are allowed",
-		"tr": "只允许%d名玩家加入游戏"
+		"tr": "服务器只允许%d名玩家加入游戏"
+	},
+	{
+		"or": "Open",
+		"tr": "打开"
+	},
+	{
+		"or": "Other",
+		"tr": "其它"
+	},
+	{
+		"or": "Parent Folder",
+		"tr": "上级目录"
+	},
+	{
+		"or": "Password",
+		"tr": "密码"
+	},
+	{
+		"or": "Password incorrect",
+		"tr": "密码错误"
 	},
 	{
 		"or": "Personal",
 		"tr": "个人"
 	},
 	{
+		"or": "Ping",
+		"tr": "延迟"
+	},
+	{
+		"or": "Pistol",
+		"tr": "手枪"
+	},
+	{
+		"or": "Play",
+		"tr": "播放"
+	},
+	{
+		"context": "DemoBrowser",
+		"or": "Play",
+		"tr": "播放"
+	},
+	{
+		"or": "Play background music",
+		"tr": "播放背景音乐"
+	},
+	{
+		"or": "Player",
+		"tr": "玩家"
+	},
+	{
+		"or": "Player options",
+		"tr": "玩家选项"
+	},
+	{
+		"or": "Players",
+		"tr": "玩家"
+	},
+	{
+		"context": "Playing '(gametype)' on '(map)'",
+		"or": "Playing '%s' on '%s'",
+		"tr": "玩“%s”在“%s”"
+	},
+	{
+		"or": "Please balance teams!",
+		"tr": "团队人数不平衡！"
+	},
+	{
+		"or": "Prev. weapon",
+		"tr": "上一个武器"
+	},
+	{
+		"or": "Quality Textures",
+		"tr": "高品质纹理"
+	},
+	{
+		"or": "Quit",
+		"tr": "退出"
+	},
+	{
+		"or": "REC %3d:%02d",
+		"tr": "REC %3d:%02d"
+	},
+	{
 		"or": "Ready",
 		"tr": "准备"
+	},
+	{
+		"or": "Reason:",
+		"tr": "理由:"
 	},
 	{
 		"or": "Record",
@@ -1021,12 +793,48 @@
 		"tr": "录像已保存"
 	},
 	{
+		"or": "Red team",
+		"tr": "红队"
+	},
+	{
+		"or": "Refresh",
+		"tr": "刷新"
+	},
+	{
+		"or": "Refreshing master servers",
+		"tr": "正在刷新主服务器"
+	},
+	{
+		"or": "Remote console",
+		"tr": "远程控制台"
+	},
+	{
+		"or": "Remove",
+		"tr": "移除"
+	},
+	{
+		"or": "Remove friend",
+		"tr": "删除好友"
+	},
+	{
+		"or": "Rename",
+		"tr": "重命名"
+	},
+	{
+		"or": "Rename demo",
+		"tr": "重命名录像"
+	},
+	{
 		"or": "Reset",
 		"tr": "重置"
 	},
 	{
-		"or": "Resolutions",
-		"tr": "分辨率"
+		"or": "Reset filter",
+		"tr": "重置过滤器"
+	},
+	{
+		"or": "Respawn",
+		"tr": "重生"
 	},
 	{
 		"or": "Round over",
@@ -1035,6 +843,10 @@
 	{
 		"or": "Round over!",
 		"tr": "回合结束！"
+	},
+	{
+		"or": "Sample rate",
+		"tr": "采样率"
 	},
 	{
 		"or": "Sat:",
@@ -1049,12 +861,36 @@
 		"tr": "保存皮肤"
 	},
 	{
+		"or": "Score",
+		"tr": "分数"
+	},
+	{
+		"or": "Score limit",
+		"tr": "目标得分"
+	},
+	{
+		"or": "Scoreboard",
+		"tr": "计分板"
+	},
+	{
 		"or": "Screen",
 		"tr": "屏幕"
 	},
 	{
+		"or": "Screenshot",
+		"tr": "截图"
+	},
+	{
 		"or": "Search:",
 		"tr": "搜索："
+	},
+	{
+		"or": "Server address:",
+		"tr": "服务器地址:"
+	},
+	{
+		"or": "Server details",
+		"tr": "服务器详细信息"
 	},
 	{
 		"or": "Server does not allow voting to kick players",
@@ -1065,8 +901,56 @@
 		"tr": "服务器不允许投票将玩家移至旁观位"
 	},
 	{
+		"or": "Server filter",
+		"tr": "服务器过滤器"
+	},
+	{
+		"or": "Server info",
+		"tr": "服务器信息"
+	},
+	{
+		"or": "Server not full",
+		"tr": "服务器未满"
+	},
+	{
 		"or": "Servers",
 		"tr": "服务器"
+	},
+	{
+		"or": "Settings",
+		"tr": "设置"
+	},
+	{
+		"or": "Shotgun",
+		"tr": "霰弹枪"
+	},
+	{
+		"or": "Show chat",
+		"tr": "显示聊天"
+	},
+	{
+		"or": "Show chat messages from:",
+		"tr": "显示消息来源："
+	},
+	{
+		"or": "Show friends only",
+		"tr": "只显示好友"
+	},
+	{
+		"or": "Show ingame HUD",
+		"tr": "显示HUD"
+	},
+	{
+		"or": "Show name plates",
+		"tr": "显示名字"
+	},
+	{
+		"or": "Show social",
+		"tr": "显示社区"
+	},
+	{
+		"or": "Show user IDs",
+		"tr": "显示用户身份"
 	},
 	{
 		"or": "Size",
@@ -1077,24 +961,72 @@
 		"tr": "皮肤"
 	},
 	{
-		"or": "Spectating",
+		"or": "Skins",
+		"tr": "皮肤"
+	},
+	{
+		"or": "Sound",
+		"tr": "声音"
+	},
+	{
+		"or": "Sound error",
+		"tr": "声音出现错误"
+	},
+	{
+		"or": "Spectate",
 		"tr": "旁观"
+	},
+	{
+		"or": "Spectate next",
+		"tr": "旁观下一个"
+	},
+	{
+		"or": "Spectate previous",
+		"tr": "旁观上一个"
+	},
+	{
+		"or": "Spectating",
+		"tr": "视角"
+	},
+	{
+		"or": "Spectator mode",
+		"tr": "旁观者模式"
+	},
+	{
+		"or": "Spectators",
+		"tr": "旁观者"
 	},
 	{
 		"or": "Spectators aren't allowed to start a vote.",
 		"tr": "旁观者不能发起投票。"
 	},
 	{
-		"or": "Standard Gametype",
+		"or": "Standard gametype",
 		"tr": "标准游戏模式"
 	},
 	{
-		"or": "Tattoo",
-		"tr": "纹身"
+		"or": "Standard map",
+		"tr": "只显示标准地图"
 	},
 	{
-		"or": "Tattoos",
-		"tr": "纹身"
+		"or": "Stop record",
+		"tr": "停止录制"
+	},
+	{
+		"or": "Sudden Death",
+		"tr": "决胜"
+	},
+	{
+		"or": "Switch weapon on pickup",
+		"tr": "拾取武器时自动装备"
+	},
+	{
+		"or": "Team",
+		"tr": "团队"
+	},
+	{
+		"or": "Team chat",
+		"tr": "团队聊天"
 	},
 	{
 		"or": "Team:",
@@ -1106,23 +1038,91 @@
 	},
 	{
 		"or": "Teams are locked. Time to wait before changing team: %02d:%02d",
-		"tr": "队伍被锁定。还有%02d:%02d才能改变队伍"
+		"tr": "队伍已锁定。还有%02d:%02d才能更换队伍"
 	},
 	{
 		"or": "Teams were locked",
-		"tr": "队伍已锁定"
+		"tr": "队伍已被锁定"
 	},
 	{
 		"or": "Teams were unlocked",
-		"tr": "队伍已解锁"
+		"tr": "队伍已被解锁"
 	},
 	{
 		"or": "Tee",
 		"tr": "Tee"
 	},
 	{
+		"or": "Teeworlds %s is out! Download it at www.teeworlds.com!",
+		"tr": "Teeworlds %s已经发布！请到www.teeworlds.com下载最新版！"
+	},
+	{
 		"or": "Texture",
 		"tr": "材质"
+	},
+	{
+		"or": "Texture Compression",
+		"tr": "纹理压缩"
+	},
+	{
+		"or": "The audio device couldn't be initialised.",
+		"tr": "初始化音频设备失败。"
+	},
+	{
+		"or": "The server is running a non-standard tuning on a pure game type.",
+		"tr": "此服务器运行着经过调整的非标准游戏模式。"
+	},
+	{
+		"or": "Theme",
+		"tr": "主题"
+	},
+	{
+		"or": "There's an unsaved map in the editor, you might want to save it before you quit the game.",
+		"tr": "编辑器中的地图尚未保存，建议您在退出游戏之前返回编辑器进行保存。"
+	},
+	{
+		"or": "Time limit",
+		"tr": "规定时限"
+	},
+	{
+		"or": "Time limit: %d min",
+		"tr": "规定时限：%d分钟"
+	},
+	{
+		"or": "Try again",
+		"tr": "重试"
+	},
+	{
+		"or": "Type",
+		"tr": "类型"
+	},
+	{
+		"or": "Unable to delete the demo",
+		"tr": "无法删除这个录像"
+	},
+	{
+		"or": "Unable to delete the skin",
+		"tr": "无法删除这个皮肤"
+	},
+	{
+		"or": "Unable to rename the demo",
+		"tr": "无法重命名这个录像"
+	},
+	{
+		"or": "Use sounds",
+		"tr": "启用声音"
+	},
+	{
+		"or": "Use team colors for name plates",
+		"tr": "用队伍颜色标注昵称"
+	},
+	{
+		"or": "V-Sync",
+		"tr": "垂直同步"
+	},
+	{
+		"or": "Version",
+		"tr": "版本"
 	},
 	{
 		"or": "Volume",
@@ -1133,12 +1133,32 @@
 		"tr": "投票被取消"
 	},
 	{
+		"or": "Vote command:",
+		"tr": "投票指令:"
+	},
+	{
+		"or": "Vote description:",
+		"tr": "投票描述:"
+	},
+	{
 		"or": "Vote failed",
-		"tr": "投票失败"
+		"tr": "投票被否决"
+	},
+	{
+		"or": "Vote no",
+		"tr": "否决"
 	},
 	{
 		"or": "Vote passed",
-		"tr": "投票通过"
+		"tr": "投票已通过"
+	},
+	{
+		"or": "Vote yes",
+		"tr": "赞成"
+	},
+	{
+		"or": "Voting",
+		"tr": "投票"
 	},
 	{
 		"or": "Wait for current vote to end before calling a new one.",
@@ -1149,22 +1169,58 @@
 		"tr": "等待下一回合"
 	},
 	{
-		"or": "Wide",
-		"tr": "宽屏幕"
+		"or": "Warmup",
+		"tr": "热身"
+	},
+	{
+		"or": "Weapon",
+		"tr": "武器"
+	},
+	{
+		"or": "Welcome to Teeworlds",
+		"tr": "欢迎来到Teeworlds！"
+	},
+	{
+		"or": "When ready, press <%s>",
+		"tr": "准备好后，摁下【%s】"
+	},
+	{
+		"or": "Yes",
+		"tr": "是"
+	},
+	{
+		"context": "With",
+		"or": "Yes",
+		"tr": "是"
+	},
+	{
+		"or": "You must reconnect to change identity.",
+		"tr": "你必须重新连接以更改身份。"
+	},
+	{
+		"or": "You must restart the game for all settings to take effect.",
+		"tr": "你需要重启游戏来使某些设置生效。"
 	},
 	{
 		"or": "You must wait %d seconds before making another vote",
 		"tr": "你必须再等%d秒钟才能发起新的投票"
 	},
 	{
-		"or": "blue",
-		"tr": "蓝队"
+		"or": "blue flag",
+		"tr": "蓝旗"
 	},
 	{
+		"context": "'X joined the <blue team>' (server message)",
 		"or": "blue team",
 		"tr": "蓝队"
 	},
 	{
+		"context": "Show chat messages from:",
+		"or": "friends only",
+		"tr": "仅好友"
+	},
+	{
+		"context": "'X joined the <game>' (server message)",
 		"or": "game",
 		"tr": "游戏"
 	},
@@ -1173,209 +1229,32 @@
 		"tr": "已锁定"
 	},
 	{
+		"context": "Show chat messages from:",
+		"or": "no one",
+		"tr": "无人"
+	},
+	{
+		"context": "server browser message",
 		"or": "no players",
 		"tr": "没有玩家"
 	},
 	{
-		"or": "red",
-		"tr": "红队"
+		"or": "red flag",
+		"tr": "红旗"
 	},
 	{
+		"context": "'X joined the <red team>' (server message)",
 		"or": "red team",
 		"tr": "红队"
 	},
 	{
+		"context": "'X joined the <spectators>' (server message)",
 		"or": "spectators",
 		"tr": "旁观者"
 	},
 	{
 		"or": "wait for more players",
 		"tr": "等待更多玩家"
-	}],
-"needs translation": [
-	{
-		"or": "Delete skin",
-		"tr": "删除皮肤"
-	},
-	{
-		"or": "Are you sure that you want to delete the skin?",
-		"tr": "你确定要删除这个皮肤吗？"
-	},
-	{
-		"or": "Unable to delete the skin",
-		"tr": "无法删除这个皮肤"
-	}],
-"old translations": [
-	{
-		"or": "New name:",
-		"tr": "新名字:"
-	},
-	{
-		"or": "Sat.",
-		"tr": "饱和度"
-	},
-	{
-		"or": "Miscellaneous",
-		"tr": "杂项"
-	},
-	{
-		"or": "Internet",
-		"tr": "因特网"
-	},
-	{
-		"or": "Max demos",
-		"tr": "最大录像数"
-	},
-	{
-		"or": "News",
-		"tr": "新闻"
-	},
-	{
-		"or": "Join game",
-		"tr": "加入游戏"
-	},
-	{
-		"or": "FSAA samples",
-		"tr": "全屏抗锯齿(FSAA)采样倍数"
-	},
-	{
-		"or": "%d of %d servers, %d players",
-		"tr": "%d / %d 个服务器, %d 个玩家"
-	},
-	{
-		"or": "Sound volume",
-		"tr": "音量"
-	},
-	{
-		"or": "Created:",
-		"tr": "已创建:"
-	},
-	{
-		"or": "Max Screenshots",
-		"tr": "最大截图数"
-	},
-	{
-		"or": "Length:",
-		"tr": "长度:"
-	},
-	{
-		"or": "Skin name",
-		"tr": ""
-	},
-	{
-		"or": "Rifle",
-		"tr": "激光枪"
-	},
-	{
-		"or": "Patterns",
-		"tr": ""
-	},
-	{
-		"or": "Netversion:",
-		"tr": "网络版本"
-	},
-	{
-		"or": "Map:",
-		"tr": "地图:"
-	},
-	{
-		"or": "%d Bytes",
-		"tr": "%d 字节"
-	},
-	{
-		"or": "Coloration",
-		"tr": ""
-	},
-	{
-		"or": "Info",
-		"tr": "信息"
-	},
-	{
-		"or": "Hue",
-		"tr": "色调"
-	},
-	{
-		"or": "Record demo",
-		"tr": "录制录像"
-	},
-	{
-		"or": "Your skin",
-		"tr": "你的皮肤"
-	},
-	{
-		"or": "Size:",
-		"tr": "尺寸:"
-	},
-	{
-		"or": "Reset to defaults",
-		"tr": "恢复默认设置"
-	},
-	{
-		"or": "Quit anyway?",
-		"tr": "无论如何都要退出吗?"
-	},
-	{
-		"or": "Display Modes",
-		"tr": "显示模式"
-	},
-	{
-		"or": "Version:",
-		"tr": "版本:"
-	},
-	{
-		"or": "Round",
-		"tr": "回合"
-	},
-	{
-		"or": "Lht.",
-		"tr": "亮度"
-	},
-	{
-		"or": "no limit",
-		"tr": "无限制"
-	},
-	{
-		"or": "Quick search:",
-		"tr": "快速搜索:"
-	},
-	{
-		"or": "UI Color",
-		"tr": "界面颜色"
-	},
-	{
-		"or": "Host address",
-		"tr": "主机地址"
-	},
-	{
-		"or": "Crc:",
-		"tr": "Crc校验码:"
-	},
-	{
-		"or": "Alpha",
-		"tr": "透明度"
-	},
-	{
-		"or": "Are you sure you want to save your skin ? If a skin with this name already exists, it will be replaced.",
-		"tr": ""
-	},
-	{
-		"or": "Current version: %s",
-		"tr": "当前版本: %s"
-	},
-	{
-		"or": "Filter",
-		"tr": "过滤器"
-	},
-	{
-		"or": "LAN",
-		"tr": "局域网"
-	},
-	{
-		"or": "Name plates size",
-		"tr": "名字板尺寸"
-	},
-	{
-		"or": "Type:",
-		"tr": "类型:"
-	}]
+	}
+]
 }

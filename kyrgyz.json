@@ -1,10 +1,12 @@
-{"authors": {
-	"originally created by": "chingis",
+{
+"authors": {
 	"modified by": [
-		"chingis			2012-10-27 00:50:58",
-		"chingis			2013-01-10 11:13:34",
+		"chingis            2012-10-27 00:50:58",
+		"chingis            2013-01-10 11:13:34",
 		"ballpen, 2014-2015 (Transifex)"
-	]},
+	],
+	"originally created by": "chingis"
+},
 "translated strings": [
 	{
 		"or": "%.3f KiB",
@@ -57,6 +59,30 @@
 	{
 		"or": "%s wins!",
 		"tr": "%s жеңди!"
+	},
+	{
+		"or": "'%s' called for vote to kick '%s' (%s)",
+		"tr": "'%s' '%s' -ны серверден кетирүү максатында добушту баштады (%s)"
+	},
+	{
+		"or": "'%s' called for vote to move '%s' to spectators (%s)",
+		"tr": "'%s' '%s' -ны көрүүчүлөргө которуу максатында добушту баштады (%s)"
+	},
+	{
+		"or": "'%s' called vote to change server option '%s' (%s)",
+		"tr": "'%s' '%s' сервер параметрин өзгөртүү максатында добушту баштады (%s)"
+	},
+	{
+		"or": "'%s' entered and joined the %s",
+		"tr": "'%s' кирип %s кошулду"
+	},
+	{
+		"or": "'%s' has left the game",
+		"tr": "'%s' оюндан чыгып кетти"
+	},
+	{
+		"or": "'%s' has left the game (%s)",
+		"tr": "'%s' оюндан чыгып кетти (%s)"
 	},
 	{
 		"or": "-Page %d-",
@@ -155,16 +181,8 @@
 		"tr": "Көк командасы"
 	},
 	{
-		"or": "Blue team wins!",
-		"tr": "Көк командасы жеңди!"
-	},
-	{
 		"or": "Borderless window",
 		"tr": "Чек арасыз терезе"
-	},
-	{
-		"or": "Browser",
-		"tr": "Браузер"
 	},
 	{
 		"or": "Call vote",
@@ -343,10 +361,6 @@
 		"tr": "Эркин кароо"
 	},
 	{
-		"or": "Friends",
-		"tr": "Достор"
-	},
-	{
 		"or": "Fullscreen",
 		"tr": "Толук экран"
 	},
@@ -427,6 +441,11 @@
 		"tr": "Кирүү"
 	},
 	{
+		"context": "Join a server",
+		"or": "Join",
+		"tr": "Кирүү"
+	},
+	{
 		"or": "Join blue",
 		"tr": "Көккө кирүү"
 	},
@@ -495,6 +514,7 @@
 		"tr": "Карта"
 	},
 	{
+		"context": "rounds (scoreboard)",
 		"or": "Match",
 		"tr": "Матч"
 	},
@@ -559,6 +579,11 @@
 		"tr": "Жок"
 	},
 	{
+		"context": "Without/None",
+		"or": "No",
+		"tr": "Жок"
+	},
+	{
 		"or": "No password",
 		"tr": "Сырсөзсүз"
 	},
@@ -612,7 +637,7 @@
 	},
 	{
 		"or": "Play",
-		"tr": "Ойноо"
+		"tr": "Ойнотуу"
 	},
 	{
 		"context": "DemoBrowser",
@@ -626,10 +651,6 @@
 	{
 		"or": "Player",
 		"tr": "Оюнчу"
-	},
-	{
-		"or": "Player country:",
-		"tr": "Оюнчунун өлкөсү:"
 	},
 	{
 		"or": "Player options",
@@ -680,10 +701,6 @@
 		"tr": "Кызыл командасы"
 	},
 	{
-		"or": "Red team wins!",
-		"tr": "Кызыл командасы жеңди!"
-	},
-	{
 		"or": "Refresh",
 		"tr": "Жаңылоо"
 	},
@@ -716,6 +733,10 @@
 		"tr": "Калыбына келтирүү"
 	},
 	{
+		"or": "Reset filter",
+		"tr": "Фильтрди калыбына келтирүү"
+	},
+	{
 		"or": "Respawn",
 		"tr": "Кайрадан жаралуу"
 	},
@@ -746,10 +767,6 @@
 	{
 		"or": "Score",
 		"tr": "Упайлар"
-	},
-	{
-		"or": "Score board",
-		"tr": "Табло"
 	},
 	{
 		"or": "Score limit",
@@ -886,10 +903,6 @@
 	{
 		"or": "Stop record",
 		"tr": "Токтотуу"
-	},
-	{
-		"or": "Strict gametype filter",
-		"tr": "Оюн түрүн текши издөө"
 	},
 	{
 		"or": "Sudden Death",
@@ -1060,6 +1073,11 @@
 		"tr": "Ооба"
 	},
 	{
+		"context": "With",
+		"or": "Yes",
+		"tr": "Ооба"
+	},
+	{
 		"or": "You must restart the game for all settings to take effect.",
 		"tr": "Өзгөртүүлөр күчүнө кирүү үчүн, оюнду кайтадан иштетиш керек."
 	},
@@ -1068,14 +1086,12 @@
 		"tr": "Башка добушту баштоодон мурун %d секунда күтүү керек"
 	},
 	{
-		"or": "blue",
-		"tr": "көккө"
-	},
-	{
+		"context": "'X joined the <blue team>' (server message)",
 		"or": "blue team",
 		"tr": "көк командасына"
 	},
 	{
+		"context": "'X joined the <game>' (server message)",
 		"or": "game",
 		"tr": "оюнга"
 	},
@@ -1084,18 +1100,17 @@
 		"tr": "бекитилди"
 	},
 	{
+		"context": "server browser message",
 		"or": "no players",
 		"tr": "оюнчулар жок"
 	},
 	{
-		"or": "red",
-		"tr": "кызылга"
-	},
-	{
+		"context": "'X joined the <red team>' (server message)",
 		"or": "red team",
 		"tr": "кызыл командасына"
 	},
 	{
+		"context": "'X joined the <spectators>' (server message)",
 		"or": "spectators",
 		"tr": "көрүүчүлөргө"
 	},

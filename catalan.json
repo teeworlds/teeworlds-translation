@@ -1,4 +1,10 @@
 {
+"authors": {
+	"modified by": [
+		"Ryozuki, 2014 (Transifex)"
+	],
+	"originally created by": "Ryozuki"
+},
 "translated strings": [
 	{
 		"or": "%.3f KiB",
@@ -51,6 +57,30 @@
 	{
 		"or": "%s wins!",
 		"tr": "%s ha guanyat!"
+	},
+	{
+		"or": "'%s' called for vote to kick '%s' (%s)",
+		"tr": "'%s' ha votad per expulsar a '%s' (%s)"
+	},
+	{
+		"or": "'%s' called for vote to move '%s' to spectators (%s)",
+		"tr": "'%s' ha creat una votació per moure '%s' als espectadors (%s)"
+	},
+	{
+		"or": "'%s' called vote to change server option '%s' (%s)",
+		"tr": "%s' a votad per cambiar una opció del servidor '%s' (%s)"
+	},
+	{
+		"or": "'%s' entered and joined the %s",
+		"tr": "'%s' ha entrat i s'ha unit al %s"
+	},
+	{
+		"or": "'%s' has left the game",
+		"tr": "'%s' ha sortit del joc"
+	},
+	{
+		"or": "'%s' has left the game (%s)",
+		"tr": "'%s' ha sortit del joc (%s)"
 	},
 	{
 		"or": "-Page %d-",
@@ -149,16 +179,8 @@
 		"tr": "Equip blau"
 	},
 	{
-		"or": "Blue team wins!",
-		"tr": "El equip blau guanya!"
-	},
-	{
 		"or": "Borderless window",
 		"tr": "Finestra sense marges"
-	},
-	{
-		"or": "Browser",
-		"tr": "Cercador "
 	},
 	{
 		"or": "Call vote",
@@ -337,10 +359,6 @@
 		"tr": "Càmara lliure"
 	},
 	{
-		"or": "Friends",
-		"tr": "Amics"
-	},
-	{
 		"or": "Fullscreen",
 		"tr": "Pantalla completa"
 	},
@@ -421,6 +439,11 @@
 		"tr": "Unir-se"
 	},
 	{
+		"context": "Join a server",
+		"or": "Join",
+		"tr": "Unir-se"
+	},
+	{
 		"or": "Join blue",
 		"tr": "Unir-se a l'equip blau"
 	},
@@ -489,6 +512,7 @@
 		"tr": "Mapa"
 	},
 	{
+		"context": "rounds (scoreboard)",
 		"or": "Match",
 		"tr": "Partida"
 	},
@@ -549,6 +573,11 @@
 		"tr": "El nom esta buit"
 	},
 	{
+		"or": "No",
+		"tr": "No"
+	},
+	{
+		"context": "Without/None",
 		"or": "No",
 		"tr": "No"
 	},
@@ -622,10 +651,6 @@
 		"tr": "Jugador"
 	},
 	{
-		"or": "Player country:",
-		"tr": "País del jugador:"
-	},
-	{
 		"or": "Player options",
 		"tr": "Opcions del jugador"
 	},
@@ -674,10 +699,6 @@
 		"tr": "Equip vermell"
 	},
 	{
-		"or": "Red team wins!",
-		"tr": "El equip vermell guanya!"
-	},
-	{
 		"or": "Refresh",
 		"tr": "Actualitzar"
 	},
@@ -710,6 +731,10 @@
 		"tr": "Re-ajustar"
 	},
 	{
+		"or": "Reset filter",
+		"tr": "Restaura el filtre"
+	},
+	{
 		"or": "Respawn",
 		"tr": "Reaparèixer "
 	},
@@ -740,10 +765,6 @@
 	{
 		"or": "Score",
 		"tr": "Puntuació"
-	},
-	{
-		"or": "Score board",
-		"tr": "Taula de puntuacions"
 	},
 	{
 		"or": "Score limit",
@@ -880,10 +901,6 @@
 	{
 		"or": "Stop record",
 		"tr": "S'ha parat de grabar"
-	},
-	{
-		"or": "Strict gametype filter",
-		"tr": "Filtre de joc precís "
 	},
 	{
 		"or": "Sudden Death",
@@ -1054,6 +1071,11 @@
 		"tr": "Si"
 	},
 	{
+		"context": "With",
+		"or": "Yes",
+		"tr": "Si"
+	},
+	{
 		"or": "You must restart the game for all settings to take effect.",
 		"tr": "Has de re-iniciar el joc perquè la configuració tingui efecte"
 	},
@@ -1062,14 +1084,12 @@
 		"tr": "Has d'esperar %d segons per fer una altre votació"
 	},
 	{
-		"or": "blue",
-		"tr": "blau"
-	},
-	{
+		"context": "'X joined the <blue team>' (server message)",
 		"or": "blue team",
 		"tr": "equip blau"
 	},
 	{
+		"context": "'X joined the <game>' (server message)",
 		"or": "game",
 		"tr": "joc"
 	},
@@ -1078,18 +1098,17 @@
 		"tr": "Tancat"
 	},
 	{
+		"context": "server browser message",
 		"or": "no players",
 		"tr": "no hi ha jugadors"
 	},
 	{
-		"or": "red",
-		"tr": "vermell"
-	},
-	{
+		"context": "'X joined the <red team>' (server message)",
 		"or": "red team",
 		"tr": "equip vermell"
 	},
 	{
+		"context": "'X joined the <spectators>' (server message)",
 		"or": "spectators",
 		"tr": "espectadors"
 	},

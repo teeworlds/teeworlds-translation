@@ -1,25 +1,25 @@
-{"authors": {
-	"originally created by": "Dominik Geyer",
+{
+"authors": {
 	"modified by": [
-		"Fujnky			2010-06-03 11:30:05",
-		"Fujnky			2010-06-03 17:41:45",
-		"Fujnky			2010-06-05 23:36:52",
-		"Fujnky			2010-06-07 16:17:40",
-		"Fujnky			2010-06-11 09:50:47",
-		"Sworddragon	2010-11-21 14:25:00",
-		"Fujnky			2011-01-02 19:49:22",
-		"heinrich5991	2011-01-23 17:53:42",
-		"Sworddragon	2011-02-09 12:54:50",
-		"heinrich5991	2011-04-03 23:46:51",
-		"ghost91		2011-04-04 20:47:01",
-		"andi103		2011-05-02 19:12:27",
-		"andi103		2011-05-03 23:25:20",
-		"heinrich5991	2011-07-02 09:10:21",
-		"Yared Hufkens	2012-02-03 19:57:59",
-		"andi103		2012-07-14 11:31:11",
-		"[TeeKnight]Patrick[GER]	2013-02-05 12:15:00",
-		"andi103		2013-03-23 15:42:20",
-		"mauricepape	2018-11-14",
+		"Fujnky            2010-06-03 11:30:05",
+		"Fujnky            2010-06-03 17:41:45",
+		"Fujnky            2010-06-05 23:36:52",
+		"Fujnky            2010-06-07 16:17:40",
+		"Fujnky            2010-06-11 09:50:47",
+		"Sworddragon    2010-11-21 14:25:00",
+		"Fujnky            2011-01-02 19:49:22",
+		"heinrich5991    2011-01-23 17:53:42",
+		"Sworddragon    2011-02-09 12:54:50",
+		"heinrich5991    2011-04-03 23:46:51",
+		"ghost91        2011-04-04 20:47:01",
+		"andi103        2011-05-02 19:12:27",
+		"andi103        2011-05-03 23:25:20",
+		"heinrich5991    2011-07-02 09:10:21",
+		"Yared Hufkens    2012-02-03 19:57:59",
+		"andi103        2012-07-14 11:31:11",
+		"[TeeKnight]Patrick[GER]    2013-02-05 12:15:00",
+		"andi103        2013-03-23 15:42:20",
+		"mauricepape    2018-11-14",
 		"Wuzzy, 2014 (Transifex)",
 		"Sch0rsch, 2017 (Transifex)",
 		"heinrich5991, 2015 (Transifex)",
@@ -27,7 +27,9 @@
 		"Ronald Jäpel, 2018 (Transifex)",
 		"TheDerero, 2014 (Transifex)",
 		"Fisico, 2018 (Transifex)"
-	]},
+	],
+	"originally created by": "Dominik Geyer"
+},
 "translated strings": [
 	{
 		"or": "%.3f KiB",
@@ -86,32 +88,32 @@
 		"tr": "%s gewinnt!"
 	},
 	{
-		"or": "'%2d: %s' called for vote to kick '%s' (%s)",
-		"tr": "'%2d: %s' startete eine Abstimmung um '%s' hinauszuwerfen (%s)"
-	},
-	{
-		"or": "'%2d: %s' called for vote to move '%s' to spectators (%s)",
-		"tr": "'%2d: %s' startete eine Abstimmung um '%s' den Zuschauern zuzuweisen (%s)"
-	},
-	{
-		"or": "'%2d: %s' called vote to change server option '%s' (%s)",
-		"tr": "'%2d: %s' startete eine Abstimmung zum Ändern der Option '%s' (%s)"
-	},
-	{
-		"or": "'%2d: %s' entered and joined the %s",
-		"tr": "'%2d:%s' hat sich mit dem Server verbunden und ist %s beigetreten"
-	},
-	{
-		"or": "'%2d: %s' has left the game",
-		"tr": "'%2d: %s' hat das Spiel verlassen"
-	},
-	{
-		"or": "'%2d: %s' has left the game (%s)",
-		"tr": "'%2d: %s' hat das Spiel verlassen (%s)"
-	},
-	{
 		"or": "'%2d: %s' joined the %s",
 		"tr": "'%2d:%s' ist %s beigetreten"
+	},
+	{
+		"or": "'%s' called for vote to kick '%s' (%s)",
+		"tr": "'%s' startete eine Abstimmung um '%s' hinauszuwerfen (%s)"
+	},
+	{
+		"or": "'%s' called for vote to move '%s' to spectators (%s)",
+		"tr": "'%s' startete eine Abstimmung um '%s' zu einem Zuschauer zu machen (%s)"
+	},
+	{
+		"or": "'%s' called vote to change server option '%s' (%s)",
+		"tr": "'%s' startete eine Abstimmung zum Ändern der Option '%s' (%s)"
+	},
+	{
+		"or": "'%s' entered and joined the %s",
+		"tr": "'%s' betrat und trat %s bei"
+	},
+	{
+		"or": "'%s' has left the game",
+		"tr": "'%s' hat das Spiel verlassen"
+	},
+	{
+		"or": "'%s' has left the game (%s)",
+		"tr": "'%s' hat das Spiel verlassen (%s)"
 	},
 	{
 		"or": "-Page %d-",
@@ -126,12 +128,20 @@
 		"tr": "Hinzufügen"
 	},
 	{
+		"or": "Add clan",
+		"tr": "Clan hinzufügen"
+	},
+	{
 		"or": "Add demo marker",
 		"tr": "Aufnahmen-Zeitmarker setzen"
 	},
 	{
 		"or": "Add friend",
 		"tr": "Freund hinzufügen"
+	},
+	{
+		"or": "Add friend/clan",
+		"tr": "Freund/Clan hinzufügen"
 	},
 	{
 		"or": "Address",
@@ -182,6 +192,10 @@
 		"tr": "Möchtest du wirklich beenden?"
 	},
 	{
+		"or": "Are you sure that you want to remove the filter from the server browser?",
+		"tr": "Bist du sicher, dass du den Filter aus dem Serverbrowser entfernen möchtest?"
+	},
+	{
 		"or": "Are you sure that you want to remove the player from your friends list?",
 		"tr": "Möchtest du diesen Spieler wirklich aus deiner Freundesliste entfernen?"
 	},
@@ -226,6 +240,10 @@
 		"tr": "Abstimmen"
 	},
 	{
+		"or": "Casual",
+		"tr": "Gelegenheitsspiel"
+	},
+	{
 		"or": "Change settings",
 		"tr": "Einstellungen ändern"
 	},
@@ -261,6 +279,10 @@
 	{
 		"or": "Compatible version",
 		"tr": "Kompatible Version"
+	},
+	{
+		"or": "Competitive",
+		"tr": "Wettkampf"
 	},
 	{
 		"or": "Connect",
@@ -368,7 +390,7 @@
 	},
 	{
 		"or": "Downloading map",
-		"tr": "Karte herunterladen"
+		"tr": "Karte wird herunterladen"
 	},
 	{
 		"or": "Draw!",
@@ -400,7 +422,7 @@
 	},
 	{
 		"or": "Error loading demo",
-		"tr": "Fehler beim Laden der Aufnahme."
+		"tr": "Fehler beim Laden der Aufnahme"
 	},
 	{
 		"or": "Favorite",
@@ -694,6 +716,10 @@
 		"tr": "Kein Server entspricht deiner Suche"
 	},
 	{
+		"or": "Normal",
+		"tr": "Normal"
+	},
+	{
 		"or": "Normal:",
 		"tr": "Normal:"
 	},
@@ -843,6 +869,10 @@
 	{
 		"or": "Remove",
 		"tr": "Löschen"
+	},
+	{
+		"or": "Remove filter",
+		"tr": "Entferne Filter"
 	},
 	{
 		"or": "Remove friend",
@@ -1050,7 +1080,7 @@
 	},
 	{
 		"or": "Stop record",
-		"tr": "Aufnahme be."
+		"tr": "Aufnahme beenden"
 	},
 	{
 		"or": "Sudden Death",
@@ -1105,12 +1135,12 @@
 		"tr": "Texturkompression"
 	},
 	{
-		"or": "The %s flag was captured by '%2d: %s'",
-		"tr": "Die %s Flagge wurde von '%2d: %s' erobert"
+		"or": "The %s was captured by '%s'",
+		"tr": "Die %s wurde erfasst von %s "
 	},
 	{
-		"or": "The %s flag was captured by '%2d: %s' (%.2f seconds)",
-		"tr": "Die %s Flagge wurde von '%2d: %s' erobert (%.2f Sekunden)"
+		"or": "The %s was captured by '%s' (%.2f seconds)",
+		"tr": "Die %s wurde erobert von '%s' (%.2f Sekunden)"
 	},
 	{
 		"or": "The audio device couldn't be initialised.",
@@ -1234,6 +1264,10 @@
 		"tr": "Willkommen bei Teeworlds"
 	},
 	{
+		"or": "When ready, press <%s>",
+		"tr": "Wenn du bereit bist, drücke <%s>"
+	},
+	{
 		"or": "Whisper",
 		"tr": "Flüstern"
 	},
@@ -1255,78 +1289,54 @@
 		"tr": "Du musst %d Sekunden warten, bevor du eine neue Abstimmung starten darfst"
 	},
 	{
-		"or": "blue",
-		"tr": "blaue"
-	},
-	{
 		"or": "blue flag",
 		"tr": "blaue Flagge"
 	},
 	{
+		"context": "'X joined the <blue team>' (server message)",
 		"or": "blue team",
 		"tr": "Team Blau"
 	},
 	{
-		"or": "body",
-		"tr": "Körper"
-	},
-	{
-		"or": "decoration",
-		"tr": "Dekorationen"
-	},
-	{
+		"context": "Show chat messages from:",
 		"or": "everyone",
 		"tr": "Allen"
 	},
 	{
-		"or": "eyes",
-		"tr": "Augen"
-	},
-	{
-		"or": "feet",
-		"tr": "Füße"
-	},
-	{
+		"context": "Show chat messages from:",
 		"or": "friends only",
 		"tr": "Nur Freunden"
 	},
 	{
+		"context": "'X joined the <game>' (server message)",
 		"or": "game",
 		"tr": "dem Spiel"
-	},
-	{
-		"or": "hands",
-		"tr": "Hände"
 	},
 	{
 		"or": "locked",
 		"tr": "Gesperrt"
 	},
 	{
-		"or": "marking",
-		"tr": "Muster"
-	},
-	{
+		"context": "Show chat messages from:",
 		"or": "no one",
 		"tr": "Niemandem"
 	},
 	{
+		"context": "server browser message",
 		"or": "no players",
 		"tr": "Keine Spieler"
-	},
-	{
-		"or": "red",
-		"tr": "rote"
 	},
 	{
 		"or": "red flag",
 		"tr": "rote Flagge"
 	},
 	{
+		"context": "'X joined the <red team>' (server message)",
 		"or": "red team",
 		"tr": "Team Rot"
 	},
 	{
+		"context": "'X joined the <spectators>' (server message)",
 		"or": "spectators",
 		"tr": "Zuschauer"
 	},

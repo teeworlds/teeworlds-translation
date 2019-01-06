@@ -1,9 +1,11 @@
-{"authors": {
-	"originally created by": "arionwt1997",
+{
+"authors": {
 	"modified by": [
-		"Frost			2013-05-02 17:53:19",
+		"Frost            2013-05-02 17:53:19",
 		"ArionWT, 2015 (Transifex)"
-	]},
+	],
+	"originally created by": "arionwt1997"
+},
 "translated strings": [
 	{
 		"or": "%.3f KiB",
@@ -56,6 +58,30 @@
 	{
 		"or": "%s wins!",
 		"tr": "%s перамог!"
+	},
+	{
+		"or": "'%s' called for vote to kick '%s' (%s)",
+		"tr": "'%s' выклікаў галасаванне, каб выкінуць '%s' (%s)"
+	},
+	{
+		"or": "'%s' called for vote to move '%s' to spectators (%s)",
+		"tr": "'%s' выклікаў галасаванне, каб перанесьці '%s' ў назіральнікі (%s)"
+	},
+	{
+		"or": "'%s' called vote to change server option '%s' (%s)",
+		"tr": "'%s' галасуе, каб змяніць налады сервера '%s' (%s)"
+	},
+	{
+		"or": "'%s' entered and joined the %s",
+		"tr": "'%s' увайшоў і далучыўся да %s"
+	},
+	{
+		"or": "'%s' has left the game",
+		"tr": "'%s' выйшаў з гульні"
+	},
+	{
+		"or": "'%s' has left the game (%s)",
+		"tr": "'%s' пакінуў гульню (%s)"
 	},
 	{
 		"or": "-Page %d-",
@@ -154,16 +180,8 @@
 		"tr": "Сінія"
 	},
 	{
-		"or": "Blue team wins!",
-		"tr": "Сінія перамаглі!"
-	},
-	{
 		"or": "Borderless window",
 		"tr": "Бязмежнае акно"
-	},
-	{
-		"or": "Browser",
-		"tr": "Браўзар"
 	},
 	{
 		"or": "Call vote",
@@ -342,10 +360,6 @@
 		"tr": "Вольны агляд"
 	},
 	{
-		"or": "Friends",
-		"tr": "Сябры"
-	},
-	{
 		"or": "Fullscreen",
 		"tr": "Ва ўвесь экран"
 	},
@@ -426,6 +440,11 @@
 		"tr": "Далучыцца"
 	},
 	{
+		"context": "Join a server",
+		"or": "Join",
+		"tr": "Далучыцца"
+	},
+	{
 		"or": "Join blue",
 		"tr": "За сініх"
 	},
@@ -494,6 +513,7 @@
 		"tr": "Карта"
 	},
 	{
+		"context": "rounds (scoreboard)",
 		"or": "Match",
 		"tr": "Матч"
 	},
@@ -558,6 +578,11 @@
 		"tr": "Не"
 	},
 	{
+		"context": "Without/None",
+		"or": "No",
+		"tr": "Не"
+	},
+	{
 		"or": "No password",
 		"tr": "Без пароля"
 	},
@@ -611,7 +636,7 @@
 	},
 	{
 		"or": "Play",
-		"tr": "Гуляць"
+		"tr": "Прагляд"
 	},
 	{
 		"context": "DemoBrowser",
@@ -625,10 +650,6 @@
 	{
 		"or": "Player",
 		"tr": "Гулец"
-	},
-	{
-		"or": "Player country:",
-		"tr": "Краіна:"
 	},
 	{
 		"or": "Player options",
@@ -679,10 +700,6 @@
 		"tr": "Чырвоныя"
 	},
 	{
-		"or": "Red team wins!",
-		"tr": "Чырвоныя перамаглі!"
-	},
-	{
 		"or": "Refresh",
 		"tr": "Абнавіць"
 	},
@@ -715,6 +732,10 @@
 		"tr": "Скід"
 	},
 	{
+		"or": "Reset filter",
+		"tr": "Скінуць фільтры"
+	},
+	{
 		"or": "Respawn",
 		"tr": "Рэспаўн"
 	},
@@ -745,10 +766,6 @@
 	{
 		"or": "Score",
 		"tr": "Ачкі"
-	},
-	{
-		"or": "Score board",
-		"tr": "Табло"
 	},
 	{
 		"or": "Score limit",
@@ -885,10 +902,6 @@
 	{
 		"or": "Stop record",
 		"tr": "Стоп"
-	},
-	{
-		"or": "Strict gametype filter",
-		"tr": "Строгі фільтр рэжымаў"
 	},
 	{
 		"or": "Sudden Death",
@@ -1059,6 +1072,11 @@
 		"tr": "Так"
 	},
 	{
+		"context": "With",
+		"or": "Yes",
+		"tr": "Так"
+	},
+	{
 		"or": "You must restart the game for all settings to take effect.",
 		"tr": "Перазапусціце гульню для ўжывання змен."
 	},
@@ -1067,14 +1085,12 @@
 		"tr": "Вы павінны пачакаць %d секунд, перш чым зрабіць яшчэ адно галасаванне"
 	},
 	{
-		"or": "blue",
-		"tr": "сінія"
-	},
-	{
+		"context": "'X joined the <blue team>' (server message)",
 		"or": "blue team",
 		"tr": "сіняя каманда"
 	},
 	{
+		"context": "'X joined the <game>' (server message)",
 		"or": "game",
 		"tr": "Гульня"
 	},
@@ -1083,18 +1099,17 @@
 		"tr": "зачынена"
 	},
 	{
+		"context": "server browser message",
 		"or": "no players",
 		"tr": "Няма гульцоў"
 	},
 	{
-		"or": "red",
-		"tr": "чырвоныя"
-	},
-	{
+		"context": "'X joined the <red team>' (server message)",
 		"or": "red team",
 		"tr": "чырвоная каманда"
 	},
 	{
+		"context": "'X joined the <spectators>' (server message)",
 		"or": "spectators",
 		"tr": "Назіральнікі"
 	},

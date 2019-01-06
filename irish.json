@@ -1,4 +1,10 @@
 {
+"authors": {
+	"modified by": [
+		"Kevin Scannell, 2017 (Transifex)"
+	],
+	"originally created by": "Kevin Scannell"
+},
 "translated strings": [
 	{
 		"or": "%.3f KiB",
@@ -51,6 +57,30 @@
 	{
 		"or": "%s wins!",
 		"tr": "Tá an bua ag %s!"
+	},
+	{
+		"or": "'%s' called for vote to kick '%s' (%s)",
+		"tr": "D'iarr '%s' vóta ar ruaigeadh '%s' (%s)"
+	},
+	{
+		"or": "'%s' called for vote to move '%s' to spectators (%s)",
+		"tr": "D'iarr '%s' vóta ar '%s' a dhíbirt go dtí an lucht féachana (%s)"
+	},
+	{
+		"or": "'%s' called vote to change server option '%s' (%s)",
+		"tr": "D'iarr '%s' vóta chun rogha '%s' a athrú ar an bhfreastalaí (%s)"
+	},
+	{
+		"or": "'%s' entered and joined the %s",
+		"tr": "Tháinig '%s' isteach ar an bh%s"
+	},
+	{
+		"or": "'%s' has left the game",
+		"tr": "D'fhág '%s' an cluiche"
+	},
+	{
+		"or": "'%s' has left the game (%s)",
+		"tr": "D'fhág '%s' an cluiche (%s)"
 	},
 	{
 		"or": "-Page %d-",
@@ -149,16 +179,8 @@
 		"tr": "Foireann ghorm"
 	},
 	{
-		"or": "Blue team wins!",
-		"tr": "Tá an bua ag an bhfoireann ghorm!"
-	},
-	{
 		"or": "Borderless window",
 		"tr": "Fuinneog gan imlíne"
-	},
-	{
-		"or": "Browser",
-		"tr": "Brabhsálaí"
 	},
 	{
 		"or": "Call vote",
@@ -337,10 +359,6 @@
 		"tr": "Saoramharc"
 	},
 	{
-		"or": "Friends",
-		"tr": "Cairde"
-	},
-	{
 		"or": "Fullscreen",
 		"tr": "Lánscáileán"
 	},
@@ -421,6 +439,11 @@
 		"tr": "Glac páirt"
 	},
 	{
+		"context": "Join a server",
+		"or": "Join",
+		"tr": "Glac páirt"
+	},
+	{
 		"or": "Join blue",
 		"tr": "Gabh leis an bhfoireann ghorm"
 	},
@@ -489,6 +512,7 @@
 		"tr": "Mapa"
 	},
 	{
+		"context": "rounds (scoreboard)",
 		"or": "Match",
 		"tr": "Comórtas"
 	},
@@ -553,6 +577,11 @@
 		"tr": "Níl"
 	},
 	{
+		"context": "Without/None",
+		"or": "No",
+		"tr": "Níl"
+	},
+	{
 		"or": "No password",
 		"tr": "Gan focal faire"
 	},
@@ -606,7 +635,7 @@
 	},
 	{
 		"or": "Play",
-		"tr": "Imir"
+		"tr": "Imi"
 	},
 	{
 		"context": "DemoBrowser",
@@ -620,10 +649,6 @@
 	{
 		"or": "Player",
 		"tr": "Imreoir"
-	},
-	{
-		"or": "Player country:",
-		"tr": "Tír an imreora:"
 	},
 	{
 		"or": "Player options",
@@ -674,10 +699,6 @@
 		"tr": "Foireann dhearg"
 	},
 	{
-		"or": "Red team wins!",
-		"tr": "Tá an bua ag an bhfoireann dhearg!"
-	},
-	{
 		"or": "Refresh",
 		"tr": "Athnuaigh"
 	},
@@ -710,6 +731,10 @@
 		"tr": "Athshocraigh"
 	},
 	{
+		"or": "Reset filter",
+		"tr": "Athshocraigh scagairí"
+	},
+	{
 		"or": "Respawn",
 		"tr": "Athsceith"
 	},
@@ -740,10 +765,6 @@
 	{
 		"or": "Score",
 		"tr": "Scór"
-	},
-	{
-		"or": "Score board",
-		"tr": "Scórchlár"
 	},
 	{
 		"or": "Score limit",
@@ -880,10 +901,6 @@
 	{
 		"or": "Stop record",
 		"tr": "Stop ag taifeadadh"
-	},
-	{
-		"or": "Strict gametype filter",
-		"tr": "Scagaire docht cluichí"
 	},
 	{
 		"or": "Sudden Death",
@@ -1054,6 +1071,11 @@
 		"tr": "Tá"
 	},
 	{
+		"context": "With",
+		"or": "Yes",
+		"tr": "Tá"
+	},
+	{
 		"or": "You must restart the game for all settings to take effect.",
 		"tr": "Ní mór duit an cluiche a atosú chun na hathruithe go léir a chur i bhfeidhm."
 	},
@@ -1062,14 +1084,12 @@
 		"tr": "Caithfidh tú feitheamh %d soicind sular féidir leat vóta eile a dhéanamh"
 	},
 	{
-		"or": "blue",
-		"tr": "gorm"
-	},
-	{
+		"context": "'X joined the <blue team>' (server message)",
 		"or": "blue team",
 		"tr": "foireann ghorm"
 	},
 	{
+		"context": "'X joined the <game>' (server message)",
 		"or": "game",
 		"tr": "cluiche"
 	},
@@ -1078,18 +1098,17 @@
 		"tr": "faoi ghlas"
 	},
 	{
+		"context": "server browser message",
 		"or": "no players",
 		"tr": "gan imreoirí"
 	},
 	{
-		"or": "red",
-		"tr": "dearg"
-	},
-	{
+		"context": "'X joined the <red team>' (server message)",
 		"or": "red team",
 		"tr": "foireann dhearg"
 	},
 	{
+		"context": "'X joined the <spectators>' (server message)",
 		"or": "spectators",
 		"tr": "lucht féachana"
 	},

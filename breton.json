@@ -1,4 +1,10 @@
 {
+"authors": {
+	"modified by": [
+		"Gwenn M, 2014-2015 (Transifex)"
+	],
+	"originally created by": "Gwenn M"
+},
 "translated strings": [
 	{
 		"or": "%.3f KiB",
@@ -38,7 +44,7 @@
 	},
 	{
 		"or": "%i minutes left",
-		"tr": "%i munutenn a chom"
+		"tr": "%1 munutenn a chom"
 	},
 	{
 		"or": "%i second left",
@@ -51,6 +57,30 @@
 	{
 		"or": "%s wins!",
 		"tr": "Aet eo ar maout gant %s !"
+	},
+	{
+		"or": "'%s' called for vote to kick '%s' (%s)",
+		"tr": "Galvet eo bet ur mouezhiadeg gant '%s' evit skarzhañ '%s' (%s)"
+	},
+	{
+		"or": "'%s' called for vote to move '%s' to spectators (%s)",
+		"tr": "Galvet eo bet ur mouezhiadeg gant '%s' evit lakaat '%s' da vezañ un arvester (%s)"
+	},
+	{
+		"or": "'%s' called vote to change server option '%s' (%s)",
+		"tr": "'%s' en deus galvet ur mouezhiadeg evit cheñch an dibarzh servijer '%s' (%s)"
+	},
+	{
+		"or": "'%s' entered and joined the %s",
+		"tr": "'%s' a zo deuet er '%s'"
+	},
+	{
+		"or": "'%s' has left the game",
+		"tr": "Kuitaet eo bet ar c'hoari gant '%s'"
+	},
+	{
+		"or": "'%s' has left the game (%s)",
+		"tr": "'%' en/he deus kuitaet ar c'hoari (%s)"
 	},
 	{
 		"or": "-Page %d-",
@@ -149,16 +179,8 @@
 		"tr": "Skipailh glas"
 	},
 	{
-		"or": "Blue team wins!",
-		"tr": "Gant ar skipailh Glas eo aet ar maout !"
-	},
-	{
 		"or": "Borderless window",
 		"tr": "Prenestr hep vord"
-	},
-	{
-		"or": "Browser",
-		"tr": "Merdeer"
 	},
 	{
 		"or": "Call vote",
@@ -337,10 +359,6 @@
 		"tr": "Gwel-dieub"
 	},
 	{
-		"or": "Friends",
-		"tr": "Mignoned"
-	},
-	{
 		"or": "Fullscreen",
 		"tr": "Skramm leun"
 	},
@@ -421,6 +439,11 @@
 		"tr": "Mont"
 	},
 	{
+		"context": "Join a server",
+		"or": "Join",
+		"tr": "Mont"
+	},
+	{
 		"or": "Join blue",
 		"tr": "Mont gant ar re c'hlas"
 	},
@@ -489,6 +512,7 @@
 		"tr": "Kartenn"
 	},
 	{
+		"context": "rounds (scoreboard)",
 		"or": "Match",
 		"tr": "Krogad"
 	},
@@ -549,6 +573,11 @@
 		"tr": "Goulo eo al lesanv"
 	},
 	{
+		"or": "No",
+		"tr": "Nann"
+	},
+	{
+		"context": "Without/None",
 		"or": "No",
 		"tr": "Nann"
 	},
@@ -622,10 +651,6 @@
 		"tr": "C'hoarier"
 	},
 	{
-		"or": "Player country:",
-		"tr": "Bro ar c'hoarier :"
-	},
-	{
 		"or": "Player options",
 		"tr": "Arventennoù ar c'hoarier"
 	},
@@ -674,10 +699,6 @@
 		"tr": "Skipailh ruz"
 	},
 	{
-		"or": "Red team wins!",
-		"tr": "Gant ar skipailh Ruz eo aet ar maout !"
-	},
-	{
 		"or": "Refresh",
 		"tr": "Adkargañ"
 	},
@@ -710,6 +731,10 @@
 		"tr": "Adderaouekaat"
 	},
 	{
+		"or": "Reset filter",
+		"tr": "Adderaouekaat ar sil"
+	},
+	{
 		"or": "Respawn",
 		"tr": "Advevañ"
 	},
@@ -740,10 +765,6 @@
 	{
 		"or": "Score",
 		"tr": "Poentoù"
-	},
-	{
-		"or": "Score board",
-		"tr": "Taolenn ar poentoù"
 	},
 	{
 		"or": "Score limit",
@@ -880,10 +901,6 @@
 	{
 		"or": "Stop record",
 		"tr": "Paouez an enrolladenn"
-	},
-	{
-		"or": "Strict gametype filter",
-		"tr": "Sil doare c'hoari strizh "
 	},
 	{
 		"or": "Sudden Death",
@@ -1054,6 +1071,11 @@
 		"tr": "Ya"
 	},
 	{
+		"context": "With",
+		"or": "Yes",
+		"tr": "Ya"
+	},
+	{
 		"or": "You must restart the game for all settings to take effect.",
 		"tr": "Ret eo deoc'h adloc'hañ ar c'hoari evit kadarnaat an arventennoù."
 	},
@@ -1062,14 +1084,12 @@
 		"tr": "Ret eo deoc'h gortoz %d eilenn evit sevel ur mouezhiadeg nevez"
 	},
 	{
-		"or": "blue",
-		"tr": "glas"
-	},
-	{
+		"context": "'X joined the <blue team>' (server message)",
 		"or": "blue team",
 		"tr": "skipailh glas"
 	},
 	{
+		"context": "'X joined the <game>' (server message)",
 		"or": "game",
 		"tr": "c'hoari"
 	},
@@ -1078,18 +1098,17 @@
 		"tr": "prennet"
 	},
 	{
+		"context": "server browser message",
 		"or": "no players",
 		"tr": "c'hoarier ebet"
 	},
 	{
-		"or": "red",
-		"tr": "ruz"
-	},
-	{
+		"context": "'X joined the <red team>' (server message)",
 		"or": "red team",
 		"tr": "skipailh ruz"
 	},
 	{
+		"context": "'X joined the <spectators>' (server message)",
 		"or": "spectators",
 		"tr": "arvesterien"
 	},

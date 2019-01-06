@@ -1,11 +1,13 @@
-{"authors": {
-	"originally created by": "DNR",
+{
+"authors": {
 	"modified by": [
-		"DNR			2011-07-15 00:36:32",
-		"EliteTee	2011-11-30 01:55:30",
-		"DNR			2011-11-30 01:57:52",
+		"DNR            2011-07-15 00:36:32",
+		"EliteTee    2011-11-30 01:55:30",
+		"DNR            2011-11-30 01:57:52",
 		"DarkOne, 2014 (Transifex)"
-	]},
+	],
+	"originally created by": "DNR"
+},
 "translated strings": [
 	{
 		"or": "%.3f KiB",
@@ -60,6 +62,34 @@
 		"tr": "%s je pobedio!"
 	},
 	{
+		"or": "'%2d: %s' joined the %s",
+		"tr": "'%2d: %s' se pridružio %s"
+	},
+	{
+		"or": "'%s' called for vote to kick '%s' (%s)",
+		"tr": "'%s' glasa da se izbaci '%s' (%s)"
+	},
+	{
+		"or": "'%s' called for vote to move '%s' to spectators (%s)",
+		"tr": "'%s' glasa da se '%s' premesti u posmatrače (%s)"
+	},
+	{
+		"or": "'%s' called vote to change server option '%s' (%s)",
+		"tr": "'%s' glasa za opciju '%s' (%s)"
+	},
+	{
+		"or": "'%s' entered and joined the %s",
+		"tr": "'%s' je ušao i pridružio se %s"
+	},
+	{
+		"or": "'%s' has left the game",
+		"tr": "'%s' je napustio igru"
+	},
+	{
+		"or": "'%s' has left the game (%s)",
+		"tr": "'%s' je napustio igru (%s)"
+	},
+	{
 		"or": "-Page %d-",
 		"tr": "-Strana %d-"
 	},
@@ -70,6 +100,22 @@
 	{
 		"or": "Add",
 		"tr": "Dodaj"
+	},
+	{
+		"or": "Add clan",
+		"tr": "Dodaj klan"
+	},
+	{
+		"or": "Add demo marker",
+		"tr": "Dodaj demo obeleživač"
+	},
+	{
+		"or": "Add friend",
+		"tr": "Dodaj prijatelja"
+	},
+	{
+		"or": "Add friend/clan",
+		"tr": "Dodaj prijatelja/klan"
 	},
 	{
 		"or": "Address",
@@ -120,6 +166,10 @@
 		"tr": "Jeste li sigurni da želite da izađete?"
 	},
 	{
+		"or": "Are you sure that you want to remove the filter from the server browser?",
+		"tr": "Da li ste sigurni da želite da uklonite filter sa server pretraživača?"
+	},
+	{
 		"or": "Are you sure that you want to remove the player from your friends list?",
 		"tr": "Da li ste sigurni da želite da obrišete igrača iz liste prijatelja?"
 	},
@@ -156,16 +206,8 @@
 		"tr": "Plavi tim"
 	},
 	{
-		"or": "Blue team wins!",
-		"tr": "Plavi tim je pobedio!"
-	},
-	{
 		"or": "Borderless window",
 		"tr": "Prozor bez okvira"
-	},
-	{
-		"or": "Browser",
-		"tr": "Pretraživač"
 	},
 	{
 		"or": "Call vote",
@@ -184,6 +226,11 @@
 		"tr": "Klan"
 	},
 	{
+		"context": "clear gametype filters",
+		"or": "Clear",
+		"tr": "Poništi"
+	},
+	{
 		"or": "Client",
 		"tr": "Klijent"
 	},
@@ -198,6 +245,10 @@
 	{
 		"or": "Compatible version",
 		"tr": "Kompatibilna verzija"
+	},
+	{
+		"or": "Competitive",
+		"tr": "Takmičarski"
 	},
 	{
 		"or": "Connect",
@@ -226,6 +277,10 @@
 	{
 		"or": "Country",
 		"tr": "Država"
+	},
+	{
+		"or": "Country:",
+		"tr": "Država:"
 	},
 	{
 		"or": "Crc",
@@ -280,6 +335,10 @@
 		"tr": "Detalj"
 	},
 	{
+		"or": "Difficulty",
+		"tr": "Teškoća"
+	},
+	{
 		"or": "Disconnect",
 		"tr": "Diskonektuj"
 	},
@@ -306,6 +365,10 @@
 	{
 		"or": "Emoticon",
 		"tr": "Emoticon"
+	},
+	{
+		"or": "Enable colored server broadcasts",
+		"tr": "Omogućiti obojene server difuzne poruke"
 	},
 	{
 		"or": "Enter",
@@ -342,10 +405,6 @@
 	{
 		"or": "Free-View",
 		"tr": "Slobodan pregled"
-	},
-	{
-		"or": "Friends",
-		"tr": "Prijatelji"
 	},
 	{
 		"or": "Fullscreen",
@@ -404,6 +463,10 @@
 		"tr": "Server nije prazan"
 	},
 	{
+		"or": "Hide bots",
+		"tr": "Sakrij botove"
+	},
+	{
 		"or": "High Detail",
 		"tr": "Visoki detalji"
 	},
@@ -424,6 +487,11 @@
 		"tr": "Neispravan demo"
 	},
 	{
+		"or": "Join",
+		"tr": "Uđi"
+	},
+	{
+		"context": "Join a server",
 		"or": "Join",
 		"tr": "Uđi"
 	},
@@ -496,6 +564,7 @@
 		"tr": "Mapa"
 	},
 	{
+		"context": "rounds (scoreboard)",
 		"or": "Match",
 		"tr": "Meč"
 	},
@@ -544,6 +613,10 @@
 		"tr": "Netverzija"
 	},
 	{
+		"or": "New filter",
+		"tr": "Novi filter"
+	},
+	{
 		"or": "Next weapon",
 		"tr": "Sledeće oružje"
 	},
@@ -556,6 +629,11 @@
 		"tr": "Nadimak je prazan."
 	},
 	{
+		"or": "No",
+		"tr": "Ne"
+	},
+	{
+		"context": "Without/None",
 		"or": "No",
 		"tr": "Ne"
 	},
@@ -576,8 +654,17 @@
 		"tr": "Normalno:"
 	},
 	{
+		"context": "friends (server browser)",
+		"or": "Offline (%d)",
+		"tr": "Nepovezan (%d)"
+	},
+	{
 		"or": "Ok",
 		"tr": "Ok"
+	},
+	{
+		"or": "Online players (%d)",
+		"tr": "Povezani igrači (%d)"
 	},
 	{
 		"or": "Only %d active players are allowed",
@@ -586,6 +673,10 @@
 	{
 		"or": "Open",
 		"tr": "Otvori"
+	},
+	{
+		"or": "Other",
+		"tr": "Ostalo"
 	},
 	{
 		"or": "Parent Folder",
@@ -629,10 +720,6 @@
 		"tr": "Igrač"
 	},
 	{
-		"or": "Player country:",
-		"tr": "Država igrača:"
-	},
-	{
 		"or": "Player options",
 		"tr": "Podešavanja igrača"
 	},
@@ -669,6 +756,10 @@
 		"tr": "Razlog:"
 	},
 	{
+		"or": "Recommended",
+		"tr": "Preporučeno"
+	},
+	{
 		"or": "Record",
 		"tr": "Snimaj"
 	},
@@ -679,10 +770,6 @@
 	{
 		"or": "Red team",
 		"tr": "Crveni tim"
-	},
-	{
-		"or": "Red team wins!",
-		"tr": "Crveni tim je pobedio!"
 	},
 	{
 		"or": "Refresh",
@@ -701,6 +788,10 @@
 		"tr": "Ukloni"
 	},
 	{
+		"or": "Remove filter",
+		"tr": "Ukloni filter"
+	},
+	{
 		"or": "Remove friend",
 		"tr": "Ukloni prijatelja"
 	},
@@ -715,6 +806,14 @@
 	{
 		"or": "Reset",
 		"tr": "Resetuj"
+	},
+	{
+		"or": "Reset filter",
+		"tr": "Poništi filter"
+	},
+	{
+		"or": "Resolution",
+		"tr": "Rezolucija"
 	},
 	{
 		"or": "Respawn",
@@ -747,10 +846,6 @@
 	{
 		"or": "Score",
 		"tr": "Rezultat"
-	},
-	{
-		"or": "Score board",
-		"tr": "Bodovi"
 	},
 	{
 		"or": "Score limit",
@@ -817,6 +912,10 @@
 		"tr": "Prikaži chat"
 	},
 	{
+		"or": "Show chat messages from:",
+		"tr": "Prikaži čet poruke od:"
+	},
+	{
 		"or": "Show friends only",
 		"tr": "Prikaži samo prijatelje"
 	},
@@ -829,6 +928,10 @@
 		"tr": "Prikaži imena igrača"
 	},
 	{
+		"or": "Show user IDs",
+		"tr": "Prikaži korisnički IDs"
+	},
+	{
 		"or": "Size",
 		"tr": "Veličina"
 	},
@@ -839,6 +942,10 @@
 	{
 		"or": "Skins",
 		"tr": "Izgled"
+	},
+	{
+		"or": "Skip the main menu",
+		"tr": "Preskoči glavni meni"
 	},
 	{
 		"or": "Sound",
@@ -887,10 +994,6 @@
 	{
 		"or": "Stop record",
 		"tr": "Prekini snimanje"
-	},
-	{
-		"or": "Strict gametype filter",
-		"tr": "Striktan filter tipa igre"
 	},
 	{
 		"or": "Sudden Death",
@@ -951,6 +1054,10 @@
 	{
 		"or": "The server is running a non-standard tuning on a pure game type.",
 		"tr": "Server sadrži nestandardna podešavanja."
+	},
+	{
+		"or": "Theme",
+		"tr": "Tema"
 	},
 	{
 		"or": "There's an unsaved map in the editor, you might want to save it before you quit the game.",
@@ -1049,6 +1156,11 @@
 		"tr": "Zagrejavanje"
 	},
 	{
+		"context": "Watching '(gametype)' on '(map)'",
+		"or": "Watching '%s' on '%s'",
+		"tr": "Gledanje '%s' na '%s'"
+	},
+	{
 		"or": "Weapon",
 		"tr": "Oružje"
 	},
@@ -1057,6 +1169,19 @@
 		"tr": "Dobrodošli u Teeworlds"
 	},
 	{
+		"or": "When ready, press <%s>",
+		"tr": "Kada spremni, pritisnite <%s>"
+	},
+	{
+		"or": "Whisper",
+		"tr": "Šapat"
+	},
+	{
+		"or": "Yes",
+		"tr": "Da"
+	},
+	{
+		"context": "With",
 		"or": "Yes",
 		"tr": "Da"
 	},
@@ -1069,14 +1194,26 @@
 		"tr": "Morate sačekati %d sekundi pre početka sledećeg glasanja"
 	},
 	{
-		"or": "blue",
-		"tr": "plavi"
+		"or": "blue flag",
+		"tr": "plava zastava"
 	},
 	{
+		"context": "'X joined the <blue team>' (server message)",
 		"or": "blue team",
 		"tr": "plavi tim"
 	},
 	{
+		"context": "Show chat messages from:",
+		"or": "everyone",
+		"tr": "svakog"
+	},
+	{
+		"context": "Show chat messages from:",
+		"or": "friends only",
+		"tr": "samo prijatelje"
+	},
+	{
+		"context": "'X joined the <game>' (server message)",
 		"or": "game",
 		"tr": "igra"
 	},
@@ -1085,18 +1222,26 @@
 		"tr": "zaključano"
 	},
 	{
+		"context": "Show chat messages from:",
+		"or": "no one",
+		"tr": "nikog"
+	},
+	{
+		"context": "server browser message",
 		"or": "no players",
 		"tr": "nema igrača"
 	},
 	{
-		"or": "red",
-		"tr": "crveni"
+		"or": "red flag",
+		"tr": "crvena zastava"
 	},
 	{
+		"context": "'X joined the <red team>' (server message)",
 		"or": "red team",
 		"tr": "crveni tim"
 	},
 	{
+		"context": "'X joined the <spectators>' (server message)",
 		"or": "spectators",
 		"tr": "posmatrači"
 	},

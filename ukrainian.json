@@ -32,10 +32,6 @@
 		"tr": "%d серверів, %d гравців"
 	},
 	{
-		"or": "%d subjects, %d friends and %d clans online",
-		"tr": "%dгравців, %dдрузів та %dкланів онлайн"
-	},
-	{
 		"or": "%d%% loaded",
 		"tr": "%d%% завантажено"
 	},
@@ -64,32 +60,32 @@
 		"tr": "%s перемогли!"
 	},
 	{
-		"or": "'%2d: %s' called for vote to kick '%s' (%s)",
-		"tr": "'%2d:%s' почав голосування за спровадження '%s'(%s)"
-	},
-	{
-		"or": "'%2d: %s' called for vote to move '%s' to spectators (%s)",
-		"tr": "'%2d:%s' почав голосування за переміщення '%s' до спостерігачів(%s)"
-	},
-	{
-		"or": "'%2d: %s' called vote to change server option '%s' (%s)",
-		"tr": "'%2d:%s' почав голосування за зміну параметрів сервера'%s'(%s)"
-	},
-	{
-		"or": "'%2d: %s' entered and joined the %s",
-		"tr": "'%2d:%s' увійшов та приєднався до %s"
-	},
-	{
-		"or": "'%2d: %s' has left the game",
-		"tr": "'%2d:%s' покинув гру "
-	},
-	{
-		"or": "'%2d: %s' has left the game (%s)",
-		"tr": "'%2d:%s' покинув гру (%s)"
-	},
-	{
 		"or": "'%2d: %s' joined the %s",
 		"tr": "'%2d:%s' приєднався до %s"
+	},
+	{
+		"or": "'%s' called for vote to kick '%s' (%s)",
+		"tr": "'%s' закликав голосуванням штурхнути з гри '%s' (%s)"
+	},
+	{
+		"or": "'%s' called for vote to move '%s' to spectators (%s)",
+		"tr": "'%s' закликав голосуванням перемістити '%s' до спостерегачів (%s)"
+	},
+	{
+		"or": "'%s' called vote to change server option '%s' (%s)",
+		"tr": "'%s' проголосував за зміну серверного параметру '%s' (%s)"
+	},
+	{
+		"or": "'%s' entered and joined the %s",
+		"tr": "'%s' приєднався та зайшов за %s"
+	},
+	{
+		"or": "'%s' has left the game",
+		"tr": "'%s' вийшов з гри"
+	},
+	{
+		"or": "'%s' has left the game (%s)",
+		"tr": "'%s' вийшов з гри (%s)"
 	},
 	{
 		"or": "-Page %d-",
@@ -192,16 +188,8 @@
 		"tr": "Сині"
 	},
 	{
-		"or": "Blue team wins!",
-		"tr": "Сині перемогли!"
-	},
-	{
 		"or": "Borderless window",
 		"tr": "Вікно без рамки"
-	},
-	{
-		"or": "Browser",
-		"tr": "Браузер"
 	},
 	{
 		"or": "Call vote",
@@ -380,10 +368,6 @@
 		"tr": "Вільний перегляд"
 	},
 	{
-		"or": "Friends",
-		"tr": "Друзі"
-	},
-	{
 		"or": "Fullscreen",
 		"tr": "Повноекранний режим"
 	},
@@ -464,6 +448,11 @@
 		"tr": "Приєднатися"
 	},
 	{
+		"context": "Join a server",
+		"or": "Join",
+		"tr": "Приєднатися"
+	},
+	{
 		"or": "Join blue",
 		"tr": "За синіх"
 	},
@@ -536,6 +525,7 @@
 		"tr": "Карта"
 	},
 	{
+		"context": "rounds (scoreboard)",
 		"or": "Match",
 		"tr": "Матч"
 	},
@@ -604,6 +594,11 @@
 		"tr": "Ні"
 	},
 	{
+		"context": "Without/None",
+		"or": "No",
+		"tr": "Ні"
+	},
+	{
 		"or": "No password",
 		"tr": "Без пароля"
 	},
@@ -620,16 +615,8 @@
 		"tr": "Нормальний:"
 	},
 	{
-		"or": "Off",
-		"tr": "Вимкнути"
-	},
-	{
 		"or": "Ok",
 		"tr": "Ок"
-	},
-	{
-		"or": "On",
-		"tr": "Увімкнути"
 	},
 	{
 		"or": "Only %d active players are allowed",
@@ -669,7 +656,7 @@
 	},
 	{
 		"or": "Play",
-		"tr": "Перегляд"
+		"tr": "Грати"
 	},
 	{
 		"context": "DemoBrowser",
@@ -683,10 +670,6 @@
 	{
 		"or": "Player",
 		"tr": "Гравець"
-	},
-	{
-		"or": "Player country:",
-		"tr": "Країна гравця:"
 	},
 	{
 		"or": "Player options",
@@ -741,10 +724,6 @@
 		"tr": "Червоні"
 	},
 	{
-		"or": "Red team wins!",
-		"tr": "Червоні перемогли!"
-	},
-	{
 		"or": "Refresh",
 		"tr": "Оновити"
 	},
@@ -775,6 +754,10 @@
 	{
 		"or": "Reset",
 		"tr": "Скинути"
+	},
+	{
+		"or": "Reset filter",
+		"tr": "Скинути фільтри"
 	},
 	{
 		"or": "Resolution",
@@ -811,10 +794,6 @@
 	{
 		"or": "Score",
 		"tr": "Очки"
-	},
-	{
-		"or": "Score board",
-		"tr": "Табло"
 	},
 	{
 		"or": "Score limit",
@@ -965,10 +944,6 @@
 		"tr": "Зупинити запис"
 	},
 	{
-		"or": "Strict gametype filter",
-		"tr": "Суворий фільтр режимів"
-	},
-	{
 		"or": "Sudden Death",
 		"tr": "Швидка смерть"
 	},
@@ -994,7 +969,7 @@
 	},
 	{
 		"or": "Teams are locked. Time to wait before changing team: %02d:%02d",
-		"tr": "Команди будуть заблоковані. Час очікування перед зміною команди: %02d:%02d"
+		"tr": "Команди будуть заблоковані. Час очікування перед зміною команди:% 02d:% 02d"
 	},
 	{
 		"or": "Teams were locked",
@@ -1021,14 +996,6 @@
 		"tr": "Стиснення текстур"
 	},
 	{
-		"or": "The %s flag was captured by '%2d: %s'",
-		"tr": " %sпрапор захоплено '%2d:%s'"
-	},
-	{
-		"or": "The %s flag was captured by '%2d: %s' (%.2f seconds)",
-		"tr": "%s прапор захоплено '%2d:%s'(%.2f секунд)"
-	},
-	{
 		"or": "The audio device couldn't be initialised.",
 		"tr": "Аудіопристрій не може бути ініціалізований."
 	},
@@ -1047,10 +1014,6 @@
 	{
 		"or": "Time limit: %d min",
 		"tr": "Ліміт часу: %d хв"
-	},
-	{
-		"or": "To",
-		"tr": "Гравцю"
 	},
 	{
 		"or": "Try again",
@@ -1153,6 +1116,11 @@
 		"tr": "Так"
 	},
 	{
+		"context": "With",
+		"or": "Yes",
+		"tr": "Так"
+	},
+	{
 		"or": "You must restart the game for all settings to take effect.",
 		"tr": "Перезапустіть гру для застосування змін."
 	},
@@ -1161,78 +1129,54 @@
 		"tr": "Ви маєте зачекати %d секунд перед початком нового голосування"
 	},
 	{
-		"or": "blue",
-		"tr": "сині"
-	},
-	{
 		"or": "blue flag",
 		"tr": "Синій прапор"
 	},
 	{
+		"context": "'X joined the <blue team>' (server message)",
 		"or": "blue team",
 		"tr": "Синя команда"
 	},
 	{
-		"or": "body",
-		"tr": "Тіло"
-	},
-	{
-		"or": "decoration",
-		"tr": "Оздоблення"
-	},
-	{
+		"context": "Show chat messages from:",
 		"or": "everyone",
 		"tr": "кожного"
 	},
 	{
-		"or": "eyes",
-		"tr": "Очі"
-	},
-	{
-		"or": "feet",
-		"tr": "Ноги"
-	},
-	{
+		"context": "Show chat messages from:",
 		"or": "friends only",
 		"tr": "тільки від друзів"
 	},
 	{
+		"context": "'X joined the <game>' (server message)",
 		"or": "game",
 		"tr": "гра"
-	},
-	{
-		"or": "hands",
-		"tr": "Руки"
 	},
 	{
 		"or": "locked",
 		"tr": "заблокований"
 	},
 	{
-		"or": "marking",
-		"tr": "Забарвлення"
-	},
-	{
+		"context": "Show chat messages from:",
 		"or": "no one",
 		"tr": "нікого"
 	},
 	{
+		"context": "server browser message",
 		"or": "no players",
 		"tr": "немає гравців"
-	},
-	{
-		"or": "red",
-		"tr": "червоний"
 	},
 	{
 		"or": "red flag",
 		"tr": "Червоний прапор"
 	},
 	{
+		"context": "'X joined the <red team>' (server message)",
 		"or": "red team",
 		"tr": "червона команда"
 	},
 	{
+		"context": "'X joined the <spectators>' (server message)",
 		"or": "spectators",
 		"tr": "спостерігачі"
 	},

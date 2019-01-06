@@ -1,14 +1,16 @@
-{"authors": {
-	"originally created by": "",
+{
+"authors": {
 	"modified by": [
-		"khubajsn		2010-05-31 16:54:03",
-		"Petr			2011-04-02 23:02:33",
-		"Medik & Petr	2011-07-02 19:37:05",
-		"TeeWorlds-org	2011-07-15 00:34:19",
+		"khubajsn        2010-05-31 16:54:03",
+		"Petr            2011-04-02 23:02:33",
+		"Medik & Petr    2011-07-02 19:37:05",
+		"TeeWorlds-org    2011-07-15 00:34:19",
 		"Jan Novák, 2016 (Transifex)",
 		"Kryštof Herold, 2014 (Transifex)",
 		"Mamlas Mamlasovič, 2018 (Transifex)"
-	]},
+	],
+	"originally created by": ""
+},
 "translated strings": [
 	{
 		"or": "%.3f KiB",
@@ -45,6 +47,26 @@
 	{
 		"or": "%s wins!",
 		"tr": "Vítězí %s!"
+	},
+	{
+		"or": "'%s' called for vote to kick '%s' (%s)",
+		"tr": "Hráč '%s' vyvolal hlasování o vykopnutí hráče '%s' (%s)"
+	},
+	{
+		"or": "'%s' called for vote to move '%s' to spectators (%s)",
+		"tr": "Hráč '%s' vyvolal hlasování o přesunutí hráče '%s' mezi pozorovatele (%s)"
+	},
+	{
+		"or": "'%s' called vote to change server option '%s' (%s)",
+		"tr": "Hráč '%s' vyvolal hlasování o změně nastavení serveru  '%s' (%s)"
+	},
+	{
+		"or": "'%s' entered and joined the %s",
+		"tr": "Hráč '%s' vstoupil a připojil se k  %s"
+	},
+	{
+		"or": "'%s' has left the game (%s)",
+		"tr": "Hráč '%s' opustil hru (%s)"
 	},
 	{
 		"or": "-Page %d-",
@@ -131,16 +153,8 @@
 		"tr": "Modří"
 	},
 	{
-		"or": "Blue team wins!",
-		"tr": "Modří vyhráli!"
-	},
-	{
 		"or": "Borderless window",
 		"tr": "Okno bez rámečku"
-	},
-	{
-		"or": "Browser",
-		"tr": "Prohlížeč"
 	},
 	{
 		"or": "Call vote",
@@ -311,10 +325,6 @@
 		"tr": "Volný pohled"
 	},
 	{
-		"or": "Friends",
-		"tr": "Přátelé"
-	},
-	{
 		"or": "Fullscreen",
 		"tr": "Celá obrazovka"
 	},
@@ -391,6 +401,11 @@
 		"tr": "Vstoupit"
 	},
 	{
+		"context": "Join a server",
+		"or": "Join",
+		"tr": "Vstoupit"
+	},
+	{
 		"or": "Join blue",
 		"tr": "Modří"
 	},
@@ -447,6 +462,7 @@
 		"tr": "Mapa"
 	},
 	{
+		"context": "rounds (scoreboard)",
 		"or": "Match",
 		"tr": "Zápas"
 	},
@@ -499,6 +515,11 @@
 		"tr": "Přezdívka"
 	},
 	{
+		"or": "No",
+		"tr": "Ne"
+	},
+	{
+		"context": "Without/None",
 		"or": "No",
 		"tr": "Ne"
 	},
@@ -556,7 +577,7 @@
 	},
 	{
 		"or": "Play",
-		"tr": "Přehrát"
+		"tr": "Hrát"
 	},
 	{
 		"context": "DemoBrowser",
@@ -570,10 +591,6 @@
 	{
 		"or": "Player",
 		"tr": "Hráč"
-	},
-	{
-		"or": "Player country:",
-		"tr": "Národnost:"
 	},
 	{
 		"or": "Player options",
@@ -620,10 +637,6 @@
 		"tr": "Červení"
 	},
 	{
-		"or": "Red team wins!",
-		"tr": "Červení vyhráli!"
-	},
-	{
 		"or": "Refresh",
 		"tr": "Obnovit"
 	},
@@ -656,6 +669,10 @@
 		"tr": "Resetovat"
 	},
 	{
+		"or": "Reset filter",
+		"tr": "Vymazat filtr"
+	},
+	{
 		"or": "Resolution",
 		"tr": "Rozlišení"
 	},
@@ -686,10 +703,6 @@
 	{
 		"or": "Score",
 		"tr": "Skóre"
-	},
-	{
-		"or": "Score board",
-		"tr": "Tabulka výsledků"
 	},
 	{
 		"or": "Score limit",
@@ -818,10 +831,6 @@
 	{
 		"or": "Stop record",
 		"tr": "Ukončit záznam"
-	},
-	{
-		"or": "Strict gametype filter",
-		"tr": "Pouze tento herní mód"
 	},
 	{
 		"or": "Sudden Death",
@@ -992,58 +1001,59 @@
 		"tr": "Ano"
 	},
 	{
-		"or": "You must restart the game for all settings to take effect.",
-		"tr": "Změna nastavení se projeví až po restartu hry."
+		"context": "With",
+		"or": "Yes",
+		"tr": "Ano"
 	},
 	{
-		"or": "blue",
-		"tr": "modrá"
+		"or": "You must restart the game for all settings to take effect.",
+		"tr": "Změna nastavení se projeví až po restartu hry."
 	},
 	{
 		"or": "blue flag",
 		"tr": "modrá vlajka"
 	},
 	{
+		"context": "'X joined the <blue team>' (server message)",
 		"or": "blue team",
 		"tr": "modří"
 	},
 	{
+		"context": "Show chat messages from:",
 		"or": "everyone",
 		"tr": "všichni"
 	},
 	{
-		"or": "eyes",
-		"tr": "oči"
-	},
-	{
+		"context": "Show chat messages from:",
 		"or": "friends only",
 		"tr": "pouze přátelé"
 	},
 	{
+		"context": "'X joined the <game>' (server message)",
 		"or": "game",
 		"tr": "hra"
 	},
 	{
+		"context": "Show chat messages from:",
 		"or": "no one",
 		"tr": "nikdo"
 	},
 	{
+		"context": "server browser message",
 		"or": "no players",
 		"tr": "žádní hráči"
-	},
-	{
-		"or": "red",
-		"tr": "červená"
 	},
 	{
 		"or": "red flag",
 		"tr": "červená vlajka"
 	},
 	{
+		"context": "'X joined the <red team>' (server message)",
 		"or": "red team",
 		"tr": "červení"
 	},
 	{
+		"context": "'X joined the <spectators>' (server message)",
 		"or": "spectators",
 		"tr": "pozorovatelé"
 	},

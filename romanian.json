@@ -1,16 +1,18 @@
-{"authors": {
-	"originally created by": "kneekoo",
+{
+"authors": {
 	"modified by": [
-		"kneekoo		2011-01-18 18:26:02",
-		"kneekoo		2011-02-09 12:23:47",
-		"kneekoo		2011-04-03 23:00:38",
-		"kneekoo		2011-05-25 18:36:32",
-		"kneekoo		2011-07-01 18:40:49",
-		"kneekoo		2011-07-05 23:34:34",
-		"kneekoo		2012-05-01 02:01:47",
+		"kneekoo        2011-01-18 18:26:02",
+		"kneekoo        2011-02-09 12:23:47",
+		"kneekoo        2011-04-03 23:00:38",
+		"kneekoo        2011-05-25 18:36:32",
+		"kneekoo        2011-07-01 18:40:49",
+		"kneekoo        2011-07-05 23:34:34",
+		"kneekoo        2012-05-01 02:01:47",
 		"BilaPatrata, 2014 (Transifex)",
 		"Nicolae Crefelean, 2014-2015 (Transifex)"
-	]},
+	],
+	"originally created by": "kneekoo"
+},
 "translated strings": [
 	{
 		"or": "%.3f KiB",
@@ -63,6 +65,30 @@
 	{
 		"or": "%s wins!",
 		"tr": "%s câștigă!"
+	},
+	{
+		"or": "'%s' called for vote to kick '%s' (%s)",
+		"tr": "'%s' cere voturi pentru eliminarea lui '%s' (%s)"
+	},
+	{
+		"or": "'%s' called for vote to move '%s' to spectators (%s)",
+		"tr": "'%s' cere voturi pentru mutarea '%s' la spectatori (%s)"
+	},
+	{
+		"or": "'%s' called vote to change server option '%s' (%s)",
+		"tr": "'%s' cere voturi pentru modificarea opțiunii de server '%s' (%s)"
+	},
+	{
+		"or": "'%s' entered and joined the %s",
+		"tr": "'%s' a intrat și s-a alăturat echipei %s"
+	},
+	{
+		"or": "'%s' has left the game",
+		"tr": "'%s' a părăsit jocul"
+	},
+	{
+		"or": "'%s' has left the game (%s)",
+		"tr": "'%s' a ieșit din joc (%s)"
 	},
 	{
 		"or": "-Page %d-",
@@ -161,16 +187,8 @@
 		"tr": "Echipa albastră"
 	},
 	{
-		"or": "Blue team wins!",
-		"tr": "Echipa albastră a câștigat!"
-	},
-	{
 		"or": "Borderless window",
 		"tr": "Fereastră fără margini"
-	},
-	{
-		"or": "Browser",
-		"tr": "Browser"
 	},
 	{
 		"or": "Call vote",
@@ -349,10 +367,6 @@
 		"tr": "Vizualizare liberă"
 	},
 	{
-		"or": "Friends",
-		"tr": "Prieteni"
-	},
-	{
 		"or": "Fullscreen",
 		"tr": "Ecran complet"
 	},
@@ -433,6 +447,11 @@
 		"tr": "Intră"
 	},
 	{
+		"context": "Join a server",
+		"or": "Join",
+		"tr": "Intră"
+	},
+	{
 		"or": "Join blue",
 		"tr": "La albaștri"
 	},
@@ -501,6 +520,7 @@
 		"tr": "Hartă"
 	},
 	{
+		"context": "rounds (scoreboard)",
 		"or": "Match",
 		"tr": "Meci"
 	},
@@ -565,6 +585,11 @@
 		"tr": "Nu"
 	},
 	{
+		"context": "Without/None",
+		"or": "No",
+		"tr": "Nu"
+	},
+	{
 		"or": "No password",
 		"tr": "Fără parolă"
 	},
@@ -623,7 +648,7 @@
 	{
 		"context": "DemoBrowser",
 		"or": "Play",
-		"tr": "Redă"
+		"tr": "Joacă"
 	},
 	{
 		"or": "Play background music",
@@ -632,10 +657,6 @@
 	{
 		"or": "Player",
 		"tr": "Jucător"
-	},
-	{
-		"or": "Player country:",
-		"tr": "Țara jucătorului:"
 	},
 	{
 		"or": "Player options",
@@ -686,10 +707,6 @@
 		"tr": "Echipa roșie"
 	},
 	{
-		"or": "Red team wins!",
-		"tr": "Echipa roșie a câștigat!"
-	},
-	{
 		"or": "Refresh",
 		"tr": "Reîncarcă"
 	},
@@ -722,6 +739,10 @@
 		"tr": "Resetează"
 	},
 	{
+		"or": "Reset filter",
+		"tr": "Filtru implicit"
+	},
+	{
 		"or": "Respawn",
 		"tr": "Renaște"
 	},
@@ -752,10 +773,6 @@
 	{
 		"or": "Score",
 		"tr": "Scor"
-	},
-	{
-		"or": "Score board",
-		"tr": "Scoruri"
 	},
 	{
 		"or": "Score limit",
@@ -892,10 +909,6 @@
 	{
 		"or": "Stop record",
 		"tr": "Stop înreg."
-	},
-	{
-		"or": "Strict gametype filter",
-		"tr": "Filtru strict tip joc"
 	},
 	{
 		"or": "Sudden Death",
@@ -1066,6 +1079,11 @@
 		"tr": "Da"
 	},
 	{
+		"context": "With",
+		"or": "Yes",
+		"tr": "Da"
+	},
+	{
 		"or": "You must restart the game for all settings to take effect.",
 		"tr": "Trebuie să repornești jocul pentru aplicarea setărilor."
 	},
@@ -1074,14 +1092,12 @@
 		"tr": "Trebuie să aștepți %d secunde înaintă să votezi din nou"
 	},
 	{
-		"or": "blue",
-		"tr": "albastră"
-	},
-	{
+		"context": "'X joined the <blue team>' (server message)",
 		"or": "blue team",
 		"tr": "echipa albastră"
 	},
 	{
+		"context": "'X joined the <game>' (server message)",
 		"or": "game",
 		"tr": "joc"
 	},
@@ -1090,18 +1106,17 @@
 		"tr": "blocat"
 	},
 	{
+		"context": "server browser message",
 		"or": "no players",
 		"tr": "nu sunt jucători"
 	},
 	{
-		"or": "red",
-		"tr": "roșie"
-	},
-	{
+		"context": "'X joined the <red team>' (server message)",
 		"or": "red team",
 		"tr": "echipa roșie"
 	},
 	{
+		"context": "'X joined the <spectators>' (server message)",
 		"or": "spectators",
 		"tr": "spectatori"
 	},

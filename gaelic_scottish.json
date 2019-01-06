@@ -1,4 +1,10 @@
 {
+"authors": {
+	"modified by": [
+		"GunChleoc, 2017-2018 (Transifex)"
+	],
+	"originally created by": "GunChleoc"
+},
 "translated strings": [
 	{
 		"or": "%.3f KiB",
@@ -23,10 +29,6 @@
 	{
 		"or": "%d servers, %d players",
 		"tr": "%d frithealaiche(an), %d cluicheadair(ean)"
-	},
-	{
-		"or": "%d subjects, %d friends and %d clans online",
-		"tr": "Tha %d ìochdara(i)n, %d caraid(ean) is %d cinneadh air loidhne"
 	},
 	{
 		"or": "%d%% loaded",
@@ -57,32 +59,32 @@
 		"tr": "Bhuannaich %s!"
 	},
 	{
-		"or": "'%2d: %s' called for vote to kick '%s' (%s)",
-		"tr": "Leig “%2d: %s” toirt a’ bhròg air “%s” gu bhòt (%s)"
-	},
-	{
-		"or": "'%2d: %s' called for vote to move '%s' to spectators (%s)",
-		"tr": "Leig “%2d: %s” gluasad “%s” dha na h-amhairc gu bhòt (%s)"
-	},
-	{
-		"or": "'%2d: %s' called vote to change server option '%s' (%s)",
-		"tr": "Leig “%2d: %s” atharrachadh air roghainn “%s” an fhrithealaiche gu bhòt (%s)"
-	},
-	{
-		"or": "'%2d: %s' entered and joined the %s",
-		"tr": "Thàinig “%2d: %s” a-steach a ghabhail san sgioba “%s”"
-	},
-	{
-		"or": "'%2d: %s' has left the game",
-		"tr": "Dh’fhàg “%2d: %s” an geama"
-	},
-	{
-		"or": "'%2d: %s' has left the game (%s)",
-		"tr": "Dh’fhàg “%2d: %s” an geama (%s)"
-	},
-	{
 		"or": "'%2d: %s' joined the %s",
 		"tr": "Ghabh “%2d: %s” san sgioba %s"
+	},
+	{
+		"or": "'%s' called for vote to kick '%s' (%s)",
+		"tr": "Leig “%s” toirt a’ bhròg air “%s” gu bhòt (%s)"
+	},
+	{
+		"or": "'%s' called for vote to move '%s' to spectators (%s)",
+		"tr": "Leig “%s” gluasad “%s” dha na h-amhairc gu bhòt (%s)"
+	},
+	{
+		"or": "'%s' called vote to change server option '%s' (%s)",
+		"tr": "Leig “%s” atharrachadh air roghainn “%s” an fhrithealaiche gu bhòt (%s)"
+	},
+	{
+		"or": "'%s' entered and joined the %s",
+		"tr": "Thàinig “%s” a-steach a’ gabhail san sgioba “%s”"
+	},
+	{
+		"or": "'%s' has left the game",
+		"tr": "Dh’fhàg “%s” an geama"
+	},
+	{
+		"or": "'%s' has left the game (%s)",
+		"tr": "Dh’fhàg “%s” an geama (%s)"
 	},
 	{
 		"or": "-Page %d-",
@@ -146,7 +148,7 @@
 	},
 	{
 		"or": "Are you sure that you want to quit?",
-		"tr": "A bheil thu cinnteach gu bheil thu airson fàgail an-seo?"
+		"tr": "A bheil thu cinnteach gu bheil thu airson fàgail?"
 	},
 	{
 		"or": "Are you sure that you want to remove the player from your friends list?",
@@ -185,16 +187,8 @@
 		"tr": "An sgioba gorm"
 	},
 	{
-		"or": "Blue team wins!",
-		"tr": "Bhuannaich an sgioba gorm!"
-	},
-	{
 		"or": "Borderless window",
 		"tr": "Uinneag gun iomall"
-	},
-	{
-		"or": "Browser",
-		"tr": "Brabhsair"
 	},
 	{
 		"or": "Call vote",
@@ -234,7 +228,7 @@
 	},
 	{
 		"or": "Connecting to",
-		"tr": "’Ga cheangal gu"
+		"tr": "’Gad cheangal gu"
 	},
 	{
 		"or": "Connection Problems...",
@@ -373,10 +367,6 @@
 		"tr": "Sealladh saor"
 	},
 	{
-		"or": "Friends",
-		"tr": "Caraidean"
-	},
-	{
 		"or": "Fullscreen",
 		"tr": "Làn-sgrìn"
 	},
@@ -457,6 +447,11 @@
 		"tr": "Gabh ann"
 	},
 	{
+		"context": "Join a server",
+		"or": "Join",
+		"tr": "Gabh ann"
+	},
+	{
 		"or": "Join blue",
 		"tr": "Gabh san sgioba ghorm"
 	},
@@ -529,6 +524,7 @@
 		"tr": "Mapa"
 	},
 	{
+		"context": "rounds (scoreboard)",
 		"or": "Match",
 		"tr": "Maids"
 	},
@@ -597,6 +593,11 @@
 		"tr": "Chan eil"
 	},
 	{
+		"context": "Without/None",
+		"or": "No",
+		"tr": "Chan eil"
+	},
+	{
 		"or": "No password",
 		"tr": "Gun fhacal-faire"
 	},
@@ -613,16 +614,8 @@
 		"tr": "Àbhaisteach:"
 	},
 	{
-		"or": "Off",
-		"tr": "Dheth"
-	},
-	{
 		"or": "Ok",
 		"tr": "Ceart ma-thà"
-	},
-	{
-		"or": "On",
-		"tr": "Air"
 	},
 	{
 		"or": "Only %d active players are allowed",
@@ -678,16 +671,12 @@
 		"tr": "Cluicheadair"
 	},
 	{
-		"or": "Player country:",
-		"tr": "Dùthaich a’ chluicheadair:"
-	},
-	{
 		"or": "Player options",
 		"tr": "Roghainnean a’ chluicheadair"
 	},
 	{
 		"or": "Players",
-		"tr": "Cluichead."
+		"tr": "Cluich."
 	},
 	{
 		"or": "Please balance teams!",
@@ -734,10 +723,6 @@
 		"tr": "An sgioba dearg"
 	},
 	{
-		"or": "Red team wins!",
-		"tr": "Bhuannaich an sgioba dearg!"
-	},
-	{
 		"or": "Refresh",
 		"tr": "Ath-nuadhaich"
 	},
@@ -768,6 +753,10 @@
 	{
 		"or": "Reset",
 		"tr": "Ath-shuidhich"
+	},
+	{
+		"or": "Reset filter",
+		"tr": "Ath-shuidhich a’ chriathrag"
 	},
 	{
 		"or": "Resolution",
@@ -804,10 +793,6 @@
 	{
 		"or": "Score",
 		"tr": "Sgòr"
-	},
-	{
-		"or": "Score board",
-		"tr": "Clàr nan sgòr"
 	},
 	{
 		"or": "Score limit",
@@ -958,10 +943,6 @@
 		"tr": "Sguir dhen chlàradh"
 	},
 	{
-		"or": "Strict gametype filter",
-		"tr": "Criathrag teann nan seòrsaichean geama"
-	},
-	{
 		"or": "Sudden Death",
 		"tr": "Bàs obann"
 	},
@@ -1014,14 +995,6 @@
 		"tr": "Dùmhlachadh nan inneach"
 	},
 	{
-		"or": "The %s flag was captured by '%2d: %s'",
-		"tr": "Chaidh bratach %s a ghabhail le “%2d: %s”"
-	},
-	{
-		"or": "The %s flag was captured by '%2d: %s' (%.2f seconds)",
-		"tr": "Chaidh bratach %s a ghabhail le “%2d: %s” (%.2f diog)"
-	},
-	{
 		"or": "The audio device couldn't be initialised.",
 		"tr": "Cha b’ urrainn dhuinn uidheam-fuaime a thòiseachadh."
 	},
@@ -1040,10 +1013,6 @@
 	{
 		"or": "Time limit: %d min",
 		"tr": "Crìoch-ama: %d mion"
-	},
-	{
-		"or": "To",
-		"tr": "Gu"
 	},
 	{
 		"or": "Try again",
@@ -1146,6 +1115,11 @@
 		"tr": "Tha"
 	},
 	{
+		"context": "With",
+		"or": "Yes",
+		"tr": "Tha"
+	},
+	{
 		"or": "You must restart the game for all settings to take effect.",
 		"tr": "Ath-thòisich an geama a chur an sàs nan roghainnean uile."
 	},
@@ -1154,78 +1128,54 @@
 		"tr": "Feumaidh tu fuireach fad %d diog(an) mus cruthaich thu bhòt eile"
 	},
 	{
-		"or": "blue",
-		"tr": "gorm"
-	},
-	{
 		"or": "blue flag",
 		"tr": "bratach ghorm"
 	},
 	{
+		"context": "'X joined the <blue team>' (server message)",
 		"or": "blue team",
 		"tr": "ghorm"
 	},
 	{
-		"or": "body",
-		"tr": "bodhaig"
-	},
-	{
-		"or": "decoration",
-		"tr": "sgeadachadh"
-	},
-	{
+		"context": "Show chat messages from:",
 		"or": "everyone",
 		"tr": "na h-uile duine"
 	},
 	{
-		"or": "eyes",
-		"tr": "sùilean"
-	},
-	{
-		"or": "feet",
-		"tr": "casan"
-	},
-	{
+		"context": "Show chat messages from:",
 		"or": "friends only",
 		"tr": "mo charaidean a-mhàin"
 	},
 	{
+		"context": "'X joined the <game>' (server message)",
 		"or": "game",
 		"tr": "geama"
-	},
-	{
-		"or": "hands",
-		"tr": "làmhan"
 	},
 	{
 		"or": "locked",
 		"tr": "glaiste"
 	},
 	{
-		"or": "marking",
-		"tr": "comharradh"
-	},
-	{
+		"context": "Show chat messages from:",
 		"or": "no one",
 		"tr": "na seall idir"
 	},
 	{
+		"context": "server browser message",
 		"or": "no players",
 		"tr": "chan eil cluicheadair ann"
-	},
-	{
-		"or": "red",
-		"tr": "dearg"
 	},
 	{
 		"or": "red flag",
 		"tr": "bratach dhearg"
 	},
 	{
+		"context": "'X joined the <red team>' (server message)",
 		"or": "red team",
 		"tr": "dearg"
 	},
 	{
+		"context": "'X joined the <spectators>' (server message)",
 		"or": "spectators",
 		"tr": "amhairc"
 	},
