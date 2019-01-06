@@ -1,11 +1,13 @@
-{"authors": {
-	"originally created by": "Hip-Hop_Blond",
+{
+"authors": {
 	"modified by": [
-		"Hip-Hop_Blond		2011-07-15 01:19:13",
+		"Hip-Hop_Blond        2011-07-15 01:19:13",
 		"Lyubomir Vasilev, 2015 (Transifex)",
 		"Любомир Василев, 2015 (Transifex)",
 		"Любомир Василев, 2018 (Transifex)"
-	]},
+	],
+	"originally created by": "Hip-Hop_Blond"
+},
 "translated strings": [
 	{
 		"or": "%.3f KiB",
@@ -64,32 +66,32 @@
 		"tr": "%s печели!"
 	},
 	{
-		"or": "'%2d: %s' called for vote to kick '%s' (%s)",
-		"tr": "„%2d: %s“ поиска гласуване за изритване на „%s“ (%s)"
-	},
-	{
-		"or": "'%2d: %s' called for vote to move '%s' to spectators (%s)",
-		"tr": "„%2d: %s“ поиска гласуване за прехвърляне на „%s“ към наблюдателите (%s)"
-	},
-	{
-		"or": "'%2d: %s' called vote to change server option '%s' (%s)",
-		"tr": "„%2d: %s“ поиска гласуване за промяна на сървърния параметър „%s“ (%s)"
-	},
-	{
-		"or": "'%2d: %s' entered and joined the %s",
-		"tr": "„%2d: %s“ влезе и се присъедини към %s"
-	},
-	{
-		"or": "'%2d: %s' has left the game",
-		"tr": "„%2d: %s“ напусна играта"
-	},
-	{
-		"or": "'%2d: %s' has left the game (%s)",
-		"tr": "„%2d: %s“ напусна играта (%s)"
-	},
-	{
 		"or": "'%2d: %s' joined the %s",
 		"tr": "„%2d: %s“ се присъедини към %s"
+	},
+	{
+		"or": "'%s' called for vote to kick '%s' (%s)",
+		"tr": "„%s“ поиска гласуване за изритване на „%s“ (%s)"
+	},
+	{
+		"or": "'%s' called for vote to move '%s' to spectators (%s)",
+		"tr": "„%s“ поиска гласуване за прехвърляне на „%s“ към наблюдателите (%s)"
+	},
+	{
+		"or": "'%s' called vote to change server option '%s' (%s)",
+		"tr": "„%s“ поиска гласуване за промяна на сървърния параметър „%s“ (%s)"
+	},
+	{
+		"or": "'%s' entered and joined the %s",
+		"tr": "„%s“ влезе и се присъедини към %s"
+	},
+	{
+		"or": "'%s' has left the game",
+		"tr": "„%s“ напусна играта"
+	},
+	{
+		"or": "'%s' has left the game (%s)",
+		"tr": "„%s“ напусна играта (%s)"
 	},
 	{
 		"or": "-Page %d-",
@@ -104,12 +106,20 @@
 		"tr": "Добавяне"
 	},
 	{
+		"or": "Add clan",
+		"tr": "Добавяне на клан"
+	},
+	{
 		"or": "Add demo marker",
 		"tr": "Добавяне на отметка за момента в записа"
 	},
 	{
 		"or": "Add friend",
 		"tr": "Добавяне на приятел"
+	},
+	{
+		"or": "Add friend/clan",
+		"tr": "Добавяне на приятел/клан"
 	},
 	{
 		"or": "Address",
@@ -160,6 +170,10 @@
 		"tr": "Наистина ли искате да напуснете?"
 	},
 	{
+		"or": "Are you sure that you want to remove the filter from the server browser?",
+		"tr": "Наистина ли искате да премахнете филтъра от списъка със сървъри?"
+	},
+	{
 		"or": "Are you sure that you want to remove the player from your friends list?",
 		"tr": "Наистина ли искате да премахнете този играч от списъка с приятели?"
 	},
@@ -204,6 +218,10 @@
 		"tr": "Гласуване"
 	},
 	{
+		"or": "Casual",
+		"tr": "Неангажиращ"
+	},
+	{
 		"or": "Change settings",
 		"tr": "Промяна на настройките"
 	},
@@ -239,6 +257,10 @@
 	{
 		"or": "Compatible version",
 		"tr": "Съвместима версия"
+	},
+	{
+		"or": "Competitive",
+		"tr": "Съревнователен"
 	},
 	{
 		"or": "Connect",
@@ -578,6 +600,10 @@
 		"tr": "Карта"
 	},
 	{
+		"or": "Markers",
+		"tr": "Отметки"
+	},
+	{
 		"context": "rounds (scoreboard)",
 		"or": "Match",
 		"tr": "Мач"
@@ -670,6 +696,10 @@
 	{
 		"or": "No servers match your filter criteria",
 		"tr": "Няма сървъри, отговарящи на критериите"
+	},
+	{
+		"or": "Normal",
+		"tr": "Нормален"
 	},
 	{
 		"or": "Normal:",
@@ -821,6 +851,10 @@
 	{
 		"or": "Remove",
 		"tr": "Премахване"
+	},
+	{
+		"or": "Remove filter",
+		"tr": "Премахване на филтъра"
 	},
 	{
 		"or": "Remove friend",
@@ -1083,12 +1117,12 @@
 		"tr": "Компресия на текстурите"
 	},
 	{
-		"or": "The %s flag was captured by '%2d: %s'",
-		"tr": "Флагът на %s беше превзет от „%2d: %s“"
+		"or": "The %s was captured by '%s'",
+		"tr": "%s беше превзет от „%s“"
 	},
 	{
-		"or": "The %s flag was captured by '%2d: %s' (%.2f seconds)",
-		"tr": "Флагът на %s беше превзет от „%2d: %s“ (%.2f секунди)"
+		"or": "The %s was captured by '%s' (%.2f seconds)",
+		"tr": "%s беше превзет от „%s“ (%.2f сек)"
 	},
 	{
 		"or": "The audio device couldn't be initialised.",
@@ -1212,6 +1246,10 @@
 		"tr": "Добре дошли в Teeworlds"
 	},
 	{
+		"or": "When ready, press <%s>",
+		"tr": "Когато сте готов(а), натиснете <%s>"
+	},
+	{
 		"or": "Whisper",
 		"tr": "Шепот"
 	},
@@ -1225,6 +1263,10 @@
 		"tr": "Да"
 	},
 	{
+		"or": "You must reconnect to change identity.",
+		"tr": "Трябва да се свържете отново, за да промените идентичността си."
+	},
+	{
 		"or": "You must restart the game for all settings to take effect.",
 		"tr": "Трябва да рестартирате играта, за да се приложат новите настройки."
 	},
@@ -1233,78 +1275,54 @@
 		"tr": "Трябва да изчакате %d секунди, преди да поискате ново гласуване"
 	},
 	{
-		"or": "blue",
-		"tr": "сини"
-	},
-	{
 		"or": "blue flag",
-		"tr": "син флаг"
+		"tr": "Синият флаг"
 	},
 	{
+		"context": "'X joined the <blue team>' (server message)",
 		"or": "blue team",
 		"tr": "син отбор"
 	},
 	{
-		"or": "body",
-		"tr": "тяло"
-	},
-	{
-		"or": "decoration",
-		"tr": "украса"
-	},
-	{
+		"context": "Show chat messages from:",
 		"or": "everyone",
 		"tr": "всички"
 	},
 	{
-		"or": "eyes",
-		"tr": "очи"
-	},
-	{
-		"or": "feet",
-		"tr": "крака"
-	},
-	{
+		"context": "Show chat messages from:",
 		"or": "friends only",
 		"tr": "само от приятели"
 	},
 	{
+		"context": "'X joined the <game>' (server message)",
 		"or": "game",
 		"tr": "игра"
-	},
-	{
-		"or": "hands",
-		"tr": "ръце"
 	},
 	{
 		"or": "locked",
 		"tr": "заключено"
 	},
 	{
-		"or": "marking",
-		"tr": "оцветяване"
-	},
-	{
+		"context": "Show chat messages from:",
 		"or": "no one",
 		"tr": "никого"
 	},
 	{
+		"context": "server browser message",
 		"or": "no players",
 		"tr": "няма играчи"
 	},
 	{
-		"or": "red",
-		"tr": "червени"
-	},
-	{
 		"or": "red flag",
-		"tr": "червен флаг"
+		"tr": "Червеният флаг"
 	},
 	{
+		"context": "'X joined the <red team>' (server message)",
 		"or": "red team",
 		"tr": "червен отбор"
 	},
 	{
+		"context": "'X joined the <spectators>' (server message)",
 		"or": "spectators",
 		"tr": "наблюдатели"
 	},

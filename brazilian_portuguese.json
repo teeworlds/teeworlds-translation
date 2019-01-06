@@ -1,21 +1,23 @@
-{"authors": {
-	"originally created by": "slinack",
+{
+"authors": {
 	"modified by": [
-		"yemDX				2010-05-29 17:22:42",
-		"yemDX				2010-05-30 02:51:34",
-		"slinack			2010-06-02 20:57:46",
-		"slinack			2011-05-02 18:24:12",
-		"Isadora			2011-05-09 17:26:02",
-		"slinack			2011-07-03 00:23:26",
-		"Ryomou Hentai Girl	2011-07-11 11:33:42",
-		"Isadora			2011-07-20 21:47:11",
-		"HeroiAmarelo		2012-08-01 15:50:18",
-		"Rafael Fontenelle	2013-03-30 16:52:33",
+		"yemDX                2010-05-29 17:22:42",
+		"yemDX                2010-05-30 02:51:34",
+		"slinack            2010-06-02 20:57:46",
+		"slinack            2011-05-02 18:24:12",
+		"Isadora            2011-05-09 17:26:02",
+		"slinack            2011-07-03 00:23:26",
+		"Ryomou Hentai Girl    2011-07-11 11:33:42",
+		"Isadora            2011-07-20 21:47:11",
+		"HeroiAmarelo        2012-08-01 15:50:18",
+		"Rafael Fontenelle    2013-03-30 16:52:33",
 		"heinrich5991, 2014 (Transifex)",
 		"heinrich5991, 2014 (Transifex)",
 		"Rafael Fontenelle, 2014 (Transifex)",
 		"Rafael Fontenelle, 2018 (Transifex)"
-	]},
+	],
+	"originally created by": "slinack"
+},
 "translated strings": [
 	{
 		"or": "%.3f KiB",
@@ -74,32 +76,32 @@
 		"tr": "Vitória de %s!"
 	},
 	{
-		"or": "'%2d: %s' called for vote to kick '%s' (%s)",
-		"tr": "\"%2d: %s\" chamou votação para expulsar \"%s\" (%s)"
-	},
-	{
-		"or": "'%2d: %s' called for vote to move '%s' to spectators (%s)",
-		"tr": "\"%2d: %s\" chamou votação para mover \"%s\" para observadores (%s)"
-	},
-	{
-		"or": "'%2d: %s' called vote to change server option '%s' (%s)",
-		"tr": "\"%2d: %s\" chamou voto para mudar a opção de servidor \"%s\" (%s)"
-	},
-	{
-		"or": "'%2d: %s' entered and joined the %s",
-		"tr": "\"%2d: %s\" entrou e se juntou ao %s"
-	},
-	{
-		"or": "'%2d: %s' has left the game",
-		"tr": "\"%2d: %s\" saiu do jogo"
-	},
-	{
-		"or": "'%2d: %s' has left the game (%s)",
-		"tr": "\"%2d: %s\" saiu do jogo (%s)"
-	},
-	{
 		"or": "'%2d: %s' joined the %s",
 		"tr": "\"%2d: %s\" se juntou ao %s"
+	},
+	{
+		"or": "'%s' called for vote to kick '%s' (%s)",
+		"tr": "'%s' convocou votação para expulsar '%s' (%s)"
+	},
+	{
+		"or": "'%s' called for vote to move '%s' to spectators (%s)",
+		"tr": "'%s' convocou votação para mover '%s' para observador (%s)"
+	},
+	{
+		"or": "'%s' called vote to change server option '%s' (%s)",
+		"tr": "'%s' convocou votação para mudar opção '%s' do observador (%s)"
+	},
+	{
+		"or": "'%s' entered and joined the %s",
+		"tr": "'%s' entrou no %s"
+	},
+	{
+		"or": "'%s' has left the game",
+		"tr": "'%s' saiu do jogo"
+	},
+	{
+		"or": "'%s' has left the game (%s)",
+		"tr": "'%s' saiu do jogo (%s)"
 	},
 	{
 		"or": "-Page %d-",
@@ -114,12 +116,20 @@
 		"tr": "Adicionar"
 	},
 	{
+		"or": "Add clan",
+		"tr": "Adicionar clã"
+	},
+	{
 		"or": "Add demo marker",
 		"tr": "Adicionar marcador de demo"
 	},
 	{
 		"or": "Add friend",
 		"tr": "Adicionar amigo"
+	},
+	{
+		"or": "Add friend/clan",
+		"tr": "Adicionar amigo/clã"
 	},
 	{
 		"or": "Address",
@@ -170,6 +180,10 @@
 		"tr": "Tem certeza que deseja sair?"
 	},
 	{
+		"or": "Are you sure that you want to remove the filter from the server browser?",
+		"tr": "Tem certeza que deseja remover o filtro da navegação de servidores?"
+	},
+	{
 		"or": "Are you sure that you want to remove the player from your friends list?",
 		"tr": "Tem certeza que deseja remover o jogador de sua lista de amigos?"
 	},
@@ -214,6 +228,10 @@
 		"tr": "Votar"
 	},
 	{
+		"or": "Casual",
+		"tr": "Casual"
+	},
+	{
 		"or": "Change settings",
 		"tr": "Mudar configurações"
 	},
@@ -249,6 +267,10 @@
 	{
 		"or": "Compatible version",
 		"tr": "Versão compatível"
+	},
+	{
+		"or": "Competitive",
+		"tr": "Competitivo"
 	},
 	{
 		"or": "Connect",
@@ -588,6 +610,10 @@
 		"tr": "Mapa"
 	},
 	{
+		"or": "Markers",
+		"tr": "Marcadores"
+	},
+	{
 		"context": "rounds (scoreboard)",
 		"or": "Match",
 		"tr": "Partida"
@@ -680,6 +706,10 @@
 	{
 		"or": "No servers match your filter criteria",
 		"tr": "Nenhum servidor corresponde aos critérios do filtro"
+	},
+	{
+		"or": "Normal",
+		"tr": "Normal"
 	},
 	{
 		"or": "Normal:",
@@ -831,6 +861,10 @@
 	{
 		"or": "Remove",
 		"tr": "Deletar"
+	},
+	{
+		"or": "Remove filter",
+		"tr": "Remover filtro"
 	},
 	{
 		"or": "Remove friend",
@@ -1093,12 +1127,12 @@
 		"tr": "Compressão da textura"
 	},
 	{
-		"or": "The %s flag was captured by '%2d: %s'",
-		"tr": "A bandeira %s foi capturada por \"%2d: %s\""
+		"or": "The %s was captured by '%s'",
+		"tr": "A %s foi capturada por '%s'"
 	},
 	{
-		"or": "The %s flag was captured by '%2d: %s' (%.2f seconds)",
-		"tr": "A bandeira %s foi capturada por \"%2d: %s\" (%.2f segundos)"
+		"or": "The %s was captured by '%s' (%.2f seconds)",
+		"tr": "A %s foi capturada por '%s' (%.2f segundos)"
 	},
 	{
 		"or": "The audio device couldn't be initialised.",
@@ -1222,6 +1256,10 @@
 		"tr": "Bem-vindo ao Teeworlds!"
 	},
 	{
+		"or": "When ready, press <%s>",
+		"tr": "Quando estiver pronto, pressione <%s>"
+	},
+	{
 		"or": "Whisper",
 		"tr": "Sussurrar"
 	},
@@ -1235,6 +1273,10 @@
 		"tr": "Sim"
 	},
 	{
+		"or": "You must reconnect to change identity.",
+		"tr": "Você deve se reconectar para alterar a identidade"
+	},
+	{
 		"or": "You must restart the game for all settings to take effect.",
 		"tr": "Você deve reiniciar o jogo para que todas as alterações tenham efeito."
 	},
@@ -1243,78 +1285,54 @@
 		"tr": "Você tem que esperar %d segundos antes de fazer outra votação"
 	},
 	{
-		"or": "blue",
-		"tr": "azul"
-	},
-	{
 		"or": "blue flag",
 		"tr": "bandeira azul"
 	},
 	{
+		"context": "'X joined the <blue team>' (server message)",
 		"or": "blue team",
 		"tr": "time azul"
 	},
 	{
-		"or": "body",
-		"tr": "corpo"
-	},
-	{
-		"or": "decoration",
-		"tr": "decoração"
-	},
-	{
+		"context": "Show chat messages from:",
 		"or": "everyone",
 		"tr": "todo mundo"
 	},
 	{
-		"or": "eyes",
-		"tr": "olhos"
-	},
-	{
-		"or": "feet",
-		"tr": "pés"
-	},
-	{
+		"context": "Show chat messages from:",
 		"or": "friends only",
 		"tr": "amigos apenas"
 	},
 	{
+		"context": "'X joined the <game>' (server message)",
 		"or": "game",
 		"tr": "jogo"
-	},
-	{
-		"or": "hands",
-		"tr": "mãos"
 	},
 	{
 		"or": "locked",
 		"tr": "travado"
 	},
 	{
-		"or": "marking",
-		"tr": "marcas"
-	},
-	{
+		"context": "Show chat messages from:",
 		"or": "no one",
 		"tr": "ninguém"
 	},
 	{
+		"context": "server browser message",
 		"or": "no players",
 		"tr": "nenhum jogador"
-	},
-	{
-		"or": "red",
-		"tr": "vermelho"
 	},
 	{
 		"or": "red flag",
 		"tr": "bandeira vermelha"
 	},
 	{
+		"context": "'X joined the <red team>' (server message)",
 		"or": "red team",
 		"tr": "time vermelho"
 	},
 	{
+		"context": "'X joined the <spectators>' (server message)",
 		"or": "spectators",
 		"tr": "observadores"
 	},
