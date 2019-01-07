@@ -34,7 +34,7 @@
 	},
 	{
 		"or": "%d player not ready",
-		"tr": "Speler niet klaar"
+		"tr": "%dSpeler niet klaar"
 	},
 	{
 		"or": "%d players left",
@@ -42,7 +42,7 @@
 	},
 	{
 		"or": "%d players not ready",
-		"tr": "Spelers niet klaar"
+		"tr": "%dSpelers niet klaar"
 	},
 	{
 		"or": "%d servers, %d players",
@@ -82,7 +82,7 @@
 	},
 	{
 		"or": "'%s' called for vote to move '%s' to spectators (%s)",
-		"tr": "'&s' stemt in om '&s' naar toekijken te verplaatsen (%s)"
+		"tr": "'%s' stemt in om '%s' naar toekijken te verplaatsen (%s)"
 	},
 	{
 		"or": "'%s' called vote to change server option '%s' (%s)",

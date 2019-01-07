@@ -29,7 +29,7 @@
 	},
 	{
 		"or": "%d servers, %d players",
-		"tr": "% d serveriai,% d žaidėjų"
+		"tr": "%d serveriai, %d žaidėjų"
 	},
 	{
 		"or": "%d%% loaded",
@@ -69,7 +69,7 @@
 	},
 	{
 		"or": "'%s' called for vote to move '%s' to spectators (%s)",
-		"tr": "\"% s\" kviečia balsuoti, kad perkeltų \"% s\" į žiūrovus (% s)"
+		"tr": "\"%s\" kviečia balsuoti, kad perkeltų \"%s\" į žiūrovus (%s)"
 	},
 	{
 		"or": "'%s' called vote to change server option '%s' (%s)",
@@ -109,7 +109,7 @@
 	},
 	{
 		"or": "Admin forced server option '%s' (%s)",
-		"tr": "Administratorius pakeitė serverio nustatymą \"% s\" (% s)"
+		"tr": "Administratorius pakeitė serverio nustatymą \"%s\" (%s)"
 	},
 	{
 		"or": "Admin forced vote no",
@@ -121,7 +121,7 @@
 	},
 	{
 		"or": "Admin moved '%s' to spectator (%s)",
-		"tr": "Administratorius perkėlė \"% s\" į žiūrovus (% s)"
+		"tr": "Administratorius perkėlė \"%s\" į žiūrovus (%s)"
 	},
 	{
 		"or": "All",
@@ -482,7 +482,7 @@
 	},
 	{
 		"or": "Kick voting requires %d players on the server",
-		"tr": "Išspyrimo balsavimui reikia % d žaidėjų serveryje"
+		"tr": "Išspyrimo balsavimui reikia %d žaidėjų serveryje"
 	},
 	{
 		"or": "Language",
@@ -969,7 +969,7 @@
 	},
 	{
 		"or": "Teams are locked. Time to wait before changing team: %02d:%02d",
-		"tr": "Komandos yra užrakintos. Liko laukti kol pasikeis komandos:% 02d:% 02d"
+		"tr": "Komandos yra užrakintos. Liko laukti kol pasikeis komandos: %02d:%02d"
 	},
 	{
 		"or": "Teams were locked",
@@ -1126,7 +1126,7 @@
 	},
 	{
 		"or": "You must wait %d seconds before making another vote",
-		"tr": "Jūs turite laukti % d sekundžių prieš pradedant kitą balsavimą"
+		"tr": "Jūs turite laukti %d sekundžių prieš pradedant kitą balsavimą"
 	},
 	{
 		"or": "blue flag",

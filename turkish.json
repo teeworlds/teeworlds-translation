@@ -79,7 +79,7 @@
 	},
 	{
 		"or": "'%s' called vote to change server option '%s' (%s)",
-		"tr": "'%' sunucu ayarlarını değiştirmek için oylama başlattı '%s' (%s)"
+		"tr": "'%s' sunucu ayarlarını değiştirmek için oylama başlattı '%s' (%s)"
 	},
 	{
 		"or": "'%s' entered and joined the %s",
@@ -295,7 +295,7 @@
 	},
 	{
 		"or": "Demofile: %s",
-		"tr": "Demo dosyası"
+		"tr": "Demo dosyası: %s"
 	},
 	{
 		"or": "Demos",

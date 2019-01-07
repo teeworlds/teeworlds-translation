@@ -1,11 +1,13 @@
-{"authors": {
-	"originally created by": ".ua and Ivan",
+{
+"authors": {
 	"modified by": [
-		"404_not_found		2011-07-30 19:50:58",
+		"404_not_found        2011-07-30 19:50:58",
 		"Jane K, 2018 (Transifex)",
 		"K, 2014 (Transifex)",
 		"SNSnoop, 2015 (Transifex)"
-	]},
+	],
+	"originally created by": ".ua and Ivan"
+},
 "translated strings": [
 	{
 		"or": "%.3f KiB",
@@ -969,7 +971,7 @@
 	},
 	{
 		"or": "Teams are locked. Time to wait before changing team: %02d:%02d",
-		"tr": "Команди будуть заблоковані. Час очікування перед зміною команди:% 02d:% 02d"
+		"tr": "Команди будуть заблоковані. Час очікування перед зміною команди: %02d: %02d"
 	},
 	{
 		"or": "Teams were locked",

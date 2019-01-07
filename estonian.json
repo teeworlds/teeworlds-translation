@@ -64,7 +64,7 @@
 	},
 	{
 		"or": "'%s' called for vote to move '%s' to spectators (%s)",
-		"tr": "'%s' hääletas, et viia '%s' vaatlejaks"
+		"tr": "'%s' hääletas, et viia '%s' vaatlejaks (%s)"
 	},
 	{
 		"or": "'%s' entered and joined the %s",

@@ -44,7 +44,7 @@
 	},
 	{
 		"or": "%i minutes left",
-		"tr": "%1 munutenn a chom"
+		"tr": "%i munutenn a chom"
 	},
 	{
 		"or": "%i second left",
@@ -80,7 +80,7 @@
 	},
 	{
 		"or": "'%s' has left the game (%s)",
-		"tr": "'%' en/he deus kuitaet ar c'hoari (%s)"
+		"tr": "'%s' en/he deus kuitaet ar c'hoari (%s)"
 	},
 	{
 		"or": "-Page %d-",
