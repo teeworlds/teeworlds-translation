@@ -26,7 +26,8 @@
 		"ghost91, 2014 (Transifex)",
 		"Ronald Jäpel, 2018 (Transifex)",
 		"TheDerero, 2014 (Transifex)",
-		"Fisico, 2018 (Transifex)"
+		"Fisico, 2018 (Transifex)",
+		"AssassinTee     2019-02-05 09:20:00"
 	],
 	"originally created by": "Dominik Geyer"
 },
@@ -37,7 +38,7 @@
 	},
 	{
 		"or": "%d other players",
-		"tr": "%dandere Spieler"
+		"tr": "%d andere Spieler"
 	},
 	{
 		"or": "%d player left",
@@ -262,7 +263,7 @@
 	},
 	{
 		"or": "Click on a player or a flag to follow it",
-		"tr": "Zum Folgen, klicke auf einen Spieler order eine Flagge"
+		"tr": "Zum Folgen, klicke auf einen Spieler oder eine Flagge"
 	},
 	{
 		"or": "Client",
