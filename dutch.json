@@ -29,20 +29,24 @@
 		"tr": "%.3f KiB"
 	},
 	{
+		"or": "%d other players",
+		"tr": "%d overige spelers"
+	},
+	{
 		"or": "%d player left",
-		"tr": "%d speler heeft verlaten"
+		"tr": "%d speler heeft het spel verlaten"
 	},
 	{
 		"or": "%d player not ready",
-		"tr": "%dSpeler niet klaar"
+		"tr": "%dspeler is nog niet klaar"
 	},
 	{
 		"or": "%d players left",
-		"tr": "%d Spelers over"
+		"tr": "%d spelers over"
 	},
 	{
 		"or": "%d players not ready",
-		"tr": "%dSpelers niet klaar"
+		"tr": "%dspelers zijn nog niet klaar"
 	},
 	{
 		"or": "%d servers, %d players",
@@ -74,19 +78,23 @@
 	},
 	{
 		"or": "%s wins!",
-		"tr": "%s wins"
+		"tr": "%s heeft gewonnen!"
+	},
+	{
+		"or": "'%2d: %s' joined the %s",
+		"tr": "'%2d:%s' heeft zich aangesloten bij %s"
 	},
 	{
 		"or": "'%s' called for vote to kick '%s' (%s)",
-		"tr": "'%s' begon een stem om te kicken: '%s' (%s)"
+		"tr": "'%s' heeft een stemming geopend over het verbannen van '%s' (%s)"
 	},
 	{
 		"or": "'%s' called for vote to move '%s' to spectators (%s)",
-		"tr": "'%s' stemt in om '%s' naar toekijken te verplaatsen (%s)"
+		"tr": "'%s' heeft een stemming geopend over het verplaatsen van '%s' naar toeschouwers (%s)"
 	},
 	{
 		"or": "'%s' called vote to change server option '%s' (%s)",
-		"tr": "'%s' stemde om server optie: '%s' (%s) te veranderen"
+		"tr": "'%s' heeft een stemming geopend om de serveroptie '%s' (%s) aan te passen"
 	},
 	{
 		"or": "'%s' entered and joined the %s",
@@ -113,24 +121,40 @@
 		"tr": "Toevoegen"
 	},
 	{
+		"or": "Add clan",
+		"tr": "Clan toevoegen"
+	},
+	{
+		"or": "Add demo marker",
+		"tr": "Demomarkering toevoegen"
+	},
+	{
+		"or": "Add friend",
+		"tr": "Vriend toevoegen"
+	},
+	{
+		"or": "Add friend/clan",
+		"tr": "Vriend/Clan toevoegen"
+	},
+	{
 		"or": "Address",
 		"tr": "Adres"
 	},
 	{
 		"or": "Admin forced server option '%s' (%s)",
-		"tr": "Admin forceerde server optie '%s' (%s)"
+		"tr": "Admin heeft de serveroptie '%s' (%s) afgedwongen"
 	},
 	{
 		"or": "Admin forced vote no",
-		"tr": "Administrator forceerde tegen op de stem"
+		"tr": "Administrator dwong 'nee'-stem af"
 	},
 	{
 		"or": "Admin forced vote yes",
-		"tr": "Admin stemde toe"
+		"tr": "Admin heeft de 'ja'-stem afgedwongen"
 	},
 	{
 		"or": "Admin moved '%s' to spectator (%s)",
-		"tr": "Admin verplaatste '%s' naar toekijkers (%s)"
+		"tr": "Admin heeft '%s' verplaatst naar de toeschouwers (%s)"
 	},
 	{
 		"or": "All",
@@ -142,11 +166,11 @@
 	},
 	{
 		"or": "Always show name plates",
-		"tr": "Altijd naamplaten laten zien"
+		"tr": "Altijd naambordjes tonen"
 	},
 	{
 		"or": "Anti Aliasing",
-		"tr": "anti kartelvorming"
+		"tr": "Anti-kartelvorming"
 	},
 	{
 		"or": "Are you sure that you want to delete the demo?",
@@ -154,27 +178,31 @@
 	},
 	{
 		"or": "Are you sure that you want to delete the skin?",
-		"tr": "Weet je zeker dat je dit model wilt verwijderen?"
+		"tr": "Weet je zeker dat je deze skin wilt verwijderen?"
 	},
 	{
 		"or": "Are you sure that you want to quit?",
 		"tr": "Weet je zeker dat je wilt stoppen?"
 	},
 	{
+		"or": "Are you sure that you want to remove the filter from the server browser?",
+		"tr": "Weet je zeker dat het filter wilt verwijderen uit de servernavigatie?"
+	},
+	{
 		"or": "Are you sure that you want to remove the player from your friends list?",
-		"tr": "Weet je zeker dat je deze speler uit je vriendenlijst wilt verwijderen?"
+		"tr": "Weet je zeker dat je deze speler wilt verwijderen uit je vriendenlijst?"
 	},
 	{
 		"or": "Are you sure you want to rename the demo?",
-		"tr": "Weet je zeker dat je de demo wilt hernoemen?"
+		"tr": "Weet je zeker dat je de demonaam wilt wijzigen?"
 	},
 	{
 		"or": "Are you sure you want to save your skin? If a skin with this name already exists, it will be replaced.",
-		"tr": "Weet je zeker dat je je skin wilt opslaan? Als een skin met dezelfde naam al bestaat, zal het vervangen worden."
+		"tr": "Weet je zeker dat je je skin wilt opslaan? Als er al een skin is met dezelfde naam, dan wordt deze vervangen."
 	},
 	{
 		"or": "As this is the first time you launch the game, please enter your nick name below. It's recommended that you check the settings to adjust them to your liking before joining a server.",
-		"tr": "Omdat dit de eerste keer is dat je het spel opstart, moet je een bijnaam kiezen. Doe dat hieronder. Het is aanbevolen om de instellingen te controleren voordat je een spel start."
+		"tr": "Omdat dit de eerste keer is dat je het spel opstart, moet je een bijnaam kiezen. Doe dat hieronder. We raden aan om de instellingen te controleren voordat je deelneemt aan een server."
 	},
 	{
 		"or": "Automatically record demos",
@@ -182,7 +210,7 @@
 	},
 	{
 		"or": "Automatically take game over screenshot",
-		"tr": "Automatisch schermafbeeldingen nemen"
+		"tr": "Automatisch schermafdrukken maken"
 	},
 	{
 		"or": "Back",
@@ -198,15 +226,20 @@
 	},
 	{
 		"or": "Borderless window",
-		"tr": "Randloos venster"
+		"tr": "Naadloos venster"
 	},
 	{
 		"or": "Call vote",
-		"tr": "Stem"
+		"tr": "Stemming openen"
+	},
+	{
+		"context": "Server difficulty",
+		"or": "Casual",
+		"tr": "Gewoon"
 	},
 	{
 		"or": "Change settings",
-		"tr": "Verander instellingen"
+		"tr": "Instellingen wijzigen"
 	},
 	{
 		"or": "Chat",
@@ -215,6 +248,15 @@
 	{
 		"or": "Clan",
 		"tr": "Clan"
+	},
+	{
+		"context": "clear gametype filters",
+		"or": "Clear",
+		"tr": "Wissen"
+	},
+	{
+		"or": "Click on a player or a flag to follow it",
+		"tr": "Klik op een speler of vlag om deze te volgen"
 	},
 	{
 		"or": "Client",
@@ -230,7 +272,12 @@
 	},
 	{
 		"or": "Compatible version",
-		"tr": "Samenwerkende versie"
+		"tr": "Compatibele versie"
+	},
+	{
+		"context": "Server difficulty",
+		"or": "Competitive",
+		"tr": "Wedstrijdverband"
 	},
 	{
 		"or": "Connect",
@@ -238,7 +285,7 @@
 	},
 	{
 		"or": "Connecting to",
-		"tr": "Verbinden met"
+		"tr": "Bezig met verbinden met"
 	},
 	{
 		"or": "Connection Problems...",
@@ -254,11 +301,15 @@
 	},
 	{
 		"or": "Count players only",
-		"tr": "Tel alleen spelers"
+		"tr": "Alleen spelers meetellen"
 	},
 	{
 		"or": "Country",
 		"tr": "Land"
+	},
+	{
+		"or": "Country:",
+		"tr": "Land:"
 	},
 	{
 		"or": "Crc",
@@ -266,11 +317,15 @@
 	},
 	{
 		"or": "Created",
-		"tr": "Gemaakt"
+		"tr": "Gecreëerd"
+	},
+	{
+		"or": "Current: %dx%d (%d:%d)",
+		"tr": "Huidig: %dx%d (%d:%d)"
 	},
 	{
 		"or": "Custom",
-		"tr": "Gepersonaliseerd"
+		"tr": "Aangepast"
 	},
 	{
 		"or": "Custom colors",
@@ -278,19 +333,19 @@
 	},
 	{
 		"or": "Customize",
-		"tr": "Personaliseer"
+		"tr": "Aanpassen"
 	},
 	{
 		"or": "Delete",
-		"tr": "Verwijder"
+		"tr": "Verwijderen"
 	},
 	{
 		"or": "Delete demo",
-		"tr": "Verwijder demo"
+		"tr": "Demo verwijderen"
 	},
 	{
 		"or": "Delete skin",
-		"tr": "Verwijder model"
+		"tr": "Skin verwijderen"
 	},
 	{
 		"or": "Demo",
@@ -298,7 +353,7 @@
 	},
 	{
 		"or": "Demo details",
-		"tr": "Demo details"
+		"tr": "Demo-informatie"
 	},
 	{
 		"or": "Demofile: %s",
@@ -310,11 +365,15 @@
 	},
 	{
 		"or": "Detail",
-		"tr": "Detail"
+		"tr": "Details"
+	},
+	{
+		"or": "Difficulty",
+		"tr": "Moeilijkheidsgraad"
 	},
 	{
 		"or": "Disconnect",
-		"tr": "Stoppen"
+		"tr": "Verbinding verbreken"
 	},
 	{
 		"or": "Disconnected",
@@ -322,7 +381,7 @@
 	},
 	{
 		"or": "Downloading map",
-		"tr": "Map downloaden"
+		"tr": "Bezig met downloaden van kaart"
 	},
 	{
 		"or": "Draw!",
@@ -341,6 +400,10 @@
 		"tr": "Emoticon"
 	},
 	{
+		"or": "Enable colored server broadcasts",
+		"tr": "Gekleurde serveruitzendingen inschakelen"
+	},
+	{
 		"or": "Enter",
 		"tr": "Starten"
 	},
@@ -350,7 +413,7 @@
 	},
 	{
 		"or": "Error loading demo",
-		"tr": "Fout bij laden demo"
+		"tr": "Kan demo niet laden"
 	},
 	{
 		"or": "Favorite",
@@ -370,7 +433,7 @@
 	},
 	{
 		"or": "Force vote",
-		"tr": "Forceer stem"
+		"tr": "Stemmen afdwingen"
 	},
 	{
 		"or": "Free-View",
@@ -386,7 +449,11 @@
 	},
 	{
 		"or": "Game info",
-		"tr": "Spelinfo"
+		"tr": "Spelinformatie"
+	},
+	{
+		"or": "Game options",
+		"tr": "Spelopties"
 	},
 	{
 		"or": "Game over",
@@ -398,7 +465,7 @@
 	},
 	{
 		"or": "Game starts in",
-		"tr": "Spel begint in"
+		"tr": "Spel begint over"
 	},
 	{
 		"or": "Game type",
@@ -414,7 +481,7 @@
 	},
 	{
 		"or": "Global",
-		"tr": "Globaal"
+		"tr": "Algemeen"
 	},
 	{
 		"or": "Graphics",
@@ -430,7 +497,11 @@
 	},
 	{
 		"or": "Has people playing",
-		"tr": "Laat geen lege servers zien"
+		"tr": "Alleen actieve"
+	},
+	{
+		"or": "Hide bots",
+		"tr": "Bots verbergen"
 	},
 	{
 		"or": "High Detail",
@@ -442,11 +513,11 @@
 	},
 	{
 		"or": "Host address:",
-		"tr": "Host adres"
+		"tr": "Hostadres:"
 	},
 	{
 		"or": "Hue:",
-		"tr": "Hue"
+		"tr": "Kleurverloop:"
 	},
 	{
 		"or": "Invalid Demo",
@@ -454,32 +525,32 @@
 	},
 	{
 		"or": "Join",
-		"tr": "Joinen"
+		"tr": "Deelnemen"
 	},
 	{
 		"context": "Join a server",
 		"or": "Join",
-		"tr": "Joinen"
+		"tr": "Deelnemen"
 	},
 	{
 		"or": "Join blue",
-		"tr": "Join blauw"
+		"tr": "Aansluiten bij blauw"
 	},
 	{
 		"or": "Join red",
-		"tr": "Join rood"
+		"tr": "Aansluiten bij rood"
 	},
 	{
 		"or": "Joined",
-		"tr": "Toegetreden"
+		"tr": "Aangesloten"
 	},
 	{
 		"or": "Joined blue",
-		"tr": "Joinde het blauwe team"
+		"tr": "Aangesloten bij het blauwe team"
 	},
 	{
 		"or": "Joined red",
-		"tr": "Joinde het rode team"
+		"tr": "Aangesloten bij het rode team"
 	},
 	{
 		"or": "Jump",
@@ -487,11 +558,11 @@
 	},
 	{
 		"or": "Kick player",
-		"tr": "Kick speler"
+		"tr": "Speler verbannen"
 	},
 	{
 		"or": "Kick voting requires %d players on the server",
-		"tr": "Kick stemmen heeft %d spelers op de server nodig"
+		"tr": "Stemmen over verbanningen vereist %d spelers op de server"
 	},
 	{
 		"or": "Language",
@@ -510,8 +581,16 @@
 		"tr": "Lgt:"
 	},
 	{
+		"or": "Limit Fps",
+		"tr": "FPS inperken"
+	},
+	{
+		"or": "Load the sound system",
+		"tr": "Geluidssysteem laden"
+	},
+	{
 		"or": "Loading",
-		"tr": "Laden"
+		"tr": "Bezig met laden..."
 	},
 	{
 		"or": "Local",
@@ -527,7 +606,11 @@
 	},
 	{
 		"or": "Map",
-		"tr": "Map"
+		"tr": "Kaart"
+	},
+	{
+		"or": "Markers",
+		"tr": "Markeringen"
 	},
 	{
 		"context": "rounds (scoreboard)",
@@ -536,7 +619,11 @@
 	},
 	{
 		"or": "Max",
-		"tr": "Maximale"
+		"tr": "Max"
+	},
+	{
+		"or": "Max fps",
+		"tr": "Max. FPS"
 	},
 	{
 		"or": "Maximum ping:",
@@ -544,27 +631,27 @@
 	},
 	{
 		"or": "Misc",
-		"tr": "Misc"
-	},
-	{
-		"or": "Mouse sens.",
-		"tr": "Muis snelheid"
+		"tr": "Overig"
 	},
 	{
 		"or": "Move left",
-		"tr": "Naar links"
+		"tr": "Naar links verplaatsen"
 	},
 	{
 		"or": "Move player to spectators",
-		"tr": "Verplaats speler naar toeschouwers"
+		"tr": "Speler verplaatsen naar toeschouwers"
 	},
 	{
 		"or": "Move right",
-		"tr": "Naar rechts"
+		"tr": "Naar rechts verplaatsen"
 	},
 	{
 		"or": "Movement",
-		"tr": "Bewegen"
+		"tr": "Beweging"
+	},
+	{
+		"or": "Mute broadcasts",
+		"tr": "Uitzendingen dempen"
 	},
 	{
 		"or": "Mute when not active",
@@ -579,6 +666,10 @@
 		"tr": "Netversie"
 	},
 	{
+		"or": "New filter",
+		"tr": "Nieuw filter"
+	},
+	{
 		"or": "Next weapon",
 		"tr": "Volgend wapen"
 	},
@@ -588,7 +679,7 @@
 	},
 	{
 		"or": "Nickname is empty.",
-		"tr": "Gebruikersnaam niet aanwezig."
+		"tr": "Gebruikersnaam is leeg."
 	},
 	{
 		"or": "No",
@@ -609,23 +700,49 @@
 	},
 	{
 		"or": "No servers match your filter criteria",
-		"tr": "Geen servers gevonden op zoekopdracht"
+		"tr": "Geen servers gevonden die overeenkomen met je zoekopdracht"
+	},
+	{
+		"context": "Server difficulty",
+		"or": "Normal",
+		"tr": "Normaal"
 	},
 	{
 		"or": "Normal:",
 		"tr": "Normaal:"
 	},
 	{
+		"context": "friends (server browser)",
+		"or": "Offline (%d)",
+		"tr": "Offline (%d)"
+	},
+	{
 		"or": "Ok",
 		"tr": "Oké"
 	},
 	{
+		"or": "Online clanmates (%d)",
+		"tr": "Online clangenoten (%d)"
+	},
+	{
+		"or": "Online players (%d)",
+		"tr": "Online spelers (%d)"
+	},
+	{
 		"or": "Only %d active players are allowed",
-		"tr": "Alleen %d actieve spelers zijn toegestaan"
+		"tr": "Er zijn slechts %d actieve spelers toegestaan"
 	},
 	{
 		"or": "Open",
-		"tr": "Open"
+		"tr": "Openen"
+	},
+	{
+		"or": "Option",
+		"tr": "Optie"
+	},
+	{
+		"or": "Other",
+		"tr": "Overig"
 	},
 	{
 		"or": "Parent Folder",
@@ -637,7 +754,7 @@
 	},
 	{
 		"or": "Password incorrect",
-		"tr": "Wachtwoord verkeerd"
+		"tr": "Verkeerd wachtwoord"
 	},
 	{
 		"or": "Personal",
@@ -662,7 +779,7 @@
 	},
 	{
 		"or": "Play background music",
-		"tr": "Speel achtergrondmuziek"
+		"tr": "Achtergrondmuziek afspelen"
 	},
 	{
 		"or": "Player",
@@ -670,15 +787,20 @@
 	},
 	{
 		"or": "Player options",
-		"tr": "Speler opties"
+		"tr": "Speleropties"
 	},
 	{
 		"or": "Players",
 		"tr": "Spelers"
 	},
 	{
+		"context": "Playing '(gametype)' on '(map)'",
+		"or": "Playing '%s' on '%s'",
+		"tr": "Speelt '%s' op '%s'"
+	},
+	{
 		"or": "Please balance teams!",
-		"tr": "Balanceer teams!"
+		"tr": "Balanceer de teams!"
 	},
 	{
 		"or": "Prev. weapon",
@@ -686,7 +808,7 @@
 	},
 	{
 		"or": "Quality Textures",
-		"tr": "Structuurkwaliteit"
+		"tr": "Textuurkwaliteit"
 	},
 	{
 		"or": "Quit",
@@ -698,11 +820,15 @@
 	},
 	{
 		"or": "Ready",
-		"tr": "Gereed"
+		"tr": "Klaar"
 	},
 	{
 		"or": "Reason:",
 		"tr": "Reden:"
+	},
+	{
+		"or": "Recommended",
+		"tr": "Aanbevolen"
 	},
 	{
 		"or": "Record",
@@ -722,51 +848,59 @@
 	},
 	{
 		"or": "Refreshing master servers",
-		"tr": "Masterservers vernieuwen"
+		"tr": "Hoofdservers verversen"
 	},
 	{
 		"or": "Remote console",
-		"tr": "Remote console"
+		"tr": "Externe console"
 	},
 	{
 		"or": "Remove",
 		"tr": "Verwijderen"
 	},
 	{
+		"or": "Remove filter",
+		"tr": "Filter verwijderen"
+	},
+	{
 		"or": "Remove friend",
-		"tr": "Verwijder vriend"
+		"tr": "Vriend verwijderen"
 	},
 	{
 		"or": "Rename",
-		"tr": "Hernoem"
+		"tr": "Naam wijzigen"
 	},
 	{
 		"or": "Rename demo",
-		"tr": "Hernoem demo"
+		"tr": "Demonaam wijzigen"
 	},
 	{
 		"or": "Reset",
-		"tr": "Herstart"
+		"tr": "Herstellen"
 	},
 	{
 		"or": "Reset filter",
-		"tr": "Reset filter"
+		"tr": "Filter herstellen"
+	},
+	{
+		"or": "Resolution",
+		"tr": "Resolutie"
 	},
 	{
 		"or": "Respawn",
-		"tr": "Respawn"
+		"tr": "Terugkeren"
 	},
 	{
 		"or": "Round over",
-		"tr": "Ronde afgelopen"
+		"tr": "Ronde voorbij"
 	},
 	{
 		"or": "Round over!",
-		"tr": "Ronde over!"
+		"tr": "Ronde voorbij!"
 	},
 	{
 		"or": "Sample rate",
-		"tr": "Voorbeeldssnelheid"
+		"tr": "Voorbeeldsnelheid"
 	},
 	{
 		"or": "Sat:",
@@ -778,7 +912,7 @@
 	},
 	{
 		"or": "Save skin",
-		"tr": "Model opslaan"
+		"tr": "Skin opslaan"
 	},
 	{
 		"or": "Score",
@@ -798,11 +932,11 @@
 	},
 	{
 		"or": "Screenshot",
-		"tr": "Schermafbeelding"
+		"tr": "Schermafdruk"
 	},
 	{
 		"or": "Search:",
-		"tr": "Zoek:"
+		"tr": "Zoeken:"
 	},
 	{
 		"or": "Server address:",
@@ -810,15 +944,15 @@
 	},
 	{
 		"or": "Server details",
-		"tr": "Serverdetails"
+		"tr": "Serverinformatie"
 	},
 	{
 		"or": "Server does not allow voting to kick players",
-		"tr": "Server staat stemmen voor kick niet toe"
+		"tr": "Server staat niet toe dat er kan worden gestemd over het verbannen van spelers"
 	},
 	{
 		"or": "Server does not allow voting to move players to spectators",
-		"tr": "Server staat niet toe spelers naar toekijkers te verplaatsen"
+		"tr": "Server staat niet toe dat spelers kunnen stemmen om te verplaatsen naar toeschouwers"
 	},
 	{
 		"or": "Server filter",
@@ -826,7 +960,7 @@
 	},
 	{
 		"or": "Server info",
-		"tr": "Serverinfo"
+		"tr": "Serverinformatie"
 	},
 	{
 		"or": "Server not full",
@@ -846,19 +980,31 @@
 	},
 	{
 		"or": "Show chat",
-		"tr": "Laat chat zien"
+		"tr": "Chat tonen"
+	},
+	{
+		"or": "Show chat messages from:",
+		"tr": "Chatberichten tonen van:"
 	},
 	{
 		"or": "Show friends only",
-		"tr": "Laat alleen vrienden zien"
+		"tr": "Alleen vrienden tonen"
 	},
 	{
 		"or": "Show ingame HUD",
-		"tr": "Laat ingame HUD zien"
+		"tr": "Ingebouwde HUD tonen"
 	},
 	{
 		"or": "Show name plates",
-		"tr": "Laat naamplaat zien"
+		"tr": "Naambordjes tonen"
+	},
+	{
+		"or": "Show social",
+		"tr": "Social tonen"
+	},
+	{
+		"or": "Show user IDs",
+		"tr": "Gebruikersnamen tonen"
 	},
 	{
 		"or": "Size",
@@ -866,11 +1012,15 @@
 	},
 	{
 		"or": "Skin",
-		"tr": "Model"
+		"tr": "Skin"
 	},
 	{
 		"or": "Skins",
-		"tr": "Modellen"
+		"tr": "Skins"
+	},
+	{
+		"or": "Skip the main menu",
+		"tr": "Hoofdmenu overslaan"
 	},
 	{
 		"or": "Sound",
@@ -886,19 +1036,19 @@
 	},
 	{
 		"or": "Spectate next",
-		"tr": "Volg volgende speler"
+		"tr": "Volgende speler volgen"
 	},
 	{
 		"or": "Spectate previous",
-		"tr": "Volg vorige speler"
+		"tr": "Vorige speler volgen"
 	},
 	{
 		"or": "Spectating",
-		"tr": "Toekijken"
+		"tr": "Kijkt toe"
 	},
 	{
 		"or": "Spectator mode",
-		"tr": "Toeschouwer modus"
+		"tr": "Toeschouwermodus"
 	},
 	{
 		"or": "Spectators",
@@ -906,7 +1056,7 @@
 	},
 	{
 		"or": "Spectators aren't allowed to start a vote.",
-		"tr": "Toekijkers mogen geen stem beginnen"
+		"tr": "Toeschouwers mogen geen stemming openen."
 	},
 	{
 		"or": "Standard gametype",
@@ -914,11 +1064,11 @@
 	},
 	{
 		"or": "Standard map",
-		"tr": "Standaard map"
+		"tr": "Standaardkaart"
 	},
 	{
 		"or": "Stop record",
-		"tr": "Stop met opnemen"
+		"tr": "Opname stoppen"
 	},
 	{
 		"or": "Sudden Death",
@@ -926,7 +1076,7 @@
 	},
 	{
 		"or": "Switch weapon on pickup",
-		"tr": "Verander wapen bij het oppakken"
+		"tr": "Van wapen veranderen na oppakken"
 	},
 	{
 		"or": "Team",
@@ -934,7 +1084,7 @@
 	},
 	{
 		"or": "Team chat",
-		"tr": "Team chat"
+		"tr": "Teamchat"
 	},
 	{
 		"or": "Team:",
@@ -942,11 +1092,11 @@
 	},
 	{
 		"or": "Teams are locked",
-		"tr": "Teams zijn gesloten"
+		"tr": "Teams zijn vastgesteld"
 	},
 	{
 		"or": "Teams are locked. Time to wait before changing team: %02d:%02d",
-		"tr": "Teams zijn vastgesteld. Tijd te wachten voor verandering van team: %02d:%02d"
+		"tr": "Teams zijn vastgesteld. Wachttijd voor verandering van team: %02d:%02d"
 	},
 	{
 		"or": "Teams were locked",
@@ -962,27 +1112,39 @@
 	},
 	{
 		"or": "Teeworlds %s is out! Download it at www.teeworlds.com!",
-		"tr": "Teeworlds %s is uit! Download het op www.teeworlds.com!"
+		"tr": "Teeworlds %s is uitgebracht! Download het op www.teeworlds.com!"
 	},
 	{
 		"or": "Texture",
-		"tr": "Tekstuur"
+		"tr": "Textuur"
 	},
 	{
 		"or": "Texture Compression",
-		"tr": "Structuurscompressie"
+		"tr": "Textuurcompressie"
+	},
+	{
+		"or": "The %s was captured by '%s'",
+		"tr": "De %s is veroverd door '%s'"
+	},
+	{
+		"or": "The %s was captured by '%s' (%.2f seconds)",
+		"tr": "De %s is veroverd door '%s' (%.2f seconden)"
 	},
 	{
 		"or": "The audio device couldn't be initialised.",
-		"tr": "Het geluidsapparaat kon niet worden geïnitialiseerd."
+		"tr": "Het geluidsapparaat kan niet worden geïnitialiseerd."
 	},
 	{
 		"or": "The server is running a non-standard tuning on a pure game type.",
 		"tr": "De tuning van de server is niet standaard, maar draait wel op een standaard speltype."
 	},
 	{
+		"or": "Theme",
+		"tr": "Thema"
+	},
+	{
 		"or": "There's an unsaved map in the editor, you might want to save it before you quit the game.",
-		"tr": "Er is een onopgeslagen map in de editor, misschien wil je deze opslaan voordat je stopt."
+		"tr": "Er is een niet-opgeslagen kaart in de bewerker. Mogelijk wil je deze opslaan voordat je het spel afsluit."
 	},
 	{
 		"or": "Time limit",
@@ -994,7 +1156,7 @@
 	},
 	{
 		"or": "Try again",
-		"tr": "Probeer opnieuw"
+		"tr": "Opnieuw proberen"
 	},
 	{
 		"or": "Type",
@@ -1002,23 +1164,23 @@
 	},
 	{
 		"or": "Unable to delete the demo",
-		"tr": "Demo kon niet worden verwijderd"
+		"tr": "Kan demo niet verwijderen"
 	},
 	{
 		"or": "Unable to delete the skin",
-		"tr": "Kan model niet verwijderen"
+		"tr": "Kan skin niet verwijderen"
 	},
 	{
 		"or": "Unable to rename the demo",
-		"tr": "Niet mogelijk om de demo te hernoemen"
+		"tr": "Kan demonaam niet wijzigen"
 	},
 	{
 		"or": "Use sounds",
-		"tr": "Gebruik geluid"
+		"tr": "Geluiden gebruiken"
 	},
 	{
 		"or": "Use team colors for name plates",
-		"tr": "Gebruik teamkleuren voor naamplaten"
+		"tr": "Gebruik teamkleuren voor naambordjes"
 	},
 	{
 		"or": "V-Sync",
@@ -1034,23 +1196,23 @@
 	},
 	{
 		"or": "Vote aborted",
-		"tr": "Stem gestopt"
+		"tr": "Stemmen afgebroken"
 	},
 	{
 		"or": "Vote command:",
-		"tr": "Stem commando:"
+		"tr": "Stemopdracht:"
 	},
 	{
 		"or": "Vote description:",
-		"tr": "Stem omschrijving:"
+		"tr": "Stemomschrijving:"
 	},
 	{
 		"or": "Vote failed",
-		"tr": "Stem mislukt"
+		"tr": "Stemmen mislukt"
 	},
 	{
 		"or": "Vote no",
-		"tr": "Stem nee"
+		"tr": "'Nee' stemmen"
 	},
 	{
 		"or": "Vote passed",
@@ -1058,7 +1220,7 @@
 	},
 	{
 		"or": "Vote yes",
-		"tr": "Stem ja"
+		"tr": "'Ja' stemmen"
 	},
 	{
 		"or": "Voting",
@@ -1066,15 +1228,20 @@
 	},
 	{
 		"or": "Wait for current vote to end before calling a new one.",
-		"tr": "Wacht voor totdat de huidige stem beëindigd is voordat je een nieuwe aanmaakt"
+		"tr": "Wacht totdat de huidige stemming is afgerond voordat je een nieuwe stemming opent."
 	},
 	{
 		"or": "Wait for next round",
-		"tr": "Wachten voor volgende ronde"
+		"tr": "Wachten op volgende ronde"
 	},
 	{
 		"or": "Warmup",
 		"tr": "Opwarmen"
+	},
+	{
+		"context": "Watching '(gametype)' on '(map)'",
+		"or": "Watching '%s' on '%s'",
+		"tr": "Bekijkt '%s' op '%s'"
 	},
 	{
 		"or": "Weapon",
@@ -1083,6 +1250,14 @@
 	{
 		"or": "Welcome to Teeworlds",
 		"tr": "Welkom bij Teeworlds"
+	},
+	{
+		"or": "When ready, press <%s>",
+		"tr": "Als je er klaar voor bent, druk dan op <%s>"
+	},
+	{
+		"or": "Whisper",
+		"tr": "Fluisteren"
 	},
 	{
 		"or": "Yes",
@@ -1094,17 +1269,35 @@
 		"tr": "Ja"
 	},
 	{
+		"or": "You must reconnect to change identity.",
+		"tr": "Je moet opnieuw verbinden om je identiteitswijziging toe te passen."
+	},
+	{
 		"or": "You must restart the game for all settings to take effect.",
-		"tr": "Je moet het spel herstarten voordat de veranderingen effect hebben."
+		"tr": "Je moet het spel herstarten om de instellingen toe te passen."
 	},
 	{
 		"or": "You must wait %d seconds before making another vote",
-		"tr": "Je moet %d seconden wachten voordat je opnieuw het stemmen kan starten"
+		"tr": "Je moet %d seconden wachten voordat je opnieuw kunt stemmen"
+	},
+	{
+		"or": "blue flag",
+		"tr": "blauwe vlag"
 	},
 	{
 		"context": "'X joined the <blue team>' (server message)",
 		"or": "blue team",
-		"tr": "Blauwe team"
+		"tr": "blauwe team"
+	},
+	{
+		"context": "Show chat messages from:",
+		"or": "everyone",
+		"tr": "iedereen"
+	},
+	{
+		"context": "Show chat messages from:",
+		"or": "friends only",
+		"tr": "alleen vrienden"
 	},
 	{
 		"context": "'X joined the <game>' (server message)",
@@ -1113,12 +1306,21 @@
 	},
 	{
 		"or": "locked",
-		"tr": "Gesloten"
+		"tr": "vastgesteld"
+	},
+	{
+		"context": "Show chat messages from:",
+		"or": "no one",
+		"tr": "niemand"
 	},
 	{
 		"context": "server browser message",
 		"or": "no players",
 		"tr": "geen spelers"
+	},
+	{
+		"or": "red flag",
+		"tr": "rode vlag"
 	},
 	{
 		"context": "'X joined the <red team>' (server message)",
@@ -1128,11 +1330,11 @@
 	{
 		"context": "'X joined the <spectators>' (server message)",
 		"or": "spectators",
-		"tr": "toekijkers"
+		"tr": "toeschouwers"
 	},
 	{
 		"or": "wait for more players",
-		"tr": "wacht voor meer spelers"
+		"tr": "wachten op meer spelers"
 	}
 ]
 }

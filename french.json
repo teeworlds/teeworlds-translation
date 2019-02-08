@@ -51,6 +51,10 @@
 		"tr": "%d joueurs ne sont pas prêts"
 	},
 	{
+		"or": "%d servers",
+		"tr": "%d serveurs"
+	},
+	{
 		"or": "%d servers, %d players",
 		"tr": "%d serveurs, %d joueurs"
 	},
@@ -235,6 +239,7 @@
 		"tr": "Voter"
 	},
 	{
+		"context": "Server difficulty",
 		"or": "Casual",
 		"tr": "Détendu"
 	},
@@ -276,6 +281,7 @@
 		"tr": "Version compatible"
 	},
 	{
+		"context": "Server difficulty",
 		"or": "Competitive",
 		"tr": "Compétitif"
 	},
@@ -336,10 +342,6 @@
 		"tr": "Personnaliser"
 	},
 	{
-		"or": "D",
-		"tr": "D"
-	},
-	{
 		"or": "Delete",
 		"tr": "Supprimer"
 	},
@@ -374,6 +376,10 @@
 	{
 		"or": "Difficulty",
 		"tr": "Niveau"
+	},
+	{
+		"or": "Difficulty:",
+		"tr": "Niveau :"
 	},
 	{
 		"or": "Disconnect",
@@ -476,6 +482,10 @@
 		"tr": "Type de jeu"
 	},
 	{
+		"or": "Game type:",
+		"tr": "Type de jeu :"
+	},
+	{
 		"or": "Game types:",
 		"tr": "Types de jeu :"
 	},
@@ -561,10 +571,6 @@
 		"tr": "Sauter"
 	},
 	{
-		"or": "K",
-		"tr": "K"
-	},
-	{
 		"or": "Kick player",
 		"tr": "Exclure un joueur"
 	},
@@ -617,6 +623,10 @@
 		"tr": "Carte"
 	},
 	{
+		"or": "Map:",
+		"tr": "Carte :"
+	},
+	{
 		"or": "Markers",
 		"tr": "Repères"
 	},
@@ -640,10 +650,6 @@
 	{
 		"or": "Misc",
 		"tr": "Divers"
-	},
-	{
-		"or": "Mouse sens.",
-		"tr": "Sensib. souris"
 	},
 	{
 		"or": "Move left",
@@ -715,6 +721,7 @@
 		"tr": "Aucun serveur ne correspond à vos critères"
 	},
 	{
+		"context": "Server difficulty",
 		"or": "Normal",
 		"tr": "Normal"
 	},
@@ -1200,6 +1207,10 @@
 	{
 		"or": "Version",
 		"tr": "Version"
+	},
+	{
+		"or": "Version:",
+		"tr": "Version :"
 	},
 	{
 		"or": "Volume",

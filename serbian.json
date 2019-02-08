@@ -247,6 +247,7 @@
 		"tr": "Kompatibilna verzija"
 	},
 	{
+		"context": "Server difficulty",
 		"or": "Competitive",
 		"tr": "Takmičarski"
 	},
@@ -579,10 +580,6 @@
 	{
 		"or": "Misc",
 		"tr": "Razno"
-	},
-	{
-		"or": "Mouse sens.",
-		"tr": "Osetljivost miša"
 	},
 	{
 		"or": "Move left",

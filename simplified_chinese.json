@@ -206,6 +206,7 @@
 		"tr": "发起投票"
 	},
 	{
+		"context": "Server difficulty",
 		"or": "Casual",
 		"tr": "随意"
 	},
@@ -247,6 +248,7 @@
 		"tr": "兼容版本"
 	},
 	{
+		"context": "Server difficulty",
 		"or": "Competitive",
 		"tr": "可对战"
 	},
@@ -301,10 +303,6 @@
 	{
 		"or": "Customize",
 		"tr": "自定义"
-	},
-	{
-		"or": "D",
-		"tr": "死亡"
 	},
 	{
 		"or": "Delete",
@@ -520,10 +518,6 @@
 		"tr": "跳跃"
 	},
 	{
-		"or": "K",
-		"tr": "杀敌"
-	},
-	{
 		"or": "Kick player",
 		"tr": "踢除玩家"
 	},
@@ -591,10 +585,6 @@
 	{
 		"or": "Misc",
 		"tr": "其他"
-	},
-	{
-		"or": "Mouse sens.",
-		"tr": "鼠标灵敏度"
 	},
 	{
 		"or": "Move left",
@@ -666,6 +656,7 @@
 		"tr": "没有服务器匹配你的过滤器"
 	},
 	{
+		"context": "Server difficulty",
 		"or": "Normal",
 		"tr": "普通"
 	},

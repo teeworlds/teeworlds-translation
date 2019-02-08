@@ -111,12 +111,20 @@
 		"tr": "Aggiungi"
 	},
 	{
+		"or": "Add clan",
+		"tr": "Aggiungi clan"
+	},
+	{
 		"or": "Add demo marker",
-		"tr": "Aggiungi segno nella demo"
+		"tr": "Aggiungi indicatore nella demo"
 	},
 	{
 		"or": "Add friend",
 		"tr": "Aggiungi amico"
+	},
+	{
+		"or": "Add friend/clan",
+		"tr": "Aggiungi amico/clan"
 	},
 	{
 		"or": "Address",
@@ -167,6 +175,10 @@
 		"tr": "Sicuro di voler chiudere il gioco?"
 	},
 	{
+		"or": "Are you sure that you want to remove the filter from the server browser?",
+		"tr": "Sei sicuro di voler rimuovere il filtro dalla ricerca dei server?"
+	},
+	{
 		"or": "Are you sure that you want to remove the player from your friends list?",
 		"tr": "Sicuro di voler rimuovere il giocatore dalla lista di amici?"
 	},
@@ -211,6 +223,11 @@
 		"tr": "Vota"
 	},
 	{
+		"context": "Server difficulty",
+		"or": "Casual",
+		"tr": "Casuale"
+	},
+	{
 		"or": "Change settings",
 		"tr": "Cambia opzioni"
 	},
@@ -246,6 +263,11 @@
 	{
 		"or": "Compatible version",
 		"tr": "Versione compatibile"
+	},
+	{
+		"context": "Server difficulty",
+		"or": "Competitive",
+		"tr": "Competitivo"
 	},
 	{
 		"or": "Connect",
@@ -302,10 +324,6 @@
 	{
 		"or": "Customize",
 		"tr": "Personalizza"
-	},
-	{
-		"or": "D",
-		"tr": "D"
 	},
 	{
 		"or": "Delete",
@@ -529,10 +547,6 @@
 		"tr": "Salta"
 	},
 	{
-		"or": "K",
-		"tr": "K"
-	},
-	{
 		"or": "Kick player",
 		"tr": "Caccia giocatore"
 	},
@@ -585,6 +599,10 @@
 		"tr": "Mappa"
 	},
 	{
+		"or": "Markers",
+		"tr": "Indicatori"
+	},
+	{
 		"context": "rounds (scoreboard)",
 		"or": "Match",
 		"tr": "Partita"
@@ -604,10 +622,6 @@
 	{
 		"or": "Misc",
 		"tr": "Misc"
-	},
-	{
-		"or": "Mouse sens.",
-		"tr": "Sensibilità"
 	},
 	{
 		"or": "Move left",
@@ -677,6 +691,11 @@
 	{
 		"or": "No servers match your filter criteria",
 		"tr": "Nessun server corrisponde ai tuoi criteri di ricerca"
+	},
+	{
+		"context": "Server difficulty",
+		"or": "Normal",
+		"tr": "Normale"
 	},
 	{
 		"or": "Normal:",
@@ -828,6 +847,10 @@
 	{
 		"or": "Remove",
 		"tr": "Elimina"
+	},
+	{
+		"or": "Remove filter",
+		"tr": "Rimuovi filtro"
 	},
 	{
 		"or": "Remove friend",
@@ -1090,6 +1113,14 @@
 		"tr": "Compressione texture"
 	},
 	{
+		"or": "The %s was captured by '%s'",
+		"tr": "La %s è stata catturata da '%s'"
+	},
+	{
+		"or": "The %s was captured by '%s' (%.2f seconds)",
+		"tr": "La %s è stata catturata da '%s' (%.2f secondi)"
+	},
+	{
 		"or": "The audio device couldn't be initialised.",
 		"tr": "Il dispositivo audio non può essere inizializzato."
 	},
@@ -1211,6 +1242,10 @@
 		"tr": "Benvenuto su Teeworlds"
 	},
 	{
+		"or": "When ready, press <%s>",
+		"tr": "Appena pronto, premi <%s>"
+	},
+	{
 		"or": "Whisper",
 		"tr": "Sussura"
 	},
@@ -1222,6 +1257,10 @@
 		"context": "With",
 		"or": "Yes",
 		"tr": "Sì"
+	},
+	{
+		"or": "You must reconnect to change identity.",
+		"tr": "Devi riconnetterti per poter cambiare i dati."
 	},
 	{
 		"or": "You must restart the game for all settings to take effect.",

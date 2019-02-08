@@ -303,10 +303,6 @@
 		"tr": "Dostosuj "
 	},
 	{
-		"or": "D",
-		"tr": "D"
-	},
-	{
 		"or": "Delete",
 		"tr": "Usuń"
 	},
@@ -528,10 +524,6 @@
 		"tr": "Skok"
 	},
 	{
-		"or": "K",
-		"tr": "K"
-	},
-	{
 		"or": "Kick player",
 		"tr": "Wyrzuć gracza"
 	},
@@ -603,10 +595,6 @@
 	{
 		"or": "Misc",
 		"tr": "Różne"
-	},
-	{
-		"or": "Mouse sens.",
-		"tr": "Czułość myszy"
 	},
 	{
 		"or": "Move left",

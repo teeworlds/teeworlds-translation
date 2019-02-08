@@ -11,6 +11,10 @@
 		"tr": "%.3f KiB"
 	},
 	{
+		"or": "%d other players",
+		"tr": "%d cluicheadair(ean) eile"
+	},
+	{
 		"or": "%d player left",
 		"tr": "Dh’fhalbh %d chluicheadair"
 	},
@@ -99,8 +103,20 @@
 		"tr": "Cuir ris"
 	},
 	{
+		"or": "Add clan",
+		"tr": "Cuir cinneadh ris"
+	},
+	{
 		"or": "Add demo marker",
 		"tr": "Cuir comharra demo ris"
+	},
+	{
+		"or": "Add friend",
+		"tr": "Cuir caraid ris"
+	},
+	{
+		"or": "Add friend/clan",
+		"tr": "Cuir caraid/cinneadh ris"
 	},
 	{
 		"or": "Address",
@@ -151,6 +167,10 @@
 		"tr": "A bheil thu cinnteach gu bheil thu airson fàgail?"
 	},
 	{
+		"or": "Are you sure that you want to remove the filter from the server browser?",
+		"tr": "A bheil thu cinnteach gu bheil thu airson a’ chriathrag a thoirt air falbh o brabhsair nam frithealaichean?"
+	},
+	{
 		"or": "Are you sure that you want to remove the player from your friends list?",
 		"tr": "A bheil thu cinnteach gu bheil thu airson an cluicheadair seo a thoirt air falbh o liosta nan caraidean agad?"
 	},
@@ -195,6 +215,11 @@
 		"tr": "Leig gu bhòt"
 	},
 	{
+		"context": "Server difficulty",
+		"or": "Casual",
+		"tr": "Furasta"
+	},
+	{
 		"or": "Change settings",
 		"tr": "Atharraich na roghainnean"
 	},
@@ -205,6 +230,15 @@
 	{
 		"or": "Clan",
 		"tr": "Cinneadh"
+	},
+	{
+		"context": "clear gametype filters",
+		"or": "Clear",
+		"tr": "Falamhaich"
+	},
+	{
+		"or": "Click on a player or a flag to follow it",
+		"tr": "Briog air cluicheadair no bratach airson a leantainn"
 	},
 	{
 		"or": "Client",
@@ -221,6 +255,11 @@
 	{
 		"or": "Compatible version",
 		"tr": "Tionndadh co-chòrdail"
+	},
+	{
+		"context": "Server difficulty",
+		"or": "Competitive",
+		"tr": "Farpaiseach"
 	},
 	{
 		"or": "Connect",
@@ -251,12 +290,20 @@
 		"tr": "Dùthaich"
 	},
 	{
+		"or": "Country:",
+		"tr": "Dùthaich:"
+	},
+	{
 		"or": "Crc",
 		"tr": "Crc"
 	},
 	{
 		"or": "Created",
 		"tr": "Air a chruthachadh"
+	},
+	{
+		"or": "Current: %dx%d (%d:%d)",
+		"tr": "Làithreach: %dx%d (%d:%d)"
 	},
 	{
 		"or": "Custom",
@@ -303,6 +350,10 @@
 		"tr": "Mion-fiosrachadh"
 	},
 	{
+		"or": "Difficulty",
+		"tr": "Duilgheas"
+	},
+	{
 		"or": "Disconnect",
 		"tr": "Dì-cheangail"
 	},
@@ -329,6 +380,10 @@
 	{
 		"or": "Emoticon",
 		"tr": "Samhla-gnùis"
+	},
+	{
+		"or": "Enable colored server broadcasts",
+		"tr": "Cuir an comas craoladh dathte nam frithealaichean"
 	},
 	{
 		"or": "Enter",
@@ -379,6 +434,10 @@
 		"tr": "Fiosrachadh mun gheama"
 	},
 	{
+		"or": "Game options",
+		"tr": "Roghainnean a’ gheama"
+	},
+	{
 		"or": "Game over",
 		"tr": "Crìoch a’ gheama"
 	},
@@ -421,6 +480,10 @@
 	{
 		"or": "Has people playing",
 		"tr": "Tha daoine a’ cluich air"
+	},
+	{
+		"or": "Hide bots",
+		"tr": "Falaich na botaichean"
 	},
 	{
 		"or": "High Detail",
@@ -504,6 +567,10 @@
 		"tr": "Cuingich na FPS"
 	},
 	{
+		"or": "Load the sound system",
+		"tr": "Luchdaich an siostam fuaime"
+	},
+	{
 		"or": "Loading",
 		"tr": "’Ga luchdadh"
 	},
@@ -522,6 +589,10 @@
 	{
 		"or": "Map",
 		"tr": "Mapa"
+	},
+	{
+		"or": "Markers",
+		"tr": "Comharran"
 	},
 	{
 		"context": "rounds (scoreboard)",
@@ -545,10 +616,6 @@
 		"tr": "Measgaichte"
 	},
 	{
-		"or": "Mouse sens.",
-		"tr": "Mothalachd na luchaige"
-	},
-	{
 		"or": "Move left",
 		"tr": "Gluais dhan taobh chlì"
 	},
@@ -565,6 +632,10 @@
 		"tr": "Gluasad"
 	},
 	{
+		"or": "Mute broadcasts",
+		"tr": "Mùch na craolaidhean"
+	},
+	{
 		"or": "Mute when not active",
 		"tr": "Mùch mur eil e gnìomhach"
 	},
@@ -575,6 +646,10 @@
 	{
 		"or": "Netversion",
 		"tr": "Tionndadh an lìonraidh"
+	},
+	{
+		"or": "New filter",
+		"tr": "Criathrag ùr"
 	},
 	{
 		"or": "Next weapon",
@@ -610,12 +685,30 @@
 		"tr": "Chan eil frithealaiche a’ freagairt ris na lorg thu"
 	},
 	{
+		"context": "Server difficulty",
+		"or": "Normal",
+		"tr": "Àbhaisteach"
+	},
+	{
 		"or": "Normal:",
 		"tr": "Àbhaisteach:"
 	},
 	{
+		"context": "friends (server browser)",
+		"or": "Offline (%d)",
+		"tr": "Far loidhne (%d)"
+	},
+	{
 		"or": "Ok",
 		"tr": "Ceart ma-thà"
+	},
+	{
+		"or": "Online clanmates (%d)",
+		"tr": "Do cuideachd air loidhne (%d)"
+	},
+	{
+		"or": "Online players (%d)",
+		"tr": "Cluicheadairean air loidhne (%d)"
 	},
 	{
 		"or": "Only %d active players are allowed",
@@ -624,6 +717,10 @@
 	{
 		"or": "Open",
 		"tr": "Fosgail"
+	},
+	{
+		"or": "Option",
+		"tr": "Roghainn"
 	},
 	{
 		"or": "Other",
@@ -677,6 +774,11 @@
 	{
 		"or": "Players",
 		"tr": "Cluich."
+	},
+	{
+		"context": "Playing '(gametype)' on '(map)'",
+		"or": "Playing '%s' on '%s'",
+		"tr": "A’ cluich “%s” air “'%s”"
 	},
 	{
 		"or": "Please balance teams!",
@@ -737,6 +839,10 @@
 	{
 		"or": "Remove",
 		"tr": "Thoir air falbh"
+	},
+	{
+		"or": "Remove filter",
+		"tr": "Thoir a’ chriathrag air falbh"
 	},
 	{
 		"or": "Remove friend",
@@ -879,6 +985,10 @@
 		"tr": "Seall nithean sòisealta"
 	},
 	{
+		"or": "Show user IDs",
+		"tr": "Seall IDan nan cleachdaichean"
+	},
+	{
 		"or": "Size",
 		"tr": "Meud"
 	},
@@ -995,12 +1105,24 @@
 		"tr": "Dùmhlachadh nan inneach"
 	},
 	{
+		"or": "The %s was captured by '%s'",
+		"tr": "Chaidh %s a ghlacadh le “%s”"
+	},
+	{
+		"or": "The %s was captured by '%s' (%.2f seconds)",
+		"tr": "Chaidh %s a ghlacadh le “%s” (%.2f diog(an))"
+	},
+	{
 		"or": "The audio device couldn't be initialised.",
 		"tr": "Cha b’ urrainn dhuinn uidheam-fuaime a thòiseachadh."
 	},
 	{
 		"or": "The server is running a non-standard tuning on a pure game type.",
 		"tr": "Cha am frithealaiche a’ ruith gleus nach eil stannardach air seòrsa geama amh."
+	},
+	{
+		"or": "Theme",
+		"tr": "Ùrlar"
 	},
 	{
 		"or": "There's an unsaved map in the editor, you might want to save it before you quit the game.",
@@ -1099,12 +1221,21 @@
 		"tr": "Blàthachadh"
 	},
 	{
+		"context": "Watching '(gametype)' on '(map)'",
+		"or": "Watching '%s' on '%s'",
+		"tr": "A’ coimhead air “%s” air “'%s”"
+	},
+	{
 		"or": "Weapon",
 		"tr": "Arm"
 	},
 	{
 		"or": "Welcome to Teeworlds",
 		"tr": "Fàilte gu Teeworlds"
+	},
+	{
+		"or": "When ready, press <%s>",
+		"tr": "Nuair a bhios tu deiseil. brùth air <%s>"
 	},
 	{
 		"or": "Whisper",
@@ -1118,6 +1249,10 @@
 		"context": "With",
 		"or": "Yes",
 		"tr": "Tha"
+	},
+	{
+		"or": "You must reconnect to change identity.",
+		"tr": "Feumaidh tu ceangal às ùr airson do dhearbh-aithne atharrachadh."
 	},
 	{
 		"or": "You must restart the game for all settings to take effect.",

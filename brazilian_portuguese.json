@@ -25,7 +25,7 @@
 	},
 	{
 		"or": "%d other players",
-		"tr": "%doutros jogadores"
+		"tr": "%d outros jogadores"
 	},
 	{
 		"or": "%d player left",
@@ -228,6 +228,7 @@
 		"tr": "Votar"
 	},
 	{
+		"context": "Server difficulty",
 		"or": "Casual",
 		"tr": "Casual"
 	},
@@ -269,6 +270,7 @@
 		"tr": "Versão compatível"
 	},
 	{
+		"context": "Server difficulty",
 		"or": "Competitive",
 		"tr": "Competitivo"
 	},
@@ -327,10 +329,6 @@
 	{
 		"or": "Customize",
 		"tr": "Personalizar"
-	},
-	{
-		"or": "D",
-		"tr": "D"
 	},
 	{
 		"or": "Delete",
@@ -554,10 +552,6 @@
 		"tr": "Pular"
 	},
 	{
-		"or": "K",
-		"tr": "K"
-	},
-	{
 		"or": "Kick player",
 		"tr": "Expulsar jogador"
 	},
@@ -635,10 +629,6 @@
 		"tr": "Diversos"
 	},
 	{
-		"or": "Mouse sens.",
-		"tr": "Sens. do mouse"
-	},
-	{
 		"or": "Move left",
 		"tr": "Esquerda"
 	},
@@ -708,6 +698,7 @@
 		"tr": "Nenhum servidor corresponde aos critérios do filtro"
 	},
 	{
+		"context": "Server difficulty",
 		"or": "Normal",
 		"tr": "Normal"
 	},

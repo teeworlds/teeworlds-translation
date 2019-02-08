@@ -251,6 +251,7 @@
 		"tr": "Kompitabel versjon"
 	},
 	{
+		"context": "Server difficulty",
 		"or": "Competitive",
 		"tr": "Competitive"
 	},
@@ -524,10 +525,6 @@
 		"tr": "Hopp"
 	},
 	{
-		"or": "K",
-		"tr": "K"
-	},
-	{
 		"or": "Kick player",
 		"tr": "Kast ut spiller"
 	},
@@ -601,10 +598,6 @@
 		"tr": "Diverse"
 	},
 	{
-		"or": "Mouse sens.",
-		"tr": "Mushastighet"
-	},
-	{
 		"or": "Move left",
 		"tr": "Beveg til venstre"
 	},
@@ -666,6 +659,7 @@
 		"tr": "Ingen servere tilsvarer dine filter kriterier"
 	},
 	{
+		"context": "Server difficulty",
 		"or": "Normal",
 		"tr": "Normal"
 	},

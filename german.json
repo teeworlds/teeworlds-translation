@@ -37,7 +37,7 @@
 	},
 	{
 		"or": "%d other players",
-		"tr": "%dandere Spieler"
+		"tr": "%d andere Spieler"
 	},
 	{
 		"or": "%d player left",
@@ -240,6 +240,7 @@
 		"tr": "Abstimmen"
 	},
 	{
+		"context": "Server difficulty",
 		"or": "Casual",
 		"tr": "Gelegenheitsspiel"
 	},
@@ -262,7 +263,7 @@
 	},
 	{
 		"or": "Click on a player or a flag to follow it",
-		"tr": "Zum Folgen, klicke auf einen Spieler order eine Flagge"
+		"tr": "Zum Folgen, klicke auf einen Spieler oder eine Flagge"
 	},
 	{
 		"or": "Client",
@@ -281,6 +282,7 @@
 		"tr": "Kompatible Version"
 	},
 	{
+		"context": "Server difficulty",
 		"or": "Competitive",
 		"tr": "Wettkampf"
 	},
@@ -339,10 +341,6 @@
 	{
 		"or": "Customize",
 		"tr": "Anpassen"
-	},
-	{
-		"or": "D",
-		"tr": "D"
 	},
 	{
 		"or": "Delete",
@@ -566,10 +564,6 @@
 		"tr": "Springen"
 	},
 	{
-		"or": "K",
-		"tr": "K"
-	},
-	{
 		"or": "Kick player",
 		"tr": "Spieler hinauswerfen"
 	},
@@ -622,6 +616,10 @@
 		"tr": "Karte"
 	},
 	{
+		"or": "Markers",
+		"tr": "Zeitmarker"
+	},
+	{
 		"context": "rounds (scoreboard)",
 		"or": "Match",
 		"tr": "Spiel"
@@ -641,10 +639,6 @@
 	{
 		"or": "Misc",
 		"tr": "Verschiedenes"
-	},
-	{
-		"or": "Mouse sens.",
-		"tr": "Maus-Empfindlichkeit"
 	},
 	{
 		"or": "Move left",
@@ -716,6 +710,7 @@
 		"tr": "Kein Server entspricht deiner Suche"
 	},
 	{
+		"context": "Server difficulty",
 		"or": "Normal",
 		"tr": "Normal"
 	},
@@ -1279,6 +1274,10 @@
 		"context": "With",
 		"or": "Yes",
 		"tr": "Ja"
+	},
+	{
+		"or": "You must reconnect to change identity.",
+		"tr": "Sie müssen sich neu verbinden, um Ihre Identität zu ändern."
 	},
 	{
 		"or": "You must restart the game for all settings to take effect.",
