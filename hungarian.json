@@ -24,12 +24,20 @@
 		"tr": "%d játékos még nem áll készen"
 	},
 	{
+		"or": "%d players",
+		"tr": "%d játékos"
+	},
+	{
 		"or": "%d players left",
 		"tr": "%d játékos kilépett"
 	},
 	{
 		"or": "%d players not ready",
 		"tr": "%d játékosok még nem állnak készen"
+	},
+	{
+		"or": "%d servers",
+		"tr": "%d szerver"
 	},
 	{
 		"or": "%d servers, %d players",
@@ -65,31 +73,31 @@
 	},
 	{
 		"or": "'%2d: %s' joined the %s",
-		"tr": "'%2d: %s' csatlakozott a %s"
+		"tr": "%2d: %s csatlakozott a %s"
 	},
 	{
 		"or": "'%s' called for vote to kick '%s' (%s)",
-		"tr": "'%s' szavazást indított '%s' kirúgása érdekében (%s)"
+		"tr": "%s szavazást indított %s kirúgása érdekében (%s)"
 	},
 	{
 		"or": "'%s' called for vote to move '%s' to spectators (%s)",
-		"tr": "'%s' szavazást indított '%s' nézők közé helyezése érdekében (%s)"
+		"tr": "%s szavazást indított %s nézők közé helyezése érdekében (%s)"
 	},
 	{
 		"or": "'%s' called vote to change server option '%s' (%s)",
-		"tr": "'%s' szavazást indított hogy megváltoztassa a szerver beállításait '%s' ('%s')"
+		"tr": "%s szavazást indított hogy megváltoztassa a szerver beállításait '%s' (%s)"
 	},
 	{
 		"or": "'%s' entered and joined the %s",
-		"tr": "'%s' belépett és csatlakozott a %s"
+		"tr": "%s belépett és csatlakozott a %s"
 	},
 	{
 		"or": "'%s' has left the game",
-		"tr": "'%s' elhagyta a játékot"
+		"tr": "%s elhagyta a játékot"
 	},
 	{
 		"or": "'%s' has left the game (%s)",
-		"tr": "'%s' elhagyta a játékot (%s)"
+		"tr": "%s elhagyta a játékot (%s)"
 	},
 	{
 		"or": "-Page %d-",
@@ -125,7 +133,7 @@
 	},
 	{
 		"or": "Admin forced server option '%s' (%s)",
-		"tr": "Admin átállította a szerver beállításait '%s' (%s)"
+		"tr": "Admin átállította a szerver beállításait %s (%s)"
 	},
 	{
 		"or": "Admin forced vote no",
@@ -137,11 +145,15 @@
 	},
 	{
 		"or": "Admin moved '%s' to spectator (%s)",
-		"tr": "Admin '%s'-t a nézők közé helyezte (%s)"
+		"tr": "Admin %s-t a nézők közé helyezte (%s)"
 	},
 	{
 		"or": "All",
 		"tr": "Mindenki"
+	},
+	{
+		"or": "All players were moved to the %s",
+		"tr": "Összes játékos áthelyezése ide: %s"
 	},
 	{
 		"or": "Alp:",
@@ -193,7 +205,7 @@
 	},
 	{
 		"or": "Automatically take game over screenshot",
-		"tr": "Automatikusan képernyőkép készítése a játék végén"
+		"tr": "Képernyőkép készítése a játék végén automatikusan"
 	},
 	{
 		"or": "Back",
@@ -226,6 +238,11 @@
 	{
 		"or": "Clan",
 		"tr": "Klán"
+	},
+	{
+		"context": "clear gametype filters",
+		"or": "Clear",
+		"tr": "Törlés"
 	},
 	{
 		"or": "Click on a player or a flag to follow it",
@@ -326,7 +343,7 @@
 	},
 	{
 		"or": "Demo details",
-		"tr": "Információk a demóról"
+		"tr": "Demó részletei"
 	},
 	{
 		"or": "Demofile: %s",
@@ -343,6 +360,10 @@
 	{
 		"or": "Difficulty",
 		"tr": "Nehézség"
+	},
+	{
+		"or": "Difficulty:",
+		"tr": "Nehézség:"
 	},
 	{
 		"or": "Disconnect",
@@ -371,6 +392,10 @@
 	{
 		"or": "Emoticon",
 		"tr": "Hangulatjel"
+	},
+	{
+		"or": "Enable colored server broadcasts",
+		"tr": "Színes játékon belüli adások engedélyezése"
 	},
 	{
 		"or": "Enter",
@@ -441,8 +466,12 @@
 		"tr": "Játék fajtája"
 	},
 	{
+		"or": "Game type:",
+		"tr": "Játéktípus:"
+	},
+	{
 		"or": "Game types:",
-		"tr": "Játék fajtái:"
+		"tr": "Játékfajták:"
 	},
 	{
 		"or": "General",
@@ -486,7 +515,11 @@
 	},
 	{
 		"or": "Hue:",
-		"tr": "Színárnyalat:"
+		"tr": "Árnyalat"
+	},
+	{
+		"or": "Ingame mouse sens.",
+		"tr": "Egér érzékenysége játékban"
 	},
 	{
 		"or": "Invalid Demo",
@@ -515,11 +548,11 @@
 	},
 	{
 		"or": "Joined blue",
-		"tr": "Csatlakozva a kékekhez"
+		"tr": "Kékhez lépve"
 	},
 	{
 		"or": "Joined red",
-		"tr": "Csatlakozva a pirosakhoz"
+		"tr": "Piroshoz lépve"
 	},
 	{
 		"or": "Jump",
@@ -578,6 +611,14 @@
 		"tr": "Pálya"
 	},
 	{
+		"or": "Map:",
+		"tr": "Pálya:"
+	},
+	{
+		"or": "Markers",
+		"tr": "\"Könyvjelzők\""
+	},
+	{
 		"context": "rounds (scoreboard)",
 		"or": "Match",
 		"tr": "Meccs"
@@ -593,6 +634,10 @@
 	{
 		"or": "Maximum ping:",
 		"tr": "Maximum Ping:"
+	},
+	{
+		"or": "Menu mouse sens.",
+		"tr": "Egér érzékenysége menüben"
 	},
 	{
 		"or": "Misc",
@@ -699,7 +744,7 @@
 	},
 	{
 		"or": "Open",
-		"tr": "Megnyit"
+		"tr": "Megnyitás"
 	},
 	{
 		"or": "Option",
@@ -711,7 +756,7 @@
 	},
 	{
 		"or": "Parent Folder",
-		"tr": "Szülői mappa"
+		"tr": "Szülő mappa"
 	},
 	{
 		"or": "Password",
@@ -904,6 +949,10 @@
 		"tr": "Keresés:"
 	},
 	{
+		"or": "Server",
+		"tr": "Szerver"
+	},
+	{
 		"or": "Server address:",
 		"tr": "Szerver címe:"
 	},
@@ -965,7 +1014,7 @@
 	},
 	{
 		"or": "Show social",
-		"tr": "Chat, névtáblák mutatása"
+		"tr": "Chat, játékosnevek mutatása"
 	},
 	{
 		"or": "Show user IDs",
@@ -1033,7 +1082,7 @@
 	},
 	{
 		"or": "Stop record",
-		"tr": "Felvétel megállítása"
+		"tr": "Felvétel leállítása"
 	},
 	{
 		"or": "Sudden Death",
@@ -1089,11 +1138,11 @@
 	},
 	{
 		"or": "The %s was captured by '%s'",
-		"tr": "'%s' bevitte a %s-t"
+		"tr": "%s bevitte a %s"
 	},
 	{
 		"or": "The %s was captured by '%s' (%.2f seconds)",
-		"tr": "'%s' bevitte a %s (%.2f másodperc)"
+		"tr": "%s bevitte a %s (%.2f másodperc)"
 	},
 	{
 		"or": "The audio device couldn't be initialised.",
@@ -1140,6 +1189,10 @@
 		"tr": "A demó átnevezése nem lehetséges"
 	},
 	{
+		"or": "Use OS mouse acceleration",
+		"tr": "OS egér gyorsítás használata"
+	},
+	{
 		"or": "Use sounds",
 		"tr": "Hangok használata"
 	},
@@ -1154,6 +1207,10 @@
 	{
 		"or": "Version",
 		"tr": "Verzió"
+	},
+	{
+		"or": "Version:",
+		"tr": "Verzió:"
 	},
 	{
 		"or": "Volume",
@@ -1234,6 +1291,10 @@
 		"tr": "Igen"
 	},
 	{
+		"or": "You must reconnect to change identity.",
+		"tr": "Identitás megváltoztatásához újra kell lépned."
+	},
+	{
 		"or": "You must restart the game for all settings to take effect.",
 		"tr": "Újra kell indítani a játékot a beállítások érvénybelépéséhez."
 	},
@@ -1242,8 +1303,12 @@
 		"tr": "Várnod kell %d másodpercet új szavazás indítása előtt"
 	},
 	{
+		"or": "You were moved to %s due to team balancing",
+		"tr": "A csapatok kiegyenlítése céljából át lettél helyezve ide: %s"
+	},
+	{
 		"or": "blue flag",
-		"tr": "kék zászló"
+		"tr": "kék zászlót"
 	},
 	{
 		"context": "'X joined the <blue team>' (server message)",
@@ -1251,9 +1316,29 @@
 		"tr": "kék csapathoz"
 	},
 	{
+		"context": "skins",
+		"or": "body",
+		"tr": "test"
+	},
+	{
+		"context": "skins",
+		"or": "decoration",
+		"tr": "dekoráció"
+	},
+	{
 		"context": "Show chat messages from:",
 		"or": "everyone",
 		"tr": "mindenki"
+	},
+	{
+		"context": "skins",
+		"or": "eyes",
+		"tr": "szemek"
+	},
+	{
+		"context": "skins",
+		"or": "feet",
+		"tr": "lábak"
 	},
 	{
 		"context": "Show chat messages from:",
@@ -1266,8 +1351,18 @@
 		"tr": "játékhoz"
 	},
 	{
+		"context": "skins",
+		"or": "hands",
+		"tr": "kezek"
+	},
+	{
 		"or": "locked",
 		"tr": "lezárva"
+	},
+	{
+		"context": "skins",
+		"or": "marking",
+		"tr": "mintázat"
 	},
 	{
 		"context": "Show chat messages from:",
@@ -1281,7 +1376,7 @@
 	},
 	{
 		"or": "red flag",
-		"tr": "piros zászló"
+		"tr": "piros zászlót"
 	},
 	{
 		"context": "'X joined the <red team>' (server message)",
@@ -1291,7 +1386,7 @@
 	{
 		"context": "'X joined the <spectators>' (server message)",
 		"or": "spectators",
-		"tr": "nézők"
+		"tr": "nézőkhöz"
 	},
 	{
 		"or": "wait for more players",
