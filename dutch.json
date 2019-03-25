@@ -41,12 +41,20 @@
 		"tr": "%dspeler is nog niet klaar"
 	},
 	{
+		"or": "%d players",
+		"tr": "%d spelers"
+	},
+	{
 		"or": "%d players left",
 		"tr": "%d spelers over"
 	},
 	{
 		"or": "%d players not ready",
 		"tr": "%dspelers zijn nog niet klaar"
+	},
+	{
+		"or": "%d servers",
+		"tr": "%d servers"
 	},
 	{
 		"or": "%d servers, %d players",
@@ -159,6 +167,10 @@
 	{
 		"or": "All",
 		"tr": "Alle"
+	},
+	{
+		"or": "All players were moved to the %s",
+		"tr": "Alle spelers zijn verhuisd naar de %s"
 	},
 	{
 		"or": "Alp:",
@@ -372,6 +384,10 @@
 		"tr": "Moeilijkheidsgraad"
 	},
 	{
+		"or": "Difficulty:",
+		"tr": "Moeilijkheidsgraad:"
+	},
+	{
 		"or": "Disconnect",
 		"tr": "Verbinding verbreken"
 	},
@@ -472,6 +488,10 @@
 		"tr": "Speltype"
 	},
 	{
+		"or": "Game type:",
+		"tr": "Speltype:"
+	},
+	{
 		"or": "Game types:",
 		"tr": "Speltypes:"
 	},
@@ -518,6 +538,10 @@
 	{
 		"or": "Hue:",
 		"tr": "Kleurverloop:"
+	},
+	{
+		"or": "Ingame mouse sens.",
+		"tr": "Muissnelheid in het spel"
 	},
 	{
 		"or": "Invalid Demo",
@@ -609,6 +633,10 @@
 		"tr": "Kaart"
 	},
 	{
+		"or": "Map:",
+		"tr": "Kaart:"
+	},
+	{
 		"or": "Markers",
 		"tr": "Markeringen"
 	},
@@ -628,6 +656,10 @@
 	{
 		"or": "Maximum ping:",
 		"tr": "Hoogste ping:"
+	},
+	{
+		"or": "Menu mouse sens.",
+		"tr": "Muissnelheid in menu"
 	},
 	{
 		"or": "Misc",
@@ -939,6 +971,10 @@
 		"tr": "Zoeken:"
 	},
 	{
+		"or": "Server",
+		"tr": "Server"
+	},
+	{
 		"or": "Server address:",
 		"tr": "Serveradres:"
 	},
@@ -1175,6 +1211,10 @@
 		"tr": "Kan demonaam niet wijzigen"
 	},
 	{
+		"or": "Use OS mouse acceleration",
+		"tr": "Muisversnelling van systeem gebruiken"
+	},
+	{
 		"or": "Use sounds",
 		"tr": "Geluiden gebruiken"
 	},
@@ -1189,6 +1229,10 @@
 	{
 		"or": "Version",
 		"tr": "Versie"
+	},
+	{
+		"or": "Version:",
+		"tr": "Versie:"
 	},
 	{
 		"or": "Volume",
@@ -1281,6 +1325,10 @@
 		"tr": "Je moet %d seconden wachten voordat je opnieuw kunt stemmen"
 	},
 	{
+		"or": "You were moved to %s due to team balancing",
+		"tr": "Je bent overgezet naar %s vanwege de teambalans"
+	},
+	{
 		"or": "blue flag",
 		"tr": "blauwe vlag"
 	},
@@ -1290,9 +1338,29 @@
 		"tr": "blauwe team"
 	},
 	{
+		"context": "skins",
+		"or": "body",
+		"tr": "lichaam"
+	},
+	{
+		"context": "skins",
+		"or": "decoration",
+		"tr": "decoratie"
+	},
+	{
 		"context": "Show chat messages from:",
 		"or": "everyone",
 		"tr": "iedereen"
+	},
+	{
+		"context": "skins",
+		"or": "eyes",
+		"tr": "ogen"
+	},
+	{
+		"context": "skins",
+		"or": "feet",
+		"tr": "voeten"
 	},
 	{
 		"context": "Show chat messages from:",
@@ -1305,8 +1373,18 @@
 		"tr": "Spel"
 	},
 	{
+		"context": "skins",
+		"or": "hands",
+		"tr": "handen"
+	},
+	{
 		"or": "locked",
 		"tr": "vastgesteld"
+	},
+	{
+		"context": "skins",
+		"or": "marking",
+		"tr": "markering"
 	},
 	{
 		"context": "Show chat messages from:",

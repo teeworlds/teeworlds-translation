@@ -26,12 +26,20 @@
 		"tr": "%d играч не е готов"
 	},
 	{
+		"or": "%d players",
+		"tr": "%d играчи"
+	},
+	{
 		"or": "%d players left",
 		"tr": "%d играчи напуснаха"
 	},
 	{
 		"or": "%d players not ready",
 		"tr": "%d играчи не са готови"
+	},
+	{
+		"or": "%d servers",
+		"tr": "%d сървъра"
 	},
 	{
 		"or": "%d servers, %d players",
@@ -144,6 +152,10 @@
 	{
 		"or": "All",
 		"tr": "Всички"
+	},
+	{
+		"or": "All players were moved to the %s",
+		"tr": "Всички играчи бяха преместени в %s"
 	},
 	{
 		"or": "Alp:",
@@ -357,6 +369,10 @@
 		"tr": "Трудност"
 	},
 	{
+		"or": "Difficulty:",
+		"tr": "Трудност:"
+	},
+	{
 		"or": "Disconnect",
 		"tr": "Разкачане"
 	},
@@ -457,6 +473,10 @@
 		"tr": "Тип игра"
 	},
 	{
+		"or": "Game type:",
+		"tr": "Тип на играта:"
+	},
+	{
 		"or": "Game types:",
 		"tr": "Типове игри:"
 	},
@@ -503,6 +523,10 @@
 	{
 		"or": "Hue:",
 		"tr": "Тон:"
+	},
+	{
+		"or": "Ingame mouse sens.",
+		"tr": "Чувств. на мишката в игра"
 	},
 	{
 		"or": "Invalid Demo",
@@ -594,6 +618,10 @@
 		"tr": "Карта"
 	},
 	{
+		"or": "Map:",
+		"tr": "Карта:"
+	},
+	{
 		"or": "Markers",
 		"tr": "Отметки"
 	},
@@ -613,6 +641,10 @@
 	{
 		"or": "Maximum ping:",
 		"tr": "Макс. време за отговор:"
+	},
+	{
+		"or": "Menu mouse sens.",
+		"tr": "Чувств. на мишката в менютата"
 	},
 	{
 		"or": "Misc",
@@ -924,6 +956,10 @@
 		"tr": "Търсене:"
 	},
 	{
+		"or": "Server",
+		"tr": "Сървър"
+	},
+	{
 		"or": "Server address:",
 		"tr": "Адрес на сървъра:"
 	},
@@ -1160,6 +1196,10 @@
 		"tr": "Неуспешно преименуване на записа"
 	},
 	{
+		"or": "Use OS mouse acceleration",
+		"tr": "Използване на ускорението на мишката от ОС"
+	},
+	{
 		"or": "Use sounds",
 		"tr": "Използване на звуци"
 	},
@@ -1174,6 +1214,10 @@
 	{
 		"or": "Version",
 		"tr": "Версия"
+	},
+	{
+		"or": "Version:",
+		"tr": "Версия:"
 	},
 	{
 		"or": "Volume",
@@ -1266,6 +1310,10 @@
 		"tr": "Трябва да изчакате %d секунди, преди да поискате ново гласуване"
 	},
 	{
+		"or": "You were moved to %s due to team balancing",
+		"tr": "Вие бяхте преместен(а) в %s с цел балансиране на отборите"
+	},
+	{
 		"or": "blue flag",
 		"tr": "Синият флаг"
 	},
@@ -1275,9 +1323,29 @@
 		"tr": "син отбор"
 	},
 	{
+		"context": "skins",
+		"or": "body",
+		"tr": "тяло"
+	},
+	{
+		"context": "skins",
+		"or": "decoration",
+		"tr": "украса"
+	},
+	{
 		"context": "Show chat messages from:",
 		"or": "everyone",
 		"tr": "всички"
+	},
+	{
+		"context": "skins",
+		"or": "eyes",
+		"tr": "очи"
+	},
+	{
+		"context": "skins",
+		"or": "feet",
+		"tr": "крака"
 	},
 	{
 		"context": "Show chat messages from:",
@@ -1290,8 +1358,18 @@
 		"tr": "игра"
 	},
 	{
+		"context": "skins",
+		"or": "hands",
+		"tr": "ръце"
+	},
+	{
 		"or": "locked",
 		"tr": "заключено"
+	},
+	{
+		"context": "skins",
+		"or": "marking",
+		"tr": "оцветяване"
 	},
 	{
 		"context": "Show chat messages from:",

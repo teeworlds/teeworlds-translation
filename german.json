@@ -45,7 +45,11 @@
 	},
 	{
 		"or": "%d player not ready",
-		"tr": "%d Spieler nicht bereit"
+		"tr": "%d Spieler ist nicht bereit"
+	},
+	{
+		"or": "%d players",
+		"tr": "%d Spieler"
 	},
 	{
 		"or": "%d players left",
@@ -54,6 +58,10 @@
 	{
 		"or": "%d players not ready",
 		"tr": "%d Spieler sind nicht bereit"
+	},
+	{
+		"or": "%d servers",
+		"tr": "%d Server"
 	},
 	{
 		"or": "%d servers, %d players",
@@ -105,7 +113,7 @@
 	},
 	{
 		"or": "'%s' entered and joined the %s",
-		"tr": "'%s' betrat und trat %s bei"
+		"tr": "'%s' ist beigetreten und trat %s bei"
 	},
 	{
 		"or": "'%s' has left the game",
@@ -166,6 +174,10 @@
 	{
 		"or": "All",
 		"tr": "Alle"
+	},
+	{
+		"or": "All players were moved to the %s",
+		"tr": "Alle Spieler wurden in %s bewegt"
 	},
 	{
 		"or": "Alp:",
@@ -379,6 +391,10 @@
 		"tr": "Schwie­rig­keit"
 	},
 	{
+		"or": "Difficulty:",
+		"tr": "Schwierigkeitsgrad:"
+	},
+	{
 		"or": "Disconnect",
 		"tr": "Trennen"
 	},
@@ -479,6 +495,10 @@
 		"tr": "Spieltyp"
 	},
 	{
+		"or": "Game type:",
+		"tr": "Spieltyp:"
+	},
+	{
 		"or": "Game types:",
 		"tr": "Spieltypen:"
 	},
@@ -525,6 +545,10 @@
 	{
 		"or": "Hue:",
 		"tr": "Farbton:"
+	},
+	{
+		"or": "Ingame mouse sens.",
+		"tr": "Mausempfindlichkeit"
 	},
 	{
 		"or": "Invalid Demo",
@@ -616,6 +640,10 @@
 		"tr": "Karte"
 	},
 	{
+		"or": "Map:",
+		"tr": "Karte:"
+	},
+	{
 		"or": "Markers",
 		"tr": "Zeitmarker"
 	},
@@ -635,6 +663,10 @@
 	{
 		"or": "Maximum ping:",
 		"tr": "Maximaler Ping:"
+	},
+	{
+		"or": "Menu mouse sens.",
+		"tr": "Mausempfindlichkeit der Bedienoberfläche"
 	},
 	{
 		"or": "Misc",
@@ -946,6 +978,10 @@
 		"tr": "Suche:"
 	},
 	{
+		"or": "Server",
+		"tr": "Server"
+	},
+	{
 		"or": "Server address:",
 		"tr": "Serveradresse:"
 	},
@@ -1182,6 +1218,10 @@
 		"tr": "Aufnahme konnte nicht umbenannt werden"
 	},
 	{
+		"or": "Use OS mouse acceleration",
+		"tr": "Nutze Mausbeschleunigung vom Betriebssystem"
+	},
+	{
 		"or": "Use sounds",
 		"tr": "Ton aktivieren"
 	},
@@ -1196,6 +1236,10 @@
 	{
 		"or": "Version",
 		"tr": "Version"
+	},
+	{
+		"or": "Version:",
+		"tr": "Version:"
 	},
 	{
 		"or": "Volume",
@@ -1288,6 +1332,10 @@
 		"tr": "Du musst %d Sekunden warten, bevor du eine neue Abstimmung starten darfst"
 	},
 	{
+		"or": "You were moved to %s due to team balancing",
+		"tr": "Du wurdest in %s für den Team-Ausgleich verschoben"
+	},
+	{
 		"or": "blue flag",
 		"tr": "blaue Flagge"
 	},
@@ -1297,9 +1345,29 @@
 		"tr": "Team Blau"
 	},
 	{
+		"context": "skins",
+		"or": "body",
+		"tr": "Körper"
+	},
+	{
+		"context": "skins",
+		"or": "decoration",
+		"tr": "Dekorationen"
+	},
+	{
 		"context": "Show chat messages from:",
 		"or": "everyone",
 		"tr": "Allen"
+	},
+	{
+		"context": "skins",
+		"or": "eyes",
+		"tr": "Augen"
+	},
+	{
+		"context": "skins",
+		"or": "feet",
+		"tr": "Füße"
 	},
 	{
 		"context": "Show chat messages from:",
@@ -1312,8 +1380,18 @@
 		"tr": "dem Spiel"
 	},
 	{
+		"context": "skins",
+		"or": "hands",
+		"tr": "Hände"
+	},
+	{
 		"or": "locked",
 		"tr": "Gesperrt"
+	},
+	{
+		"context": "skins",
+		"or": "marking",
+		"tr": "Muster"
 	},
 	{
 		"context": "Show chat messages from:",

@@ -28,12 +28,20 @@
 		"tr": "%d jogador não preparado"
 	},
 	{
+		"or": "%d players",
+		"tr": "%d jogadores"
+	},
+	{
 		"or": "%d players left",
 		"tr": "Faltam %d jogadores"
 	},
 	{
 		"or": "%d players not ready",
 		"tr": "%d jogadores que não estão prontos"
+	},
+	{
+		"or": "%d servers",
+		"tr": "%d servidores"
 	},
 	{
 		"or": "%d servers, %d players",
@@ -146,6 +154,10 @@
 	{
 		"or": "All",
 		"tr": "Todos"
+	},
+	{
+		"or": "All players were moved to the %s",
+		"tr": "Todos os jogadores foram movidos para %s"
 	},
 	{
 		"or": "Alp:",
@@ -359,6 +371,10 @@
 		"tr": "Dificuldade"
 	},
 	{
+		"or": "Difficulty:",
+		"tr": "Dificuldade:"
+	},
+	{
 		"or": "Disconnect",
 		"tr": "Desconectar"
 	},
@@ -459,6 +475,10 @@
 		"tr": "Tipo de jogo"
 	},
 	{
+		"or": "Game type:",
+		"tr": "Tipo de jogo:"
+	},
+	{
 		"or": "Game types:",
 		"tr": "Tipos de jogo:"
 	},
@@ -505,6 +525,10 @@
 	{
 		"or": "Hue:",
 		"tr": "Matiz:"
+	},
+	{
+		"or": "Ingame mouse sens.",
+		"tr": "Sensibilidade do rato no jogo"
 	},
 	{
 		"or": "Invalid Demo",
@@ -596,6 +620,10 @@
 		"tr": "Mapa"
 	},
 	{
+		"or": "Map:",
+		"tr": "Mapa:"
+	},
+	{
 		"or": "Markers",
 		"tr": "Marcadores"
 	},
@@ -615,6 +643,10 @@
 	{
 		"or": "Maximum ping:",
 		"tr": "Ping máximo:"
+	},
+	{
+		"or": "Menu mouse sens.",
+		"tr": "Sensibilidade do rato em menus"
 	},
 	{
 		"or": "Misc",
@@ -926,6 +958,10 @@
 		"tr": "Pesquisar:"
 	},
 	{
+		"or": "Server",
+		"tr": "Servidor"
+	},
+	{
 		"or": "Server address:",
 		"tr": "Endereço do servidor:"
 	},
@@ -1162,6 +1198,10 @@
 		"tr": "Não foi possível renomear a demo"
 	},
 	{
+		"or": "Use OS mouse acceleration",
+		"tr": "Usar aceleração do rato do sistema operativo"
+	},
+	{
 		"or": "Use sounds",
 		"tr": "Usar sons"
 	},
@@ -1176,6 +1216,10 @@
 	{
 		"or": "Version",
 		"tr": "Versão"
+	},
+	{
+		"or": "Version:",
+		"tr": "Versão:"
 	},
 	{
 		"or": "Volume",
@@ -1268,6 +1312,10 @@
 		"tr": "Tens de esperar %d segundos antes de votar outra vez."
 	},
 	{
+		"or": "You were moved to %s due to team balancing",
+		"tr": "Foste movido para %s para equilibrar as equipas"
+	},
+	{
 		"or": "blue flag",
 		"tr": "bandeira azul"
 	},
@@ -1277,9 +1325,29 @@
 		"tr": "equipa azul"
 	},
 	{
+		"context": "skins",
+		"or": "body",
+		"tr": "corpo"
+	},
+	{
+		"context": "skins",
+		"or": "decoration",
+		"tr": "decoração"
+	},
+	{
 		"context": "Show chat messages from:",
 		"or": "everyone",
 		"tr": "toda a gente"
+	},
+	{
+		"context": "skins",
+		"or": "eyes",
+		"tr": "olhos"
+	},
+	{
+		"context": "skins",
+		"or": "feet",
+		"tr": "pés"
 	},
 	{
 		"context": "Show chat messages from:",
@@ -1292,8 +1360,18 @@
 		"tr": "jogo"
 	},
 	{
+		"context": "skins",
+		"or": "hands",
+		"tr": "mãos"
+	},
+	{
 		"or": "locked",
 		"tr": "bloqueado"
+	},
+	{
+		"context": "skins",
+		"or": "marking",
+		"tr": "marca"
 	},
 	{
 		"context": "Show chat messages from:",

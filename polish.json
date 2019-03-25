@@ -1228,9 +1228,29 @@
 		"tr": "drużyny niebieskich"
 	},
 	{
+		"context": "skins",
+		"or": "body",
+		"tr": "ciało"
+	},
+	{
+		"context": "skins",
+		"or": "decoration",
+		"tr": "dekoracja"
+	},
+	{
 		"context": "Show chat messages from:",
 		"or": "everyone",
 		"tr": "każdy"
+	},
+	{
+		"context": "skins",
+		"or": "eyes",
+		"tr": "oczy"
+	},
+	{
+		"context": "skins",
+		"or": "feet",
+		"tr": "stopy"
 	},
 	{
 		"context": "Show chat messages from:",
@@ -1243,8 +1263,18 @@
 		"tr": "gry"
 	},
 	{
+		"context": "skins",
+		"or": "hands",
+		"tr": "dłonie"
+	},
+	{
 		"or": "locked",
 		"tr": "zablokowane"
+	},
+	{
+		"context": "skins",
+		"or": "marking",
+		"tr": "oznakowanie"
 	},
 	{
 		"context": "Show chat messages from:",

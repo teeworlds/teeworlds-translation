@@ -1136,9 +1136,29 @@
 		"tr": "Синя команда"
 	},
 	{
+		"context": "skins",
+		"or": "body",
+		"tr": "Тіло"
+	},
+	{
+		"context": "skins",
+		"or": "decoration",
+		"tr": "Оздоблення"
+	},
+	{
 		"context": "Show chat messages from:",
 		"or": "everyone",
 		"tr": "кожного"
+	},
+	{
+		"context": "skins",
+		"or": "eyes",
+		"tr": "Очі"
+	},
+	{
+		"context": "skins",
+		"or": "feet",
+		"tr": "Ноги"
 	},
 	{
 		"context": "Show chat messages from:",
@@ -1151,8 +1171,18 @@
 		"tr": "гра"
 	},
 	{
+		"context": "skins",
+		"or": "hands",
+		"tr": "Руки"
+	},
+	{
 		"or": "locked",
 		"tr": "заблокований"
+	},
+	{
+		"context": "skins",
+		"or": "marking",
+		"tr": "Забарвлення"
 	},
 	{
 		"context": "Show chat messages from:",

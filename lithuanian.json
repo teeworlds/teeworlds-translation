@@ -1134,9 +1134,29 @@
 		"tr": "mėlyna komanda"
 	},
 	{
+		"context": "skins",
+		"or": "body",
+		"tr": "kūnas"
+	},
+	{
+		"context": "skins",
+		"or": "decoration",
+		"tr": "dekoracijos"
+	},
+	{
 		"context": "Show chat messages from:",
 		"or": "everyone",
 		"tr": "visi"
+	},
+	{
+		"context": "skins",
+		"or": "eyes",
+		"tr": "akys"
+	},
+	{
+		"context": "skins",
+		"or": "feet",
+		"tr": "kojos"
 	},
 	{
 		"context": "Show chat messages from:",
@@ -1149,8 +1169,18 @@
 		"tr": "žaidimas"
 	},
 	{
+		"context": "skins",
+		"or": "hands",
+		"tr": "rankos"
+	},
+	{
 		"or": "locked",
 		"tr": "užrakintas"
+	},
+	{
+		"context": "skins",
+		"or": "marking",
+		"tr": "žymėjimas"
 	},
 	{
 		"context": "Show chat messages from:",

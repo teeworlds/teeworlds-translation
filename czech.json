@@ -1020,6 +1020,11 @@
 		"tr": "všichni"
 	},
 	{
+		"context": "skins",
+		"or": "eyes",
+		"tr": "oči"
+	},
+	{
 		"context": "Show chat messages from:",
 		"or": "friends only",
 		"tr": "pouze přátelé"

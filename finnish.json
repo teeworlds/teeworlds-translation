@@ -1117,9 +1117,29 @@
 		"tr": "sininen joukkue"
 	},
 	{
+		"context": "skins",
+		"or": "body",
+		"tr": "vartalo"
+	},
+	{
+		"context": "skins",
+		"or": "decoration",
+		"tr": "koristeet"
+	},
+	{
 		"context": "Show chat messages from:",
 		"or": "everyone",
 		"tr": "kaikki"
+	},
+	{
+		"context": "skins",
+		"or": "eyes",
+		"tr": "silmät"
+	},
+	{
+		"context": "skins",
+		"or": "feet",
+		"tr": "jalat"
 	},
 	{
 		"context": "Show chat messages from:",
@@ -1132,8 +1152,18 @@
 		"tr": "peli"
 	},
 	{
+		"context": "skins",
+		"or": "hands",
+		"tr": "kädet"
+	},
+	{
 		"or": "locked",
 		"tr": "lukittu"
+	},
+	{
+		"context": "skins",
+		"or": "marking",
+		"tr": "tunnus"
 	},
 	{
 		"context": "Show chat messages from:",

@@ -205,7 +205,7 @@
 	},
 	{
 		"or": "Automatically take game over screenshot",
-		"tr": "Képernyőkép készítése a játék végén automatikusan"
+		"tr": "Automatikusan készítsen képernyőképet a játék végén"
 	},
 	{
 		"or": "Back",
@@ -463,11 +463,11 @@
 	},
 	{
 		"or": "Game type",
-		"tr": "Játék fajtája"
+		"tr": "Játékfajta"
 	},
 	{
 		"or": "Game type:",
-		"tr": "Játéktípus:"
+		"tr": "Játékfajta:"
 	},
 	{
 		"or": "Game types:",
@@ -785,7 +785,7 @@
 	{
 		"context": "DemoBrowser",
 		"or": "Play",
-		"tr": "Lejátszás"
+		"tr": "Játék"
 	},
 	{
 		"or": "Play background music",
@@ -1138,11 +1138,11 @@
 	},
 	{
 		"or": "The %s was captured by '%s'",
-		"tr": "%s bevitte a %s"
+		"tr": "A %s bevitte %s"
 	},
 	{
 		"or": "The %s was captured by '%s' (%.2f seconds)",
-		"tr": "%s bevitte a %s (%.2f másodperc)"
+		"tr": "A %s bevitte %s (%.2f másodperc)"
 	},
 	{
 		"or": "The audio device couldn't be initialised.",

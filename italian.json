@@ -1280,9 +1280,29 @@
 		"tr": "squadra blu"
 	},
 	{
+		"context": "skins",
+		"or": "body",
+		"tr": "corpo"
+	},
+	{
+		"context": "skins",
+		"or": "decoration",
+		"tr": "decorazione"
+	},
+	{
 		"context": "Show chat messages from:",
 		"or": "everyone",
 		"tr": "tutti"
+	},
+	{
+		"context": "skins",
+		"or": "eyes",
+		"tr": "occhi"
+	},
+	{
+		"context": "skins",
+		"or": "feet",
+		"tr": "piedi"
 	},
 	{
 		"context": "Show chat messages from:",
@@ -1295,8 +1315,18 @@
 		"tr": "gioco"
 	},
 	{
+		"context": "skins",
+		"or": "hands",
+		"tr": "mani"
+	},
+	{
 		"or": "locked",
 		"tr": "bloccato"
+	},
+	{
+		"context": "skins",
+		"or": "marking",
+		"tr": "marca"
 	},
 	{
 		"context": "Show chat messages from:",

@@ -23,12 +23,20 @@
 		"tr": "Tha %d chluicheadair nach eil deiseil ann"
 	},
 	{
+		"or": "%d players",
+		"tr": "%d cluicheadair(ean)"
+	},
+	{
 		"or": "%d players left",
 		"tr": "Dh’fhalbh %d cluicheadair(ean)"
 	},
 	{
 		"or": "%d players not ready",
 		"tr": "Tha %d cluicheadair(ean) nach eil deiseil ann"
+	},
+	{
+		"or": "%d servers",
+		"tr": "%d frithealaiche(an)"
 	},
 	{
 		"or": "%d servers, %d players",
@@ -141,6 +149,10 @@
 	{
 		"or": "All",
 		"tr": "Na h-uile"
+	},
+	{
+		"or": "All players were moved to the %s",
+		"tr": "Chaidh a h-uile cluicheadair a ghluasad gu %s"
 	},
 	{
 		"or": "Alp:",
@@ -283,7 +295,7 @@
 	},
 	{
 		"or": "Count players only",
-		"tr": "Cunntaich na cluicheadairean a-mhàin"
+		"tr": "Na cunnt ach cluicheadairean"
 	},
 	{
 		"or": "Country",
@@ -352,6 +364,10 @@
 	{
 		"or": "Difficulty",
 		"tr": "Duilgheas"
+	},
+	{
+		"or": "Difficulty:",
+		"tr": "Duilgheas:"
 	},
 	{
 		"or": "Disconnect",
@@ -454,6 +470,10 @@
 		"tr": "Seòrsa"
 	},
 	{
+		"or": "Game type:",
+		"tr": "Seòrsa a’ gheama:"
+	},
+	{
 		"or": "Game types:",
 		"tr": "Seòrsaichean dhe gheama:"
 	},
@@ -500,6 +520,10 @@
 	{
 		"or": "Hue:",
 		"tr": "Tuar:"
+	},
+	{
+		"or": "Ingame mouse sens.",
+		"tr": "Mothalachd luchaige sa gheama"
 	},
 	{
 		"or": "Invalid Demo",
@@ -591,6 +615,10 @@
 		"tr": "Mapa"
 	},
 	{
+		"or": "Map:",
+		"tr": "Mapa:"
+	},
+	{
 		"or": "Markers",
 		"tr": "Comharran"
 	},
@@ -610,6 +638,10 @@
 	{
 		"or": "Maximum ping:",
 		"tr": "A ping as motha:"
+	},
+	{
+		"or": "Menu mouse sens.",
+		"tr": "Mothalachd luchaige sna clàran-taice"
 	},
 	{
 		"or": "Misc",
@@ -921,6 +953,10 @@
 		"tr": "Lorg:"
 	},
 	{
+		"or": "Server",
+		"tr": "Frithealaiche"
+	},
+	{
 		"or": "Server address:",
 		"tr": "Seòladh an fhrithealaiche:"
 	},
@@ -1157,6 +1193,10 @@
 		"tr": "Cha b’ urrainn dhuinn ainm ùr a chur air an demo"
 	},
 	{
+		"or": "Use OS mouse acceleration",
+		"tr": "Cleachd luathachadh luchaige an t-siostam-obrachaidh"
+	},
+	{
 		"or": "Use sounds",
 		"tr": "Cleachd fuaimean"
 	},
@@ -1171,6 +1211,10 @@
 	{
 		"or": "Version",
 		"tr": "Tionndadh"
+	},
+	{
+		"or": "Version:",
+		"tr": "Tionndadh:"
 	},
 	{
 		"or": "Volume",
@@ -1263,6 +1307,10 @@
 		"tr": "Feumaidh tu fuireach fad %d diog(an) mus cruthaich thu bhòt eile"
 	},
 	{
+		"or": "You were moved to %s due to team balancing",
+		"tr": "Chaidh do ghluasad gu %s ri linn cothromachadh nan sgioba"
+	},
+	{
 		"or": "blue flag",
 		"tr": "bratach ghorm"
 	},
@@ -1272,9 +1320,29 @@
 		"tr": "ghorm"
 	},
 	{
+		"context": "skins",
+		"or": "body",
+		"tr": "bodhaig"
+	},
+	{
+		"context": "skins",
+		"or": "decoration",
+		"tr": "sgeadachadh"
+	},
+	{
 		"context": "Show chat messages from:",
 		"or": "everyone",
 		"tr": "na h-uile duine"
+	},
+	{
+		"context": "skins",
+		"or": "eyes",
+		"tr": "sùilean"
+	},
+	{
+		"context": "skins",
+		"or": "feet",
+		"tr": "casan"
 	},
 	{
 		"context": "Show chat messages from:",
@@ -1287,8 +1355,18 @@
 		"tr": "geama"
 	},
 	{
+		"context": "skins",
+		"or": "hands",
+		"tr": "làmhan"
+	},
+	{
 		"or": "locked",
 		"tr": "glaiste"
+	},
+	{
+		"context": "skins",
+		"or": "marking",
+		"tr": "comharradh"
 	},
 	{
 		"context": "Show chat messages from:",

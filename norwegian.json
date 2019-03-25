@@ -1238,9 +1238,29 @@
 		"tr": "blått lag"
 	},
 	{
+		"context": "skins",
+		"or": "body",
+		"tr": "kropp"
+	},
+	{
+		"context": "skins",
+		"or": "decoration",
+		"tr": "dekorering"
+	},
+	{
 		"context": "Show chat messages from:",
 		"or": "everyone",
 		"tr": "alle"
+	},
+	{
+		"context": "skins",
+		"or": "eyes",
+		"tr": "øyne"
+	},
+	{
+		"context": "skins",
+		"or": "feet",
+		"tr": "føtter"
 	},
 	{
 		"context": "Show chat messages from:",
@@ -1253,8 +1273,18 @@
 		"tr": "spill"
 	},
 	{
+		"context": "skins",
+		"or": "hands",
+		"tr": "hender"
+	},
+	{
 		"or": "locked",
 		"tr": "låst"
+	},
+	{
+		"context": "skins",
+		"or": "marking",
+		"tr": "mønster"
 	},
 	{
 		"context": "Show chat messages from:",

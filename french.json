@@ -43,6 +43,10 @@
 		"tr": "%d joueur n'est pas prêt"
 	},
 	{
+		"or": "%d players",
+		"tr": "%d joueurs"
+	},
+	{
 		"or": "%d players left",
 		"tr": "%d joueurs restants"
 	},
@@ -165,6 +169,10 @@
 	{
 		"or": "All",
 		"tr": "Tout le monde"
+	},
+	{
+		"or": "All players were moved to the %s",
+		"tr": "Tous les joueurs ont été déplacés dans: %s"
 	},
 	{
 		"or": "Alp:",
@@ -534,6 +542,10 @@
 		"tr": "Teinte :"
 	},
 	{
+		"or": "Ingame mouse sens.",
+		"tr": "Sensib. souris en jeu"
+	},
+	{
 		"or": "Invalid Demo",
 		"tr": "Démo invalide"
 	},
@@ -646,6 +658,10 @@
 	{
 		"or": "Maximum ping:",
 		"tr": "Ping maximum :"
+	},
+	{
+		"or": "Menu mouse sens.",
+		"tr": "Sensib. souris dans les menus"
 	},
 	{
 		"or": "Misc",
@@ -957,6 +973,10 @@
 		"tr": "Recherche :"
 	},
 	{
+		"or": "Server",
+		"tr": "Serveur"
+	},
+	{
 		"or": "Server address:",
 		"tr": "Adresse :"
 	},
@@ -1193,6 +1213,10 @@
 		"tr": "Impossible de renommer la démo"
 	},
 	{
+		"or": "Use OS mouse acceleration",
+		"tr": "Activer l'accélération de la souris de l'OS"
+	},
+	{
 		"or": "Use sounds",
 		"tr": "Activer le son"
 	},
@@ -1303,6 +1327,10 @@
 		"tr": "Vous devez patientez pendant %d secondes avant de faire appel à un autre vote"
 	},
 	{
+		"or": "You were moved to %s due to team balancing",
+		"tr": "Vous avez été déplacé dans l'%s pour équilibrer"
+	},
+	{
 		"or": "blue flag",
 		"tr": "drapeau bleu"
 	},
@@ -1312,9 +1340,29 @@
 		"tr": "l'équipe bleue"
 	},
 	{
+		"context": "skins",
+		"or": "body",
+		"tr": "corps"
+	},
+	{
+		"context": "skins",
+		"or": "decoration",
+		"tr": "décorations"
+	},
+	{
 		"context": "Show chat messages from:",
 		"or": "everyone",
 		"tr": "tout le monde"
+	},
+	{
+		"context": "skins",
+		"or": "eyes",
+		"tr": "yeux"
+	},
+	{
+		"context": "skins",
+		"or": "feet",
+		"tr": "pieds"
 	},
 	{
 		"context": "Show chat messages from:",
@@ -1327,8 +1375,18 @@
 		"tr": "partie"
 	},
 	{
+		"context": "skins",
+		"or": "hands",
+		"tr": "mains"
+	},
+	{
 		"or": "locked",
 		"tr": "bloqué"
+	},
+	{
+		"context": "skins",
+		"or": "marking",
+		"tr": "marques"
 	},
 	{
 		"context": "Show chat messages from:",

@@ -24,12 +24,20 @@
 		"tr": "%d гулец не гатовы"
 	},
 	{
+		"or": "%d players",
+		"tr": "%d гульцоў"
+	},
+	{
 		"or": "%d players left",
 		"tr": "%d гульцы выйшлі"
 	},
 	{
 		"or": "%d players not ready",
 		"tr": "%d гульцоў не гатова"
+	},
+	{
+		"or": "%d servers",
+		"tr": "%d сервераў"
 	},
 	{
 		"or": "%d servers, %d players",
@@ -65,7 +73,7 @@
 	},
 	{
 		"or": "'%2d: %s' joined the %s",
-		"tr": "'%2d: %s' далучыўся да %s"
+		"tr": "'%2d: %s' зайшоў у %s"
 	},
 	{
 		"or": "'%s' called for vote to kick '%s' (%s)",
@@ -81,7 +89,7 @@
 	},
 	{
 		"or": "'%s' entered and joined the %s",
-		"tr": "'%s' зайшоў і далучыўся да %s"
+		"tr": "'%s' далучыўся і зайшоў у %s"
 	},
 	{
 		"or": "'%s' has left the game",
@@ -137,11 +145,15 @@
 	},
 	{
 		"or": "Admin moved '%s' to spectator (%s)",
-		"tr": "Адміністратар перанёс '%s' да назіральнікаў (%s)"
+		"tr": "Адміністратар перасунуў '%s' у назіральнікі (%s)"
 	},
 	{
 		"or": "All",
 		"tr": "Усе"
+	},
+	{
+		"or": "All players were moved to the %s",
+		"tr": "Усе гульцы былі перасунуты ў %s"
 	},
 	{
 		"or": "Alp:",
@@ -355,6 +367,10 @@
 		"tr": "Складанасць"
 	},
 	{
+		"or": "Difficulty:",
+		"tr": "Складанасць:"
+	},
+	{
 		"or": "Disconnect",
 		"tr": "Адлучыцца"
 	},
@@ -455,6 +471,10 @@
 		"tr": "Рэжым гульні"
 	},
 	{
+		"or": "Game type:",
+		"tr": "Рэжым:"
+	},
+	{
 		"or": "Game types:",
 		"tr": "Рэжым гульні:"
 	},
@@ -501,6 +521,10 @@
 	{
 		"or": "Hue:",
 		"tr": "Адценне:"
+	},
+	{
+		"or": "Ingame mouse sens.",
+		"tr": "Адчув. мышы ў гульні"
 	},
 	{
 		"or": "Invalid Demo",
@@ -592,6 +616,10 @@
 		"tr": "Карта"
 	},
 	{
+		"or": "Map:",
+		"tr": "Карта:"
+	},
+	{
 		"or": "Markers",
 		"tr": "Меткі"
 	},
@@ -613,6 +641,10 @@
 		"tr": "Макс. пінг:"
 	},
 	{
+		"or": "Menu mouse sens.",
+		"tr": "Адчув. мышы ў меню"
+	},
+	{
 		"or": "Misc",
 		"tr": "Рознае"
 	},
@@ -622,7 +654,7 @@
 	},
 	{
 		"or": "Move player to spectators",
-		"tr": "Перамясціць у назіральнікі"
+		"tr": "Перасунуць у назіральнікі"
 	},
 	{
 		"or": "Move right",
@@ -922,6 +954,10 @@
 		"tr": "Пошук:"
 	},
 	{
+		"or": "Server",
+		"tr": "Сервер"
+	},
+	{
 		"or": "Server address:",
 		"tr": "Адрас сервера:"
 	},
@@ -1158,6 +1194,10 @@
 		"tr": "Немагчыма пераназваць дэма"
 	},
 	{
+		"or": "Use OS mouse acceleration",
+		"tr": "Сістэмнае паскарэнне мышы"
+	},
+	{
 		"or": "Use sounds",
 		"tr": "Уключыць гук"
 	},
@@ -1172,6 +1212,10 @@
 	{
 		"or": "Version",
 		"tr": "Версія"
+	},
+	{
+		"or": "Version:",
+		"tr": "Версія:"
 	},
 	{
 		"or": "Volume",
@@ -1264,18 +1308,42 @@
 		"tr": "Вы павінны пачакаць %d сек. перад пачаткам іншага галасавання"
 	},
 	{
+		"or": "You were moved to %s due to team balancing",
+		"tr": "Вы былі перасунуты ў %s падчас балансоўкі каманд"
+	},
+	{
 		"or": "blue flag",
 		"tr": "Сіні сцяг"
 	},
 	{
 		"context": "'X joined the <blue team>' (server message)",
 		"or": "blue team",
-		"tr": "сіняй каманды"
+		"tr": "сінюю каманду"
+	},
+	{
+		"context": "skins",
+		"or": "body",
+		"tr": "цела"
+	},
+	{
+		"context": "skins",
+		"or": "decoration",
+		"tr": "ўпрыгожанні"
 	},
 	{
 		"context": "Show chat messages from:",
 		"or": "everyone",
 		"tr": "усіх"
+	},
+	{
+		"context": "skins",
+		"or": "eyes",
+		"tr": "вочы"
+	},
+	{
+		"context": "skins",
+		"or": "feet",
+		"tr": "ногі"
 	},
 	{
 		"context": "Show chat messages from:",
@@ -1288,8 +1356,18 @@
 		"tr": "гульні"
 	},
 	{
+		"context": "skins",
+		"or": "hands",
+		"tr": "рукі"
+	},
+	{
 		"or": "locked",
 		"tr": "зачынена"
+	},
+	{
+		"context": "skins",
+		"or": "marking",
+		"tr": "афарбоўка"
 	},
 	{
 		"context": "Show chat messages from:",
@@ -1308,12 +1386,12 @@
 	{
 		"context": "'X joined the <red team>' (server message)",
 		"or": "red team",
-		"tr": "чырвонай каманды"
+		"tr": "чырвоную каманду"
 	},
 	{
 		"context": "'X joined the <spectators>' (server message)",
 		"or": "spectators",
-		"tr": "назіральнікаў"
+		"tr": "назіральнікі"
 	},
 	{
 		"or": "wait for more players",

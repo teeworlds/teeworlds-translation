@@ -1281,9 +1281,29 @@
 		"tr": "equipo azul"
 	},
 	{
+		"context": "skins",
+		"or": "body",
+		"tr": "cuerpo"
+	},
+	{
+		"context": "skins",
+		"or": "decoration",
+		"tr": "decoración"
+	},
+	{
 		"context": "Show chat messages from:",
 		"or": "everyone",
 		"tr": "todos"
+	},
+	{
+		"context": "skins",
+		"or": "eyes",
+		"tr": "ojos"
+	},
+	{
+		"context": "skins",
+		"or": "feet",
+		"tr": "pies"
 	},
 	{
 		"context": "Show chat messages from:",
@@ -1296,8 +1316,18 @@
 		"tr": "juego"
 	},
 	{
+		"context": "skins",
+		"or": "hands",
+		"tr": "manos"
+	},
+	{
 		"or": "locked",
 		"tr": "bloqueado"
+	},
+	{
+		"context": "skins",
+		"or": "marking",
+		"tr": "tatuaje"
 	},
 	{
 		"context": "Show chat messages from:",

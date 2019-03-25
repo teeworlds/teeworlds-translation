@@ -26,12 +26,20 @@
 		"tr": "还有%d名玩家未准备"
 	},
 	{
+		"or": "%d players",
+		"tr": "%d名玩家"
+	},
+	{
 		"or": "%d players left",
 		"tr": "还剩%d名玩家"
 	},
 	{
 		"or": "%d players not ready",
 		"tr": "还有%d名玩家未准备"
+	},
+	{
+		"or": "%d servers",
+		"tr": "%d个服务器"
 	},
 	{
 		"or": "%d servers, %d players",
@@ -106,8 +114,16 @@
 		"tr": "添加战队"
 	},
 	{
+		"or": "Add demo marker",
+		"tr": "添加录像记号"
+	},
+	{
 		"or": "Add friend",
 		"tr": "添加好友"
+	},
+	{
+		"or": "Add friend/clan",
+		"tr": "添加好友/战队"
 	},
 	{
 		"or": "Address",
@@ -132,6 +148,10 @@
 	{
 		"or": "All",
 		"tr": "全部"
+	},
+	{
+		"or": "All players were moved to the %s",
+		"tr": "所有玩家已移动到%s"
 	},
 	{
 		"or": "Alp:",
@@ -281,6 +301,10 @@
 		"tr": "国家/地区"
 	},
 	{
+		"or": "Country:",
+		"tr": "国家/地区："
+	},
+	{
 		"or": "Crc",
 		"tr": "Crc校验码"
 	},
@@ -341,6 +365,10 @@
 		"tr": "难度"
 	},
 	{
+		"or": "Difficulty:",
+		"tr": "难度："
+	},
+	{
 		"or": "Disconnect",
 		"tr": "断开连接"
 	},
@@ -367,6 +395,10 @@
 	{
 		"or": "Emoticon",
 		"tr": "表情"
+	},
+	{
+		"or": "Enable colored server broadcasts",
+		"tr": "开启彩色广播"
 	},
 	{
 		"or": "Enter",
@@ -437,6 +469,10 @@
 		"tr": "游戏模式"
 	},
 	{
+		"or": "Game type:",
+		"tr": "游戏模式："
+	},
+	{
 		"or": "Game types:",
 		"tr": "游戏模式:"
 	},
@@ -465,6 +501,10 @@
 		"tr": "有人在玩"
 	},
 	{
+		"or": "Hide bots",
+		"tr": "隐藏电脑玩家"
+	},
+	{
 		"or": "High Detail",
 		"tr": "显示地图细节"
 	},
@@ -479,6 +519,10 @@
 	{
 		"or": "Hue:",
 		"tr": "色调："
+	},
+	{
+		"or": "Ingame mouse sens.",
+		"tr": "游戏内鼠标灵敏度"
 	},
 	{
 		"or": "Invalid Demo",
@@ -542,6 +586,10 @@
 		"tr": "亮度："
 	},
 	{
+		"or": "Limit Fps",
+		"tr": "限制帧速"
+	},
+	{
 		"or": "Load the sound system",
 		"tr": "加载声音系统"
 	},
@@ -566,6 +614,10 @@
 		"tr": "地图"
 	},
 	{
+		"or": "Map:",
+		"tr": "地图："
+	},
+	{
 		"or": "Markers",
 		"tr": "记号笔"
 	},
@@ -579,8 +631,16 @@
 		"tr": "最大"
 	},
 	{
+		"or": "Max fps",
+		"tr": "最大帧速"
+	},
+	{
 		"or": "Maximum ping:",
 		"tr": "最高延迟:"
+	},
+	{
+		"or": "Menu mouse sens.",
+		"tr": "主界面鼠标灵敏度"
 	},
 	{
 		"or": "Misc",
@@ -690,6 +750,10 @@
 		"tr": "打开"
 	},
 	{
+		"or": "Option",
+		"tr": "选项"
+	},
+	{
 		"or": "Other",
 		"tr": "其它"
 	},
@@ -776,6 +840,10 @@
 		"tr": "理由:"
 	},
 	{
+		"or": "Recommended",
+		"tr": "推荐"
+	},
+	{
 		"or": "Record",
 		"tr": "录像"
 	},
@@ -804,6 +872,10 @@
 		"tr": "移除"
 	},
 	{
+		"or": "Remove filter",
+		"tr": "移除过滤器"
+	},
+	{
 		"or": "Remove friend",
 		"tr": "删除好友"
 	},
@@ -822,6 +894,10 @@
 	{
 		"or": "Reset filter",
 		"tr": "重置过滤器"
+	},
+	{
+		"or": "Resolution",
+		"tr": "分辨率"
 	},
 	{
 		"or": "Respawn",
@@ -874,6 +950,10 @@
 	{
 		"or": "Search:",
 		"tr": "搜索："
+	},
+	{
+		"or": "Server",
+		"tr": "服务器"
 	},
 	{
 		"or": "Server address:",
@@ -954,6 +1034,10 @@
 	{
 		"or": "Skins",
 		"tr": "皮肤"
+	},
+	{
+		"or": "Skip the main menu",
+		"tr": "跳过主界面"
 	},
 	{
 		"or": "Sound",
@@ -1056,6 +1140,14 @@
 		"tr": "纹理压缩"
 	},
 	{
+		"or": "The %s was captured by '%s'",
+		"tr": "%s被“%s”夺得"
+	},
+	{
+		"or": "The %s was captured by '%s' (%.2f seconds)",
+		"tr": "%s被“%s”夺得（%.2f秒）"
+	},
+	{
 		"or": "The audio device couldn't be initialised.",
 		"tr": "初始化音频设备失败。"
 	},
@@ -1100,6 +1192,10 @@
 		"tr": "无法重命名这个录像"
 	},
 	{
+		"or": "Use OS mouse acceleration",
+		"tr": "使用操作系统鼠标加速"
+	},
+	{
 		"or": "Use sounds",
 		"tr": "启用声音"
 	},
@@ -1114,6 +1210,10 @@
 	{
 		"or": "Version",
 		"tr": "版本"
+	},
+	{
+		"or": "Version:",
+		"tr": "版本："
 	},
 	{
 		"or": "Volume",
@@ -1164,6 +1264,11 @@
 		"tr": "热身"
 	},
 	{
+		"context": "Watching '(gametype)' on '(map)'",
+		"or": "Watching '%s' on '%s'",
+		"tr": "观看“%s”在“%s”"
+	},
+	{
 		"or": "Weapon",
 		"tr": "武器"
 	},
@@ -1174,6 +1279,10 @@
 	{
 		"or": "When ready, press <%s>",
 		"tr": "准备好后，摁下【%s】"
+	},
+	{
+		"or": "Whisper",
+		"tr": "私聊"
 	},
 	{
 		"or": "Yes",
@@ -1197,6 +1306,10 @@
 		"tr": "你必须再等%d秒钟才能发起新的投票"
 	},
 	{
+		"or": "You were moved to %s due to team balancing",
+		"tr": "您因两队人数不平衡被移动%s"
+	},
+	{
 		"or": "blue flag",
 		"tr": "蓝旗"
 	},
@@ -1204,6 +1317,31 @@
 		"context": "'X joined the <blue team>' (server message)",
 		"or": "blue team",
 		"tr": "蓝队"
+	},
+	{
+		"context": "skins",
+		"or": "body",
+		"tr": "身体"
+	},
+	{
+		"context": "skins",
+		"or": "decoration",
+		"tr": "装饰"
+	},
+	{
+		"context": "Show chat messages from:",
+		"or": "everyone",
+		"tr": "所有人"
+	},
+	{
+		"context": "skins",
+		"or": "eyes",
+		"tr": "眼睛"
+	},
+	{
+		"context": "skins",
+		"or": "feet",
+		"tr": "脚"
 	},
 	{
 		"context": "Show chat messages from:",
@@ -1216,8 +1354,18 @@
 		"tr": "游戏"
 	},
 	{
+		"context": "skins",
+		"or": "hands",
+		"tr": "手"
+	},
+	{
 		"or": "locked",
 		"tr": "已锁定"
+	},
+	{
+		"context": "skins",
+		"or": "marking",
+		"tr": "记号"
 	},
 	{
 		"context": "Show chat messages from:",
