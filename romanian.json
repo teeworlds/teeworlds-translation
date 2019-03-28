@@ -79,10 +79,6 @@
 		"tr": "'%s' cere voturi pentru modificarea opțiunii de server '%s' (%s)"
 	},
 	{
-		"or": "'%s' entered and joined the %s",
-		"tr": "'%s' a intrat și s-a alăturat echipei %s"
-	},
-	{
 		"or": "'%s' has left the game",
 		"tr": "'%s' a părăsit jocul"
 	},
@@ -1088,16 +1084,6 @@
 		"tr": "Trebuie să aștepți %d secunde înaintă să votezi din nou"
 	},
 	{
-		"context": "'X joined the <blue team>' (server message)",
-		"or": "blue team",
-		"tr": "echipa albastră"
-	},
-	{
-		"context": "'X joined the <game>' (server message)",
-		"or": "game",
-		"tr": "joc"
-	},
-	{
 		"or": "locked",
 		"tr": "blocat"
 	},
@@ -1105,16 +1091,6 @@
 		"context": "server browser message",
 		"or": "no players",
 		"tr": "nu sunt jucători"
-	},
-	{
-		"context": "'X joined the <red team>' (server message)",
-		"or": "red team",
-		"tr": "echipa roșie"
-	},
-	{
-		"context": "'X joined the <spectators>' (server message)",
-		"or": "spectators",
-		"tr": "spectatori"
 	},
 	{
 		"or": "wait for more players",

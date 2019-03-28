@@ -71,10 +71,6 @@
 		"tr": "%s' a votad per cambiar una opció del servidor '%s' (%s)"
 	},
 	{
-		"or": "'%s' entered and joined the %s",
-		"tr": "'%s' ha entrat i s'ha unit al %s"
-	},
-	{
 		"or": "'%s' has left the game",
 		"tr": "'%s' ha sortit del joc"
 	},
@@ -1080,16 +1076,6 @@
 		"tr": "Has d'esperar %d segons per fer una altre votació"
 	},
 	{
-		"context": "'X joined the <blue team>' (server message)",
-		"or": "blue team",
-		"tr": "equip blau"
-	},
-	{
-		"context": "'X joined the <game>' (server message)",
-		"or": "game",
-		"tr": "joc"
-	},
-	{
 		"or": "locked",
 		"tr": "Tancat"
 	},
@@ -1097,16 +1083,6 @@
 		"context": "server browser message",
 		"or": "no players",
 		"tr": "no hi ha jugadors"
-	},
-	{
-		"context": "'X joined the <red team>' (server message)",
-		"or": "red team",
-		"tr": "equip vermell"
-	},
-	{
-		"context": "'X joined the <spectators>' (server message)",
-		"or": "spectators",
-		"tr": "espectadors"
 	},
 	{
 		"or": "wait for more players",

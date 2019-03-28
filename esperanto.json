@@ -73,10 +73,6 @@
 		"tr": "'%s' volas voĉdoni por ŝanĝi la servilagordo '%s' (%s)"
 	},
 	{
-		"or": "'%s' entered and joined the %s",
-		"tr": "'%s' envenis kaj aligis al %s"
-	},
-	{
 		"or": "'%s' has left the game",
 		"tr": "'%s' eliris el la ludo"
 	},
@@ -1082,16 +1078,6 @@
 		"tr": "Vi devas atendi %d sekundojn antaŭ vi povas doni alian voĉon"
 	},
 	{
-		"context": "'X joined the <blue team>' (server message)",
-		"or": "blue team",
-		"tr": "bluan teamon"
-	},
-	{
-		"context": "'X joined the <game>' (server message)",
-		"or": "game",
-		"tr": "ludo"
-	},
-	{
 		"or": "locked",
 		"tr": "ŝlosita"
 	},
@@ -1099,16 +1085,6 @@
 		"context": "server browser message",
 		"or": "no players",
 		"tr": "ne ludantoj"
-	},
-	{
-		"context": "'X joined the <red team>' (server message)",
-		"or": "red team",
-		"tr": "ruĝan teamon"
-	},
-	{
-		"context": "'X joined the <spectators>' (server message)",
-		"or": "spectators",
-		"tr": "spektantoj"
 	},
 	{
 		"or": "wait for more players",

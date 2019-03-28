@@ -71,10 +71,6 @@
 		"tr": "D'iarr '%s' vóta chun rogha '%s' a athrú ar an bhfreastalaí (%s)"
 	},
 	{
-		"or": "'%s' entered and joined the %s",
-		"tr": "Tháinig '%s' isteach ar an bh%s"
-	},
-	{
 		"or": "'%s' has left the game",
 		"tr": "D'fhág '%s' an cluiche"
 	},
@@ -1080,16 +1076,6 @@
 		"tr": "Caithfidh tú feitheamh %d soicind sular féidir leat vóta eile a dhéanamh"
 	},
 	{
-		"context": "'X joined the <blue team>' (server message)",
-		"or": "blue team",
-		"tr": "foireann ghorm"
-	},
-	{
-		"context": "'X joined the <game>' (server message)",
-		"or": "game",
-		"tr": "cluiche"
-	},
-	{
 		"or": "locked",
 		"tr": "faoi ghlas"
 	},
@@ -1097,16 +1083,6 @@
 		"context": "server browser message",
 		"or": "no players",
 		"tr": "gan imreoirí"
-	},
-	{
-		"context": "'X joined the <red team>' (server message)",
-		"or": "red team",
-		"tr": "foireann dhearg"
-	},
-	{
-		"context": "'X joined the <spectators>' (server message)",
-		"or": "spectators",
-		"tr": "lucht féachana"
 	},
 	{
 		"or": "wait for more players",

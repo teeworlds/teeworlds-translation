@@ -27,12 +27,20 @@
 		"tr": "%d spiller er ikke klar"
 	},
 	{
+		"or": "%d players",
+		"tr": "%d spillere"
+	},
+	{
 		"or": "%d players left",
 		"tr": "%d spillere forlot"
 	},
 	{
 		"or": "%d players not ready",
 		"tr": "%d spillere er ikke klare"
+	},
+	{
+		"or": "%d servers",
+		"tr": "%d servere"
 	},
 	{
 		"or": "%d servers, %d players",
@@ -67,10 +75,6 @@
 		"tr": "%s vant!"
 	},
 	{
-		"or": "'%2d: %s' joined the %s",
-		"tr": "'1%2d: 2%s' joinet 2%s"
-	},
-	{
 		"or": "'%s' called for vote to kick '%s' (%s)",
 		"tr": "'%s' stemmet for å sparke ut '%s' (%s)"
 	},
@@ -83,8 +87,20 @@
 		"tr": "'%s' stemte for å endre server innstilling '%s' (%s)"
 	},
 	{
-		"or": "'%s' entered and joined the %s",
-		"tr": "'%s' koblet til å ble med %s"
+		"or": "'%s' entered and joined the blue team",
+		"tr": "'%s' ble med det blå laget"
+	},
+	{
+		"or": "'%s' entered and joined the game",
+		"tr": "'%s' ble med i spillet"
+	},
+	{
+		"or": "'%s' entered and joined the red team",
+		"tr": "'%s' ble med spillet som rødt lag"
+	},
+	{
+		"or": "'%s' entered and joined the spectators",
+		"tr": "'%s' ble med i spillet som spectator"
 	},
 	{
 		"or": "'%s' has left the game",
@@ -93,6 +109,42 @@
 	{
 		"or": "'%s' has left the game (%s)",
 		"tr": "'%s' har forlatt kampen (%s)"
+	},
+	{
+		"or": "'%s' initiated a pause",
+		"tr": "'%s' startet pause"
+	},
+	{
+		"or": "'%s' joined the blue team",
+		"tr": "'%s' Ble med blått lag"
+	},
+	{
+		"or": "'%s' joined the game",
+		"tr": "'%s' ble med i spillet"
+	},
+	{
+		"or": "'%s' joined the red team",
+		"tr": "'%s' ble med rødt lag"
+	},
+	{
+		"or": "'%s' joined the spectators",
+		"tr": "'%s' ble med spectatorene"
+	},
+	{
+		"or": "'%s' was added as a friend",
+		"tr": "'%s' ble lagt  til som venn"
+	},
+	{
+		"or": "'%s' was muted",
+		"tr": "'%s' ble blokert"
+	},
+	{
+		"or": "'%s' was removed as a friend",
+		"tr": "'%s' har blitt fjernet som venn"
+	},
+	{
+		"or": "'%s' was unmuted",
+		"tr": "'%s' ble ikke lenger blokert"
 	},
 	{
 		"or": "-Page %d-",
@@ -145,6 +197,22 @@
 	{
 		"or": "All",
 		"tr": "Alle"
+	},
+	{
+		"or": "All players were moved to the blue team",
+		"tr": "Alle spillere ble flyttet til blått lag"
+	},
+	{
+		"or": "All players were moved to the game",
+		"tr": "Alle spillere ble flyttet inn i spillet"
+	},
+	{
+		"or": "All players were moved to the red team",
+		"tr": "Alle spillere ble flyttet til rødt lag"
+	},
+	{
+		"or": "All players were moved to the spectators",
+		"tr": "Alle spillere ble flyttet til spectatore"
 	},
 	{
 		"or": "Alp:",
@@ -219,6 +287,11 @@
 		"tr": "Stem"
 	},
 	{
+		"context": "Server difficulty",
+		"or": "Casual",
+		"tr": "Normal"
+	},
+	{
 		"or": "Change settings",
 		"tr": "Endre innstillinger"
 	},
@@ -229,6 +302,11 @@
 	{
 		"or": "Clan",
 		"tr": "Klan"
+	},
+	{
+		"context": "clear gametype filters",
+		"or": "Clear",
+		"tr": "Nullstill"
 	},
 	{
 		"or": "Click on a player or a flag to follow it",
@@ -282,6 +360,10 @@
 	{
 		"or": "Country",
 		"tr": "Land"
+	},
+	{
+		"or": "Country:",
+		"tr": "Land:"
 	},
 	{
 		"or": "Crc",
@@ -344,6 +426,10 @@
 		"tr": "Vanskelighet"
 	},
 	{
+		"or": "Difficulty:",
+		"tr": "Vanskelighetsgrad:"
+	},
+	{
 		"or": "Disconnect",
 		"tr": "Koble fra"
 	},
@@ -373,7 +459,7 @@
 	},
 	{
 		"or": "Enable colored server broadcasts",
-		"tr": "Aktiver fargede serverutsendelser"
+		"tr": "Aktiver fargede server meldinger"
 	},
 	{
 		"or": "Enter",
@@ -424,6 +510,10 @@
 		"tr": "Spillinfo"
 	},
 	{
+		"or": "Game options",
+		"tr": "Spill innstillinger"
+	},
+	{
 		"or": "Game over",
 		"tr": "Game over"
 	},
@@ -438,6 +528,10 @@
 	{
 		"or": "Game type",
 		"tr": "Spilltype"
+	},
+	{
+		"or": "Game type:",
+		"tr": "Spill type:"
 	},
 	{
 		"or": "Game types:",
@@ -486,6 +580,10 @@
 	{
 		"or": "Hue:",
 		"tr": "Hue:"
+	},
+	{
+		"or": "Ingame mouse sens.",
+		"tr": "Ingame mus sensitivitet"
 	},
 	{
 		"or": "Invalid Demo",
@@ -577,6 +675,14 @@
 		"tr": "Bane"
 	},
 	{
+		"or": "Map:",
+		"tr": "Kart:"
+	},
+	{
+		"or": "Markers",
+		"tr": "Markører"
+	},
+	{
 		"context": "rounds (scoreboard)",
 		"or": "Match",
 		"tr": "Kamp"
@@ -592,6 +698,10 @@
 	{
 		"or": "Maximum ping:",
 		"tr": "Maks ping:"
+	},
+	{
+		"or": "Menu mouse sens.",
+		"tr": "Muse sensitivitet i menyen"
 	},
 	{
 		"or": "Misc",
@@ -614,6 +724,10 @@
 		"tr": "Bevegelse"
 	},
 	{
+		"or": "Mute broadcasts",
+		"tr": "Mute server meldinger"
+	},
+	{
 		"or": "Mute when not active",
 		"tr": "Slå av lyd når spillet ikke er aktivt"
 	},
@@ -624,6 +738,10 @@
 	{
 		"or": "Netversion",
 		"tr": "Nettversjon"
+	},
+	{
+		"or": "New filter",
+		"tr": "Nytt filter"
 	},
 	{
 		"or": "Next weapon",
@@ -757,6 +875,10 @@
 	{
 		"or": "Please balance teams!",
 		"tr": "Vennligst balanser lagene!"
+	},
+	{
+		"or": "Press Enter to confirm or Esc to cancel",
+		"tr": "Trykk Enter for og bekrefte eller Esc for og avbryte"
 	},
 	{
 		"or": "Prev. weapon",
@@ -893,6 +1015,10 @@
 	{
 		"or": "Search:",
 		"tr": "Søk:"
+	},
+	{
+		"or": "Server",
+		"tr": "Server"
 	},
 	{
 		"or": "Server address:",
@@ -1079,20 +1205,32 @@
 		"tr": "Tekstur kompresjon"
 	},
 	{
-		"or": "The %s was captured by '%s'",
-		"tr": "%s Flagg ble skårt av '%s'"
-	},
-	{
-		"or": "The %s was captured by '%s' (%.2f seconds)",
-		"tr": "%s flagg var skårt av '%s ' (%.2f senunder)"
-	},
-	{
 		"or": "The audio device couldn't be initialised.",
 		"tr": "Lydenheten kunne ikke startes opp."
 	},
 	{
+		"or": "The blue flag was captured by '%s'",
+		"tr": "Det blåe flagget ble scoret  av '%s'"
+	},
+	{
+		"or": "The blue flag was captured by '%s' (%.2f seconds)",
+		"tr": "Det blå flagget ble scoret av ''%s (%.2f sekunder)"
+	},
+	{
+		"or": "The red flag was captured by '%s'",
+		"tr": "Det røde flagget ble scoret av ''"
+	},
+	{
+		"or": "The red flag was captured by '%s' (%.2f seconds)",
+		"tr": "Det røde flagget ble scoret av '%s' (%.2f sekunder)"
+	},
+	{
 		"or": "The server is running a non-standard tuning on a pure game type.",
 		"tr": "Denne serveren kjører ikke-standard innstillinger på standard spilltype."
+	},
+	{
+		"or": "Theme",
+		"tr": "Tema"
 	},
 	{
 		"or": "There's an unsaved map in the editor, you might want to save it before you quit the game.",
@@ -1127,6 +1265,10 @@
 		"tr": "Kunne ikke endre navn på demoen"
 	},
 	{
+		"or": "Use OS mouse acceleration",
+		"tr": "Maskinens mus akselerasjon"
+	},
+	{
 		"or": "Use sounds",
 		"tr": "Bruk lyder"
 	},
@@ -1141,6 +1283,10 @@
 	{
 		"or": "Version",
 		"tr": "Versjon"
+	},
+	{
+		"or": "Version:",
+		"tr": "Versjon:"
 	},
 	{
 		"or": "Volume",
@@ -1221,6 +1367,14 @@
 		"tr": "Ja"
 	},
 	{
+		"or": "You have to wait %1.f seconds to change identity.",
+		"tr": "Du må vente %1.f sekunder for og endre identitet."
+	},
+	{
+		"or": "You must reconnect to change identity.",
+		"tr": "Du må koble til på nytt for og endre identitet."
+	},
+	{
 		"or": "You must restart the game for all settings to take effect.",
 		"tr": "Du må starte spillet på nytt før alle endringene tar effekt."
 	},
@@ -1229,13 +1383,24 @@
 		"tr": "Du må vente %d sekunder før du kan lage en ny avstemning"
 	},
 	{
-		"or": "blue flag",
-		"tr": "blått flagg"
+		"or": "You were moved to the blue team due to team balancing",
+		"tr": "Du ble flyttet til blått lag grunnet lag balansering"
 	},
 	{
-		"context": "'X joined the <blue team>' (server message)",
-		"or": "blue team",
-		"tr": "blått lag"
+		"or": "You were moved to the game due to team balancing",
+		"tr": "Du ble flyttet til spillet grunnet lag balansering"
+	},
+	{
+		"or": "You were moved to the red team due to team balancing",
+		"tr": "Du ble flyttet til rødt lag grunnet lag balansering"
+	},
+	{
+		"or": "You were moved to the spectators due to team balancing",
+		"tr": "Du ble flyttet til spectator grunnet lag balansering"
+	},
+	{
+		"or": "blue flag",
+		"tr": "blått flagg"
 	},
 	{
 		"context": "skins",
@@ -1268,11 +1433,6 @@
 		"tr": "bare venner"
 	},
 	{
-		"context": "'X joined the <game>' (server message)",
-		"or": "game",
-		"tr": "spill"
-	},
-	{
 		"context": "skins",
 		"or": "hands",
 		"tr": "hender"
@@ -1299,16 +1459,6 @@
 	{
 		"or": "red flag",
 		"tr": "rødt flagg"
-	},
-	{
-		"context": "'X joined the <red team>' (server message)",
-		"or": "red team",
-		"tr": "rødt lag"
-	},
-	{
-		"context": "'X joined the <spectators>' (server message)",
-		"or": "spectators",
-		"tr": "tilskuere"
 	},
 	{
 		"or": "wait for more players",

@@ -72,10 +72,6 @@
 		"tr": "%s перамаглі!"
 	},
 	{
-		"or": "'%2d: %s' joined the %s",
-		"tr": "'%2d: %s' зайшоў у %s"
-	},
-	{
 		"or": "'%s' called for vote to kick '%s' (%s)",
 		"tr": "'%s' галасуе за выгнанне гульца '%s' (%s)"
 	},
@@ -88,8 +84,20 @@
 		"tr": "'%s' галасуе за змену параметра сервера '%s' (%s)"
 	},
 	{
-		"or": "'%s' entered and joined the %s",
-		"tr": "'%s' далучыўся і зайшоў у %s"
+		"or": "'%s' entered and joined the blue team",
+		"tr": "'%s' увайшоў і далучыўся да сіняй каманды"
+	},
+	{
+		"or": "'%s' entered and joined the game",
+		"tr": "'%s' увайшоў і далучыўся да гульні"
+	},
+	{
+		"or": "'%s' entered and joined the red team",
+		"tr": "'%s' увайшоў і далучыўся да чырвонай каманды"
+	},
+	{
+		"or": "'%s' entered and joined the spectators",
+		"tr": "'%s' увайшоў і далучыўся да назіральнікаў"
 	},
 	{
 		"or": "'%s' has left the game",
@@ -98,6 +106,42 @@
 	{
 		"or": "'%s' has left the game (%s)",
 		"tr": "'%s' пакінуў гульню (%s)"
+	},
+	{
+		"or": "'%s' initiated a pause",
+		"tr": "'%s' выклікаў паўзу"
+	},
+	{
+		"or": "'%s' joined the blue team",
+		"tr": "'%s' далучыўся да сіняй каманды"
+	},
+	{
+		"or": "'%s' joined the game",
+		"tr": "'%s' далучыўся да гульні"
+	},
+	{
+		"or": "'%s' joined the red team",
+		"tr": "'%s' далучыўся да чырвонай каманды"
+	},
+	{
+		"or": "'%s' joined the spectators",
+		"tr": "'%s' далучыўся да назіральнікаў"
+	},
+	{
+		"or": "'%s' was added as a friend",
+		"tr": "'%s' быў дададзены як сябар"
+	},
+	{
+		"or": "'%s' was muted",
+		"tr": "'%s' заглушаны"
+	},
+	{
+		"or": "'%s' was removed as a friend",
+		"tr": "'%s' быў выдалены як сябар"
+	},
+	{
+		"or": "'%s' was unmuted",
+		"tr": "'%s' разглушаны"
 	},
 	{
 		"or": "-Page %d-",
@@ -152,8 +196,20 @@
 		"tr": "Усе"
 	},
 	{
-		"or": "All players were moved to the %s",
-		"tr": "Усе гульцы былі перасунуты ў %s"
+		"or": "All players were moved to the blue team",
+		"tr": "Усе гульцы перасунуты ў сінюю каманду"
+	},
+	{
+		"or": "All players were moved to the game",
+		"tr": "Усе гульцы перасунуты ў гульню"
+	},
+	{
+		"or": "All players were moved to the red team",
+		"tr": "Усе гульцы перасунуты ў чырвоную каманду"
+	},
+	{
+		"or": "All players were moved to the spectators",
+		"tr": "Усе гульцы перасунуты ў назіральнікі"
 	},
 	{
 		"or": "Alp:",
@@ -818,6 +874,10 @@
 		"tr": "Збалансуйце каманды!"
 	},
 	{
+		"or": "Press Enter to confirm or Esc to cancel",
+		"tr": "Націсніце Enter для пацверджання ці Esc для адмены"
+	},
+	{
 		"or": "Prev. weapon",
 		"tr": "Папярэдняя зброя"
 	},
@@ -1142,16 +1202,24 @@
 		"tr": "Сціск тэкстур"
 	},
 	{
-		"or": "The %s was captured by '%s'",
-		"tr": "%s захапіў '%s'"
-	},
-	{
-		"or": "The %s was captured by '%s' (%.2f seconds)",
-		"tr": "%s захапіў '%s' (за %.2f сек.)"
-	},
-	{
 		"or": "The audio device couldn't be initialised.",
 		"tr": "Аўдыяпрылада не можа быць ініцыялізавана."
+	},
+	{
+		"or": "The blue flag was captured by '%s'",
+		"tr": "'%s' захапіў сіні сцяг"
+	},
+	{
+		"or": "The blue flag was captured by '%s' (%.2f seconds)",
+		"tr": "'%s' захапіў сіні сцяг (за %.2f сек.)"
+	},
+	{
+		"or": "The red flag was captured by '%s'",
+		"tr": "'%s' захапіў чырвоны сцяг"
+	},
+	{
+		"or": "The red flag was captured by '%s' (%.2f seconds)",
+		"tr": "'%s' захапіў чырвоны сцяг (за %.2f сек.)"
 	},
 	{
 		"or": "The server is running a non-standard tuning on a pure game type.",
@@ -1296,6 +1364,10 @@
 		"tr": "Так"
 	},
 	{
+		"or": "You have to wait %1.f seconds to change identity.",
+		"tr": "Пачакайце %1.f сек. перад ужыццём налад."
+	},
+	{
 		"or": "You must reconnect to change identity.",
 		"tr": "Перадалучыцеся для ўжыцця налад."
 	},
@@ -1308,17 +1380,24 @@
 		"tr": "Вы павінны пачакаць %d сек. перад пачаткам іншага галасавання"
 	},
 	{
-		"or": "You were moved to %s due to team balancing",
-		"tr": "Вы былі перасунуты ў %s падчас балансоўкі каманд"
+		"or": "You were moved to the blue team due to team balancing",
+		"tr": "Вы перасунуты ў сінюю каманду падчас балансавання камандаў"
+	},
+	{
+		"or": "You were moved to the game due to team balancing",
+		"tr": "Вы перасунуты ў гульню падчас балансавання камандаў"
+	},
+	{
+		"or": "You were moved to the red team due to team balancing",
+		"tr": "Вы перасунуты ў чырвоную каманду падчас балансавання камандаў"
+	},
+	{
+		"or": "You were moved to the spectators due to team balancing",
+		"tr": "Вы перасунуты ў назіральнікі падчас балансавання камандаў"
 	},
 	{
 		"or": "blue flag",
 		"tr": "Сіні сцяг"
-	},
-	{
-		"context": "'X joined the <blue team>' (server message)",
-		"or": "blue team",
-		"tr": "сінюю каманду"
 	},
 	{
 		"context": "skins",
@@ -1351,11 +1430,6 @@
 		"tr": "толькі сяброў"
 	},
 	{
-		"context": "'X joined the <game>' (server message)",
-		"or": "game",
-		"tr": "гульні"
-	},
-	{
 		"context": "skins",
 		"or": "hands",
 		"tr": "рукі"
@@ -1382,16 +1456,6 @@
 	{
 		"or": "red flag",
 		"tr": "Чырвоны сцяг"
-	},
-	{
-		"context": "'X joined the <red team>' (server message)",
-		"or": "red team",
-		"tr": "чырвоную каманду"
-	},
-	{
-		"context": "'X joined the <spectators>' (server message)",
-		"or": "spectators",
-		"tr": "назіральнікі"
 	},
 	{
 		"or": "wait for more players",

@@ -61,10 +61,6 @@
 		"tr": "Hráč '%s' vyvolal hlasování o změně nastavení serveru  '%s' (%s)"
 	},
 	{
-		"or": "'%s' entered and joined the %s",
-		"tr": "Hráč '%s' vstoupil a připojil se k  %s"
-	},
-	{
 		"or": "'%s' has left the game (%s)",
 		"tr": "Hráč '%s' opustil hru (%s)"
 	},
@@ -1010,11 +1006,6 @@
 		"tr": "modrá vlajka"
 	},
 	{
-		"context": "'X joined the <blue team>' (server message)",
-		"or": "blue team",
-		"tr": "modří"
-	},
-	{
 		"context": "Show chat messages from:",
 		"or": "everyone",
 		"tr": "všichni"
@@ -1030,11 +1021,6 @@
 		"tr": "pouze přátelé"
 	},
 	{
-		"context": "'X joined the <game>' (server message)",
-		"or": "game",
-		"tr": "hra"
-	},
-	{
 		"context": "Show chat messages from:",
 		"or": "no one",
 		"tr": "nikdo"
@@ -1047,16 +1033,6 @@
 	{
 		"or": "red flag",
 		"tr": "červená vlajka"
-	},
-	{
-		"context": "'X joined the <red team>' (server message)",
-		"or": "red team",
-		"tr": "červení"
-	},
-	{
-		"context": "'X joined the <spectators>' (server message)",
-		"or": "spectators",
-		"tr": "pozorovatelé"
 	},
 	{
 		"or": "wait for more players",

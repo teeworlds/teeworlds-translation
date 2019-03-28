@@ -62,10 +62,6 @@
 		"tr": "%s перемогли!"
 	},
 	{
-		"or": "'%2d: %s' joined the %s",
-		"tr": "'%2d:%s' приєднався до %s"
-	},
-	{
 		"or": "'%s' called for vote to kick '%s' (%s)",
 		"tr": "'%s' закликав голосуванням штурхнути з гри '%s' (%s)"
 	},
@@ -76,10 +72,6 @@
 	{
 		"or": "'%s' called vote to change server option '%s' (%s)",
 		"tr": "'%s' проголосував за зміну серверного параметру '%s' (%s)"
-	},
-	{
-		"or": "'%s' entered and joined the %s",
-		"tr": "'%s' приєднався та зайшов за %s"
 	},
 	{
 		"or": "'%s' has left the game",
@@ -1131,11 +1123,6 @@
 		"tr": "Синій прапор"
 	},
 	{
-		"context": "'X joined the <blue team>' (server message)",
-		"or": "blue team",
-		"tr": "Синя команда"
-	},
-	{
 		"context": "skins",
 		"or": "body",
 		"tr": "Тіло"
@@ -1166,11 +1153,6 @@
 		"tr": "тільки від друзів"
 	},
 	{
-		"context": "'X joined the <game>' (server message)",
-		"or": "game",
-		"tr": "гра"
-	},
-	{
 		"context": "skins",
 		"or": "hands",
 		"tr": "Руки"
@@ -1197,16 +1179,6 @@
 	{
 		"or": "red flag",
 		"tr": "Червоний прапор"
-	},
-	{
-		"context": "'X joined the <red team>' (server message)",
-		"or": "red team",
-		"tr": "червона команда"
-	},
-	{
-		"context": "'X joined the <spectators>' (server message)",
-		"or": "spectators",
-		"tr": "спостерігачі"
 	},
 	{
 		"or": "wait for more players",

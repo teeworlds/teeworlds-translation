@@ -51,10 +51,6 @@
 		"tr": "%s の勝ち!"
 	},
 	{
-		"or": "'%s' entered and joined the %s",
-		"tr": "「%s」が入り、%sに参加しました"
-	},
-	{
 		"or": "'%s' has left the game",
 		"tr": "「%s」が残しました"
 	},
@@ -966,21 +962,6 @@
 	{
 		"or": "You must restart the game for all settings to take effect.",
 		"tr": "設定を反映するためにはゲームの再起動が必要です。"
-	},
-	{
-		"context": "'X joined the <blue team>' (server message)",
-		"or": "blue team",
-		"tr": "青チーム"
-	},
-	{
-		"context": "'X joined the <red team>' (server message)",
-		"or": "red team",
-		"tr": "赤チーム"
-	},
-	{
-		"context": "'X joined the <spectators>' (server message)",
-		"or": "spectators",
-		"tr": "観戦者"
 	}
 ]
 }

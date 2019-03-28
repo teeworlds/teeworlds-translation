@@ -45,10 +45,6 @@
 		"tr": "%s vinner!"
 	},
 	{
-		"or": "'%s' entered and joined the %s",
-		"tr": "'%s' Gick in i och gick med i %s "
-	},
-	{
 		"or": "'%s' has left the game",
 		"tr": "'%s' har lämnat spelet"
 	},
@@ -920,16 +916,6 @@
 		"tr": "Du måste starta om spelet för att ändringarna skall verkställas."
 	},
 	{
-		"context": "'X joined the <blue team>' (server message)",
-		"or": "blue team",
-		"tr": "Blått lag"
-	},
-	{
-		"context": "'X joined the <game>' (server message)",
-		"or": "game",
-		"tr": "spel"
-	},
-	{
 		"or": "locked",
 		"tr": "låst"
 	},
@@ -937,16 +923,6 @@
 		"context": "server browser message",
 		"or": "no players",
 		"tr": "inga spelare"
-	},
-	{
-		"context": "'X joined the <red team>' (server message)",
-		"or": "red team",
-		"tr": "Röda laget"
-	},
-	{
-		"context": "'X joined the <spectators>' (server message)",
-		"or": "spectators",
-		"tr": "Åskådare"
 	},
 	{
 		"or": "wait for more players",

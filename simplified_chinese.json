@@ -86,8 +86,20 @@
 		"tr": "'%s'发起投票想要改变服务器设置'%s' (%s)"
 	},
 	{
-		"or": "'%s' entered and joined the %s",
-		"tr": "'%s'进入服务器并加入了%s"
+		"or": "'%s' entered and joined the blue team",
+		"tr": "%s进入并加入蓝队"
+	},
+	{
+		"or": "'%s' entered and joined the game",
+		"tr": "%s进入并加入游戏"
+	},
+	{
+		"or": "'%s' entered and joined the red team",
+		"tr": "%s进入并加入红队"
+	},
+	{
+		"or": "'%s' entered and joined the spectators",
+		"tr": "%s进入并加入观众组"
 	},
 	{
 		"or": "'%s' has left the game",
@@ -96,6 +108,42 @@
 	{
 		"or": "'%s' has left the game (%s)",
 		"tr": "'%s'离开了游戏 (%s)"
+	},
+	{
+		"or": "'%s' initiated a pause",
+		"tr": "%s发起暂停"
+	},
+	{
+		"or": "'%s' joined the blue team",
+		"tr": "%s加入蓝队"
+	},
+	{
+		"or": "'%s' joined the game",
+		"tr": "%s加入游戏"
+	},
+	{
+		"or": "'%s' joined the red team",
+		"tr": "%s加入红队"
+	},
+	{
+		"or": "'%s' joined the spectators",
+		"tr": "%s加入观众组"
+	},
+	{
+		"or": "'%s' was added as a friend",
+		"tr": "%s被加为好友"
+	},
+	{
+		"or": "'%s' was muted",
+		"tr": "%s被静音"
+	},
+	{
+		"or": "'%s' was removed as a friend",
+		"tr": "%s从朋友列表中删除"
+	},
+	{
+		"or": "'%s' was unmuted",
+		"tr": "%s被静音"
 	},
 	{
 		"or": "-Page %d-",
@@ -150,8 +198,20 @@
 		"tr": "全部"
 	},
 	{
-		"or": "All players were moved to the %s",
-		"tr": "所有玩家已移动到%s"
+		"or": "All players were moved to the blue team",
+		"tr": "所有队员被移入蓝队"
+	},
+	{
+		"or": "All players were moved to the game",
+		"tr": "所有队员被移入本游戏"
+	},
+	{
+		"or": "All players were moved to the red team",
+		"tr": "所有队员被移入红队"
+	},
+	{
+		"or": "All players were moved to the spectators",
+		"tr": "所有的队员被移入观众组"
 	},
 	{
 		"or": "Alp:",
@@ -816,6 +876,10 @@
 		"tr": "团队人数不平衡！"
 	},
 	{
+		"or": "Press Enter to confirm or Esc to cancel",
+		"tr": "按 Enter 键确认或 Esc 键取消"
+	},
+	{
 		"or": "Prev. weapon",
 		"tr": "上一个武器"
 	},
@@ -1140,16 +1204,24 @@
 		"tr": "纹理压缩"
 	},
 	{
-		"or": "The %s was captured by '%s'",
-		"tr": "%s被“%s”夺得"
-	},
-	{
-		"or": "The %s was captured by '%s' (%.2f seconds)",
-		"tr": "%s被“%s”夺得（%.2f秒）"
-	},
-	{
 		"or": "The audio device couldn't be initialised.",
 		"tr": "初始化音频设备失败。"
+	},
+	{
+		"or": "The blue flag was captured by '%s'",
+		"tr": "蓝色旗帜被%s夺走"
+	},
+	{
+		"or": "The blue flag was captured by '%s' (%.2f seconds)",
+		"tr": "蓝色旗帜被%s夺走（%.2f秒）"
+	},
+	{
+		"or": "The red flag was captured by '%s'",
+		"tr": "红色旗帜被%s夺走"
+	},
+	{
+		"or": "The red flag was captured by '%s' (%.2f seconds)",
+		"tr": "红色旗帜被%s夺走（%.2f秒）"
 	},
 	{
 		"or": "The server is running a non-standard tuning on a pure game type.",
@@ -1294,6 +1366,10 @@
 		"tr": "是"
 	},
 	{
+		"or": "You have to wait %1.f seconds to change identity.",
+		"tr": "你需要等待 %1.f 秒才能修改身份"
+	},
+	{
 		"or": "You must reconnect to change identity.",
 		"tr": "你必须重新连接以更改身份。"
 	},
@@ -1306,17 +1382,24 @@
 		"tr": "你必须再等%d秒钟才能发起新的投票"
 	},
 	{
-		"or": "You were moved to %s due to team balancing",
-		"tr": "您因两队人数不平衡被移动%s"
+		"or": "You were moved to the blue team due to team balancing",
+		"tr": "因为队伍平衡的关系，你被移入蓝队"
+	},
+	{
+		"or": "You were moved to the game due to team balancing",
+		"tr": "由于队伍平衡的关系，你被移入游戏"
+	},
+	{
+		"or": "You were moved to the red team due to team balancing",
+		"tr": "由于队伍平衡的关系，你被移入红队"
+	},
+	{
+		"or": "You were moved to the spectators due to team balancing",
+		"tr": "因为队伍平衡的关系，你被移入观众组"
 	},
 	{
 		"or": "blue flag",
 		"tr": "蓝旗"
-	},
-	{
-		"context": "'X joined the <blue team>' (server message)",
-		"or": "blue team",
-		"tr": "蓝队"
 	},
 	{
 		"context": "skins",
@@ -1349,11 +1432,6 @@
 		"tr": "仅好友"
 	},
 	{
-		"context": "'X joined the <game>' (server message)",
-		"or": "game",
-		"tr": "游戏"
-	},
-	{
 		"context": "skins",
 		"or": "hands",
 		"tr": "手"
@@ -1379,17 +1457,7 @@
 	},
 	{
 		"or": "red flag",
-		"tr": "红旗"
-	},
-	{
-		"context": "'X joined the <red team>' (server message)",
-		"or": "red team",
-		"tr": "红队"
-	},
-	{
-		"context": "'X joined the <spectators>' (server message)",
-		"or": "spectators",
-		"tr": "旁观者"
+		"tr": "红色旗帜"
 	},
 	{
 		"or": "wait for more players",

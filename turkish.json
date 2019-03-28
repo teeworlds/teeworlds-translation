@@ -66,10 +66,6 @@
 		"tr": "%s kazandı!"
 	},
 	{
-		"or": "'%2d: %s' joined the %s",
-		"tr": "'%2d: %s' %s'a katıldı"
-	},
-	{
 		"or": "'%s' called for vote to kick '%s' (%s)",
 		"tr": "'%s', '%s' adlı kişiyi oyundan atmak için oylama başlattı (%s)"
 	},
@@ -80,10 +76,6 @@
 	{
 		"or": "'%s' called vote to change server option '%s' (%s)",
 		"tr": "'%s' sunucu ayarlarını değiştirmek için oylama başlattı '%s' (%s)"
-	},
-	{
-		"or": "'%s' entered and joined the %s",
-		"tr": "'%s' oyuna girdi ve %s takıma katıldı"
 	},
 	{
 		"or": "'%s' has left the game",
@@ -1099,11 +1091,6 @@
 		"tr": "mavi bayrak"
 	},
 	{
-		"context": "'X joined the <blue team>' (server message)",
-		"or": "blue team",
-		"tr": "mavi takım"
-	},
-	{
 		"context": "Show chat messages from:",
 		"or": "everyone",
 		"tr": "herkes"
@@ -1112,11 +1099,6 @@
 		"context": "Show chat messages from:",
 		"or": "friends only",
 		"tr": "Sadece arkadaşları göster"
-	},
-	{
-		"context": "'X joined the <game>' (server message)",
-		"or": "game",
-		"tr": "oyun"
 	},
 	{
 		"or": "locked",
@@ -1135,16 +1117,6 @@
 	{
 		"or": "red flag",
 		"tr": "kırmızı bayrak"
-	},
-	{
-		"context": "'X joined the <red team>' (server message)",
-		"or": "red team",
-		"tr": "kırmızı takım"
-	},
-	{
-		"context": "'X joined the <spectators>' (server message)",
-		"or": "spectators",
-		"tr": "izleyiciler"
 	},
 	{
 		"or": "wait for more players",

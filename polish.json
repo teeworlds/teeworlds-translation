@@ -70,10 +70,6 @@
 		"tr": "%s wygrali!"
 	},
 	{
-		"or": "'%2d: %s' joined the %s",
-		"tr": "'%2d: %s' dołączył do %s"
-	},
-	{
 		"or": "'%s' called for vote to kick '%s' (%s)",
 		"tr": "'%s' wywołał głosowanie aby wyrzucić '%s' (%s)"
 	},
@@ -84,10 +80,6 @@
 	{
 		"or": "'%s' called vote to change server option '%s' (%s)",
 		"tr": "'%s' głosuje by zmienić opcje serwera '%s' (%s)"
-	},
-	{
-		"or": "'%s' entered and joined the %s",
-		"tr": "'%s' wszedł na serwer i dołączył do %s"
 	},
 	{
 		"or": "'%s' has left the game",
@@ -1223,11 +1215,6 @@
 		"tr": "niebieska flaga"
 	},
 	{
-		"context": "'X joined the <blue team>' (server message)",
-		"or": "blue team",
-		"tr": "drużyny niebieskich"
-	},
-	{
 		"context": "skins",
 		"or": "body",
 		"tr": "ciało"
@@ -1258,11 +1245,6 @@
 		"tr": "tylko znajomi"
 	},
 	{
-		"context": "'X joined the <game>' (server message)",
-		"or": "game",
-		"tr": "gry"
-	},
-	{
 		"context": "skins",
 		"or": "hands",
 		"tr": "dłonie"
@@ -1289,16 +1271,6 @@
 	{
 		"or": "red flag",
 		"tr": "czerwona flaga"
-	},
-	{
-		"context": "'X joined the <red team>' (server message)",
-		"or": "red team",
-		"tr": "drużyny czerwonych"
-	},
-	{
-		"context": "'X joined the <spectators>' (server message)",
-		"or": "spectators",
-		"tr": "obserwatorów"
 	},
 	{
 		"or": "wait for more players",

@@ -67,10 +67,6 @@
 		"tr": "'%s' hääletas, et viia '%s' vaatlejaks (%s)"
 	},
 	{
-		"or": "'%s' entered and joined the %s",
-		"tr": "'%s' sisenes ja liitus %s"
-	},
-	{
 		"or": "'%s' has left the game",
 		"tr": "'%s' lahkus mängust"
 	},
@@ -915,16 +911,6 @@
 		"tr": "Sa pead ootama %d sekundit enne uue hääletuse alustamist"
 	},
 	{
-		"context": "'X joined the <blue team>' (server message)",
-		"or": "blue team",
-		"tr": "sinine meeskond"
-	},
-	{
-		"context": "'X joined the <game>' (server message)",
-		"or": "game",
-		"tr": "mäng"
-	},
-	{
 		"or": "locked",
 		"tr": "lukus"
 	},
@@ -932,16 +918,6 @@
 		"context": "server browser message",
 		"or": "no players",
 		"tr": "mängijaid ei ole"
-	},
-	{
-		"context": "'X joined the <red team>' (server message)",
-		"or": "red team",
-		"tr": "punane meeskond"
-	},
-	{
-		"context": "'X joined the <spectators>' (server message)",
-		"or": "spectators",
-		"tr": "vaatlejad"
 	},
 	{
 		"or": "wait for more players",

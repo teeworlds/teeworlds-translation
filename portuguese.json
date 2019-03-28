@@ -76,10 +76,6 @@
 		"tr": "%s ganhou!"
 	},
 	{
-		"or": "'%2d: %s' joined the %s",
-		"tr": "'%2d: %s' juntou-se à %s"
-	},
-	{
 		"or": "'%s' called for vote to kick '%s' (%s)",
 		"tr": "'%s' convocou uma votação para expulsar '%s' (%s)"
 	},
@@ -90,10 +86,6 @@
 	{
 		"or": "'%s' called vote to change server option '%s' (%s)",
 		"tr": "'%s' convocou uma votação para mudar opção '%s' do observador (%s)"
-	},
-	{
-		"or": "'%s' entered and joined the %s",
-		"tr": "'%s' entrou e juntou-se ao %s"
 	},
 	{
 		"or": "'%s' has left the game",
@@ -154,10 +146,6 @@
 	{
 		"or": "All",
 		"tr": "Todos"
-	},
-	{
-		"or": "All players were moved to the %s",
-		"tr": "Todos os jogadores foram movidos para %s"
 	},
 	{
 		"or": "Alp:",
@@ -1146,14 +1134,6 @@
 		"tr": "Compressão da textura"
 	},
 	{
-		"or": "The %s was captured by '%s'",
-		"tr": "A %s foi capturada por '%s'"
-	},
-	{
-		"or": "The %s was captured by '%s' (%.2f seconds)",
-		"tr": "A %s foi capturada por '%s' (%.2f segundos)"
-	},
-	{
 		"or": "The audio device couldn't be initialised.",
 		"tr": "Não foi possível iniciar o dispositivo de som."
 	},
@@ -1312,17 +1292,8 @@
 		"tr": "Tens de esperar %d segundos antes de votar outra vez."
 	},
 	{
-		"or": "You were moved to %s due to team balancing",
-		"tr": "Foste movido para %s para equilibrar as equipas"
-	},
-	{
 		"or": "blue flag",
 		"tr": "bandeira azul"
-	},
-	{
-		"context": "'X joined the <blue team>' (server message)",
-		"or": "blue team",
-		"tr": "equipa azul"
 	},
 	{
 		"context": "skins",
@@ -1355,11 +1326,6 @@
 		"tr": "apenas amigos"
 	},
 	{
-		"context": "'X joined the <game>' (server message)",
-		"or": "game",
-		"tr": "jogo"
-	},
-	{
 		"context": "skins",
 		"or": "hands",
 		"tr": "mãos"
@@ -1386,16 +1352,6 @@
 	{
 		"or": "red flag",
 		"tr": "bandeira vermelha"
-	},
-	{
-		"context": "'X joined the <red team>' (server message)",
-		"or": "red team",
-		"tr": "equipa vermelha"
-	},
-	{
-		"context": "'X joined the <spectators>' (server message)",
-		"or": "spectators",
-		"tr": "observadores"
 	},
 	{
 		"or": "wait for more players",

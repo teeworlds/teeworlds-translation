@@ -71,10 +71,6 @@
 		"tr": "'%s' en deus galvet ur mouezhiadeg evit cheñch an dibarzh servijer '%s' (%s)"
 	},
 	{
-		"or": "'%s' entered and joined the %s",
-		"tr": "'%s' a zo deuet er '%s'"
-	},
-	{
 		"or": "'%s' has left the game",
 		"tr": "Kuitaet eo bet ar c'hoari gant '%s'"
 	},
@@ -1080,16 +1076,6 @@
 		"tr": "Ret eo deoc'h gortoz %d eilenn evit sevel ur mouezhiadeg nevez"
 	},
 	{
-		"context": "'X joined the <blue team>' (server message)",
-		"or": "blue team",
-		"tr": "skipailh glas"
-	},
-	{
-		"context": "'X joined the <game>' (server message)",
-		"or": "game",
-		"tr": "c'hoari"
-	},
-	{
 		"or": "locked",
 		"tr": "prennet"
 	},
@@ -1097,16 +1083,6 @@
 		"context": "server browser message",
 		"or": "no players",
 		"tr": "c'hoarier ebet"
-	},
-	{
-		"context": "'X joined the <red team>' (server message)",
-		"or": "red team",
-		"tr": "skipailh ruz"
-	},
-	{
-		"context": "'X joined the <spectators>' (server message)",
-		"or": "spectators",
-		"tr": "arvesterien"
 	},
 	{
 		"or": "wait for more players",

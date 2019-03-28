@@ -72,10 +72,6 @@
 		"tr": "¡%s gana!"
 	},
 	{
-		"or": "'%2d: %s' joined the %s",
-		"tr": "'%2d: %s' se unió a %s"
-	},
-	{
 		"or": "'%s' called for vote to kick '%s' (%s)",
 		"tr": "'%s' ha votado expulsar a '%s' (%s)"
 	},
@@ -86,10 +82,6 @@
 	{
 		"or": "'%s' called vote to change server option '%s' (%s)",
 		"tr": "'%s' inició una votación para cambiar la opción del servidor '%s' (%s)"
-	},
-	{
-		"or": "'%s' entered and joined the %s",
-		"tr": "'%s' entró y se unió al %s"
 	},
 	{
 		"or": "'%s' has left the game",
@@ -1114,14 +1106,6 @@
 		"tr": "Compresión de texturas"
 	},
 	{
-		"or": "The %s was captured by '%s'",
-		"tr": "La %s fue capturada por '%s'"
-	},
-	{
-		"or": "The %s was captured by '%s' (%.2f seconds)",
-		"tr": "La %s fue capturada por '%s' (%.2f segundos)"
-	},
-	{
 		"or": "The audio device couldn't be initialised.",
 		"tr": "El dispositivo de audio no puede ser inicializado."
 	},
@@ -1276,11 +1260,6 @@
 		"tr": "bandera azul"
 	},
 	{
-		"context": "'X joined the <blue team>' (server message)",
-		"or": "blue team",
-		"tr": "equipo azul"
-	},
-	{
 		"context": "skins",
 		"or": "body",
 		"tr": "cuerpo"
@@ -1311,11 +1290,6 @@
 		"tr": "solo amigos"
 	},
 	{
-		"context": "'X joined the <game>' (server message)",
-		"or": "game",
-		"tr": "juego"
-	},
-	{
 		"context": "skins",
 		"or": "hands",
 		"tr": "manos"
@@ -1342,16 +1316,6 @@
 	{
 		"or": "red flag",
 		"tr": "bandera roja"
-	},
-	{
-		"context": "'X joined the <red team>' (server message)",
-		"or": "red team",
-		"tr": "equipo rojo"
-	},
-	{
-		"context": "'X joined the <spectators>' (server message)",
-		"or": "spectators",
-		"tr": "espectadores"
 	},
 	{
 		"or": "wait for more players",

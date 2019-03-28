@@ -72,10 +72,6 @@
 		"tr": "%s nyert!"
 	},
 	{
-		"or": "'%2d: %s' joined the %s",
-		"tr": "%2d: %s csatlakozott a %s"
-	},
-	{
 		"or": "'%s' called for vote to kick '%s' (%s)",
 		"tr": "%s szavazást indított %s kirúgása érdekében (%s)"
 	},
@@ -86,10 +82,6 @@
 	{
 		"or": "'%s' called vote to change server option '%s' (%s)",
 		"tr": "%s szavazást indított hogy megváltoztassa a szerver beállításait '%s' (%s)"
-	},
-	{
-		"or": "'%s' entered and joined the %s",
-		"tr": "%s belépett és csatlakozott a %s"
 	},
 	{
 		"or": "'%s' has left the game",
@@ -150,10 +142,6 @@
 	{
 		"or": "All",
 		"tr": "Mindenki"
-	},
-	{
-		"or": "All players were moved to the %s",
-		"tr": "Összes játékos áthelyezése ide: %s"
 	},
 	{
 		"or": "Alp:",
@@ -1137,14 +1125,6 @@
 		"tr": "Textúra tömörítés"
 	},
 	{
-		"or": "The %s was captured by '%s'",
-		"tr": "A %s bevitte %s"
-	},
-	{
-		"or": "The %s was captured by '%s' (%.2f seconds)",
-		"tr": "A %s bevitte %s (%.2f másodperc)"
-	},
-	{
 		"or": "The audio device couldn't be initialised.",
 		"tr": "A hangeszköz nem kezdeményezhető."
 	},
@@ -1303,17 +1283,8 @@
 		"tr": "Várnod kell %d másodpercet új szavazás indítása előtt"
 	},
 	{
-		"or": "You were moved to %s due to team balancing",
-		"tr": "A csapatok kiegyenlítése céljából át lettél helyezve ide: %s"
-	},
-	{
 		"or": "blue flag",
 		"tr": "kék zászlót"
-	},
-	{
-		"context": "'X joined the <blue team>' (server message)",
-		"or": "blue team",
-		"tr": "kék csapathoz"
 	},
 	{
 		"context": "skins",
@@ -1346,11 +1317,6 @@
 		"tr": "csak barátok"
 	},
 	{
-		"context": "'X joined the <game>' (server message)",
-		"or": "game",
-		"tr": "játékhoz"
-	},
-	{
 		"context": "skins",
 		"or": "hands",
 		"tr": "kezek"
@@ -1377,16 +1343,6 @@
 	{
 		"or": "red flag",
 		"tr": "piros zászlót"
-	},
-	{
-		"context": "'X joined the <red team>' (server message)",
-		"or": "red team",
-		"tr": "piros csapathoz"
-	},
-	{
-		"context": "'X joined the <spectators>' (server message)",
-		"or": "spectators",
-		"tr": "nézőkhöz"
 	},
 	{
 		"or": "wait for more players",

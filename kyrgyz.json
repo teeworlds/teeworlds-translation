@@ -73,10 +73,6 @@
 		"tr": "'%s' '%s' сервер параметрин өзгөртүү максатында добушту баштады (%s)"
 	},
 	{
-		"or": "'%s' entered and joined the %s",
-		"tr": "'%s' кирип %s кошулду"
-	},
-	{
 		"or": "'%s' has left the game",
 		"tr": "'%s' оюндан чыгып кетти"
 	},
@@ -1082,16 +1078,6 @@
 		"tr": "Башка добушту баштоодон мурун %d секунда күтүү керек"
 	},
 	{
-		"context": "'X joined the <blue team>' (server message)",
-		"or": "blue team",
-		"tr": "көк командасына"
-	},
-	{
-		"context": "'X joined the <game>' (server message)",
-		"or": "game",
-		"tr": "оюнга"
-	},
-	{
 		"or": "locked",
 		"tr": "бекитилди"
 	},
@@ -1099,16 +1085,6 @@
 		"context": "server browser message",
 		"or": "no players",
 		"tr": "оюнчулар жок"
-	},
-	{
-		"context": "'X joined the <red team>' (server message)",
-		"or": "red team",
-		"tr": "кызыл командасына"
-	},
-	{
-		"context": "'X joined the <spectators>' (server message)",
-		"or": "spectators",
-		"tr": "көрүүчүлөргө"
 	},
 	{
 		"or": "wait for more players",

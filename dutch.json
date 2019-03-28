@@ -89,10 +89,6 @@
 		"tr": "%s heeft gewonnen!"
 	},
 	{
-		"or": "'%2d: %s' joined the %s",
-		"tr": "'%2d:%s' heeft zich aangesloten bij %s"
-	},
-	{
 		"or": "'%s' called for vote to kick '%s' (%s)",
 		"tr": "'%s' heeft een stemming geopend over het verbannen van '%s' (%s)"
 	},
@@ -105,8 +101,20 @@
 		"tr": "'%s' heeft een stemming geopend om de serveroptie '%s' (%s) aan te passen"
 	},
 	{
-		"or": "'%s' entered and joined the %s",
-		"tr": "'%s' is binnengekomen en sloot zich aan bij %s"
+		"or": "'%s' entered and joined the blue team",
+		"tr": "'%s' is binnengekomen en aangesloten bij het blauwe team"
+	},
+	{
+		"or": "'%s' entered and joined the game",
+		"tr": "'%s' is binnengekomen en doet mee"
+	},
+	{
+		"or": "'%s' entered and joined the red team",
+		"tr": "'%s' is binnengekomen en aangesloten bij het rode team"
+	},
+	{
+		"or": "'%s' entered and joined the spectators",
+		"tr": "'%s' is binnengekomen en aangesloten bij de toeschouwers"
 	},
 	{
 		"or": "'%s' has left the game",
@@ -115,6 +123,42 @@
 	{
 		"or": "'%s' has left the game (%s)",
 		"tr": "'%s' heeft het spel verlaten (%s)"
+	},
+	{
+		"or": "'%s' initiated a pause",
+		"tr": "'%s' heeft een pauze ingelast"
+	},
+	{
+		"or": "'%s' joined the blue team",
+		"tr": "'%s' heeft zich aangesloten bij het blauwe team"
+	},
+	{
+		"or": "'%s' joined the game",
+		"tr": "'%s' doet mee"
+	},
+	{
+		"or": "'%s' joined the red team",
+		"tr": "'%s' heeft zich aangesloten bij het rode team"
+	},
+	{
+		"or": "'%s' joined the spectators",
+		"tr": "'%s' heeft zich aangesloten bij de toeschouwers"
+	},
+	{
+		"or": "'%s' was added as a friend",
+		"tr": "'%s' is toegevoegd als vriend"
+	},
+	{
+		"or": "'%s' was muted",
+		"tr": "'%s' is gedempt"
+	},
+	{
+		"or": "'%s' was removed as a friend",
+		"tr": "'%s' is verwijderd als vriend"
+	},
+	{
+		"or": "'%s' was unmuted",
+		"tr": "'%s' is ontdempt"
 	},
 	{
 		"or": "-Page %d-",
@@ -169,8 +213,20 @@
 		"tr": "Alle"
 	},
 	{
-		"or": "All players were moved to the %s",
-		"tr": "Alle spelers zijn verhuisd naar de %s"
+		"or": "All players were moved to the blue team",
+		"tr": "Alle spelers zijn verhuisd nar het blauwe team"
+	},
+	{
+		"or": "All players were moved to the game",
+		"tr": "Alle spelers zijn verhuisd naar het spel"
+	},
+	{
+		"or": "All players were moved to the red team",
+		"tr": "Alle spelers zijn verhuist naar het rode team"
+	},
+	{
+		"or": "All players were moved to the spectators",
+		"tr": "Alle spelers zijn overgezet naar de toeschouwers"
 	},
 	{
 		"or": "Alp:",
@@ -835,6 +891,10 @@
 		"tr": "Balanceer de teams!"
 	},
 	{
+		"or": "Press Enter to confirm or Esc to cancel",
+		"tr": "Druk op Enter om te bevestigen of Esc om af te breken"
+	},
+	{
 		"or": "Prev. weapon",
 		"tr": "Vorig wapen"
 	},
@@ -988,7 +1048,7 @@
 	},
 	{
 		"or": "Server does not allow voting to move players to spectators",
-		"tr": "Server staat niet toe dat spelers kunnen stemmen om te verplaatsen naar toeschouwers"
+		"tr": "Server staat niet toe dat spelers kunnen stemmen om te worden overgezet naar toeschouwers"
 	},
 	{
 		"or": "Server filter",
@@ -1159,16 +1219,24 @@
 		"tr": "Textuurcompressie"
 	},
 	{
-		"or": "The %s was captured by '%s'",
-		"tr": "De %s is veroverd door '%s'"
-	},
-	{
-		"or": "The %s was captured by '%s' (%.2f seconds)",
-		"tr": "De %s is veroverd door '%s' (%.2f seconden)"
-	},
-	{
 		"or": "The audio device couldn't be initialised.",
 		"tr": "Het geluidsapparaat kan niet worden geïnitialiseerd."
+	},
+	{
+		"or": "The blue flag was captured by '%s'",
+		"tr": "De blauwe vlag is veroverd door '%s'"
+	},
+	{
+		"or": "The blue flag was captured by '%s' (%.2f seconds)",
+		"tr": "De blauwe vlag is veroverd door '%s' (%.2f seconden)"
+	},
+	{
+		"or": "The red flag was captured by '%s'",
+		"tr": "De rode vlag is veroverd door '%s'"
+	},
+	{
+		"or": "The red flag was captured by '%s' (%.2f seconds)",
+		"tr": "De rode vlag is veroverd door '%s' (%.2f seconden)"
 	},
 	{
 		"or": "The server is running a non-standard tuning on a pure game type.",
@@ -1313,6 +1381,10 @@
 		"tr": "Ja"
 	},
 	{
+		"or": "You have to wait %1.f seconds to change identity.",
+		"tr": "Je moet %1.f seconden wachten voordat je je identiteit kunt wijzigen."
+	},
+	{
 		"or": "You must reconnect to change identity.",
 		"tr": "Je moet opnieuw verbinden om je identiteitswijziging toe te passen."
 	},
@@ -1325,17 +1397,24 @@
 		"tr": "Je moet %d seconden wachten voordat je opnieuw kunt stemmen"
 	},
 	{
-		"or": "You were moved to %s due to team balancing",
-		"tr": "Je bent overgezet naar %s vanwege de teambalans"
+		"or": "You were moved to the blue team due to team balancing",
+		"tr": "Je bent overgezet naar het blauwe team vanwege de teambalans"
+	},
+	{
+		"or": "You were moved to the game due to team balancing",
+		"tr": "Je bent overgezet naar het spel vanwege de teambalans"
+	},
+	{
+		"or": "You were moved to the red team due to team balancing",
+		"tr": "Je bent overgezet naar het rode team vanwege de teambalans"
+	},
+	{
+		"or": "You were moved to the spectators due to team balancing",
+		"tr": "Je bent overgezet naar de toeschouwers vanwege de teambalans"
 	},
 	{
 		"or": "blue flag",
 		"tr": "blauwe vlag"
-	},
-	{
-		"context": "'X joined the <blue team>' (server message)",
-		"or": "blue team",
-		"tr": "blauwe team"
 	},
 	{
 		"context": "skins",
@@ -1368,11 +1447,6 @@
 		"tr": "alleen vrienden"
 	},
 	{
-		"context": "'X joined the <game>' (server message)",
-		"or": "game",
-		"tr": "Spel"
-	},
-	{
 		"context": "skins",
 		"or": "hands",
 		"tr": "handen"
@@ -1399,16 +1473,6 @@
 	{
 		"or": "red flag",
 		"tr": "rode vlag"
-	},
-	{
-		"context": "'X joined the <red team>' (server message)",
-		"or": "red team",
-		"tr": "rode team"
-	},
-	{
-		"context": "'X joined the <spectators>' (server message)",
-		"or": "spectators",
-		"tr": "toeschouwers"
 	},
 	{
 		"or": "wait for more players",

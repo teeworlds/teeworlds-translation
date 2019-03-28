@@ -71,10 +71,6 @@
 		"tr": "'%s' aloitti äänestyksen vaihtaa serverin asetusta '%s' (%s)"
 	},
 	{
-		"or": "'%s' entered and joined the %s",
-		"tr": "'%s' saapui ja liittyi %s"
-	},
-	{
 		"or": "'%s' has left the game",
 		"tr": "'%s' poistui pelistä"
 	},
@@ -1112,11 +1108,6 @@
 		"tr": "sininen lippu"
 	},
 	{
-		"context": "'X joined the <blue team>' (server message)",
-		"or": "blue team",
-		"tr": "sininen joukkue"
-	},
-	{
 		"context": "skins",
 		"or": "body",
 		"tr": "vartalo"
@@ -1147,11 +1138,6 @@
 		"tr": "vain kaverit"
 	},
 	{
-		"context": "'X joined the <game>' (server message)",
-		"or": "game",
-		"tr": "peli"
-	},
-	{
 		"context": "skins",
 		"or": "hands",
 		"tr": "kädet"
@@ -1178,16 +1164,6 @@
 	{
 		"or": "red flag",
 		"tr": "punainen lippu"
-	},
-	{
-		"context": "'X joined the <red team>' (server message)",
-		"or": "red team",
-		"tr": "punainen joukkue"
-	},
-	{
-		"context": "'X joined the <spectators>' (server message)",
-		"or": "spectators",
-		"tr": "katsojat"
 	},
 	{
 		"or": "wait for more players",

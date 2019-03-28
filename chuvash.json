@@ -779,29 +779,9 @@
 		"tr": "Режим улăштарма валли вăйă сӳнтер тата каллер яр"
 	},
 	{
-		"context": "'X joined the <blue team>' (server message)",
-		"or": "blue team",
-		"tr": "кӑвак ушкӑн"
-	},
-	{
-		"context": "'X joined the <game>' (server message)",
-		"or": "game",
-		"tr": "вӑйӑ"
-	},
-	{
 		"context": "server browser message",
 		"or": "no players",
 		"tr": "вылякан ҫук"
-	},
-	{
-		"context": "'X joined the <red team>' (server message)",
-		"or": "red team",
-		"tr": "хӗрлӗ ушкӑн"
-	},
-	{
-		"context": "'X joined the <spectators>' (server message)",
-		"or": "spectators",
-		"tr": "куракансем"
 	},
 	{
 		"or": "wait for more players",

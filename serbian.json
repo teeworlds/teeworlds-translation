@@ -62,10 +62,6 @@
 		"tr": "%s je pobedio!"
 	},
 	{
-		"or": "'%2d: %s' joined the %s",
-		"tr": "'%2d: %s' se pridružio %s"
-	},
-	{
 		"or": "'%s' called for vote to kick '%s' (%s)",
 		"tr": "'%s' glasa da se izbaci '%s' (%s)"
 	},
@@ -76,10 +72,6 @@
 	{
 		"or": "'%s' called vote to change server option '%s' (%s)",
 		"tr": "'%s' glasa za opciju '%s' (%s)"
-	},
-	{
-		"or": "'%s' entered and joined the %s",
-		"tr": "'%s' je ušao i pridružio se %s"
 	},
 	{
 		"or": "'%s' has left the game",
@@ -1195,11 +1187,6 @@
 		"tr": "plava zastava"
 	},
 	{
-		"context": "'X joined the <blue team>' (server message)",
-		"or": "blue team",
-		"tr": "plavi tim"
-	},
-	{
 		"context": "Show chat messages from:",
 		"or": "everyone",
 		"tr": "svakog"
@@ -1208,11 +1195,6 @@
 		"context": "Show chat messages from:",
 		"or": "friends only",
 		"tr": "samo prijatelje"
-	},
-	{
-		"context": "'X joined the <game>' (server message)",
-		"or": "game",
-		"tr": "igra"
 	},
 	{
 		"or": "locked",
@@ -1231,16 +1213,6 @@
 	{
 		"or": "red flag",
 		"tr": "crvena zastava"
-	},
-	{
-		"context": "'X joined the <red team>' (server message)",
-		"or": "red team",
-		"tr": "crveni tim"
-	},
-	{
-		"context": "'X joined the <spectators>' (server message)",
-		"or": "spectators",
-		"tr": "posmatrači"
 	},
 	{
 		"or": "wait for more players",

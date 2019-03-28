@@ -9,7 +9,11 @@
 "translated strings": [
 	{
 		"or": "%.3f KiB",
-		"tr": "%.3f Kilobitai"
+		"tr": "%.3f Kilobaitai"
+	},
+	{
+		"or": "%d other players",
+		"tr": "%dkiti žaidėjai"
 	},
 	{
 		"or": "%d player left",
@@ -17,15 +21,23 @@
 	},
 	{
 		"or": "%d player not ready",
-		"tr": "%d Žaidėjas napasiruošęs"
+		"tr": "%dnapasiruošęs"
+	},
+	{
+		"or": "%d players",
+		"tr": "%d žaidėjai"
 	},
 	{
 		"or": "%d players left",
-		"tr": "%d žaidėjai paliko žaidimą"
+		"tr": "liko%d žaidėjų"
 	},
 	{
 		"or": "%d players not ready",
 		"tr": "%d Žaidėjai nepasiruošę"
+	},
+	{
+		"or": "%d servers",
+		"tr": "%dserveriai"
 	},
 	{
 		"or": "%d servers, %d players",
@@ -37,7 +49,7 @@
 	},
 	{
 		"or": "%ds left",
-		"tr": "%ds išęjo"
+		"tr": "%d išėjo"
 	},
 	{
 		"or": "%i minute left",
@@ -49,7 +61,7 @@
 	},
 	{
 		"or": "%i second left",
-		"tr": "Liko %i sekundės"
+		"tr": "Liko %i sekundžių"
 	},
 	{
 		"or": "%i seconds left",
@@ -60,24 +72,32 @@
 		"tr": "%s laimėjo!"
 	},
 	{
-		"or": "'%2d: %s' joined the %s",
-		"tr": "'%2d:%s' prisijungė prie %s"
-	},
-	{
 		"or": "'%s' called for vote to kick '%s' (%s)",
 		"tr": "'%s' kviečia balsuoti kad išspirtų '%s' (%s)"
 	},
 	{
 		"or": "'%s' called for vote to move '%s' to spectators (%s)",
-		"tr": "\"%s\" kviečia balsuoti, kad perkeltų \"%s\" į žiūrovus (%s)"
+		"tr": "'%s' kviečia balsuoti, kad perkeltų '%s' į žiūrovus (%s)"
 	},
 	{
 		"or": "'%s' called vote to change server option '%s' (%s)",
 		"tr": "'%s' kviečia balsuoti kad pakeistų serverio nustatymą '%s' (%s)"
 	},
 	{
-		"or": "'%s' entered and joined the %s",
-		"tr": "'%s' prisijungė prie %s"
+		"or": "'%s' entered and joined the blue team",
+		"tr": "'%s' prisijungė į mėlyną komandą"
+	},
+	{
+		"or": "'%s' entered and joined the game",
+		"tr": "'%s' prisijungė į žaidimą"
+	},
+	{
+		"or": "'%s' entered and joined the red team",
+		"tr": "'%s' prisijungė į raudoną komandą"
+	},
+	{
+		"or": "'%s' entered and joined the spectators",
+		"tr": "'%s' prisijungė prie žiūrovų"
 	},
 	{
 		"or": "'%s' has left the game",
@@ -86,6 +106,42 @@
 	{
 		"or": "'%s' has left the game (%s)",
 		"tr": "'%s' paliko žaidimą (%s)"
+	},
+	{
+		"or": "'%s' initiated a pause",
+		"tr": "'%s' padarė pauzę"
+	},
+	{
+		"or": "'%s' joined the blue team",
+		"tr": "%sprisijungė į melyną komandą"
+	},
+	{
+		"or": "'%s' joined the game",
+		"tr": "'%s' prisijungė prie žaidimo"
+	},
+	{
+		"or": "'%s' joined the red team",
+		"tr": "'%s' prisijungė į raudoną komandą"
+	},
+	{
+		"or": "'%s' joined the spectators",
+		"tr": "'%s' prisijungė prie žiūrovų"
+	},
+	{
+		"or": "'%s' was added as a friend",
+		"tr": "'%s' buvo pridėtas prie draugų"
+	},
+	{
+		"or": "'%s' was muted",
+		"tr": "'%s' buvo užtildytas"
+	},
+	{
+		"or": "'%s' was removed as a friend",
+		"tr": "'%s' buvo išmestas iš draugų"
+	},
+	{
+		"or": "'%s' was unmuted",
+		"tr": "'%s' buvo atitildytas"
 	},
 	{
 		"or": "-Page %d-",
@@ -100,8 +156,20 @@
 		"tr": "Pridėti"
 	},
 	{
+		"or": "Add clan",
+		"tr": "Pridėti klaną"
+	},
+	{
 		"or": "Add demo marker",
 		"tr": "Pridėti demo žymeklį"
+	},
+	{
+		"or": "Add friend",
+		"tr": "Pridėti draugą"
+	},
+	{
+		"or": "Add friend/clan",
+		"tr": "Pridėti draugą/klaną"
 	},
 	{
 		"or": "Address",
@@ -121,11 +189,27 @@
 	},
 	{
 		"or": "Admin moved '%s' to spectator (%s)",
-		"tr": "Administratorius perkėlė \"%s\" į žiūrovus (%s)"
+		"tr": "Administratorius perkėlė '%s' į žiūrovus (%s)"
 	},
 	{
 		"or": "All",
 		"tr": "Visi"
+	},
+	{
+		"or": "All players were moved to the blue team",
+		"tr": "Visi žaidėjai buvo perkelti į mėlyną komandą"
+	},
+	{
+		"or": "All players were moved to the game",
+		"tr": "Visi žaidėjai buvo perkelti į žaidimą"
+	},
+	{
+		"or": "All players were moved to the red team",
+		"tr": "Visi žaidėjai buvo perkelti į raudoną komandą"
+	},
+	{
+		"or": "All players were moved to the spectators",
+		"tr": "Visi žaidėjai buvo perkelti į žiūrovus"
 	},
 	{
 		"or": "Alp:",
@@ -152,6 +236,10 @@
 		"tr": "Ar tikrai nori palikti žaidimą"
 	},
 	{
+		"or": "Are you sure that you want to remove the filter from the server browser?",
+		"tr": "Ar tikrai norite pašalinti filtrą iš serverio naršyklės?"
+	},
+	{
 		"or": "Are you sure that you want to remove the player from your friends list?",
 		"tr": "Ar tikrai norite pašalinti draugą iš draugų sąrašo"
 	},
@@ -165,7 +253,7 @@
 	},
 	{
 		"or": "As this is the first time you launch the game, please enter your nick name below. It's recommended that you check the settings to adjust them to your liking before joining a server.",
-		"tr": "Kadangi tai yra pirmas kartas, kai pradedate žaidimą, įveskite žemiau savo slapyvardį. Rekomenduojamę, kad jūs pakoreguotumėte nustatymus pagal savo skonį, prieš prisijungdami prie serverio."
+		"tr": "Kadangi tai yra pirmas kartas, kai pradedate žaidimą, įveskite žemiau savo slapyvardį. Rekomenduojame, kad jūs pakoreguotumėte nustatymus pagal savo skonį prieš prisijungdami prie serverio."
 	},
 	{
 		"or": "Automatically record demos",
@@ -196,6 +284,11 @@
 		"tr": "Kviesti balsuoti"
 	},
 	{
+		"context": "Server difficulty",
+		"or": "Casual",
+		"tr": "Paprastas"
+	},
+	{
 		"or": "Change settings",
 		"tr": "Keisti nustatymus"
 	},
@@ -208,12 +301,21 @@
 		"tr": "Klanas"
 	},
 	{
+		"context": "clear gametype filters",
+		"or": "Clear",
+		"tr": "Išvalyti"
+	},
+	{
+		"or": "Click on a player or a flag to follow it",
+		"tr": "Paspauskite ant žaidėjo ar vėliavos, kad ją sektumėtę"
+	},
+	{
 		"or": "Client",
 		"tr": "Klientas"
 	},
 	{
 		"or": "Close",
-		"tr": "Užverti"
+		"tr": "Uždaryti"
 	},
 	{
 		"or": "Color",
@@ -222,6 +324,11 @@
 	{
 		"or": "Compatible version",
 		"tr": "Tinkanti versija"
+	},
+	{
+		"context": "Server difficulty",
+		"or": "Competitive",
+		"tr": "Konkurencinis"
 	},
 	{
 		"or": "Connect",
@@ -252,12 +359,20 @@
 		"tr": "Šalis"
 	},
 	{
+		"or": "Country:",
+		"tr": "Šalis:"
+	},
+	{
 		"or": "Crc",
-		"tr": "Cikliškas perteklinis patikrinimas"
+		"tr": "Cpp"
 	},
 	{
 		"or": "Created",
 		"tr": "Sukurtas"
+	},
+	{
+		"or": "Current: %dx%d (%d:%d)",
+		"tr": "Dabartinis: %dx%d (%d:%d)"
 	},
 	{
 		"or": "Custom",
@@ -293,7 +408,7 @@
 	},
 	{
 		"or": "Demofile: %s",
-		"tr": "Demofailas: %s"
+		"tr": "Demo failas: %s"
 	},
 	{
 		"or": "Demos",
@@ -301,7 +416,15 @@
 	},
 	{
 		"or": "Detail",
-		"tr": "Detaliau"
+		"tr": "Detalės"
+	},
+	{
+		"or": "Difficulty",
+		"tr": "Sunkumas"
+	},
+	{
+		"or": "Difficulty:",
+		"tr": "Sunkumas:"
 	},
 	{
 		"or": "Disconnect",
@@ -313,7 +436,7 @@
 	},
 	{
 		"or": "Downloading map",
-		"tr": "Siunčia žemėlapį"
+		"tr": "Siunčiamas žemėlapis"
 	},
 	{
 		"or": "Draw!",
@@ -329,7 +452,11 @@
 	},
 	{
 		"or": "Emoticon",
-		"tr": "Emocija"
+		"tr": "Emoticon"
+	},
+	{
+		"or": "Enable colored server broadcasts",
+		"tr": "Įgalinti spalvotas serverio transliacijas"
 	},
 	{
 		"or": "Enter",
@@ -349,7 +476,7 @@
 	},
 	{
 		"or": "Favorites",
-		"tr": "Megiami"
+		"tr": "Mėgstami"
 	},
 	{
 		"or": "Fire",
@@ -380,6 +507,10 @@
 		"tr": "Žaidimo info"
 	},
 	{
+		"or": "Game options",
+		"tr": "Žaidimo nustatymai"
+	},
+	{
 		"or": "Game over",
 		"tr": "Žaidimas baigtas"
 	},
@@ -394,6 +525,10 @@
 	{
 		"or": "Game type",
 		"tr": "Žaidimo tipas"
+	},
+	{
+		"or": "Game type:",
+		"tr": "Žaidimo tipas:"
 	},
 	{
 		"or": "Game types:",
@@ -424,8 +559,12 @@
 		"tr": "Yra žaidejų"
 	},
 	{
+		"or": "Hide bots",
+		"tr": "Slėpti botus"
+	},
+	{
 		"or": "High Detail",
-		"tr": "Aukštos Detalės"
+		"tr": "Aukšta kokybė"
 	},
 	{
 		"or": "Hook",
@@ -438,6 +577,10 @@
 	{
 		"or": "Hue:",
 		"tr": "Atspalvis:"
+	},
+	{
+		"or": "Ingame mouse sens.",
+		"tr": "Žaidimo pelės jautrumas"
 	},
 	{
 		"or": "Invalid Demo",
@@ -470,7 +613,7 @@
 	},
 	{
 		"or": "Joined red",
-		"tr": "Prijngėte prie raudonūjų"
+		"tr": "Prisijungė į raudoną komandą"
 	},
 	{
 		"or": "Jump",
@@ -505,6 +648,10 @@
 		"tr": "Limituoti kadrus per sekunde"
 	},
 	{
+		"or": "Load the sound system",
+		"tr": "Įkelti garso sistemą"
+	},
+	{
 		"or": "Loading",
 		"tr": "Krauna"
 	},
@@ -525,9 +672,17 @@
 		"tr": "Žemėlapis"
 	},
 	{
+		"or": "Map:",
+		"tr": "Žemėlapis:"
+	},
+	{
+		"or": "Markers",
+		"tr": "Žymekliai"
+	},
+	{
 		"context": "rounds (scoreboard)",
 		"or": "Match",
-		"tr": "Mūšis"
+		"tr": "Varžybos"
 	},
 	{
 		"or": "Max",
@@ -542,6 +697,10 @@
 		"tr": "Maksimalus trigdis"
 	},
 	{
+		"or": "Menu mouse sens.",
+		"tr": "Meniu pelės jautrumas"
+	},
+	{
 		"or": "Misc",
 		"tr": "Įvairūs"
 	},
@@ -551,7 +710,7 @@
 	},
 	{
 		"or": "Move player to spectators",
-		"tr": "Perkelti žaidėjus į žiūrovus"
+		"tr": "Perkelti žaidėją prie žiūrovų"
 	},
 	{
 		"or": "Move right",
@@ -562,16 +721,24 @@
 		"tr": "Judėjimas"
 	},
 	{
+		"or": "Mute broadcasts",
+		"tr": "Nutildyti transliacijas"
+	},
+	{
 		"or": "Mute when not active",
 		"tr": "Nutildyti kai neaktyvus"
 	},
 	{
 		"or": "Name",
-		"tr": "Pavadinimas"
+		"tr": "Vardas"
 	},
 	{
 		"or": "Netversion",
 		"tr": "Grynoji Versija"
+	},
+	{
+		"or": "New filter",
+		"tr": "Naujas filtras"
 	},
 	{
 		"or": "Next weapon",
@@ -587,12 +754,12 @@
 	},
 	{
 		"or": "No",
-		"tr": "NE"
+		"tr": "Ne"
 	},
 	{
 		"context": "Without/None",
 		"or": "No",
-		"tr": "NE"
+		"tr": "Ne"
 	},
 	{
 		"or": "No password",
@@ -604,15 +771,33 @@
 	},
 	{
 		"or": "No servers match your filter criteria",
-		"tr": "Nėra serverių pagal jūsų kriteriją"
+		"tr": "Nerasta serverių pagal jūsų kriteriją"
+	},
+	{
+		"context": "Server difficulty",
+		"or": "Normal",
+		"tr": "Normalus"
 	},
 	{
 		"or": "Normal:",
 		"tr": "Normalus:"
 	},
 	{
+		"context": "friends (server browser)",
+		"or": "Offline (%d)",
+		"tr": "Neprisijungęs (%d)"
+	},
+	{
 		"or": "Ok",
 		"tr": "Gerai"
+	},
+	{
+		"or": "Online clanmates (%d)",
+		"tr": "Prisijungę klanatai (%d)"
+	},
+	{
+		"or": "Online players (%d)",
+		"tr": "Prisijungę žaidėjai (%d)"
 	},
 	{
 		"or": "Only %d active players are allowed",
@@ -621,6 +806,10 @@
 	{
 		"or": "Open",
 		"tr": "Atidaryti"
+	},
+	{
+		"or": "Option",
+		"tr": "Nustatymai"
 	},
 	{
 		"or": "Other",
@@ -636,7 +825,7 @@
 	},
 	{
 		"or": "Password incorrect",
-		"tr": "Slaptažodis netinka"
+		"tr": "Netinkamas slaptažodis"
 	},
 	{
 		"or": "Personal",
@@ -676,8 +865,17 @@
 		"tr": "Žaidėjai"
 	},
 	{
+		"context": "Playing '(gametype)' on '(map)'",
+		"or": "Playing '%s' on '%s'",
+		"tr": "Žaidžia '%s' prieš '%s'"
+	},
+	{
 		"or": "Please balance teams!",
 		"tr": "Prašome subalansuoti komandas!"
+	},
+	{
+		"or": "Press Enter to confirm or Esc to cancel",
+		"tr": "Spauskite Enter patvirtinti arba Esc atšaukti"
 	},
 	{
 		"or": "Prev. weapon",
@@ -693,7 +891,7 @@
 	},
 	{
 		"or": "REC %3d:%02d",
-		"tr": "Įrašoma %3d:%02d"
+		"tr": "REC %3d:%02d"
 	},
 	{
 		"or": "Ready",
@@ -709,7 +907,7 @@
 	},
 	{
 		"or": "Record",
-		"tr": "Irašyti"
+		"tr": "Rekordas"
 	},
 	{
 		"or": "Recorded",
@@ -734,6 +932,10 @@
 	{
 		"or": "Remove",
 		"tr": "Pašalinti"
+	},
+	{
+		"or": "Remove filter",
+		"tr": "Nuimti filtrą"
 	},
 	{
 		"or": "Remove friend",
@@ -812,6 +1014,10 @@
 		"tr": "Ieškoti:"
 	},
 	{
+		"or": "Server",
+		"tr": "Serveris"
+	},
+	{
 		"or": "Server address:",
 		"tr": "Serverio adresas:"
 	},
@@ -853,7 +1059,7 @@
 	},
 	{
 		"or": "Show chat",
-		"tr": "Rodyti susirašinėjimą"
+		"tr": "Rodyti pokalbį"
 	},
 	{
 		"or": "Show chat messages from:",
@@ -873,7 +1079,11 @@
 	},
 	{
 		"or": "Show social",
-		"tr": "Rodyti socialini"
+		"tr": "Rodyti socialinį"
+	},
+	{
+		"or": "Show user IDs",
+		"tr": "Rodyti naudotojo ID"
 	},
 	{
 		"or": "Size",
@@ -885,7 +1095,7 @@
 	},
 	{
 		"or": "Skins",
-		"tr": "Isvaidzdos"
+		"tr": "Išvaizda"
 	},
 	{
 		"or": "Skip the main menu",
@@ -901,7 +1111,7 @@
 	},
 	{
 		"or": "Spectate",
-		"tr": "Žvalgytis"
+		"tr": "Žiūrėti"
 	},
 	{
 		"or": "Spectate next",
@@ -913,7 +1123,7 @@
 	},
 	{
 		"or": "Spectating",
-		"tr": "Žvalgomasi"
+		"tr": "Žiūrima"
 	},
 	{
 		"or": "Spectator mode",
@@ -929,7 +1139,7 @@
 	},
 	{
 		"or": "Standard gametype",
-		"tr": "paprastas žaidimo tipas"
+		"tr": "Paprastas žaidimo tipas"
 	},
 	{
 		"or": "Standard map",
@@ -965,7 +1175,7 @@
 	},
 	{
 		"or": "Teams are locked. Time to wait before changing team: %02d:%02d",
-		"tr": "Komandos yra užrakintos. Liko laukti kol pasikeis komandos: %02d:%02d"
+		"tr": "Komandos yra užrakintos. Galėsite pasikeisti komandą po:%02d:%02d"
 	},
 	{
 		"or": "Teams were locked",
@@ -981,7 +1191,7 @@
 	},
 	{
 		"or": "Teeworlds %s is out! Download it at www.teeworlds.com!",
-		"tr": "Teeworld nauja versija %s ! Atsisiūskite iš www.teeworlds.com!"
+		"tr": "Teeworld nauja versija %s .Atsisiūskite iš www.teeworlds.com!"
 	},
 	{
 		"or": "Texture",
@@ -996,12 +1206,32 @@
 		"tr": "Garso įrenginys negali būti paleistas."
 	},
 	{
+		"or": "The blue flag was captured by '%s'",
+		"tr": "Mėlyną vėliavą pavogė '%s'"
+	},
+	{
+		"or": "The blue flag was captured by '%s' (%.2f seconds)",
+		"tr": "Mėlyną vėliava pavogė '%s' (%.2f sekundės)"
+	},
+	{
+		"or": "The red flag was captured by '%s'",
+		"tr": "Raudona vėliava pavogė '%s'"
+	},
+	{
+		"or": "The red flag was captured by '%s' (%.2f seconds)",
+		"tr": "Raudoną vėliava pavogė '%s' (%.2f sekundės)"
+	},
+	{
 		"or": "The server is running a non-standard tuning on a pure game type.",
-		"tr": "Serveris veikia nestandartiniu tiuningo ant gryno žaidimo tipu."
+		"tr": "Serveris veikia nestandartiniu tuningo ant gryno žaidimo tipu."
+	},
+	{
+		"or": "Theme",
+		"tr": "Tema"
 	},
 	{
 		"or": "There's an unsaved map in the editor, you might want to save it before you quit the game.",
-		"tr": "Yra neišsaugotas žemėlapis kuryboje, gal norėtumėte jį išsaugoti prieš jums paliekant žaidimą."
+		"tr": "Yra neišsaugotas žemėlapis kūryboje, gal norėtumėte jį išsaugoti prieš jums paliekant žaidimą."
 	},
 	{
 		"or": "Time limit",
@@ -1017,19 +1247,23 @@
 	},
 	{
 		"or": "Type",
-		"tr": "Rūšis"
+		"tr": "Tipas"
 	},
 	{
 		"or": "Unable to delete the demo",
-		"tr": "Neįmanoma ištrinti demo"
+		"tr": "Nepavyko ištrinti demo"
 	},
 	{
 		"or": "Unable to delete the skin",
-		"tr": "Neina ištrinki"
+		"tr": "Nepavyko ištrinti skin'o"
 	},
 	{
 		"or": "Unable to rename the demo",
-		"tr": "Neįmanoma pervadinti demo"
+		"tr": "Nepavyko pervadinti demo"
+	},
+	{
+		"or": "Use OS mouse acceleration",
+		"tr": "Naudoti OS pelės akceleraciją"
 	},
 	{
 		"or": "Use sounds",
@@ -1041,11 +1275,15 @@
 	},
 	{
 		"or": "V-Sync",
-		"tr": "Vertikali Sinchronizacija"
+		"tr": "V-Sync"
 	},
 	{
 		"or": "Version",
 		"tr": "Versija"
+	},
+	{
+		"or": "Version:",
+		"tr": "Versija:"
 	},
 	{
 		"or": "Volume",
@@ -1085,15 +1323,20 @@
 	},
 	{
 		"or": "Wait for current vote to end before calling a new one.",
-		"tr": "Palaukote kol dabartinis balsavimas pasibaigs prie kviesdami kitą."
+		"tr": "Palaukite, kol dabartinis balsavimas pasibaigs prie pradėdami kitą."
 	},
 	{
 		"or": "Wait for next round",
-		"tr": "Laukti kito raundo"
+		"tr": "Palaukite kito raundo"
 	},
 	{
 		"or": "Warmup",
 		"tr": "Apšilimas"
+	},
+	{
+		"context": "Watching '(gametype)' on '(map)'",
+		"or": "Watching '%s' on '%s'",
+		"tr": "Stebi '%s' ant '%s'"
 	},
 	{
 		"or": "Weapon",
@@ -1104,8 +1347,12 @@
 		"tr": "Sveiki atvykę į Teeworlds"
 	},
 	{
+		"or": "When ready, press <%s>",
+		"tr": "Kai pasiruošę, spauskite <%s>"
+	},
+	{
 		"or": "Whisper",
-		"tr": "Pašnibždėti"
+		"tr": "Šnabždėti"
 	},
 	{
 		"or": "Yes",
@@ -1117,21 +1364,40 @@
 		"tr": "Taip"
 	},
 	{
+		"or": "You have to wait %1.f seconds to change identity.",
+		"tr": "Jūs turi palaukti %1.f sekundžių, kad pakeistumėte tapatybę."
+	},
+	{
+		"or": "You must reconnect to change identity.",
+		"tr": "Jūs turi prisijungti, kad pakeistumėte tapatybę."
+	},
+	{
 		"or": "You must restart the game for all settings to take effect.",
 		"tr": "Jūs privalote perkrauti žaidimą kad nustatymai veiktų"
 	},
 	{
 		"or": "You must wait %d seconds before making another vote",
-		"tr": "Jūs turite laukti %d sekundžių prieš pradedant kitą balsavimą"
+		"tr": "Jūs turite palaukti %d sekundžių prieš pradedant kitą balsavimą"
+	},
+	{
+		"or": "You were moved to the blue team due to team balancing",
+		"tr": "Jūs buvote perkelti į mėlyną komandą dėl komandos balansavimo"
+	},
+	{
+		"or": "You were moved to the game due to team balancing",
+		"tr": "Jūs buvote perkelti į žaidimą dėl komandos balansavimo"
+	},
+	{
+		"or": "You were moved to the red team due to team balancing",
+		"tr": "Jūs buvote perkelti į raudoną komandą dėl komandos balansavimo"
+	},
+	{
+		"or": "You were moved to the spectators due to team balancing",
+		"tr": "Jūs buvote perkelti į žiūrovus dėl komandos balansavimo"
 	},
 	{
 		"or": "blue flag",
 		"tr": "mėlyna vėliava"
-	},
-	{
-		"context": "'X joined the <blue team>' (server message)",
-		"or": "blue team",
-		"tr": "mėlyna komanda"
 	},
 	{
 		"context": "skins",
@@ -1164,11 +1430,6 @@
 		"tr": "tik draugai"
 	},
 	{
-		"context": "'X joined the <game>' (server message)",
-		"or": "game",
-		"tr": "žaidimas"
-	},
-	{
 		"context": "skins",
 		"or": "hands",
 		"tr": "rankos"
@@ -1197,18 +1458,8 @@
 		"tr": "raudona vėliava"
 	},
 	{
-		"context": "'X joined the <red team>' (server message)",
-		"or": "red team",
-		"tr": "raudona komanda"
-	},
-	{
-		"context": "'X joined the <spectators>' (server message)",
-		"or": "spectators",
-		"tr": "žiūrovai"
-	},
-	{
 		"or": "wait for more players",
-		"tr": "laiukti daugiau žaidėjų"
+		"tr": "palaukti daugiau žaidėjų"
 	}
 ]
 }

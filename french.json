@@ -91,10 +91,6 @@
 		"tr": "%s a gagné !"
 	},
 	{
-		"or": "'%2d: %s' joined the %s",
-		"tr": "'%2d: %s' a rejoint les %s"
-	},
-	{
 		"or": "'%s' called for vote to kick '%s' (%s)",
 		"tr": "'%s' fait appel au vote pour exclure '%s' (%s)"
 	},
@@ -107,8 +103,20 @@
 		"tr": "'%s' fait appel au vote pour changer l'option du serveur '%s' (%s)"
 	},
 	{
-		"or": "'%s' entered and joined the %s",
-		"tr": "'%s' est entré et a rejoint %s"
+		"or": "'%s' entered and joined the blue team",
+		"tr": "'%s' est entré et a rejoint l'équipe bleue"
+	},
+	{
+		"or": "'%s' entered and joined the game",
+		"tr": "'%s' est entré et a rejoint la partie"
+	},
+	{
+		"or": "'%s' entered and joined the red team",
+		"tr": "'%s' est entré et a rejoint l'équipe rouge"
+	},
+	{
+		"or": "'%s' entered and joined the spectators",
+		"tr": "'%s' est entré et a rejoint les spectateurs"
 	},
 	{
 		"or": "'%s' has left the game",
@@ -117,6 +125,42 @@
 	{
 		"or": "'%s' has left the game (%s)",
 		"tr": "'%s' a quitté le jeu (%s)"
+	},
+	{
+		"or": "'%s' initiated a pause",
+		"tr": "'%s' a demandé une pause"
+	},
+	{
+		"or": "'%s' joined the blue team",
+		"tr": "'%s' a rejoint l'équipe bleue"
+	},
+	{
+		"or": "'%s' joined the game",
+		"tr": "'%s' a rejoint la partie"
+	},
+	{
+		"or": "'%s' joined the red team",
+		"tr": "'%s' a rejoint l'équipe rouge"
+	},
+	{
+		"or": "'%s' joined the spectators",
+		"tr": "'%s' a rejoint les spectateurs"
+	},
+	{
+		"or": "'%s' was added as a friend",
+		"tr": "'%s' a été ajouté à la liste d'amis"
+	},
+	{
+		"or": "'%s' was muted",
+		"tr": "'%s' a été rendu muet"
+	},
+	{
+		"or": "'%s' was removed as a friend",
+		"tr": "'%s' a été retiré de la liste d'amis"
+	},
+	{
+		"or": "'%s' was unmuted",
+		"tr": "'%s' a été rendu non muet"
 	},
 	{
 		"or": "-Page %d-",
@@ -171,8 +215,20 @@
 		"tr": "Tout le monde"
 	},
 	{
-		"or": "All players were moved to the %s",
-		"tr": "Tous les joueurs ont été déplacés dans: %s"
+		"or": "All players were moved to the blue team",
+		"tr": "Tous les joueurs ont été déplacés dans l'équipe bleue"
+	},
+	{
+		"or": "All players were moved to the game",
+		"tr": "Tous les joueurs ont été déplacés dans la partie"
+	},
+	{
+		"or": "All players were moved to the red team",
+		"tr": "Tous les joueurs ont été déplacés dans l'équipe rouge"
+	},
+	{
+		"or": "All players were moved to the spectators",
+		"tr": "Tous les joueurs ont été déplacés dans les spectateurs"
 	},
 	{
 		"or": "Alp:",
@@ -837,6 +893,10 @@
 		"tr": "Veuillez équilibrer les équipes !"
 	},
 	{
+		"or": "Press Enter to confirm or Esc to cancel",
+		"tr": "Appuyez sur Entrée pour confirmer ou Échap pour annuler"
+	},
+	{
 		"or": "Prev. weapon",
 		"tr": "Arme précédente"
 	},
@@ -1161,16 +1221,24 @@
 		"tr": "Compression des textures"
 	},
 	{
-		"or": "The %s was captured by '%s'",
-		"tr": "Le drapeau %s a été capturé par '%s'"
-	},
-	{
-		"or": "The %s was captured by '%s' (%.2f seconds)",
-		"tr": "Le drapeau %s a été capturé par '%s' (%.2f secondes)"
-	},
-	{
 		"or": "The audio device couldn't be initialised.",
 		"tr": "Le périphérique audio n'a pas pu être initialisé."
+	},
+	{
+		"or": "The blue flag was captured by '%s'",
+		"tr": "Le drapeau bleu a été capturé par '%s'"
+	},
+	{
+		"or": "The blue flag was captured by '%s' (%.2f seconds)",
+		"tr": "Le drapeau bleu a été capturé par '%s' (%.2f secondes)"
+	},
+	{
+		"or": "The red flag was captured by '%s'",
+		"tr": "Le drapeau rouge a été capturé par '%s'"
+	},
+	{
+		"or": "The red flag was captured by '%s' (%.2f seconds)",
+		"tr": "Le drapeau rouge a été capturé par '%s' (%.2f secondes)"
 	},
 	{
 		"or": "The server is running a non-standard tuning on a pure game type.",
@@ -1315,6 +1383,10 @@
 		"tr": "Oui"
 	},
 	{
+		"or": "You have to wait %1.f seconds to change identity.",
+		"tr": "Vous devez attendre %1.f secondes pour changer d'identité"
+	},
+	{
 		"or": "You must reconnect to change identity.",
 		"tr": "Vous devez vous reconnecter pour changer d'identité."
 	},
@@ -1327,17 +1399,24 @@
 		"tr": "Vous devez patientez pendant %d secondes avant de faire appel à un autre vote"
 	},
 	{
-		"or": "You were moved to %s due to team balancing",
-		"tr": "Vous avez été déplacé dans l'%s pour équilibrer"
+		"or": "You were moved to the blue team due to team balancing",
+		"tr": "Vous avez été déplacé dans l'équipe bleue pour équilibrer"
+	},
+	{
+		"or": "You were moved to the game due to team balancing",
+		"tr": "Vous avez été déplacé dans la partie pour équilibrer"
+	},
+	{
+		"or": "You were moved to the red team due to team balancing",
+		"tr": "Vous avez été déplacé dans l'équipe rouge pour équilibrer"
+	},
+	{
+		"or": "You were moved to the spectators due to team balancing",
+		"tr": "Vous avez été déplacé dans les spectateurs pour équilibrer"
 	},
 	{
 		"or": "blue flag",
 		"tr": "drapeau bleu"
-	},
-	{
-		"context": "'X joined the <blue team>' (server message)",
-		"or": "blue team",
-		"tr": "l'équipe bleue"
 	},
 	{
 		"context": "skins",
@@ -1370,11 +1449,6 @@
 		"tr": "seulement les amis"
 	},
 	{
-		"context": "'X joined the <game>' (server message)",
-		"or": "game",
-		"tr": "partie"
-	},
-	{
 		"context": "skins",
 		"or": "hands",
 		"tr": "mains"
@@ -1401,16 +1475,6 @@
 	{
 		"or": "red flag",
 		"tr": "drapeau rouge"
-	},
-	{
-		"context": "'X joined the <red team>' (server message)",
-		"or": "red team",
-		"tr": "l'équipe rouge"
-	},
-	{
-		"context": "'X joined the <spectators>' (server message)",
-		"or": "spectators",
-		"tr": "les spectateurs"
 	},
 	{
 		"or": "wait for more players",

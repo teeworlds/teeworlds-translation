@@ -247,11 +247,6 @@
 		"context": "With",
 		"or": "Yes",
 		"tr": "是"
-	},
-	{
-		"context": "'X joined the <red team>' (server message)",
-		"or": "red team",
-		"tr": "紅隊"
 	}
 ]
 }
