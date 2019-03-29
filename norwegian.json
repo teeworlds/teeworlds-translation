@@ -1218,7 +1218,7 @@
 	},
 	{
 		"or": "The red flag was captured by '%s'",
-		"tr": "Det røde flagget ble scoret av ''"
+		"tr": "Det røde flagget ble scoret av '%s'"
 	},
 	{
 		"or": "The red flag was captured by '%s' (%.2f seconds)",
