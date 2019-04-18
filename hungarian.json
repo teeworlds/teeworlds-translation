@@ -1359,8 +1359,8 @@
 		"tr": "Igen"
 	},
 	{
-		"or": "You have to wait %1.f seconds to change identity.",
-		"tr": "Identitás megváltoztatásához várnod kell %1.f másodpercet."
+		"or": "You have to wait %1.0f seconds to change identity.",
+		"tr": "Identitás megváltoztatásához várnod kell %1.0f másodpercet."
 	},
 	{
 		"or": "You must reconnect to change identity.",

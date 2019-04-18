@@ -1363,8 +1363,8 @@
 		"tr": "Tha"
 	},
 	{
-		"or": "You have to wait %1.f seconds to change identity.",
-		"tr": "Feumaidh tu feitheamh fad %1.f diog(an) mus atharraich thu d’ aithne."
+		"or": "You have to wait %1.0f seconds to change identity.",
+		"tr": "Feumaidh tu feitheamh fad %1.0f diog(an) mus atharraich thu d’ aithne."
 	},
 	{
 		"or": "You must reconnect to change identity.",

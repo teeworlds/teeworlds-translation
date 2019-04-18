@@ -1366,8 +1366,8 @@
 		"tr": "是"
 	},
 	{
-		"or": "You have to wait %1.f seconds to change identity.",
-		"tr": "你需要等待 %1.f 秒才能修改身份"
+		"or": "You have to wait %1.0f seconds to change identity.",
+		"tr": "你需要等待 %1.0f 秒才能修改身份"
 	},
 	{
 		"or": "You must reconnect to change identity.",

@@ -1366,8 +1366,8 @@
 		"tr": "Da"
 	},
 	{
-		"or": "You have to wait %1.f seconds to change identity.",
-		"tr": "Morate čekati %1.f sekundi da promenite identitet."
+		"or": "You have to wait %1.0f seconds to change identity.",
+		"tr": "Morate čekati %1.0f sekundi da promenite identitet."
 	},
 	{
 		"or": "You must reconnect to change identity.",

@@ -1364,8 +1364,8 @@
 		"tr": "Taip"
 	},
 	{
-		"or": "You have to wait %1.f seconds to change identity.",
-		"tr": "Jūs turi palaukti %1.f sekundžių, kad pakeistumėte tapatybę."
+		"or": "You have to wait %1.0f seconds to change identity.",
+		"tr": "Jūs turi palaukti %1.0f sekundžių, kad pakeistumėte tapatybę."
 	},
 	{
 		"or": "You must reconnect to change identity.",

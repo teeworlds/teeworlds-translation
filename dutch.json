@@ -1381,8 +1381,8 @@
 		"tr": "Ja"
 	},
 	{
-		"or": "You have to wait %1.f seconds to change identity.",
-		"tr": "Je moet %1.f seconden wachten voordat je je identiteit kunt wijzigen."
+		"or": "You have to wait %1.0f seconds to change identity.",
+		"tr": "Je moet %1.0f seconden wachten voordat je je identiteit kunt wijzigen."
 	},
 	{
 		"or": "You must reconnect to change identity.",

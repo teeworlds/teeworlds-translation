@@ -1366,8 +1366,8 @@
 		"tr": "Так"
 	},
 	{
-		"or": "You have to wait %1.f seconds to change identity.",
-		"tr": "Зачекайте %1.f секунд перед зміною особистості."
+		"or": "You have to wait %1.0f seconds to change identity.",
+		"tr": "Зачекайте %1.0f секунд перед зміною особистості."
 	},
 	{
 		"or": "You must reconnect to change identity.",

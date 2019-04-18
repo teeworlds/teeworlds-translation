@@ -1364,8 +1364,8 @@
 		"tr": "Так"
 	},
 	{
-		"or": "You have to wait %1.f seconds to change identity.",
-		"tr": "Пачакайце %1.f сек. перад ужыццём налад."
+		"or": "You have to wait %1.0f seconds to change identity.",
+		"tr": "Пачакайце %1.0f сек. перад ужыццём налад."
 	},
 	{
 		"or": "You must reconnect to change identity.",

@@ -1383,8 +1383,8 @@
 		"tr": "Oui"
 	},
 	{
-		"or": "You have to wait %1.f seconds to change identity.",
-		"tr": "Vous devez attendre %1.f secondes pour changer d'identité"
+		"or": "You have to wait %1.0f seconds to change identity.",
+		"tr": "Vous devez attendre %1.0f secondes pour changer d'identité"
 	},
 	{
 		"or": "You must reconnect to change identity.",

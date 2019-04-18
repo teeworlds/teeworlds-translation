@@ -1376,8 +1376,8 @@
 		"tr": "Sim"
 	},
 	{
-		"or": "You have to wait %1.f seconds to change identity.",
-		"tr": "Você tem que aguardar %1.f segundos para alterar a identidade."
+		"or": "You have to wait %1.0f seconds to change identity.",
+		"tr": "Você tem que aguardar %1.0f segundos para alterar a identidade."
 	},
 	{
 		"or": "You must reconnect to change identity.",

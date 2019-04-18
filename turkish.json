@@ -1370,8 +1370,8 @@
 		"tr": "Evet"
 	},
 	{
-		"or": "You have to wait %1.f seconds to change identity.",
-		"tr": "Kimlik değiştirmek için %1.f saniye beklemelisiniz."
+		"or": "You have to wait %1.0f seconds to change identity.",
+		"tr": "Kimlik değiştirmek için %1.0f saniye beklemelisiniz."
 	},
 	{
 		"or": "You must reconnect to change identity.",
