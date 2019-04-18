@@ -14,6 +14,10 @@
 		"tr": "%.3f KiB"
 	},
 	{
+		"or": "%d other players",
+		"tr": "%d drugih igrača"
+	},
+	{
 		"or": "%d player left",
 		"tr": "%d igrač izašao"
 	},
@@ -22,12 +26,20 @@
 		"tr": "%d igrač nije spreman"
 	},
 	{
+		"or": "%d players",
+		"tr": "%d igrača"
+	},
+	{
 		"or": "%d players left",
 		"tr": "%d igrača preostalo"
 	},
 	{
 		"or": "%d players not ready",
 		"tr": "%d igrači nisu spremni"
+	},
+	{
+		"or": "%d servers",
+		"tr": "%d servera"
 	},
 	{
 		"or": "%d servers, %d players",
@@ -74,12 +86,64 @@
 		"tr": "'%s' glasa za opciju '%s' (%s)"
 	},
 	{
+		"or": "'%s' entered and joined the blue team",
+		"tr": "'%s' je ušao i pridružio se plavom timu"
+	},
+	{
+		"or": "'%s' entered and joined the game",
+		"tr": "'%s' je ušao i pridružio se igri"
+	},
+	{
+		"or": "'%s' entered and joined the red team",
+		"tr": "'%s' je ušao i pridružio se crvenom timu"
+	},
+	{
+		"or": "'%s' entered and joined the spectators",
+		"tr": "'%s' je ušao i pridružio se posmatračima"
+	},
+	{
 		"or": "'%s' has left the game",
 		"tr": "'%s' je napustio igru"
 	},
 	{
 		"or": "'%s' has left the game (%s)",
 		"tr": "'%s' je napustio igru (%s)"
+	},
+	{
+		"or": "'%s' initiated a pause",
+		"tr": "'%s' je pokrenuo pauzu"
+	},
+	{
+		"or": "'%s' joined the blue team",
+		"tr": "'%s' se pridružio plavom timu"
+	},
+	{
+		"or": "'%s' joined the game",
+		"tr": "'%s' je ušao u igru"
+	},
+	{
+		"or": "'%s' joined the red team",
+		"tr": "'%s' se pridružio crvenom timu"
+	},
+	{
+		"or": "'%s' joined the spectators",
+		"tr": "'%s' se pridružio posmatračima"
+	},
+	{
+		"or": "'%s' was added as a friend",
+		"tr": "'%s' je dodat u prijatelje"
+	},
+	{
+		"or": "'%s' was muted",
+		"tr": "'%s' je utišan"
+	},
+	{
+		"or": "'%s' was removed as a friend",
+		"tr": "'%s' je izbačen iz prijatelja"
+	},
+	{
+		"or": "'%s' was unmuted",
+		"tr": "'%s' više nije utišan"
 	},
 	{
 		"or": "-Page %d-",
@@ -132,6 +196,22 @@
 	{
 		"or": "All",
 		"tr": "Svi"
+	},
+	{
+		"or": "All players were moved to the blue team",
+		"tr": "Svi igrači su pomereni u plavi tim"
+	},
+	{
+		"or": "All players were moved to the game",
+		"tr": "Svi igrači su pomereni u igru"
+	},
+	{
+		"or": "All players were moved to the red team",
+		"tr": "Svi igrači su pomereni u crveni tim"
+	},
+	{
+		"or": "All players were moved to the spectators",
+		"tr": "Svi igrači su prebačei u posmatrače"
 	},
 	{
 		"or": "Alp:",
@@ -206,6 +286,11 @@
 		"tr": "Glasanje"
 	},
 	{
+		"context": "Server difficulty",
+		"or": "Casual",
+		"tr": "Opušteno"
+	},
+	{
 		"or": "Change settings",
 		"tr": "Izmeni podešavanja"
 	},
@@ -221,6 +306,10 @@
 		"context": "clear gametype filters",
 		"or": "Clear",
 		"tr": "Poništi"
+	},
+	{
+		"or": "Click on a player or a flag to follow it",
+		"tr": "Kliknite na igrača ili zastavu da je pratite"
 	},
 	{
 		"or": "Client",
@@ -284,6 +373,10 @@
 		"tr": "Napravljen"
 	},
 	{
+		"or": "Current: %dx%d (%d:%d)",
+		"tr": "Trenutno: %dx%d (%d:%d)"
+	},
+	{
 		"or": "Custom",
 		"tr": "Prilagođeno"
 	},
@@ -330,6 +423,10 @@
 	{
 		"or": "Difficulty",
 		"tr": "Teškoća"
+	},
+	{
+		"or": "Difficulty:",
+		"tr": "Težina:"
 	},
 	{
 		"or": "Disconnect",
@@ -412,6 +509,10 @@
 		"tr": "O igri"
 	},
 	{
+		"or": "Game options",
+		"tr": "Opcije igre"
+	},
+	{
 		"or": "Game over",
 		"tr": "Igra je završena"
 	},
@@ -426,6 +527,10 @@
 	{
 		"or": "Game type",
 		"tr": "Tip igre"
+	},
+	{
+		"or": "Game type:",
+		"tr": "Tip igre:"
 	},
 	{
 		"or": "Game types:",
@@ -476,6 +581,10 @@
 		"tr": "Nijansa:"
 	},
 	{
+		"or": "Ingame mouse sens.",
+		"tr": "Osetljivost miša u igri"
+	},
+	{
 		"or": "Invalid Demo",
 		"tr": "Neispravan demo"
 	},
@@ -486,7 +595,7 @@
 	{
 		"context": "Join a server",
 		"or": "Join",
-		"tr": "Uđi"
+		"tr": "Uđji"
 	},
 	{
 		"or": "Join blue",
@@ -537,6 +646,14 @@
 		"tr": "Svetlina:"
 	},
 	{
+		"or": "Limit Fps",
+		"tr": "Ograniči fps"
+	},
+	{
+		"or": "Load the sound system",
+		"tr": "Učitaj zvučni sistem"
+	},
+	{
 		"or": "Loading",
 		"tr": "Učitavam"
 	},
@@ -557,6 +674,14 @@
 		"tr": "Mapa"
 	},
 	{
+		"or": "Map:",
+		"tr": "Mapa:"
+	},
+	{
+		"or": "Markers",
+		"tr": "Markeri"
+	},
+	{
 		"context": "rounds (scoreboard)",
 		"or": "Match",
 		"tr": "Meč"
@@ -566,8 +691,16 @@
 		"tr": "Max"
 	},
 	{
+		"or": "Max fps",
+		"tr": "Max fps"
+	},
+	{
 		"or": "Maximum ping:",
 		"tr": "Maksimalan ping:"
+	},
+	{
+		"or": "Menu mouse sens.",
+		"tr": "Osetljivost miša u meniju."
 	},
 	{
 		"or": "Misc",
@@ -588,6 +721,10 @@
 	{
 		"or": "Movement",
 		"tr": "Kretanje"
+	},
+	{
+		"or": "Mute broadcasts",
+		"tr": "Utišaj emitovanja"
 	},
 	{
 		"or": "Mute when not active",
@@ -639,6 +776,11 @@
 		"tr": "Nijedan server ne odgovara zadatom kriteriju"
 	},
 	{
+		"context": "Server difficulty",
+		"or": "Normal",
+		"tr": "Normalno"
+	},
+	{
 		"or": "Normal:",
 		"tr": "Normalno:"
 	},
@@ -652,6 +794,10 @@
 		"tr": "Ok"
 	},
 	{
+		"or": "Online clanmates (%d)",
+		"tr": "Onlajn članovi klana (%d)"
+	},
+	{
 		"or": "Online players (%d)",
 		"tr": "Povezani igrači (%d)"
 	},
@@ -662,6 +808,10 @@
 	{
 		"or": "Open",
 		"tr": "Otvori"
+	},
+	{
+		"or": "Option",
+		"tr": "Opcija"
 	},
 	{
 		"or": "Other",
@@ -717,8 +867,17 @@
 		"tr": "Igrači"
 	},
 	{
+		"context": "Playing '(gametype)' on '(map)'",
+		"or": "Playing '%s' on '%s'",
+		"tr": "Igrate '%s' na '%s'"
+	},
+	{
 		"or": "Please balance teams!",
 		"tr": "Molimo uravnotežite timove!"
+	},
+	{
+		"or": "Press Enter to confirm or Esc to cancel",
+		"tr": "Pritisnite Enter za potvrdu ili Esc za otkaz"
 	},
 	{
 		"or": "Prev. weapon",
@@ -857,6 +1016,10 @@
 		"tr": "Traži:"
 	},
 	{
+		"or": "Server",
+		"tr": "Server"
+	},
+	{
 		"or": "Server address:",
 		"tr": "Adresa servera:"
 	},
@@ -915,6 +1078,10 @@
 	{
 		"or": "Show name plates",
 		"tr": "Prikaži imena igrača"
+	},
+	{
+		"or": "Show social",
+		"tr": "Prikaži društvo"
 	},
 	{
 		"or": "Show user IDs",
@@ -1041,6 +1208,22 @@
 		"tr": "Audio uređaj nije moguće pokrenuti."
 	},
 	{
+		"or": "The blue flag was captured by '%s'",
+		"tr": "Plavu zastavu je zarobio '%s'"
+	},
+	{
+		"or": "The blue flag was captured by '%s' (%.2f seconds)",
+		"tr": "Plavu zastavu zarobio je '%s' (%.2f sekundi)"
+	},
+	{
+		"or": "The red flag was captured by '%s'",
+		"tr": "Crvenu zastavu zarobio je '%s'"
+	},
+	{
+		"or": "The red flag was captured by '%s' (%.2f seconds)",
+		"tr": "Crvenu zastavu zarobio je '%s' (%.2f sekundi)"
+	},
+	{
 		"or": "The server is running a non-standard tuning on a pure game type.",
 		"tr": "Server sadrži nestandardna podešavanja."
 	},
@@ -1081,6 +1264,10 @@
 		"tr": "Demo nije moguće preimenovati"
 	},
 	{
+		"or": "Use OS mouse acceleration",
+		"tr": "Koristi ubrzanje miša OS-a"
+	},
+	{
 		"or": "Use sounds",
 		"tr": "Koristi zvuk"
 	},
@@ -1095,6 +1282,10 @@
 	{
 		"or": "Version",
 		"tr": "Verzija"
+	},
+	{
+		"or": "Version:",
+		"tr": "Verzija:"
 	},
 	{
 		"or": "Volume",
@@ -1175,6 +1366,14 @@
 		"tr": "Da"
 	},
 	{
+		"or": "You have to wait %1.f seconds to change identity.",
+		"tr": "Morate čekati %1.f sekundi da promenite identitet."
+	},
+	{
+		"or": "You must reconnect to change identity.",
+		"tr": "Morate se rekonektovati da promenite identitet."
+	},
+	{
 		"or": "You must restart the game for all settings to take effect.",
 		"tr": "Morate ponovo pokrenuti igru da bi sva podešavanja bila primenjena."
 	},
@@ -1183,8 +1382,34 @@
 		"tr": "Morate sačekati %d sekundi pre početka sledećeg glasanja"
 	},
 	{
+		"or": "You were moved to the blue team due to team balancing",
+		"tr": "Pomereni ste u plavi tim usled balansiranja timova"
+	},
+	{
+		"or": "You were moved to the game due to team balancing",
+		"tr": "Prebačeni ste u igru usled balansiranja timova"
+	},
+	{
+		"or": "You were moved to the red team due to team balancing",
+		"tr": "Prebačeni ste u crveni tim usled balansiranja timova"
+	},
+	{
+		"or": "You were moved to the spectators due to team balancing",
+		"tr": "Pomereni ste u posmatrače usled balansiranja timova"
+	},
+	{
 		"or": "blue flag",
 		"tr": "plava zastava"
+	},
+	{
+		"context": "skins",
+		"or": "body",
+		"tr": "telo"
+	},
+	{
+		"context": "skins",
+		"or": "decoration",
+		"tr": "dekoracija"
 	},
 	{
 		"context": "Show chat messages from:",
@@ -1192,13 +1417,33 @@
 		"tr": "svakog"
 	},
 	{
+		"context": "skins",
+		"or": "eyes",
+		"tr": "oči"
+	},
+	{
+		"context": "skins",
+		"or": "feet",
+		"tr": "stopala"
+	},
+	{
 		"context": "Show chat messages from:",
 		"or": "friends only",
 		"tr": "samo prijatelje"
 	},
 	{
+		"context": "skins",
+		"or": "hands",
+		"tr": "ruke"
+	},
+	{
 		"or": "locked",
 		"tr": "zaključano"
+	},
+	{
+		"context": "skins",
+		"or": "marking",
+		"tr": "oznake"
 	},
 	{
 		"context": "Show chat messages from:",

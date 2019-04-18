@@ -18,6 +18,10 @@
 		"tr": "%.3f KiloBayt"
 	},
 	{
+		"or": "%d other players",
+		"tr": "%dbaşka oyuncu"
+	},
+	{
 		"or": "%d player left",
 		"tr": "%d oyuncu kaldı"
 	},
@@ -26,12 +30,20 @@
 		"tr": "%d oyuncu hazır değil"
 	},
 	{
+		"or": "%d players",
+		"tr": "%doyuncu"
+	},
+	{
 		"or": "%d players left",
 		"tr": "%d oyuncu kaldi"
 	},
 	{
 		"or": "%d players not ready",
 		"tr": "%d oyuncular hazır değil"
+	},
+	{
+		"or": "%d servers",
+		"tr": "%d sunucu"
 	},
 	{
 		"or": "%d servers, %d players",
@@ -78,12 +90,64 @@
 		"tr": "'%s' sunucu ayarlarını değiştirmek için oylama başlattı '%s' (%s)"
 	},
 	{
+		"or": "'%s' entered and joined the blue team",
+		"tr": "'%s' mavi takıma katıldı "
+	},
+	{
+		"or": "'%s' entered and joined the game",
+		"tr": "'%s' oyuna giriş yaptı."
+	},
+	{
+		"or": "'%s' entered and joined the red team",
+		"tr": "'%s' kırmızı takıma katıldı."
+	},
+	{
+		"or": "'%s' entered and joined the spectators",
+		"tr": "'%s'  izleyicilere katıldı."
+	},
+	{
 		"or": "'%s' has left the game",
 		"tr": "'%s' oyundan çıktı"
 	},
 	{
 		"or": "'%s' has left the game (%s)",
-		"tr": "'%s' oyundan cikti. (%s)"
+		"tr": "'%s' oyundan çıktı. (%s)"
+	},
+	{
+		"or": "'%s' initiated a pause",
+		"tr": "'%s' duraklattı "
+	},
+	{
+		"or": "'%s' joined the blue team",
+		"tr": "'%s' mavi takıma katıldı"
+	},
+	{
+		"or": "'%s' joined the game",
+		"tr": "'%s' oyuna katıldı."
+	},
+	{
+		"or": "'%s' joined the red team",
+		"tr": "'%s' kırmızı takıma katıldı"
+	},
+	{
+		"or": "'%s' joined the spectators",
+		"tr": "'%s' izleyicilere katıldı"
+	},
+	{
+		"or": "'%s' was added as a friend",
+		"tr": "'%s' arkadaş olarak eklendi. "
+	},
+	{
+		"or": "'%s' was muted",
+		"tr": "'%s' susturuldu."
+	},
+	{
+		"or": "'%s' was removed as a friend",
+		"tr": "'%s' arkadaşlardan çıkarıldı"
+	},
+	{
+		"or": "'%s' was unmuted",
+		"tr": "'%s' artık konuşabilir."
 	},
 	{
 		"or": "-Page %d-",
@@ -96,6 +160,22 @@
 	{
 		"or": "Add",
 		"tr": "Ekle"
+	},
+	{
+		"or": "Add clan",
+		"tr": "Klan ekle"
+	},
+	{
+		"or": "Add demo marker",
+		"tr": "Demo işareti ekle"
+	},
+	{
+		"or": "Add friend",
+		"tr": "Arkadaş ekle"
+	},
+	{
+		"or": "Add friend/clan",
+		"tr": "Klan/arkadaş ekle"
 	},
 	{
 		"or": "Address",
@@ -122,6 +202,22 @@
 		"tr": "Hepsi"
 	},
 	{
+		"or": "All players were moved to the blue team",
+		"tr": "Tüm oyuncular mavi takıma taşındı."
+	},
+	{
+		"or": "All players were moved to the game",
+		"tr": "Tüm oyuncular oyuna taşındı."
+	},
+	{
+		"or": "All players were moved to the red team",
+		"tr": "Tüm oyuncular kırmızı takıma taşındı."
+	},
+	{
+		"or": "All players were moved to the spectators",
+		"tr": "Tüm oyuncular izleyicilere taşındı."
+	},
+	{
 		"or": "Alp:",
 		"tr": "Alfa:"
 	},
@@ -144,6 +240,10 @@
 	{
 		"or": "Are you sure that you want to quit?",
 		"tr": "Çıkmak istediğinize emin misiniz?"
+	},
+	{
+		"or": "Are you sure that you want to remove the filter from the server browser?",
+		"tr": "Bu filtreyi sunucu arayıcınızdan kaldırmak istediğinize emin misiniz?"
 	},
 	{
 		"or": "Are you sure that you want to remove the player from your friends list?",
@@ -190,6 +290,11 @@
 		"tr": "Oylama başlat"
 	},
 	{
+		"context": "Server difficulty",
+		"or": "Casual",
+		"tr": "Sıradan"
+	},
+	{
 		"or": "Change settings",
 		"tr": "Ayarları değiştir"
 	},
@@ -200,6 +305,15 @@
 	{
 		"or": "Clan",
 		"tr": "Klan"
+	},
+	{
+		"context": "clear gametype filters",
+		"or": "Clear",
+		"tr": "Temizle"
+	},
+	{
+		"or": "Click on a player or a flag to follow it",
+		"tr": "Bayrağı veya oyuncuyu izlemek için üzerine tıklayın."
 	},
 	{
 		"or": "Client",
@@ -216,6 +330,11 @@
 	{
 		"or": "Compatible version",
 		"tr": "Uyumlu versiyon"
+	},
+	{
+		"context": "Server difficulty",
+		"or": "Competitive",
+		"tr": "Rekabetçi"
 	},
 	{
 		"or": "Connect",
@@ -246,12 +365,20 @@
 		"tr": "Ülke"
 	},
 	{
+		"or": "Country:",
+		"tr": "Ülke"
+	},
+	{
 		"or": "Crc",
 		"tr": "Sağlama"
 	},
 	{
 		"or": "Created",
 		"tr": "Oluşturuldu"
+	},
+	{
+		"or": "Current: %dx%d (%d:%d)",
+		"tr": "Şu anki %dx%d(%d:%d)"
 	},
 	{
 		"or": "Custom",
@@ -298,6 +425,14 @@
 		"tr": "Detay"
 	},
 	{
+		"or": "Difficulty",
+		"tr": "Zorluk"
+	},
+	{
+		"or": "Difficulty:",
+		"tr": "Zorluk:"
+	},
+	{
 		"or": "Disconnect",
 		"tr": "Bağlantıyı kes"
 	},
@@ -324,6 +459,10 @@
 	{
 		"or": "Emoticon",
 		"tr": "Yüz ifadesi"
+	},
+	{
+		"or": "Enable colored server broadcasts",
+		"tr": "Renkli sunucu mesajlarını aç"
 	},
 	{
 		"or": "Enter",
@@ -374,6 +513,10 @@
 		"tr": "Oyun bilgisi"
 	},
 	{
+		"or": "Game options",
+		"tr": "Oyun ayarları"
+	},
+	{
 		"or": "Game over",
 		"tr": "Oyun sonu"
 	},
@@ -388,6 +531,10 @@
 	{
 		"or": "Game type",
 		"tr": "Oyun türü"
+	},
+	{
+		"or": "Game type:",
+		"tr": "Oyun tipi:"
 	},
 	{
 		"or": "Game types:",
@@ -418,6 +565,10 @@
 		"tr": "İnsan bulunduran"
 	},
 	{
+		"or": "Hide bots",
+		"tr": "Botları gizle"
+	},
+	{
 		"or": "High Detail",
 		"tr": "Yüksek Detay"
 	},
@@ -432,6 +583,10 @@
 	{
 		"or": "Hue:",
 		"tr": "Renk:"
+	},
+	{
+		"or": "Ingame mouse sens.",
+		"tr": "Oyun içi fare hassasiyeti"
 	},
 	{
 		"or": "Invalid Demo",
@@ -495,6 +650,14 @@
 		"tr": "Parlaklık:"
 	},
 	{
+		"or": "Limit Fps",
+		"tr": "FPS limiti"
+	},
+	{
+		"or": "Load the sound system",
+		"tr": "Ses sistemini yükle"
+	},
+	{
 		"or": "Loading",
 		"tr": "Yükleniyor"
 	},
@@ -515,6 +678,14 @@
 		"tr": "Harita"
 	},
 	{
+		"or": "Map:",
+		"tr": "Harita:"
+	},
+	{
+		"or": "Markers",
+		"tr": "İşaretler"
+	},
+	{
 		"context": "rounds (scoreboard)",
 		"or": "Match",
 		"tr": "Maç"
@@ -524,8 +695,16 @@
 		"tr": "En fazla"
 	},
 	{
+		"or": "Max fps",
+		"tr": "Maks FPS."
+	},
+	{
 		"or": "Maximum ping:",
 		"tr": "Maksimum ping:"
+	},
+	{
+		"or": "Menu mouse sens.",
+		"tr": "Menü fare hassasiyeti."
 	},
 	{
 		"or": "Misc",
@@ -548,6 +727,10 @@
 		"tr": "Hareket"
 	},
 	{
+		"or": "Mute broadcasts",
+		"tr": "Sunucu mesajlarını kapat"
+	},
+	{
 		"or": "Mute when not active",
 		"tr": "Aktif değilken sessizleştir"
 	},
@@ -558,6 +741,10 @@
 	{
 		"or": "Netversion",
 		"tr": "Net versiyon"
+	},
+	{
+		"or": "New filter",
+		"tr": "Yeni Filtre"
 	},
 	{
 		"or": "Next weapon",
@@ -593,12 +780,30 @@
 		"tr": "Filtre kriterlerinize uygun sunucu bulunamadı"
 	},
 	{
+		"context": "Server difficulty",
+		"or": "Normal",
+		"tr": "Orta"
+	},
+	{
 		"or": "Normal:",
 		"tr": "Normal:"
 	},
 	{
+		"context": "friends (server browser)",
+		"or": "Offline (%d)",
+		"tr": "Çevrimdışı (%d)"
+	},
+	{
 		"or": "Ok",
 		"tr": "Tamam"
+	},
+	{
+		"or": "Online clanmates (%d)",
+		"tr": "Çevrimiçi klan üyeleri (%d)"
+	},
+	{
+		"or": "Online players (%d)",
+		"tr": "Çevrimiçi oyuncular (%d)"
 	},
 	{
 		"or": "Only %d active players are allowed",
@@ -607,6 +812,14 @@
 	{
 		"or": "Open",
 		"tr": "Aç"
+	},
+	{
+		"or": "Option",
+		"tr": "Seçenek"
+	},
+	{
+		"or": "Other",
+		"tr": "Diğer"
 	},
 	{
 		"or": "Parent Folder",
@@ -658,8 +871,17 @@
 		"tr": "Oyuncular"
 	},
 	{
+		"context": "Playing '(gametype)' on '(map)'",
+		"or": "Playing '%s' on '%s'",
+		"tr": "'%s' 'de '%s' oynuyor."
+	},
+	{
 		"or": "Please balance teams!",
 		"tr": "Takımları dengeleyin!"
+	},
+	{
+		"or": "Press Enter to confirm or Esc to cancel",
+		"tr": "Enter'a basarak onayla veya Esc'ye basarak iptal et."
 	},
 	{
 		"or": "Prev. weapon",
@@ -684,6 +906,10 @@
 	{
 		"or": "Reason:",
 		"tr": "Neden :"
+	},
+	{
+		"or": "Recommended",
+		"tr": "Önerilen"
 	},
 	{
 		"or": "Record",
@@ -714,6 +940,10 @@
 		"tr": "Çıkar"
 	},
 	{
+		"or": "Remove filter",
+		"tr": "Filtreyi kaldır."
+	},
+	{
 		"or": "Remove friend",
 		"tr": "Arkadaşı sil"
 	},
@@ -732,6 +962,10 @@
 	{
 		"or": "Reset filter",
 		"tr": "Filitreleri yenile"
+	},
+	{
+		"or": "Resolution",
+		"tr": "Çözünürlük"
 	},
 	{
 		"or": "Respawn",
@@ -784,6 +1018,10 @@
 	{
 		"or": "Search:",
 		"tr": "Ara:"
+	},
+	{
+		"or": "Server",
+		"tr": "Sunucu"
 	},
 	{
 		"or": "Server address:",
@@ -846,6 +1084,14 @@
 		"tr": "Oyuncu isimlerini göster"
 	},
 	{
+		"or": "Show social",
+		"tr": "Sosyal özellikleri göster"
+	},
+	{
+		"or": "Show user IDs",
+		"tr": "Kullanıcı IDlerini göster"
+	},
+	{
 		"or": "Size",
 		"tr": "Boyut"
 	},
@@ -855,7 +1101,11 @@
 	},
 	{
 		"or": "Skins",
-		"tr": "Skins"
+		"tr": "Skinler"
+	},
+	{
+		"or": "Skip the main menu",
+		"tr": "Ana menüyü geç"
 	},
 	{
 		"or": "Sound",
@@ -962,8 +1212,28 @@
 		"tr": "Ses donanımı başlatılamadı."
 	},
 	{
+		"or": "The blue flag was captured by '%s'",
+		"tr": "Mavi bayrak '%s' tarafından ele geçirildi."
+	},
+	{
+		"or": "The blue flag was captured by '%s' (%.2f seconds)",
+		"tr": "Mavi bayrak '%s' tarafından ele geçirildi (%.2f saniye)"
+	},
+	{
+		"or": "The red flag was captured by '%s'",
+		"tr": "Kırmızı bayrak '%s' tarafından ele geçirildi."
+	},
+	{
+		"or": "The red flag was captured by '%s' (%.2f seconds)",
+		"tr": "Kırmızı bayrak '%s' tarafından ele geçirildi (%.2f saniye)"
+	},
+	{
 		"or": "The server is running a non-standard tuning on a pure game type.",
 		"tr": "Bu sunucu standart olmayan bir ayarı saf bir oyun türünde kullanıyor."
+	},
+	{
+		"or": "Theme",
+		"tr": "Tema"
 	},
 	{
 		"or": "There's an unsaved map in the editor, you might want to save it before you quit the game.",
@@ -998,6 +1268,10 @@
 		"tr": "Demonun ismi değiştirilemiyor"
 	},
 	{
+		"or": "Use OS mouse acceleration",
+		"tr": "İşletim sisteminin fare ivmesini kullan."
+	},
+	{
 		"or": "Use sounds",
 		"tr": "Sesleri kullan"
 	},
@@ -1014,8 +1288,12 @@
 		"tr": "Versiyon"
 	},
 	{
+		"or": "Version:",
+		"tr": "Sürüm"
+	},
+	{
 		"or": "Volume",
-		"tr": "Volüm"
+		"tr": "Ses"
 	},
 	{
 		"or": "Vote aborted",
@@ -1062,12 +1340,25 @@
 		"tr": "Isınma"
 	},
 	{
+		"context": "Watching '(gametype)' on '(map)'",
+		"or": "Watching '%s' on '%s'",
+		"tr": "%s'de %s'i izliyor."
+	},
+	{
 		"or": "Weapon",
 		"tr": "Silah"
 	},
 	{
 		"or": "Welcome to Teeworlds",
 		"tr": "Teeworlds'e hoşgeldiniz"
+	},
+	{
+		"or": "When ready, press <%s>",
+		"tr": "Hazır olunca <%s>'e basın."
+	},
+	{
+		"or": "Whisper",
+		"tr": "Fısılda"
 	},
 	{
 		"or": "Yes",
@@ -1079,6 +1370,14 @@
 		"tr": "Evet"
 	},
 	{
+		"or": "You have to wait %1.f seconds to change identity.",
+		"tr": "Kimlik değiştirmek için %1.f saniye beklemelisiniz."
+	},
+	{
+		"or": "You must reconnect to change identity.",
+		"tr": "Kimlik değiştirmek için tekrar giriş yapmalısın."
+	},
+	{
 		"or": "You must restart the game for all settings to take effect.",
 		"tr": "Bütün ayarların aktif olması için oyunu yeniden başlatmalısınız."
 	},
@@ -1087,8 +1386,34 @@
 		"tr": "Yeni bir oylama başlatmak için %d saniye beklemek zorundasınız"
 	},
 	{
+		"or": "You were moved to the blue team due to team balancing",
+		"tr": "Dengeyi sağlamak adına mavi takıma alındın"
+	},
+	{
+		"or": "You were moved to the game due to team balancing",
+		"tr": "Dengeyi sağlamak adına oyuna alındınız."
+	},
+	{
+		"or": "You were moved to the red team due to team balancing",
+		"tr": "Dengeyi sağlamak adına kırmızı takıma alındın."
+	},
+	{
+		"or": "You were moved to the spectators due to team balancing",
+		"tr": "Dengeyi sağlamak adına izleyici yapıldınız."
+	},
+	{
 		"or": "blue flag",
 		"tr": "mavi bayrak"
+	},
+	{
+		"context": "skins",
+		"or": "body",
+		"tr": "gövde"
+	},
+	{
+		"context": "skins",
+		"or": "decoration",
+		"tr": "Dekorasyon"
 	},
 	{
 		"context": "Show chat messages from:",
@@ -1096,13 +1421,33 @@
 		"tr": "herkes"
 	},
 	{
+		"context": "skins",
+		"or": "eyes",
+		"tr": "gözler"
+	},
+	{
+		"context": "skins",
+		"or": "feet",
+		"tr": "ayak"
+	},
+	{
 		"context": "Show chat messages from:",
 		"or": "friends only",
 		"tr": "Sadece arkadaşları göster"
 	},
 	{
+		"context": "skins",
+		"or": "hands",
+		"tr": "eller"
+	},
+	{
 		"or": "locked",
 		"tr": "kilitli"
+	},
+	{
+		"context": "skins",
+		"or": "marking",
+		"tr": "damga"
 	},
 	{
 		"context": "Show chat messages from:",

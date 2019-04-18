@@ -14,6 +14,10 @@
 		"tr": "%.3f KiB"
 	},
 	{
+		"or": "%d other players",
+		"tr": "%d інші гравці"
+	},
+	{
 		"or": "%d player left",
 		"tr": "%d гравець залишився"
 	},
@@ -22,12 +26,20 @@
 		"tr": "%d гравець не готовий"
 	},
 	{
+		"or": "%d players",
+		"tr": "%d гравці"
+	},
+	{
 		"or": "%d players left",
 		"tr": "%d гравцiв залишилось"
 	},
 	{
 		"or": "%d players not ready",
 		"tr": "%d гравців не готові"
+	},
+	{
+		"or": "%d servers",
+		"tr": "%d сервери"
 	},
 	{
 		"or": "%d servers, %d players",
@@ -74,6 +86,22 @@
 		"tr": "'%s' проголосував за зміну серверного параметру '%s' (%s)"
 	},
 	{
+		"or": "'%s' entered and joined the blue team",
+		"tr": "'%s' приєднався та зайшов до команди синіх"
+	},
+	{
+		"or": "'%s' entered and joined the game",
+		"tr": "'%s' увійшов та приєднався до гри"
+	},
+	{
+		"or": "'%s' entered and joined the red team",
+		"tr": "'%s' приєднався та зайшов до червоної команди"
+	},
+	{
+		"or": "'%s' entered and joined the spectators",
+		"tr": "'%s' увійшов та приєднався до спостерігачів"
+	},
+	{
 		"or": "'%s' has left the game",
 		"tr": "'%s' вийшов з гри"
 	},
@@ -82,20 +110,68 @@
 		"tr": "'%s' вийшов з гри (%s)"
 	},
 	{
+		"or": "'%s' initiated a pause",
+		"tr": "'%s' призупинив гру"
+	},
+	{
+		"or": "'%s' joined the blue team",
+		"tr": "'%s' приєднався до команди синіх"
+	},
+	{
+		"or": "'%s' joined the game",
+		"tr": "'%s' приєднався до гри"
+	},
+	{
+		"or": "'%s' joined the red team",
+		"tr": "'%s' приєднався до команди червоних"
+	},
+	{
+		"or": "'%s' joined the spectators",
+		"tr": "'%s' приєднався до спостерігачів"
+	},
+	{
+		"or": "'%s' was added as a friend",
+		"tr": "'%s' додано як друга"
+	},
+	{
+		"or": "'%s' was muted",
+		"tr": "'%s' заборонено використовувати чат"
+	},
+	{
+		"or": "'%s' was removed as a friend",
+		"tr": "'%s' вилучено з друзів"
+	},
+	{
+		"or": "'%s' was unmuted",
+		"tr": "'%s' дозволено використовувати чат"
+	},
+	{
 		"or": "-Page %d-",
 		"tr": "-Сторінка %d-"
 	},
 	{
 		"or": "Abort",
-		"tr": "Відміна"
+		"tr": "Скасувати"
 	},
 	{
 		"or": "Add",
 		"tr": "Додати"
 	},
 	{
+		"or": "Add clan",
+		"tr": "Додати клан"
+	},
+	{
 		"or": "Add demo marker",
 		"tr": "Додати демо мітку часу"
+	},
+	{
+		"or": "Add friend",
+		"tr": "Додати друга"
+	},
+	{
+		"or": "Add friend/clan",
+		"tr": "Додати друга/клан"
 	},
 	{
 		"or": "Address",
@@ -122,6 +198,22 @@
 		"tr": "Всі"
 	},
 	{
+		"or": "All players were moved to the blue team",
+		"tr": "Всіх гравців було перенесено до команди синіх"
+	},
+	{
+		"or": "All players were moved to the game",
+		"tr": "Всіх гравців було перенесено до гри"
+	},
+	{
+		"or": "All players were moved to the red team",
+		"tr": "Всіх гравців було перенесено до команди червоних"
+	},
+	{
+		"or": "All players were moved to the spectators",
+		"tr": "Всіх гравців було перенесено до спостерігачів"
+	},
+	{
 		"or": "Alp:",
 		"tr": "Прозор.:"
 	},
@@ -144,6 +236,10 @@
 	{
 		"or": "Are you sure that you want to quit?",
 		"tr": "Ви дійсно бажаєте вийти?"
+	},
+	{
+		"or": "Are you sure that you want to remove the filter from the server browser?",
+		"tr": "Ви впевнені що хочете прибрати фльтр з браузеру серверів?"
 	},
 	{
 		"or": "Are you sure that you want to remove the player from your friends list?",
@@ -175,7 +271,7 @@
 	},
 	{
 		"or": "Basic",
-		"tr": "Базовий"
+		"tr": "Базові"
 	},
 	{
 		"or": "Blue team",
@@ -190,6 +286,11 @@
 		"tr": "Голосувати"
 	},
 	{
+		"context": "Server difficulty",
+		"or": "Casual",
+		"tr": "Легко"
+	},
+	{
 		"or": "Change settings",
 		"tr": "Змінити налаштування"
 	},
@@ -202,12 +303,21 @@
 		"tr": "Клан"
 	},
 	{
+		"context": "clear gametype filters",
+		"or": "Clear",
+		"tr": "Очистити"
+	},
+	{
+		"or": "Click on a player or a flag to follow it",
+		"tr": "Клікніть на гравця або прапор щоб стежити за ними"
+	},
+	{
 		"or": "Client",
 		"tr": "Клієнт"
 	},
 	{
 		"or": "Close",
-		"tr": "Зачинити"
+		"tr": "Закрити"
 	},
 	{
 		"or": "Color",
@@ -216,6 +326,11 @@
 	{
 		"or": "Compatible version",
 		"tr": "Сумісна версія"
+	},
+	{
+		"context": "Server difficulty",
+		"or": "Competitive",
+		"tr": "Важко"
 	},
 	{
 		"or": "Connect",
@@ -235,7 +350,7 @@
 	},
 	{
 		"or": "Controls",
-		"tr": "Управління"
+		"tr": "Керування"
 	},
 	{
 		"or": "Count players only",
@@ -246,16 +361,24 @@
 		"tr": "Країна"
 	},
 	{
+		"or": "Country:",
+		"tr": "Країна:"
+	},
+	{
 		"or": "Crc",
 		"tr": "Crc"
 	},
 	{
 		"or": "Created",
-		"tr": "Створив"
+		"tr": "Створено"
+	},
+	{
+		"or": "Current: %dx%d (%d:%d)",
+		"tr": "Поточне: %dx%d (%d:%d)"
 	},
 	{
 		"or": "Custom",
-		"tr": "Користувальницькі"
+		"tr": "Свій"
 	},
 	{
 		"or": "Custom colors",
@@ -298,6 +421,14 @@
 		"tr": "Деталізація"
 	},
 	{
+		"or": "Difficulty",
+		"tr": "Складність"
+	},
+	{
+		"or": "Difficulty:",
+		"tr": "Складність:"
+	},
+	{
 		"or": "Disconnect",
 		"tr": "Від'єднатись"
 	},
@@ -324,6 +455,10 @@
 	{
 		"or": "Emoticon",
 		"tr": "Емоція"
+	},
+	{
+		"or": "Enable colored server broadcasts",
+		"tr": "Дозволити кольорове мовлення сервера"
 	},
 	{
 		"or": "Enter",
@@ -374,6 +509,10 @@
 		"tr": "Інфо по грі"
 	},
 	{
+		"or": "Game options",
+		"tr": "Налаштування гри"
+	},
+	{
 		"or": "Game over",
 		"tr": "Гра закінчена"
 	},
@@ -390,6 +529,10 @@
 		"tr": "Тип гри"
 	},
 	{
+		"or": "Game type:",
+		"tr": "Тип гри:"
+	},
+	{
 		"or": "Game types:",
 		"tr": "Типи гри:"
 	},
@@ -399,7 +542,7 @@
 	},
 	{
 		"or": "Global",
-		"tr": "Загальний"
+		"tr": "Загальні"
 	},
 	{
 		"or": "Graphics",
@@ -418,6 +561,10 @@
 		"tr": "Сервер не порожній"
 	},
 	{
+		"or": "Hide bots",
+		"tr": "Приховати ботів"
+	},
+	{
 		"or": "High Detail",
 		"tr": "Висока деталізація"
 	},
@@ -427,11 +574,15 @@
 	},
 	{
 		"or": "Host address:",
-		"tr": "Адреса хоста:"
+		"tr": "Адреса:"
 	},
 	{
 		"or": "Hue:",
 		"tr": "Відтінок:"
+	},
+	{
+		"or": "Ingame mouse sens.",
+		"tr": "Чутливість курсору у грі"
 	},
 	{
 		"or": "Invalid Demo",
@@ -499,12 +650,16 @@
 		"tr": "Обмежити кількість кадрів у секунду "
 	},
 	{
+		"or": "Load the sound system",
+		"tr": "Завантаження системи звуків"
+	},
+	{
 		"or": "Loading",
 		"tr": "Завантаження"
 	},
 	{
 		"or": "Local",
-		"tr": "Місцевий"
+		"tr": "Локальні"
 	},
 	{
 		"or": "Local server",
@@ -517,6 +672,14 @@
 	{
 		"or": "Map",
 		"tr": "Карта"
+	},
+	{
+		"or": "Map:",
+		"tr": "Карта:"
+	},
+	{
+		"or": "Markers",
+		"tr": "Маркери"
 	},
 	{
 		"context": "rounds (scoreboard)",
@@ -534,6 +697,10 @@
 	{
 		"or": "Maximum ping:",
 		"tr": "Макс. пінг:"
+	},
+	{
+		"or": "Menu mouse sens.",
+		"tr": "Чутливість курсору в меню"
 	},
 	{
 		"or": "Misc",
@@ -556,6 +723,10 @@
 		"tr": "Переміщення"
 	},
 	{
+		"or": "Mute broadcasts",
+		"tr": "Приглушити мовлення серверу"
+	},
+	{
 		"or": "Mute when not active",
 		"tr": "Глушити звуки, коли гра неактивна"
 	},
@@ -566,6 +737,10 @@
 	{
 		"or": "Netversion",
 		"tr": "Чиста версія"
+	},
+	{
+		"or": "New filter",
+		"tr": "Новий фільтр"
 	},
 	{
 		"or": "Next weapon",
@@ -601,12 +776,30 @@
 		"tr": "Не знайдено ні одного сервара, який би відповідав вашим критеріям"
 	},
 	{
+		"context": "Server difficulty",
+		"or": "Normal",
+		"tr": "Нормально"
+	},
+	{
 		"or": "Normal:",
 		"tr": "Нормальний:"
 	},
 	{
+		"context": "friends (server browser)",
+		"or": "Offline (%d)",
+		"tr": "Оффлайн (%d)"
+	},
+	{
 		"or": "Ok",
 		"tr": "Ок"
+	},
+	{
+		"or": "Online clanmates (%d)",
+		"tr": "Клан онлайн (%d)"
+	},
+	{
+		"or": "Online players (%d)",
+		"tr": "Гравці онлайн (%d)"
 	},
 	{
 		"or": "Only %d active players are allowed",
@@ -615,6 +808,10 @@
 	{
 		"or": "Open",
 		"tr": "Відкрити"
+	},
+	{
+		"or": "Option",
+		"tr": "Опція"
 	},
 	{
 		"or": "Other",
@@ -634,7 +831,7 @@
 	},
 	{
 		"or": "Personal",
-		"tr": "Особистий"
+		"tr": "Особистість"
 	},
 	{
 		"or": "Ping",
@@ -651,7 +848,7 @@
 	{
 		"context": "DemoBrowser",
 		"or": "Play",
-		"tr": "Грати"
+		"tr": "Перегляд"
 	},
 	{
 		"or": "Play background music",
@@ -670,8 +867,17 @@
 		"tr": "Гравці"
 	},
 	{
+		"context": "Playing '(gametype)' on '(map)'",
+		"or": "Playing '%s' on '%s'",
+		"tr": "Грає '%s' на '%s'"
+	},
+	{
 		"or": "Please balance teams!",
 		"tr": "Збалансуйте команди!"
+	},
+	{
+		"or": "Press Enter to confirm or Esc to cancel",
+		"tr": "Натисніть Enter щоб підтвердити або Esc щоб скасувати"
 	},
 	{
 		"or": "Prev. weapon",
@@ -730,12 +936,16 @@
 		"tr": "Видалити"
 	},
 	{
+		"or": "Remove filter",
+		"tr": "Вилучити фільтр"
+	},
+	{
 		"or": "Remove friend",
 		"tr": "Видалити друга"
 	},
 	{
 		"or": "Rename",
-		"tr": "Перейменувати"
+		"tr": "Назва"
 	},
 	{
 		"or": "Rename demo",
@@ -806,6 +1016,10 @@
 		"tr": "Пошук:"
 	},
 	{
+		"or": "Server",
+		"tr": "Сервер"
+	},
+	{
 		"or": "Server address:",
 		"tr": "Адреса серверу:"
 	},
@@ -839,7 +1053,7 @@
 	},
 	{
 		"or": "Settings",
-		"tr": "Налаштування"
+		"tr": "Параметри"
 	},
 	{
 		"or": "Shotgun",
@@ -851,7 +1065,7 @@
 	},
 	{
 		"or": "Show chat messages from:",
-		"tr": "Відобразити повідомлення  в чаті від:"
+		"tr": "Відображати повідомлення:"
 	},
 	{
 		"or": "Show friends only",
@@ -859,7 +1073,7 @@
 	},
 	{
 		"or": "Show ingame HUD",
-		"tr": "Показати в грі HUD"
+		"tr": "Відображати ігровий HUD"
 	},
 	{
 		"or": "Show name plates",
@@ -868,6 +1082,10 @@
 	{
 		"or": "Show social",
 		"tr": "Показати імена гравців"
+	},
+	{
+		"or": "Show user IDs",
+		"tr": "Відображати ID гравців"
 	},
 	{
 		"or": "Size",
@@ -990,8 +1208,28 @@
 		"tr": "Аудіопристрій не може бути ініціалізований."
 	},
 	{
+		"or": "The blue flag was captured by '%s'",
+		"tr": "Синій прапор було захоплено гравцем '%s'"
+	},
+	{
+		"or": "The blue flag was captured by '%s' (%.2f seconds)",
+		"tr": "Синій прапор було захоплено гравцем '%s' (%.2f секунд)"
+	},
+	{
+		"or": "The red flag was captured by '%s'",
+		"tr": "Червоний прапор було захоплено гравцем '%s'"
+	},
+	{
+		"or": "The red flag was captured by '%s' (%.2f seconds)",
+		"tr": "Червоний прапор було захоплено гравцем '%s' (%.2f секунд)"
+	},
+	{
 		"or": "The server is running a non-standard tuning on a pure game type.",
 		"tr": "Сервер запущено з нестандартними налаштуваннями на стандартному типі гри."
+	},
+	{
+		"or": "Theme",
+		"tr": "Тема"
 	},
 	{
 		"or": "There's an unsaved map in the editor, you might want to save it before you quit the game.",
@@ -1026,6 +1264,10 @@
 		"tr": "Неможливо перейменувати демо"
 	},
 	{
+		"or": "Use OS mouse acceleration",
+		"tr": "Використовувати прискорення миші від ОС"
+	},
+	{
 		"or": "Use sounds",
 		"tr": "Використовувати звуки"
 	},
@@ -1040,6 +1282,10 @@
 	{
 		"or": "Version",
 		"tr": "Версія"
+	},
+	{
+		"or": "Version:",
+		"tr": "Версія:"
 	},
 	{
 		"or": "Volume",
@@ -1090,12 +1336,21 @@
 		"tr": "Розминка"
 	},
 	{
+		"context": "Watching '(gametype)' on '(map)'",
+		"or": "Watching '%s' on '%s'",
+		"tr": "Дивиться '%s' на '%s'"
+	},
+	{
 		"or": "Weapon",
 		"tr": "Зброя"
 	},
 	{
 		"or": "Welcome to Teeworlds",
 		"tr": "Ласкаво просимо в Teeworlds!"
+	},
+	{
+		"or": "When ready, press <%s>",
+		"tr": "Коли готові, натиснить <%s>"
 	},
 	{
 		"or": "Whisper",
@@ -1111,12 +1366,36 @@
 		"tr": "Так"
 	},
 	{
+		"or": "You have to wait %1.f seconds to change identity.",
+		"tr": "Зачекайте %1.f секунд перед зміною особистості."
+	},
+	{
+		"or": "You must reconnect to change identity.",
+		"tr": "Ви маєте перепідключитися для зміни особистості."
+	},
+	{
 		"or": "You must restart the game for all settings to take effect.",
 		"tr": "Перезапустіть гру для застосування змін."
 	},
 	{
 		"or": "You must wait %d seconds before making another vote",
 		"tr": "Ви маєте зачекати %d секунд перед початком нового голосування"
+	},
+	{
+		"or": "You were moved to the blue team due to team balancing",
+		"tr": "Вас було перенесено до команди синіх задля балансу команд"
+	},
+	{
+		"or": "You were moved to the game due to team balancing",
+		"tr": "Вас було перенесено до гри задля балансу команд"
+	},
+	{
+		"or": "You were moved to the red team due to team balancing",
+		"tr": "Вас було перенесено до команди червоних задля балансу команд"
+	},
+	{
+		"or": "You were moved to the spectators due to team balancing",
+		"tr": "Вас було перенесено до спостерігачів задля балансу команд"
 	},
 	{
 		"or": "blue flag",

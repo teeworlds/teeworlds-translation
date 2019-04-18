@@ -705,7 +705,7 @@
 	},
 	{
 		"or": "Move player to spectators",
-		"tr": "Játékos áthelyezése a megfigyelőkhöz"
+		"tr": "Játékos áthelyezése a nézőkhöz"
 	},
 	{
 		"or": "Move right",
@@ -878,7 +878,7 @@
 	},
 	{
 		"or": "Quality Textures",
-		"tr": "Minőségi textúrák"
+		"tr": "Jó minőségű textúrák"
 	},
 	{
 		"or": "Quit",
@@ -1122,15 +1122,15 @@
 	},
 	{
 		"or": "Spectator mode",
-		"tr": "Megfigyelő mód"
+		"tr": "Néző mód"
 	},
 	{
 		"or": "Spectators",
-		"tr": "Megfigyelők"
+		"tr": "Nézők"
 	},
 	{
 		"or": "Spectators aren't allowed to start a vote.",
-		"tr": "A megfigyelők nem indíthatnak szavazást"
+		"tr": "A nézők nem indíthatnak szavazást"
 	},
 	{
 		"or": "Standard gametype",
@@ -1388,7 +1388,7 @@
 	},
 	{
 		"or": "You were moved to the spectators due to team balancing",
-		"tr": "Át lettél helyezve a piros csapatba a csapatok kiegyenlítése érdekében"
+		"tr": "Át lettél helyezve a nézőkhöz a csapatok kiegyenlítése érdekében"
 	},
 	{
 		"or": "blue flag",
