@@ -32,7 +32,7 @@
 	},
 	{
 		"or": "%d other players",
-		"tr": "%dautres joueurs"
+		"tr": "%d autres joueurs"
 	},
 	{
 		"or": "%d player left",
@@ -64,7 +64,7 @@
 	},
 	{
 		"or": "%d%% loaded",
-		"tr": "%d%% chargé"
+		"tr": "%d %% chargé"
 	},
 	{
 		"or": "%ds left",
