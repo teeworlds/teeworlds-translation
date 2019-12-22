@@ -73,7 +73,7 @@
 	},
 	{
 		"or": "%i minutes left",
-		"tr": "Осталось %i мин!"
+		"tr": "Осталось %i минут!"
 	},
 	{
 		"or": "%i second left",
@@ -81,7 +81,7 @@
 	},
 	{
 		"or": "%i seconds left",
-		"tr": "Осталось %i сек!"
+		"tr": "Осталось %i секунд!"
 	},
 	{
 		"or": "%s is muted by you",
@@ -125,7 +125,7 @@
 	},
 	{
 		"or": "'%s' has left the game",
-		"tr": "'%s' вышел из игры"
+		"tr": "'%s' покинул игру"
 	},
 	{
 		"or": "'%s' has left the game (%s)",
@@ -137,7 +137,7 @@
 	},
 	{
 		"or": "'%s' initiated a pause",
-		"tr": "'%s' вызвал паузу"
+		"tr": "'%s' инициировал паузу"
 	},
 	{
 		"or": "'%s' joined the blue team",
@@ -229,7 +229,7 @@
 	},
 	{
 		"or": "All",
-		"tr": "Все"
+		"tr": "Всё"
 	},
 	{
 		"or": "All players were moved to the blue team",
@@ -347,11 +347,11 @@
 	{
 		"context": "clear gametype filters",
 		"or": "Clear",
-		"tr": "Очист."
+		"tr": "Очистить"
 	},
 	{
 		"or": "Click on a player or a flag to follow it",
-		"tr": "Нажмите на игрока или флаг, чтобы следовать за ним"
+		"tr": "Нажмите рядом с игроком или флагом, чтобы следить за ним"
 	},
 	{
 		"or": "Client",
@@ -384,7 +384,7 @@
 	},
 	{
 		"or": "Connection Problems...",
-		"tr": "Проблемы со связью..."
+		"tr": "Проблемы с подключением..."
 	},
 	{
 		"or": "Console",
@@ -508,7 +508,7 @@
 	},
 	{
 		"or": "Enable colored server broadcasts",
-		"tr": "Включить цветное вещание сервера"
+		"tr": "Включить цветное вещание"
 	},
 	{
 		"or": "Enable joystick",
@@ -564,7 +564,7 @@
 	},
 	{
 		"or": "Frags per minute",
-		"tr": "Убийств в минуту (УВМ)"
+		"tr": "Убийств в минуту"
 	},
 	{
 		"or": "Free-View",
@@ -584,7 +584,7 @@
 	},
 	{
 		"or": "Game options",
-		"tr": "Параметры игры"
+		"tr": "Настройки игры"
 	},
 	{
 		"or": "Game over",
@@ -665,7 +665,7 @@
 	},
 	{
 		"or": "Invalid Demo",
-		"tr": "Недопустимое демо"
+		"tr": "Неправильное демо"
 	},
 	{
 		"or": "Join",
@@ -706,7 +706,7 @@
 	},
 	{
 		"or": "Joystick jitter tolerance",
-		"tr": "Колебания джойстика"
+		"tr": "Мёртвая зона джойстика"
 	},
 	{
 		"or": "Joystick sens.",
@@ -746,7 +746,7 @@
 	},
 	{
 		"or": "Load the sound system",
-		"tr": "Загружаць гукавую сістэму"
+		"tr": "Загрузить звуковую систему"
 	},
 	{
 		"or": "Loading",
@@ -819,7 +819,7 @@
 	},
 	{
 		"or": "Move left",
-		"tr": "Двигаться влево"
+		"tr": "Влево"
 	},
 	{
 		"or": "Move player to spectators",
@@ -827,7 +827,7 @@
 	},
 	{
 		"or": "Move right",
-		"tr": "Двигаться вправо"
+		"tr": "Вправо"
 	},
 	{
 		"or": "Movement",
@@ -839,7 +839,7 @@
 	},
 	{
 		"or": "Mute when not active",
-		"tr": "Выключить звук, когда игра неактивна."
+		"tr": "Выключить звук, когда игра свёрнута."
 	},
 	{
 		"or": "Name",
@@ -919,7 +919,7 @@
 	},
 	{
 		"or": "Online clanmates (%d)",
-		"tr": "Клан в сети (%d)"
+		"tr": "Соклановцев в сети (%d)"
 	},
 	{
 		"or": "Online players (%d)",
@@ -935,7 +935,7 @@
 	},
 	{
 		"or": "Option",
-		"tr": "Параметры"
+		"tr": "Настройки"
 	},
 	{
 		"or": "Other",
@@ -951,7 +951,7 @@
 	},
 	{
 		"or": "Password incorrect",
-		"tr": "Пароль"
+		"tr": "Неправильный пароль"
 	},
 	{
 		"or": "Personal",
@@ -984,7 +984,7 @@
 	},
 	{
 		"or": "Player options",
-		"tr": "Параметры игрока"
+		"tr": "Настройки игрока"
 	},
 	{
 		"or": "Players",
@@ -1061,7 +1061,7 @@
 	},
 	{
 		"or": "Refreshing master servers",
-		"tr": "Обновление списка мастер-серверов"
+		"tr": "Переподключение к мастер-серверу"
 	},
 	{
 		"or": "Remote console",
@@ -1133,7 +1133,7 @@
 	},
 	{
 		"or": "Score limit",
-		"tr": "Ограничение счета"
+		"tr": "Максимум очков"
 	},
 	{
 		"or": "Scoreboard",
@@ -1165,7 +1165,7 @@
 	},
 	{
 		"or": "Server details",
-		"tr": "Подробности сервера"
+		"tr": "Подробности"
 	},
 	{
 		"or": "Server does not allow voting to kick players",
@@ -1361,7 +1361,7 @@
 	},
 	{
 		"or": "Teeworlds %s is out! Download it at www.teeworlds.com!",
-		"tr": "Вышла Teeworlds %s! Скачивайте на www.teeworlds.com!"
+		"tr": "Вышла Teeworlds %s! Скачайте на www.teeworlds.com!"
 	},
 	{
 		"or": "Texture",
@@ -1381,7 +1381,7 @@
 	},
 	{
 		"or": "The blue flag was captured by '%s' (%.2f seconds)",
-		"tr": "'%s' захватил синий флаг (за %.2f сек.)"
+		"tr": "'%s' доставил синий флаг (за %.2f сек.)"
 	},
 	{
 		"or": "The red flag was captured by '%s'",
@@ -1389,7 +1389,7 @@
 	},
 	{
 		"or": "The red flag was captured by '%s' (%.2f seconds)",
-		"tr": "'%s' захватил красный флаг (за %.2f сек.)"
+		"tr": "'%s' доставил красный флаг (за %.2f сек.)"
 	},
 	{
 		"or": "The server is running a non-standard tuning on a pure game type.",
@@ -1401,7 +1401,7 @@
 	},
 	{
 		"or": "There's an unsaved map in the editor, you might want to save it before you quit the game.",
-		"tr": "Есть несохранённая карта в редакторе, Вы можете сохранить её перед тем, как выйти."
+		"tr": "В редакторе есть несохраненная карта, возможно, вы захотите сохранить ее до того, как выйдете из игры."
 	},
 	{
 		"or": "Time",
@@ -1425,7 +1425,7 @@
 	},
 	{
 		"or": "Try again",
-		"tr": "ОК"
+		"tr": "Повторить"
 	},
 	{
 		"or": "Type",
@@ -1505,7 +1505,7 @@
 	},
 	{
 		"or": "Wait for current vote to end before calling a new one.",
-		"tr": "Дождитесь окончания голосования, чтобы начать новое."
+		"tr": "Дождитесь окончания этого голосования, чтобы начать новое."
 	},
 	{
 		"or": "Wait for next round",
@@ -1534,7 +1534,7 @@
 	},
 	{
 		"or": "When ready, press <%s>",
-		"tr": "Нажмите <%s>, когда готовы"
+		"tr": "Нажмите <%s>, когда будите готовы"
 	},
 	{
 		"or": "Whisper",
