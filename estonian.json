@@ -151,6 +151,10 @@
 		"tr": "Äärteta aken"
 	},
 	{
+		"or": "Browser",
+		"tr": "Lehitseja"
+	},
+	{
 		"or": "Call vote",
 		"tr": "Kutsu hääletus"
 	},
@@ -165,10 +169,6 @@
 	{
 		"or": "Close",
 		"tr": "Sulge"
-	},
-	{
-		"or": "Color",
-		"tr": "Värv"
 	},
 	{
 		"or": "Compatible version",
@@ -221,10 +221,6 @@
 	{
 		"or": "Delete skin",
 		"tr": "Kustuta välimus"
-	},
-	{
-		"or": "Demo",
-		"tr": "Demo"
 	},
 	{
 		"or": "Demo details",

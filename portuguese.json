@@ -88,12 +88,64 @@
 		"tr": "'%s' convocou uma votação para mudar opção '%s' do observador (%s)"
 	},
 	{
+		"or": "'%s' entered and joined the blue team",
+		"tr": "\"%s\" entrou e juntou-se à equipa azul"
+	},
+	{
+		"or": "'%s' entered and joined the game",
+		"tr": "\"%s\" entrou e juntou-se ao jogo"
+	},
+	{
+		"or": "'%s' entered and joined the red team",
+		"tr": "\"%s\" entrou e juntou-se à equipa vermelha"
+	},
+	{
+		"or": "'%s' entered and joined the spectators",
+		"tr": "\"%s\" entrou e juntou-se aos observadores"
+	},
+	{
 		"or": "'%s' has left the game",
 		"tr": "'%s' saiu do jogo"
 	},
 	{
 		"or": "'%s' has left the game (%s)",
 		"tr": "'%s' saiu do jogo (%s)"
+	},
+	{
+		"or": "'%s' initiated a pause",
+		"tr": "\"%s\" iniciou uma pausa"
+	},
+	{
+		"or": "'%s' joined the blue team",
+		"tr": "\"%s\" juntou-se à equipa azul"
+	},
+	{
+		"or": "'%s' joined the game",
+		"tr": "\"%s\" juntou-se ao jogo"
+	},
+	{
+		"or": "'%s' joined the red team",
+		"tr": "\"%s\" juntou-se à equipa vermelha"
+	},
+	{
+		"or": "'%s' joined the spectators",
+		"tr": "\"%s\" juntou-se aos observadores"
+	},
+	{
+		"or": "'%s' was added as a friend",
+		"tr": "\"%s\" foi adicionado como amigo"
+	},
+	{
+		"or": "'%s' was muted",
+		"tr": "\"%s\" foi silenciado"
+	},
+	{
+		"or": "'%s' was removed as a friend",
+		"tr": "\"%s\" foi removido da lista de amigos"
+	},
+	{
+		"or": "'%s' was unmuted",
+		"tr": "\"%s\" foi retirado do silêncio"
 	},
 	{
 		"or": "-Page %d-",
@@ -146,6 +198,22 @@
 	{
 		"or": "All",
 		"tr": "Todos"
+	},
+	{
+		"or": "All players were moved to the blue team",
+		"tr": "Todos os jogadores foram movidos para a equipa azul"
+	},
+	{
+		"or": "All players were moved to the game",
+		"tr": "Todos os jogadores foram movidos para o jogo"
+	},
+	{
+		"or": "All players were moved to the red team",
+		"tr": "Todos os jogadores foram movidos para a equipa vermelha"
+	},
+	{
+		"or": "All players were moved to the spectators",
+		"tr": "Todos os jogadores foram movidos para os observadores"
 	},
 	{
 		"or": "Alp:",
@@ -216,6 +284,10 @@
 		"tr": "Janela sem bordas"
 	},
 	{
+		"or": "Browser",
+		"tr": "Navegador"
+	},
+	{
 		"or": "Call vote",
 		"tr": "Votar"
 	},
@@ -254,10 +326,6 @@
 		"tr": "Fechar"
 	},
 	{
-		"or": "Color",
-		"tr": "Cor"
-	},
-	{
 		"or": "Compatible version",
 		"tr": "Versão compatível"
 	},
@@ -265,6 +333,10 @@
 		"context": "Server difficulty",
 		"or": "Competitive",
 		"tr": "Competitivo"
+	},
+	{
+		"or": "Configure statboard",
+		"tr": "Configurar o painel de estatísticas"
 	},
 	{
 		"or": "Connect",
@@ -323,6 +395,10 @@
 		"tr": "Personalizar"
 	},
 	{
+		"or": "Deaths",
+		"tr": "Mortes"
+	},
+	{
 		"or": "Delete",
 		"tr": "Eliminar"
 	},
@@ -333,10 +409,6 @@
 	{
 		"or": "Delete skin",
 		"tr": "Eliminar pele"
-	},
-	{
-		"or": "Demo",
-		"tr": "Demo"
 	},
 	{
 		"or": "Demo details",
@@ -417,6 +489,10 @@
 	{
 		"or": "Fire",
 		"tr": "Disparar"
+	},
+	{
+		"or": "Flag captures",
+		"tr": "Capturas de bandeiras"
 	},
 	{
 		"or": "Folder",
@@ -633,6 +709,10 @@
 		"tr": "Ping máximo:"
 	},
 	{
+		"or": "Menu background transparency",
+		"tr": "Transparência do fundo do menu"
+	},
+	{
 		"or": "Menu mouse sens.",
 		"tr": "Sensibilidade do rato em menus"
 	},
@@ -667,6 +747,11 @@
 	{
 		"or": "Name",
 		"tr": "Nome"
+	},
+	{
+		"context": "Net score",
+		"or": "Net",
+		"tr": "Rede"
 	},
 	{
 		"or": "Netversion",
@@ -810,6 +895,10 @@
 		"tr": "Equilibrem as equipas!"
 	},
 	{
+		"or": "Press Enter to confirm or Esc to cancel",
+		"tr": "Pressione Enter para confirmar ou Esc para cancelar"
+	},
+	{
 		"or": "Prev. weapon",
 		"tr": "Arma anterior"
 	},
@@ -824,6 +913,10 @@
 	{
 		"or": "REC %3d:%02d",
 		"tr": "REC %3d:%02d"
+	},
+	{
+		"or": "Ratio",
+		"tr": "Rácio"
 	},
 	{
 		"or": "Ready",
@@ -936,6 +1029,10 @@
 	{
 		"or": "Screen",
 		"tr": "Ecrã"
+	},
+	{
+		"or": "Screen:",
+		"tr": "Ecrã:"
 	},
 	{
 		"or": "Screenshot",
@@ -1078,12 +1175,20 @@
 		"tr": "Mapa normal"
 	},
 	{
+		"or": "Statboard",
+		"tr": "Painel de estatísticas"
+	},
+	{
 		"or": "Stop record",
 		"tr": "Parar de gravar"
 	},
 	{
 		"or": "Sudden Death",
 		"tr": "Morte súbita"
+	},
+	{
+		"or": "Suicides",
+		"tr": "Suicídios"
 	},
 	{
 		"or": "Switch weapon on pickup",
@@ -1136,6 +1241,22 @@
 	{
 		"or": "The audio device couldn't be initialised.",
 		"tr": "Não foi possível iniciar o dispositivo de som."
+	},
+	{
+		"or": "The blue flag was captured by '%s'",
+		"tr": "A bandeira azul foi capturada por \"%s\""
+	},
+	{
+		"or": "The blue flag was captured by '%s' (%.2f seconds)",
+		"tr": "A bandeira azul foi capturada por \"%s\" (%.2f segundos)"
+	},
+	{
+		"or": "The red flag was captured by '%s'",
+		"tr": "A bandeira vermelha foi capturada por \"%s\""
+	},
+	{
+		"or": "The red flag was captured by '%s' (%.2f seconds)",
+		"tr": "A bandeira vermelha foi capturada por \"%s\" (%.2f segundos)"
 	},
 	{
 		"or": "The server is running a non-standard tuning on a pure game type.",
@@ -1259,6 +1380,10 @@
 		"tr": "Arma"
 	},
 	{
+		"or": "Weapons stats",
+		"tr": "Estatísticas de armas"
+	},
+	{
 		"or": "Welcome to Teeworlds",
 		"tr": "Bem-vindo ao Teeworlds!"
 	},
@@ -1280,6 +1405,10 @@
 		"tr": "Sim"
 	},
 	{
+		"or": "You have to wait %1.0f seconds to change identity.",
+		"tr": "Tens de aguardar %1.0f segundos para alterar a identidade."
+	},
+	{
 		"or": "You must reconnect to change identity.",
 		"tr": "Tens de voltar a conectar para alterar a identidade."
 	},
@@ -1290,6 +1419,14 @@
 	{
 		"or": "You must wait %d seconds before making another vote",
 		"tr": "Tens de esperar %d segundos antes de votar outra vez."
+	},
+	{
+		"or": "You were moved to the blue team due to team balancing",
+		"tr": "Foste movido para a equipa azul para balancear as equipas"
+	},
+	{
+		"or": "You were moved to the red team due to team balancing",
+		"tr": "Foste movido para a equipa vermelha para balancear as equipas"
 	},
 	{
 		"or": "blue flag",

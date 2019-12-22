@@ -7,24 +7,40 @@
 },
 "translated strings": [
 	{
+		"or": " (%s seconds faster)",
+		"tr": " (%s segons més ràpid)"
+	},
+	{
 		"or": "%.3f KiB",
 		"tr": "%.3f KiB"
 	},
 	{
+		"or": "%d other players",
+		"tr": "%d altres jugadors"
+	},
+	{
 		"or": "%d player left",
-		"tr": "%d jugador ha sortit"
+		"tr": "falta %d jugador"
 	},
 	{
 		"or": "%d player not ready",
-		"tr": "%d jugador no esta llest"
+		"tr": "el jugador %d  no està llest"
+	},
+	{
+		"or": "%d players",
+		"tr": "%d jugadors"
 	},
 	{
 		"or": "%d players left",
-		"tr": "%d jugadors han sortit"
+		"tr": "falten %d jugadors"
 	},
 	{
 		"or": "%d players not ready",
 		"tr": "%d jugadors no estan a punt"
+	},
+	{
+		"or": "%d servers",
+		"tr": "'%d' servidors"
 	},
 	{
 		"or": "%d servers, %d players",
@@ -55,12 +71,16 @@
 		"tr": "Falten %i segons"
 	},
 	{
+		"or": "%s is muted by you",
+		"tr": "%s està silenciat per tu"
+	},
+	{
 		"or": "%s wins!",
 		"tr": "%s ha guanyat!"
 	},
 	{
 		"or": "'%s' called for vote to kick '%s' (%s)",
-		"tr": "'%s' ha votad per expulsar a '%s' (%s)"
+		"tr": "'%s' ha votat per expulsar a '%s' (%s)"
 	},
 	{
 		"or": "'%s' called for vote to move '%s' to spectators (%s)",
@@ -68,7 +88,27 @@
 	},
 	{
 		"or": "'%s' called vote to change server option '%s' (%s)",
-		"tr": "%s' a votad per cambiar una opció del servidor '%s' (%s)"
+		"tr": "%s' a votat per canviar una opció del servidor '%s' (%s)"
+	},
+	{
+		"or": "'%s' entered and joined the blue team",
+		"tr": "'%s' ha entrat i s'ha unit a l'equip blau"
+	},
+	{
+		"or": "'%s' entered and joined the game",
+		"tr": "'%s' ha entrat i s'ha unit al joc"
+	},
+	{
+		"or": "'%s' entered and joined the red team",
+		"tr": "'%s' ha entrat i s'ha unit a l'equip vermell"
+	},
+	{
+		"or": "'%s' entered and joined the spectators",
+		"tr": "'%s' ha entrat i s'ha unit als espectadors"
+	},
+	{
+		"or": "'%s' finished in: %s",
+		"tr": "'%s' ha acabat en: %s"
 	},
 	{
 		"or": "'%s' has left the game",
@@ -79,8 +119,52 @@
 		"tr": "'%s' ha sortit del joc (%s)"
 	},
 	{
+		"or": "'%s' has set a new record: %s",
+		"tr": "'%s' ha fet un nou rècord: %s"
+	},
+	{
+		"or": "'%s' initiated a pause",
+		"tr": "'%s' ha iniciat una pausa"
+	},
+	{
+		"or": "'%s' joined the blue team",
+		"tr": "'%s' s'ha unit a l'equip blau"
+	},
+	{
+		"or": "'%s' joined the game",
+		"tr": "'%s' s'ha unit al joc"
+	},
+	{
+		"or": "'%s' joined the red team",
+		"tr": "'%s' s'ha unit a l'equip vermell"
+	},
+	{
+		"or": "'%s' joined the spectators",
+		"tr": "'%s' s'ha unit als espectadors"
+	},
+	{
+		"or": "'%s' was added as a friend",
+		"tr": "S'ha afegit '%s' com amic"
+	},
+	{
+		"or": "'%s' was muted",
+		"tr": "'%s' ha estat silenciat"
+	},
+	{
+		"or": "'%s' was removed as a friend",
+		"tr": "S'ha tret '%s' com amic"
+	},
+	{
+		"or": "'%s' was unmuted",
+		"tr": "'%s' ja no està silenciat"
+	},
+	{
 		"or": "-Page %d-",
 		"tr": "-Pàgina %d-"
+	},
+	{
+		"or": "-Page %d/%d-",
+		"tr": "-Pàgina %d/%d-"
 	},
 	{
 		"or": "Abort",
@@ -91,12 +175,28 @@
 		"tr": "Afegir"
 	},
 	{
+		"or": "Add clan",
+		"tr": "Afegir clan"
+	},
+	{
+		"or": "Add demo marker",
+		"tr": "Afegir marcador demo"
+	},
+	{
+		"or": "Add friend",
+		"tr": "Afegir amic"
+	},
+	{
+		"or": "Add friend/clan",
+		"tr": "Afegir amic/clan"
+	},
+	{
 		"or": "Address",
 		"tr": "Adreça"
 	},
 	{
 		"or": "Admin forced server option '%s' (%s)",
-		"tr": "Un administrador a forçat una opció de servidor: '%s' (%s)"
+		"tr": "Un administrador a forçat una opció del servidor: '%s' (%s)"
 	},
 	{
 		"or": "Admin forced vote no",
@@ -111,8 +211,28 @@
 		"tr": "Un administrador ha mogut '%s' als espectadors (%s)"
 	},
 	{
+		"or": "Aim bind",
+		"tr": "Bind d'apuntar"
+	},
+	{
 		"or": "All",
-		"tr": "Tot"
+		"tr": "Tots"
+	},
+	{
+		"or": "All players were moved to the blue team",
+		"tr": "Tots els jugadors s'han mogut a l'equip blau"
+	},
+	{
+		"or": "All players were moved to the game",
+		"tr": "Tots els jugadors s'han mogut al joc"
+	},
+	{
+		"or": "All players were moved to the red team",
+		"tr": "Tots els jugadors s'han mogut a l'equip vermell"
+	},
+	{
+		"or": "All players were moved to the spectators",
+		"tr": "Tots els jugadors s'han mogut als espectadors"
 	},
 	{
 		"or": "Alp:",
@@ -139,20 +259,24 @@
 		"tr": "Estàs segur que vols sortir?"
 	},
 	{
+		"or": "Are you sure that you want to remove the filter from the server browser?",
+		"tr": "Estàs segur que vols esborrar el filtre del buscador de servidors?"
+	},
+	{
 		"or": "Are you sure that you want to remove the player from your friends list?",
 		"tr": "Estàs segur que vols treure aquest jugador de la teva llista d'amics?"
 	},
 	{
 		"or": "Are you sure you want to rename the demo?",
-		"tr": "Estàs segur que vols cambiar el nom d'aquesta repetició?"
+		"tr": "Estàs segur que vols canviar el nom d'aquesta repetició?"
 	},
 	{
 		"or": "Are you sure you want to save your skin? If a skin with this name already exists, it will be replaced.",
-		"tr": "Estàs segur que vols guarda la skin? Si la skin te el mateix nom que una existent, serà reemplaçada"
+		"tr": "Estàs segur que vols guardar la skin? Si la skin té el mateix nom que una existent, serà reemplaçada."
 	},
 	{
 		"or": "As this is the first time you launch the game, please enter your nick name below. It's recommended that you check the settings to adjust them to your liking before joining a server.",
-		"tr": "Com que es la primera vegada que obres el joc, si us plau posa el teu nom a sota. Et recomanem veure la configuració abans de entrar a algun servidor"
+		"tr": "Al ser la primera vegada que obres el joc, si us plau posa el teu nom a sota. Et recomanem veure la configuració abans d'entrar a un servidor"
 	},
 	{
 		"or": "Automatically record demos",
@@ -171,6 +295,10 @@
 		"tr": "Bàsic"
 	},
 	{
+		"or": "Best spree",
+		"tr": "Millor spree"
+	},
+	{
 		"or": "Blue team",
 		"tr": "Equip blau"
 	},
@@ -179,8 +307,17 @@
 		"tr": "Finestra sense marges"
 	},
 	{
+		"or": "Browser",
+		"tr": "Cercador "
+	},
+	{
 		"or": "Call vote",
 		"tr": "Començar una votació"
+	},
+	{
+		"context": "Server difficulty",
+		"or": "Casual",
+		"tr": "Casual"
 	},
 	{
 		"or": "Change settings",
@@ -188,11 +325,20 @@
 	},
 	{
 		"or": "Chat",
-		"tr": "Conversació"
+		"tr": "Xat"
 	},
 	{
 		"or": "Clan",
-		"tr": "Grup"
+		"tr": "Clan"
+	},
+	{
+		"context": "clear gametype filters",
+		"or": "Clear",
+		"tr": "Netejar"
+	},
+	{
+		"or": "Click on a player or a flag to follow it",
+		"tr": "Feu clic a un jugador o bandera per seguir-la"
 	},
 	{
 		"or": "Client",
@@ -203,16 +349,21 @@
 		"tr": "Tancar"
 	},
 	{
-		"or": "Color",
-		"tr": "Color"
-	},
-	{
 		"or": "Compatible version",
 		"tr": "Versió compatible"
 	},
 	{
+		"context": "Server difficulty",
+		"or": "Competitive",
+		"tr": "Competitiu"
+	},
+	{
+		"or": "Configure statboard",
+		"tr": "Configuració d'estadístiques"
+	},
+	{
 		"or": "Connect",
-		"tr": "Conectar"
+		"tr": "Connectar"
 	},
 	{
 		"or": "Connecting to",
@@ -232,11 +383,15 @@
 	},
 	{
 		"or": "Count players only",
-		"tr": "Contar només els jugadors"
+		"tr": "Comptar només jugadors"
 	},
 	{
 		"or": "Country",
 		"tr": "País"
+	},
+	{
+		"or": "Country:",
+		"tr": "País:"
 	},
 	{
 		"or": "Crc",
@@ -245,6 +400,14 @@
 	{
 		"or": "Created",
 		"tr": "Creat"
+	},
+	{
+		"or": "Current spree",
+		"tr": "Spree actual"
+	},
+	{
+		"or": "Current: %dx%d (%d:%d)",
+		"tr": "Actual: %dx%d (%d:%d)"
 	},
 	{
 		"or": "Custom",
@@ -256,7 +419,11 @@
 	},
 	{
 		"or": "Customize",
-		"tr": "Customitzar"
+		"tr": "Personalitzar"
+	},
+	{
+		"or": "Deaths",
+		"tr": "Morts"
 	},
 	{
 		"or": "Delete",
@@ -264,15 +431,11 @@
 	},
 	{
 		"or": "Delete demo",
-		"tr": "Esborrar la repetició"
+		"tr": "Esborrar repetició"
 	},
 	{
 		"or": "Delete skin",
 		"tr": "Esborrar skin"
-	},
-	{
-		"or": "Demo",
-		"tr": "Repetició"
 	},
 	{
 		"or": "Demo details",
@@ -289,6 +452,18 @@
 	{
 		"or": "Detail",
 		"tr": "Detall"
+	},
+	{
+		"or": "Device",
+		"tr": "Dispositiu"
+	},
+	{
+		"or": "Difficulty",
+		"tr": "Dificultat"
+	},
+	{
+		"or": "Difficulty:",
+		"tr": "Dificultat:"
 	},
 	{
 		"or": "Disconnect",
@@ -308,7 +483,7 @@
 	},
 	{
 		"or": "Dynamic Camera",
-		"tr": "Càmara dinamica"
+		"tr": "Càmera dinàmica"
 	},
 	{
 		"or": "Editor",
@@ -317,6 +492,14 @@
 	{
 		"or": "Emoticon",
 		"tr": "Emoticó"
+	},
+	{
+		"or": "Enable colored server broadcasts",
+		"tr": "Activar colors als broadcasts del servidor"
+	},
+	{
+		"or": "Enable joystick",
+		"tr": "Habilitar el joystick"
 	},
 	{
 		"or": "Enter",
@@ -328,7 +511,11 @@
 	},
 	{
 		"or": "Error loading demo",
-		"tr": "Error carregant la repetició"
+		"tr": "Error al carregar la repetició"
+	},
+	{
+		"or": "FPM",
+		"tr": "FPM"
 	},
 	{
 		"or": "Favorite",
@@ -343,6 +530,14 @@
 		"tr": "Foc"
 	},
 	{
+		"or": "Flag captures",
+		"tr": "Banderes capturades"
+	},
+	{
+		"or": "Flag grabs",
+		"tr": "Banderes agafades"
+	},
+	{
 		"or": "Folder",
 		"tr": "Carpeta"
 	},
@@ -351,8 +546,16 @@
 		"tr": "Forçar la votació"
 	},
 	{
+		"or": "Frags",
+		"tr": "Jugadors morts"
+	},
+	{
+		"or": "Frags per minute",
+		"tr": "Morts per minut"
+	},
+	{
 		"or": "Free-View",
-		"tr": "Càmara lliure"
+		"tr": "Càmera lliure"
 	},
 	{
 		"or": "Fullscreen",
@@ -365,6 +568,10 @@
 	{
 		"or": "Game info",
 		"tr": "Informació del joc"
+	},
+	{
+		"or": "Game options",
+		"tr": "Opcions del joc"
 	},
 	{
 		"or": "Game over",
@@ -380,11 +587,15 @@
 	},
 	{
 		"or": "Game type",
-		"tr": "Tipos de joc"
+		"tr": "Tipus de joc"
+	},
+	{
+		"or": "Game type:",
+		"tr": "Tipus de joc:"
 	},
 	{
 		"or": "Game types:",
-		"tr": "Tipus de joc"
+		"tr": "Tipus de joc:"
 	},
 	{
 		"or": "General",
@@ -393,6 +604,11 @@
 	{
 		"or": "Global",
 		"tr": "Global"
+	},
+	{
+		"context": "Flag grabs",
+		"or": "Grabs",
+		"tr": "Agafades"
 	},
 	{
 		"or": "Graphics",
@@ -411,6 +627,10 @@
 		"tr": "Te gent jugant"
 	},
 	{
+		"or": "Hide bots",
+		"tr": "Amagar bots"
+	},
+	{
 		"or": "High Detail",
 		"tr": "Detalls alts"
 	},
@@ -420,11 +640,15 @@
 	},
 	{
 		"or": "Host address:",
-		"tr": "Adreça del host:"
+		"tr": "Adreça de l'amfitrió:"
 	},
 	{
 		"or": "Hue:",
 		"tr": "Hue:"
+	},
+	{
+		"or": "Ingame mouse sens.",
+		"tr": "Sensibilitat del ratolí al joc"
 	},
 	{
 		"or": "Invalid Demo",
@@ -453,11 +677,27 @@
 	},
 	{
 		"or": "Joined blue",
-		"tr": "S'ha unit al equip blau"
+		"tr": "T'has unit al blau"
 	},
 	{
 		"or": "Joined red",
-		"tr": "Unir-se al vermell"
+		"tr": "T'has unit al vermell"
+	},
+	{
+		"or": "Joystick",
+		"tr": "Joystick"
+	},
+	{
+		"or": "Joystick Axis #%d",
+		"tr": "Joystick Axis #%d"
+	},
+	{
+		"or": "Joystick jitter tolerance",
+		"tr": "Tolerància del joystick"
+	},
+	{
+		"or": "Joystick sens.",
+		"tr": "Sensibilitat del joystick"
 	},
 	{
 		"or": "Jump",
@@ -488,6 +728,14 @@
 		"tr": "Lgt:"
 	},
 	{
+		"or": "Limit Fps",
+		"tr": "Límit Fps"
+	},
+	{
+		"or": "Load the sound system",
+		"tr": "Carregar el sistema de so"
+	},
+	{
 		"or": "Loading",
 		"tr": "Carregant"
 	},
@@ -508,21 +756,53 @@
 		"tr": "Mapa"
 	},
 	{
+		"or": "Map changed to '%s'",
+		"tr": "Mapa canviat a '%s'"
+	},
+	{
+		"or": "Map record",
+		"tr": "Rècord del mapa"
+	},
+	{
+		"or": "Map:",
+		"tr": "Mapa:"
+	},
+	{
+		"or": "Markers",
+		"tr": "Marcadors"
+	},
+	{
 		"context": "rounds (scoreboard)",
 		"or": "Match",
 		"tr": "Partida"
 	},
 	{
 		"or": "Max",
-		"tr": "Max"
+		"tr": "Màx"
+	},
+	{
+		"or": "Max fps",
+		"tr": "Màx fps"
 	},
 	{
 		"or": "Maximum ping:",
-		"tr": "Màxim ping:"
+		"tr": "Ping màxim:"
+	},
+	{
+		"or": "Menu background transparency",
+		"tr": "Transparència del fons del menú"
+	},
+	{
+		"or": "Menu mouse sens.",
+		"tr": "Sensibilitat del ratolí al menú"
 	},
 	{
 		"or": "Misc",
 		"tr": "Misc"
+	},
+	{
+		"or": "Mouse",
+		"tr": "Ratolí"
 	},
 	{
 		"or": "Move left",
@@ -541,6 +821,10 @@
 		"tr": "Moviment"
 	},
 	{
+		"or": "Mute broadcasts",
+		"tr": "Silencia broadcasts"
+	},
+	{
 		"or": "Mute when not active",
 		"tr": "Silenciar el joc quan està en segon pla."
 	},
@@ -549,8 +833,21 @@
 		"tr": "Nom"
 	},
 	{
+		"context": "Net score",
+		"or": "Net",
+		"tr": "Net"
+	},
+	{
+		"or": "Net score",
+		"tr": "Puntuació neta"
+	},
+	{
 		"or": "Netversion",
 		"tr": "Netversion"
+	},
+	{
+		"or": "New filter",
+		"tr": "Nou filtre"
 	},
 	{
 		"or": "Next weapon",
@@ -574,6 +871,10 @@
 		"tr": "No"
 	},
 	{
+		"or": "No joysticks found. Plug in a joystick and restart the game.",
+		"tr": "Cap joystick trobat. Connecta un joystick i reinicia el joc."
+	},
+	{
 		"or": "No password",
 		"tr": "Sense contrasenya"
 	},
@@ -586,20 +887,46 @@
 		"tr": "No hi ha servidors que coincideixin amb el criteri del filtre"
 	},
 	{
+		"context": "Server difficulty",
+		"or": "Normal",
+		"tr": "Normal"
+	},
+	{
 		"or": "Normal:",
 		"tr": "Normal:"
+	},
+	{
+		"context": "friends (server browser)",
+		"or": "Offline (%d)",
+		"tr": "Desconnectats (%d)"
 	},
 	{
 		"or": "Ok",
 		"tr": "Ok"
 	},
 	{
+		"or": "Online clanmates (%d)",
+		"tr": "Jugadors del teu clan connectats (%d)"
+	},
+	{
+		"or": "Online players (%d)",
+		"tr": "Jugadors connectats (%d)"
+	},
+	{
 		"or": "Only %d active players are allowed",
-		"tr": "Nomes %d jugadors actius estan permesos"
+		"tr": "Només %d jugadors actius estan permesos"
 	},
 	{
 		"or": "Open",
 		"tr": "Obrir"
+	},
+	{
+		"or": "Option",
+		"tr": "Opció"
+	},
+	{
+		"or": "Other",
+		"tr": "Altres"
 	},
 	{
 		"or": "Parent Folder",
@@ -636,7 +963,7 @@
 	},
 	{
 		"or": "Play background music",
-		"tr": "Escoltar la musica de fons"
+		"tr": "Escoltar la música de fons"
 	},
 	{
 		"or": "Player",
@@ -651,8 +978,25 @@
 		"tr": "Jugadors"
 	},
 	{
+		"context": "Playing '(gametype)' on '(map)'",
+		"or": "Playing '%s' on '%s'",
+		"tr": "Jugant '%s' al mapa '%s'"
+	},
+	{
 		"or": "Please balance teams!",
 		"tr": "Si us plau! Reequilibreu els equips"
+	},
+	{
+		"or": "Press %s to resume chatting",
+		"tr": "Prem %s per tornar a xatejar"
+	},
+	{
+		"or": "Press Enter to confirm or Esc to cancel",
+		"tr": "Prem Enter per confirmar o Esc per cancelar"
+	},
+	{
+		"or": "Press Tab to cycle chat recipients",
+		"tr": "Prem Tab per canviar els recipients del xat"
 	},
 	{
 		"or": "Prev. weapon",
@@ -671,12 +1015,20 @@
 		"tr": "REC %3d:%02d"
 	},
 	{
+		"or": "Ratio",
+		"tr": "Proporció"
+	},
+	{
 		"or": "Ready",
 		"tr": "Llest"
 	},
 	{
 		"or": "Reason:",
 		"tr": "Raó:"
+	},
+	{
+		"or": "Recommended",
+		"tr": "Recomanat"
 	},
 	{
 		"or": "Record",
@@ -696,7 +1048,7 @@
 	},
 	{
 		"or": "Refreshing master servers",
-		"tr": "Actualitzan els servidors principals"
+		"tr": "Actualitzant els servidors principals"
 	},
 	{
 		"or": "Remote console",
@@ -707,24 +1059,32 @@
 		"tr": "Treure"
 	},
 	{
+		"or": "Remove filter",
+		"tr": "Esborrar filtre"
+	},
+	{
 		"or": "Remove friend",
 		"tr": "Eliminar amic"
 	},
 	{
 		"or": "Rename",
-		"tr": "Re-anomenar "
+		"tr": "Reanomenar"
 	},
 	{
 		"or": "Rename demo",
-		"tr": "Re-anomenar la repetició"
+		"tr": "Reanomenar la repetició"
 	},
 	{
 		"or": "Reset",
-		"tr": "Re-ajustar"
+		"tr": "Reajustar"
 	},
 	{
 		"or": "Reset filter",
-		"tr": "Restaura el filtre"
+		"tr": "Restablir el filtre"
+	},
+	{
+		"or": "Resolution",
+		"tr": "Resolució"
 	},
 	{
 		"or": "Respawn",
@@ -764,10 +1124,14 @@
 	},
 	{
 		"or": "Scoreboard",
-		"tr": "Taula de Puntuació"
+		"tr": "Marcador"
 	},
 	{
 		"or": "Screen",
+		"tr": "Pantalla"
+	},
+	{
+		"or": "Screen:",
 		"tr": "Pantalla"
 	},
 	{
@@ -779,8 +1143,12 @@
 		"tr": "Buscar: "
 	},
 	{
+		"or": "Server",
+		"tr": "Servidor"
+	},
+	{
 		"or": "Server address:",
-		"tr": "Adreça del servidor"
+		"tr": "Adreça del servidor:"
 	},
 	{
 		"or": "Server details",
@@ -820,11 +1188,15 @@
 	},
 	{
 		"or": "Show chat",
-		"tr": "Mostrar la conversació"
+		"tr": "Mostrar el xat"
+	},
+	{
+		"or": "Show chat messages from:",
+		"tr": "Mostrar missatges del xat de:"
 	},
 	{
 		"or": "Show friends only",
-		"tr": "Només veure els amics "
+		"tr": "Només veure amics "
 	},
 	{
 		"or": "Show ingame HUD",
@@ -833,6 +1205,14 @@
 	{
 		"or": "Show name plates",
 		"tr": "Mostrar els noms"
+	},
+	{
+		"or": "Show social",
+		"tr": "Mostrar social"
+	},
+	{
+		"or": "Show user IDs",
+		"tr": "Mostrar les ID dels usuaris"
 	},
 	{
 		"or": "Size",
@@ -845,6 +1225,10 @@
 	{
 		"or": "Skins",
 		"tr": "Skins"
+	},
+	{
+		"or": "Skip the main menu",
+		"tr": "Saltar el menú principal"
 	},
 	{
 		"or": "Sound",
@@ -868,7 +1252,7 @@
 	},
 	{
 		"or": "Spectating",
-		"tr": "Espectant"
+		"tr": "Mirant"
 	},
 	{
 		"or": "Spectator mode",
@@ -880,7 +1264,11 @@
 	},
 	{
 		"or": "Spectators aren't allowed to start a vote.",
-		"tr": "Els espectadors no tenen permès començar una votació "
+		"tr": "Els espectadors no tenen permès començar una votació ."
+	},
+	{
+		"or": "Spree",
+		"tr": "Spree"
 	},
 	{
 		"or": "Standard gametype",
@@ -891,12 +1279,24 @@
 		"tr": "Mapa estàndar"
 	},
 	{
+		"or": "Statboard",
+		"tr": "Estadístiques"
+	},
+	{
+		"or": "Status",
+		"tr": "Estat"
+	},
+	{
 		"or": "Stop record",
 		"tr": "S'ha parat de grabar"
 	},
 	{
 		"or": "Sudden Death",
-		"tr": "Fins la mort"
+		"tr": "Mort Súbdita"
+	},
+	{
+		"or": "Suicides",
+		"tr": "Suïcidis"
 	},
 	{
 		"or": "Switch weapon on pickup",
@@ -920,15 +1320,27 @@
 	},
 	{
 		"or": "Teams are locked. Time to wait before changing team: %02d:%02d",
-		"tr": "Els equips estan bloquejats. El temps ha esperar per cambiar de equip és: %02d:%02d"
+		"tr": "Els equips estan bloquejats. El temps ha esperar per cambiar d'equip és: %02d:%02d"
+	},
+	{
+		"or": "Teams have been balanced",
+		"tr": "Els equips s'han equilibrat"
 	},
 	{
 		"or": "Teams were locked",
-		"tr": "Els equips han sigut bloquejats"
+		"tr": "Els equips han estat bloquejats"
+	},
+	{
+		"or": "Teams were shuffled",
+		"tr": "Els equips s'han barrejat"
+	},
+	{
+		"or": "Teams were swapped",
+		"tr": "Els equips s'han intercanviat"
 	},
 	{
 		"or": "Teams were unlocked",
-		"tr": "Els equips han sigut desbloquejats"
+		"tr": "Els equips han estat desbloquejats"
 	},
 	{
 		"or": "Tee",
@@ -951,24 +1363,56 @@
 		"tr": "El dispositiu de so no s'ha pogut inicialitzar "
 	},
 	{
+		"or": "The blue flag was captured by '%s'",
+		"tr": "La bandera blava ha estat capturada per '%s'"
+	},
+	{
+		"or": "The blue flag was captured by '%s' (%.2f seconds)",
+		"tr": "La bandera blava ha estat capturada per '%s' (%.2f segons)"
+	},
+	{
+		"or": "The red flag was captured by '%s'",
+		"tr": "La bandera vermella ha estat capturada per '%s'"
+	},
+	{
+		"or": "The red flag was captured by '%s' (%.2f seconds)",
+		"tr": "La bandera vermella ha estat capturada per '%s' (%.2f segons)"
+	},
+	{
 		"or": "The server is running a non-standard tuning on a pure game type.",
-		"tr": "El servidor esta funcionan amb una modificació diferent al mode de joc pur"
+		"tr": "El servidor està funcionant amb una modificació diferent al mode de joc pur"
+	},
+	{
+		"or": "Theme",
+		"tr": "Tema"
 	},
 	{
 		"or": "There's an unsaved map in the editor, you might want to save it before you quit the game.",
-		"tr": "Hi ha un mapa al editor sense guardar, vols guardar-lo abans de sortir del joc?"
+		"tr": "Hi ha un mapa a l'editor sense guardar, vols guardar-lo abans de sortir del joc?"
+	},
+	{
+		"or": "Time",
+		"tr": "Temps"
 	},
 	{
 		"or": "Time limit",
-		"tr": "Temps limit"
+		"tr": "Temps límit"
 	},
 	{
 		"or": "Time limit: %d min",
 		"tr": "Temps límit: %d min"
 	},
 	{
+		"or": "Toggle dynamic camera",
+		"tr": "Commuta la càmera dinàmica"
+	},
+	{
+		"or": "Toggle sounds",
+		"tr": "Commuta els sons"
+	},
+	{
 		"or": "Try again",
-		"tr": "Tornau a intentar"
+		"tr": "Torna a intentar-ho"
 	},
 	{
 		"or": "Type",
@@ -987,8 +1431,12 @@
 		"tr": "Impossible re-anomenar la repetició"
 	},
 	{
+		"or": "Use OS mouse acceleration",
+		"tr": "Fer servir l'acceleració del OS pel ratolí"
+	},
+	{
 		"or": "Use sounds",
-		"tr": "Escoltar el so"
+		"tr": "Fer servir sons"
 	},
 	{
 		"or": "Use team colors for name plates",
@@ -1001,6 +1449,10 @@
 	{
 		"or": "Version",
 		"tr": "Versió"
+	},
+	{
+		"or": "Version:",
+		"tr": "Versió:"
 	},
 	{
 		"or": "Volume",
@@ -1028,19 +1480,19 @@
 	},
 	{
 		"or": "Vote passed",
-		"tr": "Votació pasada"
+		"tr": "Votació acceptada"
 	},
 	{
 		"or": "Vote yes",
-		"tr": "Votar si"
+		"tr": "Votar sí"
 	},
 	{
 		"or": "Voting",
-		"tr": "Votan"
+		"tr": "Votant"
 	},
 	{
 		"or": "Wait for current vote to end before calling a new one.",
-		"tr": "Per començar una nova votació espera a que acabi la actual."
+		"tr": "Per començar una nova votació espera que acabi l'actual."
 	},
 	{
 		"or": "Wait for next round",
@@ -1051,16 +1503,41 @@
 		"tr": "Escalfament"
 	},
 	{
+		"context": "Watching '(gametype)' on '(map)'",
+		"or": "Watching '%s' on '%s'",
+		"tr": "Mirant '%s' al mapa '%s'"
+	},
+	{
 		"or": "Weapon",
 		"tr": "Arma"
+	},
+	{
+		"or": "Weapons stats",
+		"tr": "Estadístiques d'armes"
 	},
 	{
 		"or": "Welcome to Teeworlds",
 		"tr": "Benvingut a Teeworlds"
 	},
 	{
+		"or": "When ready, press <%s>",
+		"tr": "Quan estiguis llest, prem <%s>"
+	},
+	{
+		"or": "Whisper",
+		"tr": "Xiuxiuejar"
+	},
+	{
+		"or": "X",
+		"tr": "X"
+	},
+	{
+		"or": "Y",
+		"tr": "Y"
+	},
+	{
 		"or": "Yes",
-		"tr": "Si"
+		"tr": "Sí"
 	},
 	{
 		"context": "With",
@@ -1068,21 +1545,90 @@
 		"tr": "Si"
 	},
 	{
+		"or": "You have to wait %1.0f seconds to change identity.",
+		"tr": "Has d'esperar %1.0f segons per canviar d'identitat."
+	},
+	{
+		"or": "You must reconnect to change identity.",
+		"tr": "Has de reconnectar-te per canviar d'identitat."
+	},
+	{
 		"or": "You must restart the game for all settings to take effect.",
-		"tr": "Has de re-iniciar el joc perquè la configuració tingui efecte"
+		"tr": "Has de reiniciar el joc perquè la configuració tingui efecte"
 	},
 	{
 		"or": "You must wait %d seconds before making another vote",
-		"tr": "Has d'esperar %d segons per fer una altre votació"
+		"tr": "Has d'esperar %d segons per tornar a votar"
+	},
+	{
+		"or": "You were moved to the blue team due to team balancing",
+		"tr": "Se t'ha mogut a l'equip blau per equilibrar els equips"
+	},
+	{
+		"or": "You were moved to the red team due to team balancing",
+		"tr": "Se t'ha mogut a l'equip vermell per equilibrar els equips"
+	},
+	{
+		"or": "blue flag",
+		"tr": "bandera blava"
+	},
+	{
+		"context": "skins",
+		"or": "body",
+		"tr": "cos"
+	},
+	{
+		"context": "skins",
+		"or": "decoration",
+		"tr": "decoració"
+	},
+	{
+		"context": "Show chat messages from:",
+		"or": "everyone",
+		"tr": "tothom"
+	},
+	{
+		"context": "skins",
+		"or": "eyes",
+		"tr": "ulls"
+	},
+	{
+		"context": "skins",
+		"or": "feet",
+		"tr": "peus"
+	},
+	{
+		"context": "Show chat messages from:",
+		"or": "friends only",
+		"tr": "només amics"
+	},
+	{
+		"context": "skins",
+		"or": "hands",
+		"tr": "mans"
 	},
 	{
 		"or": "locked",
-		"tr": "Tancat"
+		"tr": "tancat"
+	},
+	{
+		"context": "skins",
+		"or": "marking",
+		"tr": "marques"
+	},
+	{
+		"context": "Show chat messages from:",
+		"or": "no one",
+		"tr": "ningú"
 	},
 	{
 		"context": "server browser message",
 		"or": "no players",
 		"tr": "no hi ha jugadors"
+	},
+	{
+		"or": "red flag",
+		"tr": "bandera vermella"
 	},
 	{
 		"or": "wait for more players",

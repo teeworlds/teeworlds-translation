@@ -271,12 +271,20 @@
 		"tr": "Bunasach"
 	},
 	{
+		"or": "Best spree",
+		"tr": "An splaoid as fheàrr"
+	},
+	{
 		"or": "Blue team",
 		"tr": "An sgioba gorm"
 	},
 	{
 		"or": "Borderless window",
 		"tr": "Uinneag gun iomall"
+	},
+	{
+		"or": "Browser",
+		"tr": "Brabhsair"
 	},
 	{
 		"or": "Call vote",
@@ -317,10 +325,6 @@
 		"tr": "Dùin"
 	},
 	{
-		"or": "Color",
-		"tr": "Dath"
-	},
-	{
 		"or": "Compatible version",
 		"tr": "Tionndadh co-chòrdail"
 	},
@@ -328,6 +332,10 @@
 		"context": "Server difficulty",
 		"or": "Competitive",
 		"tr": "Farpaiseach"
+	},
+	{
+		"or": "Configure statboard",
+		"tr": "Rèitich bòrd na stadastaireachd"
 	},
 	{
 		"or": "Connect",
@@ -370,6 +378,10 @@
 		"tr": "Air a chruthachadh"
 	},
 	{
+		"or": "Current spree",
+		"tr": "An splaoid làithreach"
+	},
+	{
 		"or": "Current: %dx%d (%d:%d)",
 		"tr": "Làithreach: %dx%d (%d:%d)"
 	},
@@ -386,6 +398,10 @@
 		"tr": "Gnàthaich"
 	},
 	{
+		"or": "Deaths",
+		"tr": "Bàs"
+	},
+	{
 		"or": "Delete",
 		"tr": "Sguab às"
 	},
@@ -396,10 +412,6 @@
 	{
 		"or": "Delete skin",
 		"tr": "Sguab às an craiceann"
-	},
-	{
-		"or": "Demo",
-		"tr": "Demo"
 	},
 	{
 		"or": "Demo details",
@@ -470,6 +482,10 @@
 		"tr": "Mearachd le luchdadh a’ demo"
 	},
 	{
+		"or": "FPM",
+		"tr": "FPM"
+	},
+	{
 		"or": "Favorite",
 		"tr": "Annsachd"
 	},
@@ -482,12 +498,28 @@
 		"tr": "Loisg"
 	},
 	{
+		"or": "Flag captures",
+		"tr": "Glacadh bhrataichean"
+	},
+	{
+		"or": "Flag grabs",
+		"tr": "Togail bhrataichean"
+	},
+	{
 		"or": "Folder",
 		"tr": "Pasgan"
 	},
 	{
 		"or": "Force vote",
 		"tr": "Èignich bhòt"
+	},
+	{
+		"or": "Frags",
+		"tr": "Marbhadh"
+	},
+	{
+		"or": "Frags per minute",
+		"tr": "Marbhadh gach mionaid"
 	},
 	{
 		"or": "Free-View",
@@ -540,6 +572,11 @@
 	{
 		"or": "Global",
 		"tr": "Coitcheann"
+	},
+	{
+		"context": "Flag grabs",
+		"or": "Grabs",
+		"tr": "Togail"
 	},
 	{
 		"or": "Graphics",
@@ -696,6 +733,10 @@
 		"tr": "A ping as motha:"
 	},
 	{
+		"or": "Menu background transparency",
+		"tr": "Trìd-shoilleireachd cùlaibh a’ chlàir-taice"
+	},
+	{
 		"or": "Menu mouse sens.",
 		"tr": "Mothalachd luchaige sna clàran-taice"
 	},
@@ -730,6 +771,15 @@
 	{
 		"or": "Name",
 		"tr": "Ainm"
+	},
+	{
+		"context": "Net score",
+		"or": "Net",
+		"tr": "Lom"
+	},
+	{
+		"or": "Net score",
+		"tr": "Sgòr lom"
 	},
 	{
 		"or": "Netversion",
@@ -893,6 +943,10 @@
 		"tr": "As luaithe %3d:%02d"
 	},
 	{
+		"or": "Ratio",
+		"tr": "Co-mheas"
+	},
+	{
 		"or": "Ready",
 		"tr": "Deiseil"
 	},
@@ -1003,6 +1057,10 @@
 	{
 		"or": "Screen",
 		"tr": "Sgrìn"
+	},
+	{
+		"or": "Screen:",
+		"tr": "Sgrìn:"
 	},
 	{
 		"or": "Screenshot",
@@ -1137,6 +1195,10 @@
 		"tr": "Chan fhaod amharc bhòt a thòiseachadh."
 	},
 	{
+		"or": "Spree",
+		"tr": "Splaoid"
+	},
+	{
 		"or": "Standard gametype",
 		"tr": "Geama stannardach"
 	},
@@ -1145,12 +1207,20 @@
 		"tr": "Mapa stannardach"
 	},
 	{
+		"or": "Statboard",
+		"tr": "Bòrd na stadastaireachd"
+	},
+	{
 		"or": "Stop record",
 		"tr": "Sguir dhen chlàradh"
 	},
 	{
 		"or": "Sudden Death",
 		"tr": "Bàs obann"
+	},
+	{
+		"or": "Suicides",
+		"tr": "Fèin-mhurt"
 	},
 	{
 		"or": "Switch weapon on pickup",
@@ -1342,6 +1412,10 @@
 		"tr": "Arm"
 	},
 	{
+		"or": "Weapons stats",
+		"tr": "Stadastaireachd nan arm"
+	},
+	{
 		"or": "Welcome to Teeworlds",
 		"tr": "Fàilte gu Teeworlds"
 	},
@@ -1383,16 +1457,8 @@
 		"tr": "Chaidh do ghluasad dhan sgioba ghorm a chùm cothromachadh nan sgioba"
 	},
 	{
-		"or": "You were moved to the game due to team balancing",
-		"tr": "Chaidh do ghluasad dhan gheama a chùm cothromachadh nan sgioba"
-	},
-	{
 		"or": "You were moved to the red team due to team balancing",
 		"tr": "Chaidh do ghluasad dhan sgioba dearg a chùm cothromachadh nan sgioba"
-	},
-	{
-		"or": "You were moved to the spectators due to team balancing",
-		"tr": "Chaidh amharc a dhèanamh dhiot a chùm cothromachadh nan sgioba"
 	},
 	{
 		"or": "blue flag",

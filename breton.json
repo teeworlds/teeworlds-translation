@@ -179,6 +179,10 @@
 		"tr": "Prenestr hep vord"
 	},
 	{
+		"or": "Browser",
+		"tr": "Merdeer"
+	},
+	{
 		"or": "Call vote",
 		"tr": "Goulenn ur mouezhiadeg"
 	},
@@ -201,10 +205,6 @@
 	{
 		"or": "Close",
 		"tr": "Serriñ"
-	},
-	{
-		"or": "Color",
-		"tr": "Liv"
 	},
 	{
 		"or": "Compatible version",
@@ -269,10 +269,6 @@
 	{
 		"or": "Delete skin",
 		"tr": "Diverkañ an neuz"
-	},
-	{
-		"or": "Demo",
-		"tr": "Demo"
 	},
 	{
 		"or": "Demo details",

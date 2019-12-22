@@ -280,6 +280,10 @@
 		"tr": "Акно без рамкі"
 	},
 	{
+		"or": "Browser",
+		"tr": "Браўзар"
+	},
+	{
 		"or": "Call vote",
 		"tr": "Галасаваць"
 	},
@@ -316,10 +320,6 @@
 	{
 		"or": "Close",
 		"tr": "Выйсці"
-	},
-	{
-		"or": "Color",
-		"tr": "Колер"
 	},
 	{
 		"or": "Compatible version",
@@ -397,10 +397,6 @@
 	{
 		"or": "Delete skin",
 		"tr": "Выдаліць скін"
-	},
-	{
-		"or": "Demo",
-		"tr": "Дэма"
 	},
 	{
 		"or": "Demo details",
@@ -1384,16 +1380,8 @@
 		"tr": "Вы перасунуты ў сінюю каманду падчас балансавання камандаў"
 	},
 	{
-		"or": "You were moved to the game due to team balancing",
-		"tr": "Вы перасунуты ў гульню падчас балансавання камандаў"
-	},
-	{
 		"or": "You were moved to the red team due to team balancing",
 		"tr": "Вы перасунуты ў чырвоную каманду падчас балансавання камандаў"
-	},
-	{
-		"or": "You were moved to the spectators due to team balancing",
-		"tr": "Вы перасунуты ў назіральнікі падчас балансавання камандаў"
 	},
 	{
 		"or": "blue flag",

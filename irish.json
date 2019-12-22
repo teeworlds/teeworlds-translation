@@ -179,6 +179,10 @@
 		"tr": "Fuinneog gan imlíne"
 	},
 	{
+		"or": "Browser",
+		"tr": "Brabhsálaí"
+	},
+	{
 		"or": "Call vote",
 		"tr": "Iarr vóta"
 	},
@@ -201,10 +205,6 @@
 	{
 		"or": "Close",
 		"tr": "Dún"
-	},
-	{
-		"or": "Color",
-		"tr": "Dath"
 	},
 	{
 		"or": "Compatible version",
@@ -269,10 +269,6 @@
 	{
 		"or": "Delete skin",
 		"tr": "Scrios an craiceann"
-	},
-	{
-		"or": "Demo",
-		"tr": "Taispeántas"
 	},
 	{
 		"or": "Demo details",

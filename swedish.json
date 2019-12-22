@@ -9,12 +9,20 @@
 },
 "translated strings": [
 	{
+		"or": "%.3f KiB",
+		"tr": "%.3fKiB"
+	},
+	{
 		"or": "%d player left",
 		"tr": "%d spelaren lämnade"
 	},
 	{
 		"or": "%d player not ready",
 		"tr": "%d spelaren är inte redo"
+	},
+	{
+		"or": "%d players left",
+		"tr": "%dspelare kvar"
 	},
 	{
 		"or": "%d%% loaded",
@@ -53,6 +61,10 @@
 		"tr": "'%s' har lämnat spelet (%s)"
 	},
 	{
+		"or": "'%s' was removed as a friend",
+		"tr": "%stogs bort som vän"
+	},
+	{
 		"or": "-Page %d-",
 		"tr": "-Sida %d-"
 	},
@@ -75,6 +87,10 @@
 	{
 		"or": "All",
 		"tr": "Alla"
+	},
+	{
+		"or": "All players were moved to the blue team",
+		"tr": "Alla spel förflyttades till det blå laget"
 	},
 	{
 		"or": "Always show name plates",
@@ -161,12 +177,12 @@
 		"tr": "Stäng"
 	},
 	{
-		"or": "Color",
-		"tr": "Färg"
-	},
-	{
 		"or": "Compatible version",
 		"tr": "Kompatibel version"
+	},
+	{
+		"or": "Configure statboard",
+		"tr": "Ändra statistiken"
 	},
 	{
 		"or": "Connect",
@@ -237,6 +253,10 @@
 		"tr": "Detalj"
 	},
 	{
+		"or": "Difficulty",
+		"tr": "Svårighetsgrad"
+	},
+	{
 		"or": "Disconnect",
 		"tr": "Avsluta"
 	},
@@ -283,6 +303,10 @@
 	{
 		"or": "Fire",
 		"tr": "Skjuta"
+	},
+	{
+		"or": "Flag captures",
+		"tr": "Fångade flaggor"
 	},
 	{
 		"or": "Folder",
@@ -651,6 +675,10 @@
 		"tr": "Sök:"
 	},
 	{
+		"or": "Server",
+		"tr": "Server"
+	},
+	{
 		"or": "Server address:",
 		"tr": "Serveradress"
 	},
@@ -661,6 +689,10 @@
 	{
 		"or": "Server does not allow voting to kick players",
 		"tr": "Servern tillåter inte röstning för att sparka spelare"
+	},
+	{
+		"or": "Server does not allow voting to move players to spectators",
+		"tr": "Server tillåter inte röstning för att flytta spelare till åskådare."
 	},
 	{
 		"or": "Server filter",
@@ -705,6 +737,10 @@
 	{
 		"or": "Skins",
 		"tr": "Utseende"
+	},
+	{
+		"or": "Skip the main menu",
+		"tr": "Hoppa över huvudmenyn"
 	},
 	{
 		"or": "Sound",
@@ -753,6 +789,10 @@
 	{
 		"or": "Sudden Death",
 		"tr": "Plötslig död"
+	},
+	{
+		"or": "Suicides",
+		"tr": "Självmord"
 	},
 	{
 		"or": "Switch weapon on pickup",
@@ -903,6 +943,10 @@
 		"tr": "Välkommen till Teeworlds"
 	},
 	{
+		"or": "Whisper",
+		"tr": "Viskning"
+	},
+	{
 		"or": "Yes",
 		"tr": "Ja"
 	},
@@ -912,12 +956,25 @@
 		"tr": "Ja"
 	},
 	{
+		"or": "You have to wait %1.0f seconds to change identity.",
+		"tr": "Du måste vänta %1.0f sekunder för att kunna byta identitet."
+	},
+	{
 		"or": "You must restart the game for all settings to take effect.",
 		"tr": "Du måste starta om spelet för att ändringarna skall verkställas."
 	},
 	{
+		"or": "You were moved to the red team due to team balancing",
+		"tr": "Du blev förflyttade till det röda laget för utjämning"
+	},
+	{
 		"or": "locked",
 		"tr": "låst"
+	},
+	{
+		"context": "skins",
+		"or": "marking",
+		"tr": "märkning"
 	},
 	{
 		"context": "server browser message",

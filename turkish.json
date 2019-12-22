@@ -286,6 +286,10 @@
 		"tr": "Sınırsız pencere"
 	},
 	{
+		"or": "Browser",
+		"tr": "Tarayıcı"
+	},
+	{
 		"or": "Call vote",
 		"tr": "Oylama başlat"
 	},
@@ -322,10 +326,6 @@
 	{
 		"or": "Close",
 		"tr": "Kapat"
-	},
-	{
-		"or": "Color",
-		"tr": "Renk"
 	},
 	{
 		"or": "Compatible version",
@@ -403,10 +403,6 @@
 	{
 		"or": "Delete skin",
 		"tr": "Deriyi sil"
-	},
-	{
-		"or": "Demo",
-		"tr": "Demo"
 	},
 	{
 		"or": "Demo details",
@@ -1390,16 +1386,8 @@
 		"tr": "Dengeyi sağlamak adına mavi takıma alındın"
 	},
 	{
-		"or": "You were moved to the game due to team balancing",
-		"tr": "Dengeyi sağlamak adına oyuna alındınız."
-	},
-	{
 		"or": "You were moved to the red team due to team balancing",
 		"tr": "Dengeyi sağlamak adına kırmızı takıma alındın."
-	},
-	{
-		"or": "You were moved to the spectators due to team balancing",
-		"tr": "Dengeyi sağlamak adına izleyici yapıldınız."
 	},
 	{
 		"or": "blue flag",

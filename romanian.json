@@ -87,6 +87,14 @@
 		"tr": "'%s' a ieșit din joc (%s)"
 	},
 	{
+		"or": "'%s' was added as a friend",
+		"tr": "'%s' a fost adăugat în lista de prieteni"
+	},
+	{
+		"or": "'%s' was removed as a friend",
+		"tr": "'%s' a fost scos din lista de prieteni. "
+	},
+	{
 		"or": "-Page %d-",
 		"tr": "-Pagina %d-"
 	},
@@ -97,6 +105,10 @@
 	{
 		"or": "Add",
 		"tr": "Adaugă"
+	},
+	{
+		"or": "Add friend",
+		"tr": "Adaugă prieten"
 	},
 	{
 		"or": "Address",
@@ -121,6 +133,14 @@
 	{
 		"or": "All",
 		"tr": "Toți"
+	},
+	{
+		"or": "All players were moved to the blue team",
+		"tr": "Toți jucătorii au fost mutați la echipa albastră. "
+	},
+	{
+		"or": "All players were moved to the red team",
+		"tr": "Toți jucătorii au fost mutați la echipa roșie"
 	},
 	{
 		"or": "Alp:",
@@ -187,6 +207,10 @@
 		"tr": "Fereastră fără margini"
 	},
 	{
+		"or": "Browser",
+		"tr": "Browser"
+	},
+	{
 		"or": "Call vote",
 		"tr": "Votează"
 	},
@@ -209,10 +233,6 @@
 	{
 		"or": "Close",
 		"tr": "Închide"
-	},
-	{
-		"or": "Color",
-		"tr": "Culoare"
 	},
 	{
 		"or": "Compatible version",
@@ -247,6 +267,10 @@
 		"tr": "Țara"
 	},
 	{
+		"or": "Country:",
+		"tr": "Țară:"
+	},
+	{
 		"or": "Crc",
 		"tr": "Crc"
 	},
@@ -267,6 +291,10 @@
 		"tr": "Personalizează"
 	},
 	{
+		"or": "Deaths",
+		"tr": "Morți"
+	},
+	{
 		"or": "Delete",
 		"tr": "Șterge"
 	},
@@ -277,10 +305,6 @@
 	{
 		"or": "Delete skin",
 		"tr": "Șterge costumul"
-	},
-	{
-		"or": "Demo",
-		"tr": "Demonstrație"
 	},
 	{
 		"or": "Demo details",
@@ -297,6 +321,10 @@
 	{
 		"or": "Detail",
 		"tr": "Detalii"
+	},
+	{
+		"or": "Difficulty",
+		"tr": "Dificultate"
 	},
 	{
 		"or": "Disconnect",
@@ -391,6 +419,10 @@
 		"tr": "Tip de joc"
 	},
 	{
+		"or": "Game type:",
+		"tr": "Tip de joc:"
+	},
+	{
 		"or": "Game types:",
 		"tr": "Tipuri de joc:"
 	},
@@ -417,6 +449,10 @@
 	{
 		"or": "Has people playing",
 		"tr": "Are jucători activi"
+	},
+	{
+		"or": "Hide bots",
+		"tr": "Ascunde boții"
 	},
 	{
 		"or": "High Detail",
@@ -602,6 +638,10 @@
 		"tr": "Bine"
 	},
 	{
+		"or": "Online players (%d)",
+		"tr": "Jucători online (%d) "
+	},
+	{
 		"or": "Only %d active players are allowed",
 		"tr": "Sunt permiși doar %d jucători activi"
 	},
@@ -661,6 +701,10 @@
 	{
 		"or": "Please balance teams!",
 		"tr": "Echilibrați echipele!"
+	},
+	{
+		"or": "Press Enter to confirm or Esc to cancel",
+		"tr": "Apasă Enter pentru a confirma sau Esc pentru a anula"
 	},
 	{
 		"or": "Prev. weapon",
@@ -733,6 +777,10 @@
 	{
 		"or": "Reset filter",
 		"tr": "Filtru implicit"
+	},
+	{
+		"or": "Resolution",
+		"tr": "Rezoluție"
 	},
 	{
 		"or": "Respawn",
@@ -959,8 +1007,16 @@
 		"tr": "Dispozitivul audio nu a putut fi inițializat."
 	},
 	{
+		"or": "The blue flag was captured by '%s' (%.2f seconds)",
+		"tr": "Steagul albastru a fost capturat de '%s'(%.2f secunde) "
+	},
+	{
 		"or": "The server is running a non-standard tuning on a pure game type.",
 		"tr": "Serverul folosește parametri non-standard într-un joc standard."
+	},
+	{
+		"or": "Theme",
+		"tr": "Temă"
 	},
 	{
 		"or": "There's an unsaved map in the editor, you might want to save it before you quit the game.",
@@ -1024,7 +1080,7 @@
 	},
 	{
 		"or": "Vote description:",
-		"tr": "Descriere votare:"
+		"tr": "Descriere vot:"
 	},
 	{
 		"or": "Vote failed",
@@ -1067,6 +1123,14 @@
 		"tr": "Bun venit în Teeworlds"
 	},
 	{
+		"or": "When ready, press <%s>",
+		"tr": "Când ești pregătit, apasă <%s>"
+	},
+	{
+		"or": "Whisper",
+		"tr": "Șoaptă"
+	},
+	{
 		"or": "Yes",
 		"tr": "Da"
 	},
@@ -1074,6 +1138,14 @@
 		"context": "With",
 		"or": "Yes",
 		"tr": "Da"
+	},
+	{
+		"or": "You have to wait %1.0f seconds to change identity.",
+		"tr": "Trebuie să aștepți %1.0f de secunde pentru a îți schimba indentitatea. "
+	},
+	{
+		"or": "You must reconnect to change identity.",
+		"tr": "Trebuie să te reconectezi pentru a îți schimba indentitatea."
 	},
 	{
 		"or": "You must restart the game for all settings to take effect.",
@@ -1084,13 +1156,56 @@
 		"tr": "Trebuie să aștepți %d secunde înaintă să votezi din nou"
 	},
 	{
+		"or": "You were moved to the red team due to team balancing",
+		"tr": "Ai fost mutat în echipa roșie datorită balansării echipelor"
+	},
+	{
+		"context": "skins",
+		"or": "body",
+		"tr": "corp"
+	},
+	{
+		"context": "Show chat messages from:",
+		"or": "everyone",
+		"tr": "toată lumea"
+	},
+	{
+		"context": "skins",
+		"or": "eyes",
+		"tr": "ochi"
+	},
+	{
+		"context": "skins",
+		"or": "feet",
+		"tr": "picioare"
+	},
+	{
+		"context": "Show chat messages from:",
+		"or": "friends only",
+		"tr": "numai prieteni"
+	},
+	{
+		"context": "skins",
+		"or": "hands",
+		"tr": "Mâini"
+	},
+	{
 		"or": "locked",
 		"tr": "blocat"
+	},
+	{
+		"context": "Show chat messages from:",
+		"or": "no one",
+		"tr": "nimeni"
 	},
 	{
 		"context": "server browser message",
 		"or": "no players",
 		"tr": "nu sunt jucători"
+	},
+	{
+		"or": "red flag",
+		"tr": "steagul roșu"
 	},
 	{
 		"or": "wait for more players",

@@ -49,7 +49,7 @@
 	},
 	{
 		"or": "%ds left",
-		"tr": " %d másodperc van hátra"
+		"tr": "%d másodperc van hátra"
 	},
 	{
 		"or": "%i minute left",
@@ -280,8 +280,17 @@
 		"tr": "Keret nélküli ablak"
 	},
 	{
+		"or": "Browser",
+		"tr": "Böngésző"
+	},
+	{
 		"or": "Call vote",
 		"tr": "Szavazás"
+	},
+	{
+		"context": "Server difficulty",
+		"or": "Casual",
+		"tr": "Alkalmi"
 	},
 	{
 		"or": "Change settings",
@@ -311,10 +320,6 @@
 	{
 		"or": "Close",
 		"tr": "Bezárás"
-	},
-	{
-		"or": "Color",
-		"tr": "Szín"
 	},
 	{
 		"or": "Compatible version",
@@ -382,6 +387,10 @@
 		"tr": "Testreszabás"
 	},
 	{
+		"or": "Deaths",
+		"tr": "Halálok"
+	},
+	{
 		"or": "Delete",
 		"tr": "Törlés"
 	},
@@ -392,10 +401,6 @@
 	{
 		"or": "Delete skin",
 		"tr": "Kinézet törlése"
-	},
-	{
-		"or": "Demo",
-		"tr": "Demó"
 	},
 	{
 		"or": "Demo details",
@@ -476,6 +481,14 @@
 	{
 		"or": "Fire",
 		"tr": "Tűz"
+	},
+	{
+		"or": "Flag captures",
+		"tr": "Bevitt zászlók"
+	},
+	{
+		"or": "Flag grabs",
+		"tr": "Megszerzett zászlók"
 	},
 	{
 		"or": "Folder",
@@ -690,6 +703,10 @@
 	{
 		"or": "Maximum ping:",
 		"tr": "Maximum Ping:"
+	},
+	{
+		"or": "Menu background transparency",
+		"tr": "Menü háttér átlátszósága"
 	},
 	{
 		"or": "Menu mouse sens.",
@@ -1001,6 +1018,10 @@
 		"tr": "Képernyő"
 	},
 	{
+		"or": "Screen:",
+		"tr": "Képernyő:"
+	},
+	{
 		"or": "Screenshot",
 		"tr": "Pillanatkép"
 	},
@@ -1147,6 +1168,10 @@
 	{
 		"or": "Sudden Death",
 		"tr": "Gyors halál"
+	},
+	{
+		"or": "Suicides",
+		"tr": "Öngyilkosságok"
 	},
 	{
 		"or": "Switch weapon on pickup",
@@ -1338,6 +1363,10 @@
 		"tr": "Fegyver"
 	},
 	{
+		"or": "Weapons stats",
+		"tr": "Fegyverek statisztikái"
+	},
+	{
 		"or": "Welcome to Teeworlds",
 		"tr": "Üdvözlünk a Teeworlds-ben"
 	},
@@ -1379,16 +1408,8 @@
 		"tr": "Át lettél helyezve a kék csapatba a csapatok kiegyenlítése érdekében"
 	},
 	{
-		"or": "You were moved to the game due to team balancing",
-		"tr": "Át lettél helyezve a játékba a csapatok kiegyenlítése érdekében"
-	},
-	{
 		"or": "You were moved to the red team due to team balancing",
 		"tr": "Át lettél helyezve a piros csapatba a csapatok kiegyenlítése érdekében"
-	},
-	{
-		"or": "You were moved to the spectators due to team balancing",
-		"tr": "Át lettél helyezve a nézőkhöz a csapatok kiegyenlítése érdekében"
 	},
 	{
 		"or": "blue flag",

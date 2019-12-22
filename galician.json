@@ -179,6 +179,10 @@
 		"tr": "Xanela sen bordes"
 	},
 	{
+		"or": "Browser",
+		"tr": "Navegador"
+	},
+	{
 		"or": "Call vote",
 		"tr": "Votar"
 	},
@@ -201,10 +205,6 @@
 	{
 		"or": "Close",
 		"tr": "Pechar"
-	},
-	{
-		"or": "Color",
-		"tr": "Color"
 	},
 	{
 		"or": "Compatible version",
@@ -269,10 +269,6 @@
 	{
 		"or": "Delete skin",
 		"tr": "Borrar skin"
-	},
-	{
-		"or": "Demo",
-		"tr": "Demo"
 	},
 	{
 		"or": "Demo details",

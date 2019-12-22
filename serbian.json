@@ -10,6 +10,10 @@
 },
 "translated strings": [
 	{
+		"or": " (%s seconds faster)",
+		"tr": " (%s sekundi brže)"
+	},
+	{
 		"or": "%.3f KiB",
 		"tr": "%.3f KiB"
 	},
@@ -70,6 +74,10 @@
 		"tr": "%i sekundi preostalo"
 	},
 	{
+		"or": "%s is muted by you",
+		"tr": "%s je utišan od tebe"
+	},
+	{
 		"or": "%s wins!",
 		"tr": "%s je pobedio!"
 	},
@@ -102,12 +110,20 @@
 		"tr": "'%s' je ušao i pridružio se posmatračima"
 	},
 	{
+		"or": "'%s' finished in: %s",
+		"tr": "'%s' završio za: %s"
+	},
+	{
 		"or": "'%s' has left the game",
 		"tr": "'%s' je napustio igru"
 	},
 	{
 		"or": "'%s' has left the game (%s)",
 		"tr": "'%s' je napustio igru (%s)"
+	},
+	{
+		"or": "'%s' has set a new record: %s",
+		"tr": "'%s' je postavio novi rekord: %s"
 	},
 	{
 		"or": "'%s' initiated a pause",
@@ -148,6 +164,10 @@
 	{
 		"or": "-Page %d-",
 		"tr": "-Strana %d-"
+	},
+	{
+		"or": "-Page %d/%d-",
+		"tr": "-Strana %d/%d-"
 	},
 	{
 		"or": "Abort",
@@ -192,6 +212,10 @@
 	{
 		"or": "Admin moved '%s' to spectator (%s)",
 		"tr": "Admin je premestio '%s' u posmatrače (%s)"
+	},
+	{
+		"or": "Aim bind",
+		"tr": "Nišan dugme"
 	},
 	{
 		"or": "All",
@@ -274,12 +298,20 @@
 		"tr": "Osnovno"
 	},
 	{
+		"or": "Best spree",
+		"tr": "Najbolji niz"
+	},
+	{
 		"or": "Blue team",
 		"tr": "Plavi tim"
 	},
 	{
 		"or": "Borderless window",
 		"tr": "Prozor bez okvira"
+	},
+	{
+		"or": "Browser",
+		"tr": "Pretraživač"
 	},
 	{
 		"or": "Call vote",
@@ -320,10 +352,6 @@
 		"tr": "Zatvori"
 	},
 	{
-		"or": "Color",
-		"tr": "Boja"
-	},
-	{
 		"or": "Compatible version",
 		"tr": "Kompatibilna verzija"
 	},
@@ -331,6 +359,10 @@
 		"context": "Server difficulty",
 		"or": "Competitive",
 		"tr": "Takmičarski"
+	},
+	{
+		"or": "Configure statboard",
+		"tr": "Podesi tablu statistike"
 	},
 	{
 		"or": "Connect",
@@ -373,6 +405,10 @@
 		"tr": "Napravljen"
 	},
 	{
+		"or": "Current spree",
+		"tr": "Trenutan niz"
+	},
+	{
 		"or": "Current: %dx%d (%d:%d)",
 		"tr": "Trenutno: %dx%d (%d:%d)"
 	},
@@ -389,6 +425,10 @@
 		"tr": "Prilagodi"
 	},
 	{
+		"or": "Deaths",
+		"tr": "Smrti"
+	},
+	{
 		"or": "Delete",
 		"tr": "Izbriši"
 	},
@@ -399,10 +439,6 @@
 	{
 		"or": "Delete skin",
 		"tr": "Izbriši skin"
-	},
-	{
-		"or": "Demo",
-		"tr": "Demo"
 	},
 	{
 		"or": "Demo details",
@@ -419,6 +455,10 @@
 	{
 		"or": "Detail",
 		"tr": "Detalj"
+	},
+	{
+		"or": "Device",
+		"tr": "Uređjaj"
 	},
 	{
 		"or": "Difficulty",
@@ -461,6 +501,10 @@
 		"tr": "Omogućiti obojene server difuzne poruke"
 	},
 	{
+		"or": "Enable joystick",
+		"tr": "Omogući džojstik"
+	},
+	{
 		"or": "Enter",
 		"tr": "Započni"
 	},
@@ -471,6 +515,10 @@
 	{
 		"or": "Error loading demo",
 		"tr": "Greška prilikom učitavanja demo-snimka"
+	},
+	{
+		"or": "FPM",
+		"tr": "UPM"
 	},
 	{
 		"or": "Favorite",
@@ -485,12 +533,28 @@
 		"tr": "Pucaj"
 	},
 	{
+		"or": "Flag captures",
+		"tr": "Osvojenje zastave"
+	},
+	{
+		"or": "Flag grabs",
+		"tr": "Uhvaćene zastave"
+	},
+	{
 		"or": "Folder",
 		"tr": "Folder"
 	},
 	{
 		"or": "Force vote",
 		"tr": "Forsiraj glas"
+	},
+	{
+		"or": "Frags",
+		"tr": "Ubistva"
+	},
+	{
+		"or": "Frags per minute",
+		"tr": "Ubistva u minutu"
 	},
 	{
 		"or": "Free-View",
@@ -543,6 +607,11 @@
 	{
 		"or": "Global",
 		"tr": "Globalno"
+	},
+	{
+		"context": "Flag grabs",
+		"or": "Grabs",
+		"tr": "Uhvaćene"
 	},
 	{
 		"or": "Graphics",
@@ -618,6 +687,22 @@
 		"tr": "Pridružen crvenim"
 	},
 	{
+		"or": "Joystick",
+		"tr": "Džojstik"
+	},
+	{
+		"or": "Joystick Axis #%d",
+		"tr": "Džojstik osovina #%d"
+	},
+	{
+		"or": "Joystick jitter tolerance",
+		"tr": "Tolerancija podrhtavanja džojstik-a"
+	},
+	{
+		"or": "Joystick sens.",
+		"tr": "Osetljivost džojstik-a"
+	},
+	{
 		"or": "Jump",
 		"tr": "Skok"
 	},
@@ -674,6 +759,14 @@
 		"tr": "Mapa"
 	},
 	{
+		"or": "Map changed to '%s'",
+		"tr": "Mapa je promenjena u '%s'"
+	},
+	{
+		"or": "Map record",
+		"tr": "Rekord mape"
+	},
+	{
 		"or": "Map:",
 		"tr": "Mapa:"
 	},
@@ -699,12 +792,20 @@
 		"tr": "Maksimalan ping:"
 	},
 	{
+		"or": "Menu background transparency",
+		"tr": "Transparentnost pozadine menija"
+	},
+	{
 		"or": "Menu mouse sens.",
 		"tr": "Osetljivost miša u meniju."
 	},
 	{
 		"or": "Misc",
 		"tr": "Razno"
+	},
+	{
+		"or": "Mouse",
+		"tr": "Miš"
 	},
 	{
 		"or": "Move left",
@@ -735,6 +836,15 @@
 		"tr": "Ime"
 	},
 	{
+		"context": "Net score",
+		"or": "Net",
+		"tr": "Neto"
+	},
+	{
+		"or": "Net score",
+		"tr": "Neto rezultat"
+	},
+	{
 		"or": "Netversion",
 		"tr": "Netverzija"
 	},
@@ -762,6 +872,10 @@
 		"context": "Without/None",
 		"or": "No",
 		"tr": "Ne"
+	},
+	{
+		"or": "No joysticks found. Plug in a joystick and restart the game.",
+		"tr": "Nisu pronađjene džojstike. Uključite džojstik i ponovo pokrenite igru."
 	},
 	{
 		"or": "No password",
@@ -876,8 +990,16 @@
 		"tr": "Molimo uravnotežite timove!"
 	},
 	{
+		"or": "Press %s to resume chatting",
+		"tr": "Pritisnite %s da biste nastavili ćaskanje"
+	},
+	{
 		"or": "Press Enter to confirm or Esc to cancel",
 		"tr": "Pritisnite Enter za potvrdu ili Esc za otkaz"
+	},
+	{
+		"or": "Press Tab to cycle chat recipients",
+		"tr": "Pritisnite Tab da biste prebacili korisnike na chat-u"
 	},
 	{
 		"or": "Prev. weapon",
@@ -894,6 +1016,10 @@
 	{
 		"or": "REC %3d:%02d",
 		"tr": "REC %3d:%02d"
+	},
+	{
+		"or": "Ratio",
+		"tr": "Razmera"
 	},
 	{
 		"or": "Ready",
@@ -1006,6 +1132,10 @@
 	{
 		"or": "Screen",
 		"tr": "Ekran"
+	},
+	{
+		"or": "Screen:",
+		"tr": "Ekran:"
 	},
 	{
 		"or": "Screenshot",
@@ -1140,6 +1270,10 @@
 		"tr": "Posmatračima nije dozvoljeno da pokreću glasanje."
 	},
 	{
+		"or": "Spree",
+		"tr": "Niz"
+	},
+	{
 		"or": "Standard gametype",
 		"tr": "Standardni tip igre"
 	},
@@ -1148,12 +1282,24 @@
 		"tr": "Standardna mapa"
 	},
 	{
+		"or": "Statboard",
+		"tr": "Tabla statistike"
+	},
+	{
+		"or": "Status",
+		"tr": "Stanje"
+	},
+	{
 		"or": "Stop record",
 		"tr": "Prekini snimanje"
 	},
 	{
 		"or": "Sudden Death",
 		"tr": "Iznenadna smrt"
+	},
+	{
+		"or": "Suicides",
+		"tr": "Samoubistva"
 	},
 	{
 		"or": "Switch weapon on pickup",
@@ -1180,8 +1326,20 @@
 		"tr": "Timovi su zaključani. Sačekajte %02d:%02d pre promene tima"
 	},
 	{
+		"or": "Teams have been balanced",
+		"tr": "Timovi su bili uravnoteženi"
+	},
+	{
 		"or": "Teams were locked",
 		"tr": "Timovi su bili zaključani"
+	},
+	{
+		"or": "Teams were shuffled",
+		"tr": "Timovi su bili pomešani"
+	},
+	{
+		"or": "Teams were swapped",
+		"tr": "Timovi su bili razmenjeni"
 	},
 	{
 		"or": "Teams were unlocked",
@@ -1236,12 +1394,24 @@
 		"tr": "Mapa u editoru nije zapamćena, možda želite da je zapamtite pre izlaska iz igre."
 	},
 	{
+		"or": "Time",
+		"tr": "Vreme"
+	},
+	{
 		"or": "Time limit",
 		"tr": "Max. vremena"
 	},
 	{
 		"or": "Time limit: %d min",
 		"tr": "Vremensko ograničenje: %d min."
+	},
+	{
+		"or": "Toggle dynamic camera",
+		"tr": "Prebaci dinamičnu kameru"
+	},
+	{
+		"or": "Toggle sounds",
+		"tr": "Prebaci zvuk"
 	},
 	{
 		"or": "Try again",
@@ -1345,6 +1515,10 @@
 		"tr": "Oružje"
 	},
 	{
+		"or": "Weapons stats",
+		"tr": "Statistika oružja"
+	},
+	{
 		"or": "Welcome to Teeworlds",
 		"tr": "Dobrodošli u Teeworlds"
 	},
@@ -1355,6 +1529,14 @@
 	{
 		"or": "Whisper",
 		"tr": "Šapat"
+	},
+	{
+		"or": "X",
+		"tr": "X"
+	},
+	{
+		"or": "Y",
+		"tr": "Y"
 	},
 	{
 		"or": "Yes",
@@ -1386,16 +1568,8 @@
 		"tr": "Pomereni ste u plavi tim usled balansiranja timova"
 	},
 	{
-		"or": "You were moved to the game due to team balancing",
-		"tr": "Prebačeni ste u igru usled balansiranja timova"
-	},
-	{
 		"or": "You were moved to the red team due to team balancing",
 		"tr": "Prebačeni ste u crveni tim usled balansiranja timova"
-	},
-	{
-		"or": "You were moved to the spectators due to team balancing",
-		"tr": "Pomereni ste u posmatrače usled balansiranja timova"
 	},
 	{
 		"or": "blue flag",

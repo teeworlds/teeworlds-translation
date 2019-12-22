@@ -280,6 +280,10 @@
 		"tr": "Beribis langas"
 	},
 	{
+		"or": "Browser",
+		"tr": "Naršyklė"
+	},
+	{
 		"or": "Call vote",
 		"tr": "Kviesti balsuoti"
 	},
@@ -316,10 +320,6 @@
 	{
 		"or": "Close",
 		"tr": "Uždaryti"
-	},
-	{
-		"or": "Color",
-		"tr": "Spalva"
 	},
 	{
 		"or": "Compatible version",
@@ -397,10 +397,6 @@
 	{
 		"or": "Delete skin",
 		"tr": "Ištrinti avatarą"
-	},
-	{
-		"or": "Demo",
-		"tr": "Demo"
 	},
 	{
 		"or": "Demo details",
@@ -1384,16 +1380,8 @@
 		"tr": "Jūs buvote perkelti į mėlyną komandą dėl komandos balansavimo"
 	},
 	{
-		"or": "You were moved to the game due to team balancing",
-		"tr": "Jūs buvote perkelti į žaidimą dėl komandos balansavimo"
-	},
-	{
 		"or": "You were moved to the red team due to team balancing",
 		"tr": "Jūs buvote perkelti į raudoną komandą dėl komandos balansavimo"
-	},
-	{
-		"or": "You were moved to the spectators due to team balancing",
-		"tr": "Jūs buvote perkelti į žiūrovus dėl komandos balansavimo"
 	},
 	{
 		"or": "blue flag",

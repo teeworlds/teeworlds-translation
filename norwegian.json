@@ -11,6 +11,10 @@
 },
 "translated strings": [
 	{
+		"or": " (%s seconds faster)",
+		"tr": " (%s sekunder raskere)"
+	},
+	{
 		"or": "%.3f KiB",
 		"tr": "%.3f KiB"
 	},
@@ -71,6 +75,10 @@
 		"tr": "%i sekunder igjen"
 	},
 	{
+		"or": "%s is muted by you",
+		"tr": "%s er dempet av deg"
+	},
+	{
 		"or": "%s wins!",
 		"tr": "%s vant!"
 	},
@@ -80,7 +88,7 @@
 	},
 	{
 		"or": "'%s' called for vote to move '%s' to spectators (%s)",
-		"tr": "'%s' stemte for å flytte '%s' til tilskuere (%s)"
+		"tr": "'%s' stemte for å gjøre '%s' til tilskuer (%s)"
 	},
 	{
 		"or": "'%s' called vote to change server option '%s' (%s)",
@@ -88,7 +96,7 @@
 	},
 	{
 		"or": "'%s' entered and joined the blue team",
-		"tr": "'%s' ble med det blå laget"
+		"tr": "'%s' ble med i spillet som blått lag"
 	},
 	{
 		"or": "'%s' entered and joined the game",
@@ -96,11 +104,15 @@
 	},
 	{
 		"or": "'%s' entered and joined the red team",
-		"tr": "'%s' ble med spillet som rødt lag"
+		"tr": "'%s' ble med i spillet som rødt lag"
 	},
 	{
 		"or": "'%s' entered and joined the spectators",
-		"tr": "'%s' ble med i spillet som spectator"
+		"tr": "'%s' ble med i spillet som tilskuer"
+	},
+	{
+		"or": "'%s' finished in: %s",
+		"tr": "'%s' fullførte på %s"
 	},
 	{
 		"or": "'%s' has left the game",
@@ -109,6 +121,10 @@
 	{
 		"or": "'%s' has left the game (%s)",
 		"tr": "'%s' har forlatt kampen (%s)"
+	},
+	{
+		"or": "'%s' has set a new record: %s",
+		"tr": "'%s' har satt en ny rekord: %s"
 	},
 	{
 		"or": "'%s' initiated a pause",
@@ -128,7 +144,7 @@
 	},
 	{
 		"or": "'%s' joined the spectators",
-		"tr": "'%s' ble med spectatorene"
+		"tr": "'%s' ble tilskuer"
 	},
 	{
 		"or": "'%s' was added as a friend",
@@ -151,6 +167,10 @@
 		"tr": "-Side %d-"
 	},
 	{
+		"or": "-Page %d/%d-",
+		"tr": "-Side %d/%d-"
+	},
+	{
 		"or": "Abort",
 		"tr": "Avbryt"
 	},
@@ -160,7 +180,7 @@
 	},
 	{
 		"or": "Add clan",
-		"tr": "Legg til clan"
+		"tr": "Legg til klan"
 	},
 	{
 		"or": "Add demo marker",
@@ -172,7 +192,7 @@
 	},
 	{
 		"or": "Add friend/clan",
-		"tr": "Legg til venn/clan"
+		"tr": "Legg til venn/klan"
 	},
 	{
 		"or": "Address",
@@ -192,7 +212,11 @@
 	},
 	{
 		"or": "Admin moved '%s' to spectator (%s)",
-		"tr": "Adminen flyttet '%s' til tilskuere (%s)"
+		"tr": "Admin gjorde '%s' til tilskuer (%s)"
+	},
+	{
+		"or": "Aim bind",
+		"tr": "Aim bind"
 	},
 	{
 		"or": "All",
@@ -212,7 +236,7 @@
 	},
 	{
 		"or": "All players were moved to the spectators",
-		"tr": "Alle spillere ble flyttet til spectatore"
+		"tr": "Alle spillere ble gjort til tilskuere"
 	},
 	{
 		"or": "Alp:",
@@ -240,7 +264,7 @@
 	},
 	{
 		"or": "Are you sure that you want to remove the filter from the server browser?",
-		"tr": "Er du sikker på at du vil fjerne filteret fra server listen?"
+		"tr": "Er du sikker på at du vil fjerne filteret fra serverlisten?"
 	},
 	{
 		"or": "Are you sure that you want to remove the player from your friends list?",
@@ -275,6 +299,10 @@
 		"tr": "Grunnleggende"
 	},
 	{
+		"or": "Best spree",
+		"tr": "Beste spree"
+	},
+	{
 		"or": "Blue team",
 		"tr": "Blått lag"
 	},
@@ -283,13 +311,17 @@
 		"tr": "Kantløst vindu"
 	},
 	{
+		"or": "Browser",
+		"tr": "Leser"
+	},
+	{
 		"or": "Call vote",
 		"tr": "Stem"
 	},
 	{
 		"context": "Server difficulty",
 		"or": "Casual",
-		"tr": "Normal"
+		"tr": "Casual"
 	},
 	{
 		"or": "Change settings",
@@ -321,10 +353,6 @@
 		"tr": "Lukk"
 	},
 	{
-		"or": "Color",
-		"tr": "Farge"
-	},
-	{
 		"or": "Compatible version",
 		"tr": "Kompitabel versjon"
 	},
@@ -332,6 +360,10 @@
 		"context": "Server difficulty",
 		"or": "Competitive",
 		"tr": "Competitive"
+	},
+	{
+		"or": "Configure statboard",
+		"tr": "Konfigurer statistikkvindu"
 	},
 	{
 		"or": "Connect",
@@ -374,6 +406,10 @@
 		"tr": "Opprettet"
 	},
 	{
+		"or": "Current spree",
+		"tr": "Nåværende spree"
+	},
+	{
 		"or": "Current: %dx%d (%d:%d)",
 		"tr": "valgt %dx%d (%d:%d)"
 	},
@@ -390,6 +426,10 @@
 		"tr": "Tilpass"
 	},
 	{
+		"or": "Deaths",
+		"tr": "Død"
+	},
+	{
 		"or": "Delete",
 		"tr": "Slett"
 	},
@@ -400,10 +440,6 @@
 	{
 		"or": "Delete skin",
 		"tr": "Slett utseende"
-	},
-	{
-		"or": "Demo",
-		"tr": "Demo"
 	},
 	{
 		"or": "Demo details",
@@ -420,6 +456,10 @@
 	{
 		"or": "Detail",
 		"tr": "Detalj"
+	},
+	{
+		"or": "Device",
+		"tr": "Enhet"
 	},
 	{
 		"or": "Difficulty",
@@ -462,6 +502,10 @@
 		"tr": "Aktiver fargede server meldinger"
 	},
 	{
+		"or": "Enable joystick",
+		"tr": "Aktiver joystick"
+	},
+	{
 		"or": "Enter",
 		"tr": "Enter"
 	},
@@ -472,6 +516,10 @@
 	{
 		"or": "Error loading demo",
 		"tr": "Kunne ikke laste inn demo"
+	},
+	{
+		"or": "FPM",
+		"tr": "FPM"
 	},
 	{
 		"or": "Favorite",
@@ -486,12 +534,28 @@
 		"tr": "Skyte"
 	},
 	{
+		"or": "Flag captures",
+		"tr": "Flaggleveringer"
+	},
+	{
+		"or": "Flag grabs",
+		"tr": "Flaggkapringer"
+	},
+	{
 		"or": "Folder",
 		"tr": "Mappe"
 	},
 	{
 		"or": "Force vote",
 		"tr": "Tving stemme"
+	},
+	{
+		"or": "Frags",
+		"tr": "Frags"
+	},
+	{
+		"or": "Frags per minute",
+		"tr": "Frags per minutt"
 	},
 	{
 		"or": "Free-View",
@@ -531,7 +595,7 @@
 	},
 	{
 		"or": "Game type:",
-		"tr": "Spill type:"
+		"tr": "Spilltype:"
 	},
 	{
 		"or": "Game types:",
@@ -544,6 +608,11 @@
 	{
 		"or": "Global",
 		"tr": "Global"
+	},
+	{
+		"context": "Flag grabs",
+		"or": "Grabs",
+		"tr": "Kapringer"
 	},
 	{
 		"or": "Graphics",
@@ -563,7 +632,7 @@
 	},
 	{
 		"or": "Hide bots",
-		"tr": "fjern bots"
+		"tr": "Uten bots"
 	},
 	{
 		"or": "High Detail",
@@ -575,7 +644,7 @@
 	},
 	{
 		"or": "Host address:",
-		"tr": "Host adresse:"
+		"tr": "Vertadresse:"
 	},
 	{
 		"or": "Hue:",
@@ -583,7 +652,7 @@
 	},
 	{
 		"or": "Ingame mouse sens.",
-		"tr": "Ingame mus sensitivitet"
+		"tr": "Ingame musesensitivitet"
 	},
 	{
 		"or": "Invalid Demo",
@@ -617,6 +686,22 @@
 	{
 		"or": "Joined red",
 		"tr": "Ble med rødt"
+	},
+	{
+		"or": "Joystick",
+		"tr": "Joystick"
+	},
+	{
+		"or": "Joystick Axis #%d",
+		"tr": "Joystick Akse #%d"
+	},
+	{
+		"or": "Joystick jitter tolerance",
+		"tr": "Joystick jitter-toleranse"
+	},
+	{
+		"or": "Joystick sens.",
+		"tr": "Joystick sens."
 	},
 	{
 		"or": "Jump",
@@ -675,12 +760,20 @@
 		"tr": "Bane"
 	},
 	{
+		"or": "Map changed to '%s'",
+		"tr": "Bane endret til '%s'"
+	},
+	{
+		"or": "Map record",
+		"tr": "Bane opptak"
+	},
+	{
 		"or": "Map:",
 		"tr": "Kart:"
 	},
 	{
 		"or": "Markers",
-		"tr": "Markører"
+		"tr": "Markeringer"
 	},
 	{
 		"context": "rounds (scoreboard)",
@@ -700,12 +793,20 @@
 		"tr": "Maks ping:"
 	},
 	{
+		"or": "Menu background transparency",
+		"tr": "Gjennomsiktighet på menybakrunn"
+	},
+	{
 		"or": "Menu mouse sens.",
-		"tr": "Muse sensitivitet i menyen"
+		"tr": "Musesensitivitet i menyer"
 	},
 	{
 		"or": "Misc",
 		"tr": "Diverse"
+	},
+	{
+		"or": "Mouse",
+		"tr": "Mus"
 	},
 	{
 		"or": "Move left",
@@ -725,7 +826,7 @@
 	},
 	{
 		"or": "Mute broadcasts",
-		"tr": "Mute server meldinger"
+		"tr": "Mute servermeldinger"
 	},
 	{
 		"or": "Mute when not active",
@@ -734,6 +835,15 @@
 	{
 		"or": "Name",
 		"tr": "Navn"
+	},
+	{
+		"context": "Net score",
+		"or": "Net",
+		"tr": "Total"
+	},
+	{
+		"or": "Net score",
+		"tr": "Total poengsum"
 	},
 	{
 		"or": "Netversion",
@@ -765,8 +875,12 @@
 		"tr": "Nei"
 	},
 	{
+		"or": "No joysticks found. Plug in a joystick and restart the game.",
+		"tr": "Ingen joystick funnet. Koble til en joystick og restart spillet."
+	},
+	{
 		"or": "No password",
-		"tr": "Ingen passord"
+		"tr": "Uten passord"
 	},
 	{
 		"or": "No servers found",
@@ -774,7 +888,7 @@
 	},
 	{
 		"or": "No servers match your filter criteria",
-		"tr": "Ingen servere tilsvarer dine filter kriterier"
+		"tr": "Ingen servere tilsvarer filteret ditt"
 	},
 	{
 		"context": "Server difficulty",
@@ -796,11 +910,11 @@
 	},
 	{
 		"or": "Online clanmates (%d)",
-		"tr": "Online clan-venner (%d)"
+		"tr": "Online klan-venner (%d)"
 	},
 	{
 		"or": "Online players (%d)",
-		"tr": "Online Spillere (%d)"
+		"tr": "Online spillere (%d)"
 	},
 	{
 		"or": "Only %d active players are allowed",
@@ -812,7 +926,7 @@
 	},
 	{
 		"or": "Option",
-		"tr": "valg"
+		"tr": "Valg"
 	},
 	{
 		"or": "Other",
@@ -877,8 +991,16 @@
 		"tr": "Vennligst balanser lagene!"
 	},
 	{
+		"or": "Press %s to resume chatting",
+		"tr": "Trykk %s for å fortsette å chatte"
+	},
+	{
 		"or": "Press Enter to confirm or Esc to cancel",
-		"tr": "Trykk Enter for og bekrefte eller Esc for og avbryte"
+		"tr": "Trykk Enter for å bekrefte eller Esc for å avbryte"
+	},
+	{
+		"or": "Press Tab to cycle chat recipients",
+		"tr": "Trykk Tab for å bla gjennom chat-mottakere"
 	},
 	{
 		"or": "Prev. weapon",
@@ -895,6 +1017,10 @@
 	{
 		"or": "REC %3d:%02d",
 		"tr": "REC %3d:%02d"
+	},
+	{
+		"or": "Ratio",
+		"tr": "Ratio"
 	},
 	{
 		"or": "Ready",
@@ -926,7 +1052,7 @@
 	},
 	{
 		"or": "Refreshing master servers",
-		"tr": "Oppdaterer master servere"
+		"tr": "Oppdaterer masterservere"
 	},
 	{
 		"or": "Remote console",
@@ -1009,6 +1135,10 @@
 		"tr": "Skjerm"
 	},
 	{
+		"or": "Screen:",
+		"tr": "Skjerm:"
+	},
+	{
 		"or": "Screenshot",
 		"tr": "Skjermbilde"
 	},
@@ -1034,7 +1164,7 @@
 	},
 	{
 		"or": "Server does not allow voting to move players to spectators",
-		"tr": "Serveren tillater ikke avstemning for å sende spillere til tilskuere."
+		"tr": "Serveren tillater ikke avstemning for å gjøre spillere til tilskuere."
 	},
 	{
 		"or": "Server filter",
@@ -1130,7 +1260,7 @@
 	},
 	{
 		"or": "Spectator mode",
-		"tr": "Tilskuer modus"
+		"tr": "Tilskuermodus"
 	},
 	{
 		"or": "Spectators",
@@ -1141,6 +1271,10 @@
 		"tr": "Tilskuere har ikke lov til å starte en avstemning."
 	},
 	{
+		"or": "Spree",
+		"tr": "Spree"
+	},
+	{
 		"or": "Standard gametype",
 		"tr": "Standard spilletype"
 	},
@@ -1149,12 +1283,24 @@
 		"tr": "Standard bane"
 	},
 	{
+		"or": "Statboard",
+		"tr": "Statistikkvindu"
+	},
+	{
+		"or": "Status",
+		"tr": "Status"
+	},
+	{
 		"or": "Stop record",
 		"tr": "Stopp opptak"
 	},
 	{
 		"or": "Sudden Death",
 		"tr": "Sudden Death"
+	},
+	{
+		"or": "Suicides",
+		"tr": "Selvmord"
 	},
 	{
 		"or": "Switch weapon on pickup",
@@ -1181,8 +1327,20 @@
 		"tr": "Lagene er låst. Tid å vente før du bytter lag: %02d:%02d"
 	},
 	{
+		"or": "Teams have been balanced",
+		"tr": "Lagene ble balansert"
+	},
+	{
 		"or": "Teams were locked",
 		"tr": "Lagene ble låst"
+	},
+	{
+		"or": "Teams were shuffled",
+		"tr": "Lagene ble stokket om"
+	},
+	{
+		"or": "Teams were swapped",
+		"tr": "Lagene ble byttet"
 	},
 	{
 		"or": "Teams were unlocked",
@@ -1210,19 +1368,19 @@
 	},
 	{
 		"or": "The blue flag was captured by '%s'",
-		"tr": "Det blåe flagget ble scoret  av '%s'"
+		"tr": "Det blå flagget ble levert av '%s'"
 	},
 	{
 		"or": "The blue flag was captured by '%s' (%.2f seconds)",
-		"tr": "Det blå flagget ble scoret av ''%s (%.2f sekunder)"
+		"tr": "Det blå flagget ble levert av ''%s (%.2f sekunder)"
 	},
 	{
 		"or": "The red flag was captured by '%s'",
-		"tr": "Det røde flagget ble scoret av '%s'"
+		"tr": "Det røde flagget ble levert av '%s'"
 	},
 	{
 		"or": "The red flag was captured by '%s' (%.2f seconds)",
-		"tr": "Det røde flagget ble scoret av '%s' (%.2f sekunder)"
+		"tr": "Det røde flagget ble levert av '%s' (%.2f sekunder)"
 	},
 	{
 		"or": "The server is running a non-standard tuning on a pure game type.",
@@ -1237,12 +1395,24 @@
 		"tr": "Det er en ulagret bane i editoren, du vil kanskje lagre den før du avslutter."
 	},
 	{
+		"or": "Time",
+		"tr": "Tid"
+	},
+	{
 		"or": "Time limit",
 		"tr": "Tidsbegrensning"
 	},
 	{
 		"or": "Time limit: %d min",
 		"tr": "Tidsgrense: %d min"
+	},
+	{
+		"or": "Toggle dynamic camera",
+		"tr": "Dynamisk kamera av/på"
+	},
+	{
+		"or": "Toggle sounds",
+		"tr": "Lyd av/på"
 	},
 	{
 		"or": "Try again",
@@ -1266,7 +1436,7 @@
 	},
 	{
 		"or": "Use OS mouse acceleration",
-		"tr": "Maskinens mus akselerasjon"
+		"tr": "Bruk OS'ets musakselerasjon"
 	},
 	{
 		"or": "Use sounds",
@@ -1346,6 +1516,10 @@
 		"tr": "Våpen"
 	},
 	{
+		"or": "Weapons stats",
+		"tr": "Våpenstatistikk"
+	},
+	{
 		"or": "Welcome to Teeworlds",
 		"tr": "Velkommen til Teeworlds"
 	},
@@ -1356,6 +1530,14 @@
 	{
 		"or": "Whisper",
 		"tr": "Hviske"
+	},
+	{
+		"or": "X",
+		"tr": "X"
+	},
+	{
+		"or": "Y",
+		"tr": "Y"
 	},
 	{
 		"or": "Yes",
@@ -1384,19 +1566,11 @@
 	},
 	{
 		"or": "You were moved to the blue team due to team balancing",
-		"tr": "Du ble flyttet til blått lag grunnet lag balansering"
-	},
-	{
-		"or": "You were moved to the game due to team balancing",
-		"tr": "Du ble flyttet til spillet grunnet lag balansering"
+		"tr": "Du ble flyttet til blått lag grunnet lagbalansering"
 	},
 	{
 		"or": "You were moved to the red team due to team balancing",
-		"tr": "Du ble flyttet til rødt lag grunnet lag balansering"
-	},
-	{
-		"or": "You were moved to the spectators due to team balancing",
-		"tr": "Du ble flyttet til spectator grunnet lag balansering"
+		"tr": "Du ble flyttet til rødt lag grunnet lagbalansering"
 	},
 	{
 		"or": "blue flag",

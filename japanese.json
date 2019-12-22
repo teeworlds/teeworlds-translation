@@ -139,6 +139,10 @@
 		"tr": "ボーダレスウィンドウ"
 	},
 	{
+		"or": "Browser",
+		"tr": "ブラウザー"
+	},
+	{
 		"or": "Call vote",
 		"tr": "投票を開始する"
 	},
@@ -161,10 +165,6 @@
 	{
 		"or": "Close",
 		"tr": "閉じる"
-	},
-	{
-		"or": "Color",
-		"tr": "カラー"
 	},
 	{
 		"or": "Compatible version",
@@ -225,10 +225,6 @@
 	{
 		"or": "Delete skin",
 		"tr": "スキンを削除"
-	},
-	{
-		"or": "Demo",
-		"tr": "デモ"
 	},
 	{
 		"or": "Demo details",

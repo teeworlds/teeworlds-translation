@@ -25,6 +25,10 @@
 },
 "translated strings": [
 	{
+		"or": " (%s seconds faster)",
+		"tr": " (%s seconden sneller)"
+	},
+	{
 		"or": "%.3f KiB",
 		"tr": "%.3f KiB"
 	},
@@ -85,6 +89,10 @@
 		"tr": "nog %i seconden"
 	},
 	{
+		"or": "%s is muted by you",
+		"tr": "'%s' is gedempt door jou"
+	},
+	{
 		"or": "%s wins!",
 		"tr": "%s heeft gewonnen!"
 	},
@@ -117,12 +125,20 @@
 		"tr": "'%s' is binnengekomen en aangesloten bij de toeschouwers"
 	},
 	{
+		"or": "'%s' finished in: %s",
+		"tr": "'%s' finishte in %s"
+	},
+	{
 		"or": "'%s' has left the game",
 		"tr": "'%s' heeft het spel verlaten"
 	},
 	{
 		"or": "'%s' has left the game (%s)",
 		"tr": "'%s' heeft het spel verlaten (%s)"
+	},
+	{
+		"or": "'%s' has set a new record: %s",
+		"tr": "'%s' heeft een nieuw record neergezet: %s"
 	},
 	{
 		"or": "'%s' initiated a pause",
@@ -163,6 +179,10 @@
 	{
 		"or": "-Page %d-",
 		"tr": "-Pagina %d-"
+	},
+	{
+		"or": "-Page %d/%d-",
+		"tr": "-Pagina %d/%d-"
 	},
 	{
 		"or": "Abort",
@@ -209,12 +229,16 @@
 		"tr": "Admin heeft '%s' verplaatst naar de toeschouwers (%s)"
 	},
 	{
+		"or": "Aim bind",
+		"tr": "Richtbinding"
+	},
+	{
 		"or": "All",
 		"tr": "Alle"
 	},
 	{
 		"or": "All players were moved to the blue team",
-		"tr": "Alle spelers zijn verhuisd nar het blauwe team"
+		"tr": "Alle spelers zijn verhuisd naar het blauwe team"
 	},
 	{
 		"or": "All players were moved to the game",
@@ -222,11 +246,11 @@
 	},
 	{
 		"or": "All players were moved to the red team",
-		"tr": "Alle spelers zijn verhuist naar het rode team"
+		"tr": "Alle spelers zijn verhuisd naar het rode team"
 	},
 	{
 		"or": "All players were moved to the spectators",
-		"tr": "Alle spelers zijn overgezet naar de toeschouwers"
+		"tr": "Alle spelers zijn verplaatst naar de toeschouwers"
 	},
 	{
 		"or": "Alp:",
@@ -289,12 +313,20 @@
 		"tr": "Basis"
 	},
 	{
+		"or": "Best spree",
+		"tr": "Beste moordaanslag"
+	},
+	{
 		"or": "Blue team",
 		"tr": "Blauwe team"
 	},
 	{
 		"or": "Borderless window",
 		"tr": "Naadloos venster"
+	},
+	{
+		"or": "Browser",
+		"tr": "Zoeker"
 	},
 	{
 		"or": "Call vote",
@@ -335,10 +367,6 @@
 		"tr": "Sluiten"
 	},
 	{
-		"or": "Color",
-		"tr": "Kleur"
-	},
-	{
 		"or": "Compatible version",
 		"tr": "Compatibele versie"
 	},
@@ -346,6 +374,10 @@
 		"context": "Server difficulty",
 		"or": "Competitive",
 		"tr": "Wedstrijdverband"
+	},
+	{
+		"or": "Configure statboard",
+		"tr": "Statistiekpagina instellen"
 	},
 	{
 		"or": "Connect",
@@ -388,6 +420,10 @@
 		"tr": "Gecreëerd"
 	},
 	{
+		"or": "Current spree",
+		"tr": "Huidige moordaanslag"
+	},
+	{
 		"or": "Current: %dx%d (%d:%d)",
 		"tr": "Huidig: %dx%d (%d:%d)"
 	},
@@ -404,6 +440,10 @@
 		"tr": "Aanpassen"
 	},
 	{
+		"or": "Deaths",
+		"tr": "Doden"
+	},
+	{
 		"or": "Delete",
 		"tr": "Verwijderen"
 	},
@@ -414,10 +454,6 @@
 	{
 		"or": "Delete skin",
 		"tr": "Skin verwijderen"
-	},
-	{
-		"or": "Demo",
-		"tr": "Demo"
 	},
 	{
 		"or": "Demo details",
@@ -434,6 +470,10 @@
 	{
 		"or": "Detail",
 		"tr": "Details"
+	},
+	{
+		"or": "Device",
+		"tr": "Apparaat"
 	},
 	{
 		"or": "Difficulty",
@@ -476,6 +516,10 @@
 		"tr": "Gekleurde serveruitzendingen inschakelen"
 	},
 	{
+		"or": "Enable joystick",
+		"tr": "Joystick gebruiken"
+	},
+	{
 		"or": "Enter",
 		"tr": "Starten"
 	},
@@ -486,6 +530,10 @@
 	{
 		"or": "Error loading demo",
 		"tr": "Kan demo niet laden"
+	},
+	{
+		"or": "FPM",
+		"tr": "FPM"
 	},
 	{
 		"or": "Favorite",
@@ -500,12 +548,28 @@
 		"tr": "Schieten"
 	},
 	{
+		"or": "Flag captures",
+		"tr": "Vlagveroveringen"
+	},
+	{
+		"or": "Flag grabs",
+		"tr": "Vlag gepakt"
+	},
+	{
 		"or": "Folder",
 		"tr": "Map"
 	},
 	{
 		"or": "Force vote",
 		"tr": "Stemmen afdwingen"
+	},
+	{
+		"or": "Frags",
+		"tr": "Doden"
+	},
+	{
+		"or": "Frags per minute",
+		"tr": "Doden per minuut"
 	},
 	{
 		"or": "Free-View",
@@ -558,6 +622,11 @@
 	{
 		"or": "Global",
 		"tr": "Algemeen"
+	},
+	{
+		"context": "Flag grabs",
+		"or": "Grabs",
+		"tr": "Gepakt"
 	},
 	{
 		"or": "Graphics",
@@ -633,6 +702,18 @@
 		"tr": "Aangesloten bij het rode team"
 	},
 	{
+		"or": "Joystick",
+		"tr": "Joystick"
+	},
+	{
+		"or": "Joystick Axis #%d",
+		"tr": "Joystick-as #%d"
+	},
+	{
+		"or": "Joystick sens.",
+		"tr": "Joystickgevoeligheid"
+	},
+	{
 		"or": "Jump",
 		"tr": "Springen"
 	},
@@ -689,6 +770,14 @@
 		"tr": "Kaart"
 	},
 	{
+		"or": "Map changed to '%s'",
+		"tr": "Je bevindt je nu op de kaart '%s'"
+	},
+	{
+		"or": "Map record",
+		"tr": "Kaartrecord"
+	},
+	{
 		"or": "Map:",
 		"tr": "Kaart:"
 	},
@@ -714,12 +803,20 @@
 		"tr": "Hoogste ping:"
 	},
 	{
+		"or": "Menu background transparency",
+		"tr": "Doorzichtigheid van menu-achtergrond"
+	},
+	{
 		"or": "Menu mouse sens.",
 		"tr": "Muissnelheid in menu"
 	},
 	{
 		"or": "Misc",
 		"tr": "Overig"
+	},
+	{
+		"or": "Mouse",
+		"tr": "Muis"
 	},
 	{
 		"or": "Move left",
@@ -750,6 +847,15 @@
 		"tr": "Naam"
 	},
 	{
+		"context": "Net score",
+		"or": "Net",
+		"tr": "Net"
+	},
+	{
+		"or": "Net score",
+		"tr": "Net-score"
+	},
+	{
 		"or": "Netversion",
 		"tr": "Netversie"
 	},
@@ -777,6 +883,10 @@
 		"context": "Without/None",
 		"or": "No",
 		"tr": "Nee"
+	},
+	{
+		"or": "No joysticks found. Plug in a joystick and restart the game.",
+		"tr": "Geen joysticks aangetroffen. Koppel een joystick aan en start het spel opnieuw."
 	},
 	{
 		"or": "No password",
@@ -891,8 +1001,16 @@
 		"tr": "Balanceer de teams!"
 	},
 	{
+		"or": "Press %s to resume chatting",
+		"tr": "Druk op %s om weer te chatten"
+	},
+	{
 		"or": "Press Enter to confirm or Esc to cancel",
 		"tr": "Druk op Enter om te bevestigen of Esc om af te breken"
+	},
+	{
+		"or": "Press Tab to cycle chat recipients",
+		"tr": "Druk op Tab om tussen ontvangers te schakelen"
 	},
 	{
 		"or": "Prev. weapon",
@@ -909,6 +1027,10 @@
 	{
 		"or": "REC %3d:%02d",
 		"tr": "REC %3d:%02d"
+	},
+	{
+		"or": "Ratio",
+		"tr": "Verhouding"
 	},
 	{
 		"or": "Ready",
@@ -1021,6 +1143,10 @@
 	{
 		"or": "Screen",
 		"tr": "Scherm"
+	},
+	{
+		"or": "Screen:",
+		"tr": "Scherm:"
 	},
 	{
 		"or": "Screenshot",
@@ -1155,6 +1281,10 @@
 		"tr": "Toeschouwers mogen geen stemming openen."
 	},
 	{
+		"or": "Spree",
+		"tr": "Moordaanslag"
+	},
+	{
 		"or": "Standard gametype",
 		"tr": "Standaard speltype"
 	},
@@ -1163,12 +1293,24 @@
 		"tr": "Standaardkaart"
 	},
 	{
+		"or": "Statboard",
+		"tr": "Statistiekpagina"
+	},
+	{
+		"or": "Status",
+		"tr": "Status"
+	},
+	{
 		"or": "Stop record",
 		"tr": "Opname stoppen"
 	},
 	{
 		"or": "Sudden Death",
 		"tr": "Plotselinge dood"
+	},
+	{
+		"or": "Suicides",
+		"tr": "Zelfdoden"
 	},
 	{
 		"or": "Switch weapon on pickup",
@@ -1195,8 +1337,20 @@
 		"tr": "Teams zijn vastgesteld. Wachttijd voor verandering van team: %02d:%02d"
 	},
 	{
+		"or": "Teams have been balanced",
+		"tr": "De teams zijn gebalanceerd"
+	},
+	{
 		"or": "Teams were locked",
-		"tr": "De teams zijn vastgesteld"
+		"tr": "De teams zijn vastgezet"
+	},
+	{
+		"or": "Teams were shuffled",
+		"tr": "De teams zijn gehusseld"
+	},
+	{
+		"or": "Teams were swapped",
+		"tr": "De teams zijn omgewisseld"
 	},
 	{
 		"or": "Teams were unlocked",
@@ -1251,12 +1405,24 @@
 		"tr": "Er is een niet-opgeslagen kaart in de bewerker. Mogelijk wil je deze opslaan voordat je het spel afsluit."
 	},
 	{
+		"or": "Time",
+		"tr": "Tijd"
+	},
+	{
 		"or": "Time limit",
 		"tr": "Tijdslimiet"
 	},
 	{
 		"or": "Time limit: %d min",
 		"tr": "Tijdslimiet: %d minuten"
+	},
+	{
+		"or": "Toggle dynamic camera",
+		"tr": "Dynamische camera in-/uitschakelen"
+	},
+	{
+		"or": "Toggle sounds",
+		"tr": "Geluiden in-/uitschakelen"
 	},
 	{
 		"or": "Try again",
@@ -1360,6 +1526,10 @@
 		"tr": "Wapen"
 	},
 	{
+		"or": "Weapons stats",
+		"tr": "Wapenstatistieken"
+	},
+	{
 		"or": "Welcome to Teeworlds",
 		"tr": "Welkom bij Teeworlds"
 	},
@@ -1370,6 +1540,14 @@
 	{
 		"or": "Whisper",
 		"tr": "Fluisteren"
+	},
+	{
+		"or": "X",
+		"tr": "X"
+	},
+	{
+		"or": "Y",
+		"tr": "Y"
 	},
 	{
 		"or": "Yes",
@@ -1398,19 +1576,11 @@
 	},
 	{
 		"or": "You were moved to the blue team due to team balancing",
-		"tr": "Je bent overgezet naar het blauwe team vanwege de teambalans"
-	},
-	{
-		"or": "You were moved to the game due to team balancing",
-		"tr": "Je bent overgezet naar het spel vanwege de teambalans"
+		"tr": "Je bent verplaatst naar het blauwe team vanwege de teambalans"
 	},
 	{
 		"or": "You were moved to the red team due to team balancing",
-		"tr": "Je bent overgezet naar het rode team vanwege de teambalans"
-	},
-	{
-		"or": "You were moved to the spectators due to team balancing",
-		"tr": "Je bent overgezet naar de toeschouwers vanwege de teambalans"
+		"tr": "Je bent verplaatst naar het rode team vanwege de teambalans"
 	},
 	{
 		"or": "blue flag",

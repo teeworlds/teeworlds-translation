@@ -8,136 +8,1072 @@
 },
 "translated strings": [
 	{
+		"or": " (%s seconds faster)",
+		"tr": " ( -%s 秒 )"
+	},
+	{
+		"or": "%.3f KiB",
+		"tr": "%.3f KiB"
+	},
+	{
+		"or": "%d other players",
+		"tr": "另有%d名玩家"
+	},
+	{
+		"or": "%d player left",
+		"tr": "還剩%d名玩家"
+	},
+	{
+		"or": "%d player not ready",
+		"tr": "還有%d名玩家未準備"
+	},
+	{
+		"or": "%d players",
+		"tr": "%d名玩家"
+	},
+	{
+		"or": "%d players left",
+		"tr": "還剩%d名玩家"
+	},
+	{
+		"or": "%d players not ready",
+		"tr": "還有%d名玩家未準備"
+	},
+	{
+		"or": "%d servers",
+		"tr": "%d個伺服器"
+	},
+	{
+		"or": "%d servers, %d players",
+		"tr": "%d個伺服器，%d名玩家"
+	},
+	{
+		"or": "%d%% loaded",
+		"tr": "列表載入中 %d%%"
+	},
+	{
+		"or": "%ds left",
+		"tr": "還剩%d秒"
+	},
+	{
+		"or": "%i minute left",
+		"tr": "還剩下%i分鐘"
+	},
+	{
+		"or": "%i minutes left",
+		"tr": "還剩下%i分鐘"
+	},
+	{
+		"or": "%i second left",
+		"tr": "還剩下%i秒鐘"
+	},
+	{
+		"or": "%i seconds left",
+		"tr": "還剩下%i秒鐘"
+	},
+	{
+		"or": "%s is muted by you",
+		"tr": "%s 已被你屏蔽"
+	},
+	{
+		"or": "%s wins!",
+		"tr": "%s勝利!"
+	},
+	{
+		"or": "'%s' called for vote to kick '%s' (%s)",
+		"tr": "'%s' 發起投票想要踢除 '%s' (%s)"
+	},
+	{
+		"or": "'%s' called for vote to move '%s' to spectators (%s)",
+		"tr": "'%s' 發起投票想要將 '%s' 移至旁觀位 (%s)"
+	},
+	{
+		"or": "'%s' called vote to change server option '%s' (%s)",
+		"tr": "'%s' 發起投票想要改變伺服器設定 '%s' (%s)"
+	},
+	{
+		"or": "'%s' entered and joined the blue team",
+		"tr": "'%s' 已連線並加入了藍隊"
+	},
+	{
+		"or": "'%s' entered and joined the game",
+		"tr": "'%s' 已連線並加入了遊戲"
+	},
+	{
+		"or": "'%s' entered and joined the red team",
+		"tr": "'%s' 已連線並加入了紅隊"
+	},
+	{
+		"or": "'%s' entered and joined the spectators",
+		"tr": "'%s' 已連線並加入了旁觀位"
+	},
+	{
+		"or": "'%s' finished in: %s",
+		"tr": "'%s' 用時%s完成"
+	},
+	{
+		"or": "'%s' has left the game",
+		"tr": "'%s' 離開了遊戲"
+	},
+	{
+		"or": "'%s' has left the game (%s)",
+		"tr": "'%s' 離開了遊戲 (%s)"
+	},
+	{
+		"or": "'%s' has set a new record: %s",
+		"tr": "'%s' 打破了最高記錄：%s"
+	},
+	{
+		"or": "'%s' initiated a pause",
+		"tr": "'%s' 暫停了遊戲"
+	},
+	{
+		"or": "'%s' joined the blue team",
+		"tr": "'%s' 加入了藍隊"
+	},
+	{
+		"or": "'%s' joined the game",
+		"tr": "'%s' 加入了遊戲"
+	},
+	{
+		"or": "'%s' joined the red team",
+		"tr": "'%s' 加入了紅隊"
+	},
+	{
+		"or": "'%s' joined the spectators",
+		"tr": "'%s' 加入了旁觀位"
+	},
+	{
+		"or": "'%s' was added as a friend",
+		"tr": "已將 '%s' 新增為好友"
+	},
+	{
+		"or": "'%s' was muted",
+		"tr": "已屏蔽 '%s'"
+	},
+	{
+		"or": "'%s' was removed as a friend",
+		"tr": "已將 '%s' 從好友中移除"
+	},
+	{
+		"or": "'%s' was unmuted",
+		"tr": "已解除屏蔽 '%s'"
+	},
+	{
+		"or": "-Page %d-",
+		"tr": "-第%d頁-"
+	},
+	{
+		"or": "-Page %d/%d-",
+		"tr": "- %d/%d -"
+	},
+	{
 		"or": "Abort",
-		"tr": "中斷"
+		"tr": "取消"
+	},
+	{
+		"or": "Add",
+		"tr": "新增"
+	},
+	{
+		"or": "Add clan",
+		"tr": "新增戰隊"
+	},
+	{
+		"or": "Add demo marker",
+		"tr": "新增回放書籤"
+	},
+	{
+		"or": "Add friend",
+		"tr": "新增好友"
+	},
+	{
+		"or": "Add friend/clan",
+		"tr": "新增好友/戰隊"
+	},
+	{
+		"or": "Address",
+		"tr": "地址"
+	},
+	{
+		"or": "Admin forced server option '%s' (%s)",
+		"tr": "管理員強制修改了伺服器設定 '%s' (%s)"
+	},
+	{
+		"or": "Admin forced vote no",
+		"tr": "管理員強制否決了投票"
+	},
+	{
+		"or": "Admin forced vote yes",
+		"tr": "管理員強制通過了投票"
+	},
+	{
+		"or": "Admin moved '%s' to spectator (%s)",
+		"tr": "管理員將 '%s' 移至了旁觀位 (%s)"
+	},
+	{
+		"or": "Aim bind",
+		"tr": "瞄準繫結"
 	},
 	{
 		"or": "All",
 		"tr": "全部"
 	},
 	{
+		"or": "All players were moved to the blue team",
+		"tr": "所有玩家被移入藍隊"
+	},
+	{
+		"or": "All players were moved to the game",
+		"tr": "所有玩家被移入遊戲"
+	},
+	{
+		"or": "All players were moved to the red team",
+		"tr": "所有玩家被移入紅隊"
+	},
+	{
+		"or": "All players were moved to the spectators",
+		"tr": "所有玩家被移入旁觀位"
+	},
+	{
+		"or": "Alp:",
+		"tr": "透明度:"
+	},
+	{
+		"or": "Always show name plates",
+		"tr": "總是顯示暱稱"
+	},
+	{
+		"or": "Anti Aliasing",
+		"tr": "抗鋸齒"
+	},
+	{
+		"or": "Are you sure that you want to delete the demo?",
+		"tr": "你確定要刪除這個回放嗎？"
+	},
+	{
+		"or": "Are you sure that you want to delete the skin?",
+		"tr": "你確定要刪除這個造型嗎？"
+	},
+	{
 		"or": "Are you sure that you want to quit?",
-		"tr": "確定要退出？"
+		"tr": "你確定要退出嗎？"
+	},
+	{
+		"or": "Are you sure that you want to remove the filter from the server browser?",
+		"tr": "你確定要在伺服器列表中刪除這個過濾條件嗎？"
 	},
 	{
 		"or": "Are you sure that you want to remove the player from your friends list?",
-		"tr": "確定要把玩家從朋友清單移除嗎？"
+		"tr": "你確定要把這個玩家從好友列表中刪除嗎？"
+	},
+	{
+		"or": "Are you sure you want to rename the demo?",
+		"tr": "你確定要重新命名這個回放嗎？"
+	},
+	{
+		"or": "Are you sure you want to save your skin? If a skin with this name already exists, it will be replaced.",
+		"tr": "你確定要儲存這個造型嗎？如果這個造型名已經存在，原造型將會被覆蓋。"
 	},
 	{
 		"or": "As this is the first time you launch the game, please enter your nick name below. It's recommended that you check the settings to adjust them to your liking before joining a server.",
-		"tr": "這是你第一次啟動遊戲，請在下方輸入你的暱稱\n在進入伺服器前，建議先調整設定到你喜歡的樣子"
+		"tr": "這是你第一次開啟遊戲，請在下面輸入你的暱稱。建議你在進入伺服器之前，確認一下設定是否符合你的習慣。"
+	},
+	{
+		"or": "Automatically record demos",
+		"tr": "自動儲存回放"
+	},
+	{
+		"or": "Automatically take game over screenshot",
+		"tr": "自動擷取遊戲結束畫面"
 	},
 	{
 		"or": "Back",
 		"tr": "返回"
 	},
 	{
+		"or": "Basic",
+		"tr": "基礎"
+	},
+	{
+		"or": "Best spree",
+		"tr": "最高連殺數"
+	},
+	{
+		"or": "Blue team",
+		"tr": "藍隊"
+	},
+	{
+		"or": "Borderless window",
+		"tr": "無邊框視窗"
+	},
+	{
+		"or": "Browser",
+		"tr": "伺服器"
+	},
+	{
 		"or": "Call vote",
 		"tr": "發起投票"
 	},
 	{
+		"context": "Server difficulty",
+		"or": "Casual",
+		"tr": "休閒"
+	},
+	{
+		"or": "Change settings",
+		"tr": "變更設定"
+	},
+	{
+		"or": "Chat",
+		"tr": "聊天"
+	},
+	{
+		"or": "Clan",
+		"tr": "戰隊"
+	},
+	{
+		"context": "clear gametype filters",
+		"or": "Clear",
+		"tr": "清除"
+	},
+	{
+		"or": "Click on a player or a flag to follow it",
+		"tr": "點選一名玩家或一面旗幟來旁觀他們"
+	},
+	{
+		"or": "Client",
+		"tr": "客戶端"
+	},
+	{
+		"or": "Close",
+		"tr": "關閉"
+	},
+	{
 		"or": "Compatible version",
-		"tr": "相容的版本"
+		"tr": "相容版本"
+	},
+	{
+		"context": "Server difficulty",
+		"or": "Competitive",
+		"tr": "競技"
+	},
+	{
+		"or": "Configure statboard",
+		"tr": "配置統計資訊板"
+	},
+	{
+		"or": "Connect",
+		"tr": "連線"
+	},
+	{
+		"or": "Connecting to",
+		"tr": "正在連線到"
+	},
+	{
+		"or": "Connection Problems...",
+		"tr": "連線中斷..."
+	},
+	{
+		"or": "Console",
+		"tr": "控制面板"
+	},
+	{
+		"or": "Controls",
+		"tr": "控制"
+	},
+	{
+		"or": "Count players only",
+		"tr": "屏蔽旁觀位"
+	},
+	{
+		"or": "Country",
+		"tr": "國家/地區"
+	},
+	{
+		"or": "Country:",
+		"tr": "國家/地區："
+	},
+	{
+		"or": "Crc",
+		"tr": "Crc"
 	},
 	{
 		"or": "Created",
-		"tr": "已創建"
+		"tr": "已建立"
+	},
+	{
+		"or": "Current spree",
+		"tr": "當前連殺數"
+	},
+	{
+		"or": "Current: %dx%d (%d:%d)",
+		"tr": "當前：%dx%d（%d：%d）"
+	},
+	{
+		"or": "Custom",
+		"tr": "自訂"
+	},
+	{
+		"or": "Custom colors",
+		"tr": "自定義顏色"
+	},
+	{
+		"or": "Customize",
+		"tr": "自定義"
+	},
+	{
+		"or": "Deaths",
+		"tr": "死亡數"
 	},
 	{
 		"or": "Delete",
 		"tr": "刪除"
 	},
 	{
-		"or": "Delete skin",
-		"tr": "刪除 skin"
+		"or": "Delete demo",
+		"tr": "刪除回放"
 	},
 	{
-		"or": "Disconnected",
+		"or": "Delete skin",
+		"tr": "刪除造型"
+	},
+	{
+		"or": "Demo details",
+		"tr": "回放詳細資訊"
+	},
+	{
+		"or": "Demofile: %s",
+		"tr": "回放檔案：%s"
+	},
+	{
+		"or": "Demos",
+		"tr": "回放"
+	},
+	{
+		"or": "Detail",
+		"tr": "詳情"
+	},
+	{
+		"or": "Device",
+		"tr": "裝置"
+	},
+	{
+		"or": "Difficulty",
+		"tr": "難度"
+	},
+	{
+		"or": "Difficulty:",
+		"tr": "難度："
+	},
+	{
+		"or": "Disconnect",
 		"tr": "斷開連線"
 	},
 	{
+		"or": "Disconnected",
+		"tr": "連線已斷開"
+	},
+	{
+		"or": "Downloading map",
+		"tr": "正在下載地圖"
+	},
+	{
 		"or": "Draw!",
-		"tr": "平手!"
+		"tr": "平局！"
+	},
+	{
+		"or": "Dynamic Camera",
+		"tr": "動態鏡頭"
 	},
 	{
 		"or": "Editor",
-		"tr": "編輯器"
+		"tr": "地圖編輯器"
+	},
+	{
+		"or": "Emoticon",
+		"tr": "表情"
+	},
+	{
+		"or": "Enable colored server broadcasts",
+		"tr": "啟用伺服器廣播訊息顏色"
+	},
+	{
+		"or": "Enable joystick",
+		"tr": "啟用控制器"
+	},
+	{
+		"or": "Enter",
+		"tr": "確定"
 	},
 	{
 		"or": "Error",
 		"tr": "錯誤"
 	},
 	{
+		"or": "Error loading demo",
+		"tr": "回放讀取錯誤"
+	},
+	{
+		"or": "FPM",
+		"tr": "FPM"
+	},
+	{
+		"or": "Favorite",
+		"tr": "收藏"
+	},
+	{
+		"or": "Favorites",
+		"tr": "收藏"
+	},
+	{
+		"or": "Fire",
+		"tr": "開火"
+	},
+	{
+		"or": "Flag captures",
+		"tr": "奪旗數"
+	},
+	{
+		"or": "Flag grabs",
+		"tr": "得旗數"
+	},
+	{
+		"or": "Folder",
+		"tr": "資料夾"
+	},
+	{
+		"or": "Force vote",
+		"tr": "強制投票"
+	},
+	{
+		"or": "Frags",
+		"tr": "擊殺數"
+	},
+	{
+		"or": "Frags per minute",
+		"tr": "每分鐘擊殺數"
+	},
+	{
 		"or": "Free-View",
 		"tr": "自由視角"
+	},
+	{
+		"or": "Fullscreen",
+		"tr": "全螢幕"
+	},
+	{
+		"or": "Game",
+		"tr": "遊戲"
 	},
 	{
 		"or": "Game info",
 		"tr": "遊戲資訊"
 	},
 	{
+		"or": "Game options",
+		"tr": "遊戲選項"
+	},
+	{
 		"or": "Game over",
 		"tr": "遊戲結束"
+	},
+	{
+		"or": "Game paused",
+		"tr": "遊戲已暫停"
+	},
+	{
+		"or": "Game starts in",
+		"tr": "遊戲即將開始："
+	},
+	{
+		"or": "Game type",
+		"tr": "遊戲模式"
+	},
+	{
+		"or": "Game type:",
+		"tr": "遊戲模式："
+	},
+	{
+		"or": "Game types:",
+		"tr": "遊戲模式："
+	},
+	{
+		"or": "General",
+		"tr": "常規"
+	},
+	{
+		"or": "Global",
+		"tr": "網際網路"
+	},
+	{
+		"context": "Flag grabs",
+		"or": "Grabs",
+		"tr": "得旗數"
+	},
+	{
+		"or": "Graphics",
+		"tr": "影象"
+	},
+	{
+		"or": "Grenade",
+		"tr": "榴彈槍"
 	},
 	{
 		"or": "Hammer",
 		"tr": "錘子"
 	},
 	{
+		"or": "Has people playing",
+		"tr": "有人在玩"
+	},
+	{
+		"or": "Hide bots",
+		"tr": "過濾電腦玩家"
+	},
+	{
+		"or": "High Detail",
+		"tr": "顯示地圖細節"
+	},
+	{
+		"or": "Hook",
+		"tr": "鉤子"
+	},
+	{
 		"or": "Host address:",
-		"tr": "主機位置:"
+		"tr": "主機地址："
+	},
+	{
+		"or": "Hue:",
+		"tr": "色調："
+	},
+	{
+		"or": "Ingame mouse sens.",
+		"tr": "遊戲內滑鼠靈敏度"
+	},
+	{
+		"or": "Invalid Demo",
+		"tr": "回放檔案無效或已損壞"
+	},
+	{
+		"or": "Join",
+		"tr": "加入"
+	},
+	{
+		"context": "Join a server",
+		"or": "Join",
+		"tr": "加入"
+	},
+	{
+		"or": "Join blue",
+		"tr": "加入藍隊"
+	},
+	{
+		"or": "Join red",
+		"tr": "加入紅隊"
 	},
 	{
 		"or": "Joined",
-		"tr": "加入了"
+		"tr": "已加入"
+	},
+	{
+		"or": "Joined blue",
+		"tr": "已加入藍隊"
+	},
+	{
+		"or": "Joined red",
+		"tr": "已加入紅隊"
+	},
+	{
+		"or": "Joystick",
+		"tr": "控制器"
+	},
+	{
+		"or": "Joystick Axis #%d",
+		"tr": "搖桿%d號軸"
+	},
+	{
+		"or": "Joystick jitter tolerance",
+		"tr": "搖桿防抖強度"
+	},
+	{
+		"or": "Joystick sens.",
+		"tr": "搖桿靈敏度"
 	},
 	{
 		"or": "Jump",
 		"tr": "跳躍"
 	},
 	{
+		"or": "Kick player",
+		"tr": "踢除玩家"
+	},
+	{
+		"or": "Kick voting requires %d players on the server",
+		"tr": "踢除投票需要伺服器中至少有%d名玩家才能發起"
+	},
+	{
+		"or": "Language",
+		"tr": "語言"
+	},
+	{
 		"or": "Laser",
-		"tr": "雷射"
+		"tr": "鐳射槍"
+	},
+	{
+		"or": "Length",
+		"tr": "長度"
+	},
+	{
+		"or": "Lgt:",
+		"tr": "亮度："
+	},
+	{
+		"or": "Limit Fps",
+		"tr": "限制幀率"
+	},
+	{
+		"or": "Load the sound system",
+		"tr": "載入聲音系統"
 	},
 	{
 		"or": "Loading",
 		"tr": "載入中"
 	},
 	{
+		"or": "Local",
+		"tr": "本地"
+	},
+	{
+		"or": "Local server",
+		"tr": "本地伺服器"
+	},
+	{
+		"or": "MOTD",
+		"tr": "公告"
+	},
+	{
 		"or": "Map",
 		"tr": "地圖"
 	},
 	{
+		"or": "Map changed to '%s'",
+		"tr": "地圖已更換為 '%s'"
+	},
+	{
+		"or": "Map record",
+		"tr": "地圖最高記錄"
+	},
+	{
+		"or": "Map:",
+		"tr": "地圖："
+	},
+	{
+		"or": "Markers",
+		"tr": "書籤"
+	},
+	{
+		"context": "rounds (scoreboard)",
+		"or": "Match",
+		"tr": "比賽"
+	},
+	{
+		"or": "Max",
+		"tr": "上限"
+	},
+	{
+		"or": "Max fps",
+		"tr": "最大幀率"
+	},
+	{
 		"or": "Maximum ping:",
-		"tr": "最大延遲:"
+		"tr": "最高延遲："
+	},
+	{
+		"or": "Menu background transparency",
+		"tr": "選單背景透明度"
+	},
+	{
+		"or": "Menu mouse sens.",
+		"tr": "主介面滑鼠靈敏度"
+	},
+	{
+		"or": "Misc",
+		"tr": "其他"
+	},
+	{
+		"or": "Mouse",
+		"tr": "滑鼠"
+	},
+	{
+		"or": "Move left",
+		"tr": "向左移動"
+	},
+	{
+		"or": "Move player to spectators",
+		"tr": "將玩家移至旁觀位"
 	},
 	{
 		"or": "Move right",
-		"tr": "往右移動"
+		"tr": "向右移動"
 	},
 	{
 		"or": "Movement",
 		"tr": "移動"
 	},
 	{
+		"or": "Mute broadcasts",
+		"tr": "屏蔽廣播"
+	},
+	{
 		"or": "Mute when not active",
-		"tr": "當沒有活動時靜音"
+		"tr": "在後臺時靜音"
+	},
+	{
+		"or": "Name",
+		"tr": "名字"
+	},
+	{
+		"context": "Net score",
+		"or": "Net",
+		"tr": "淨擊殺"
+	},
+	{
+		"or": "Net score",
+		"tr": "淨得分"
+	},
+	{
+		"or": "Netversion",
+		"tr": "通訊版本"
+	},
+	{
+		"or": "New filter",
+		"tr": "新過濾器"
+	},
+	{
+		"or": "Next weapon",
+		"tr": "下一個武器"
 	},
 	{
 		"or": "Nickname",
 		"tr": "暱稱"
 	},
 	{
+		"or": "Nickname is empty.",
+		"tr": "暱稱不能為空。"
+	},
+	{
+		"or": "No",
+		"tr": "否"
+	},
+	{
+		"context": "Without/None",
+		"or": "No",
+		"tr": "否"
+	},
+	{
+		"or": "No joysticks found. Plug in a joystick and restart the game.",
+		"tr": "未發現遊戲控制器。連線遊戲控制器後請重啟遊戲。"
+	},
+	{
+		"or": "No password",
+		"tr": "沒有密碼"
+	},
+	{
+		"or": "No servers found",
+		"tr": "找不到任何伺服器"
+	},
+	{
 		"or": "No servers match your filter criteria",
-		"tr": "沒有伺服器符合你的過濾條件"
+		"tr": "沒有伺服器滿足設定的過濾條件"
+	},
+	{
+		"context": "Server difficulty",
+		"or": "Normal",
+		"tr": "普通"
+	},
+	{
+		"or": "Normal:",
+		"tr": "普通："
+	},
+	{
+		"context": "friends (server browser)",
+		"or": "Offline (%d)",
+		"tr": "離線（%d）"
+	},
+	{
+		"or": "Ok",
+		"tr": "確定"
+	},
+	{
+		"or": "Online clanmates (%d)",
+		"tr": "線上戰友（%d）"
+	},
+	{
+		"or": "Online players (%d)",
+		"tr": "線上玩家（%d）"
+	},
+	{
+		"or": "Only %d active players are allowed",
+		"tr": "伺服器只允許%d名玩家加入遊戲"
+	},
+	{
+		"or": "Open",
+		"tr": "開啟"
+	},
+	{
+		"or": "Option",
+		"tr": "選項"
+	},
+	{
+		"or": "Other",
+		"tr": "其它"
+	},
+	{
+		"or": "Parent Folder",
+		"tr": "上級目錄"
+	},
+	{
+		"or": "Password",
+		"tr": "密碼"
+	},
+	{
+		"or": "Password incorrect",
+		"tr": "密碼錯誤"
+	},
+	{
+		"or": "Personal",
+		"tr": "個人"
+	},
+	{
+		"or": "Ping",
+		"tr": "延遲"
+	},
+	{
+		"or": "Pistol",
+		"tr": "手槍"
+	},
+	{
+		"or": "Play",
+		"tr": "開始遊戲"
+	},
+	{
+		"context": "DemoBrowser",
+		"or": "Play",
+		"tr": "播放"
+	},
+	{
+		"or": "Play background music",
+		"tr": "播放背景音樂"
 	},
 	{
 		"or": "Player",
 		"tr": "玩家"
 	},
 	{
+		"or": "Player options",
+		"tr": "玩家選項"
+	},
+	{
+		"or": "Players",
+		"tr": "玩家"
+	},
+	{
+		"context": "Playing '(gametype)' on '(map)'",
+		"or": "Playing '%s' on '%s'",
+		"tr": "正在玩：%s 地圖：%s"
+	},
+	{
+		"or": "Please balance teams!",
+		"tr": "隊伍人數不平衡！"
+	},
+	{
+		"or": "Press %s to resume chatting",
+		"tr": "按 %s 以恢復聊天"
+	},
+	{
+		"or": "Press Enter to confirm or Esc to cancel",
+		"tr": "按 Enter 鍵確認或 Esc 鍵取消"
+	},
+	{
+		"or": "Press Tab to cycle chat recipients",
+		"tr": "按 Tab 選擇聊天物件"
+	},
+	{
 		"or": "Prev. weapon",
-		"tr": "前一個武器"
+		"tr": "上一個武器"
+	},
+	{
+		"or": "Quality Textures",
+		"tr": "高品質紋理"
+	},
+	{
+		"or": "Quit",
+		"tr": "退出"
+	},
+	{
+		"or": "REC %3d:%02d",
+		"tr": "REC %3d:%02d"
+	},
+	{
+		"or": "Ratio",
+		"tr": "K/D"
+	},
+	{
+		"or": "Ready",
+		"tr": "準備"
+	},
+	{
+		"or": "Reason:",
+		"tr": "理由："
+	},
+	{
+		"or": "Recommended",
+		"tr": "推薦"
+	},
+	{
+		"or": "Record",
+		"tr": "錄製回放"
+	},
+	{
+		"or": "Recorded",
+		"tr": "回放已儲存"
+	},
+	{
+		"or": "Red team",
+		"tr": "紅隊"
+	},
+	{
+		"or": "Refresh",
+		"tr": "重新整理"
+	},
+	{
+		"or": "Refreshing master servers",
+		"tr": "正在重新整理主伺服器"
+	},
+	{
+		"or": "Remote console",
+		"tr": "遠端控制面板"
+	},
+	{
+		"or": "Remove",
+		"tr": "移除"
+	},
+	{
+		"or": "Remove filter",
+		"tr": "移除過濾器"
+	},
+	{
+		"or": "Remove friend",
+		"tr": "刪除好友"
+	},
+	{
+		"or": "Rename",
+		"tr": "重新命名"
+	},
+	{
+		"or": "Rename demo",
+		"tr": "重新命名回放"
 	},
 	{
 		"or": "Reset",
@@ -145,19 +1081,91 @@
 	},
 	{
 		"or": "Reset filter",
-		"tr": "重置過濾條件"
+		"tr": "重置過濾器"
+	},
+	{
+		"or": "Resolution",
+		"tr": "解析度"
 	},
 	{
 		"or": "Respawn",
 		"tr": "重生"
 	},
 	{
+		"or": "Round over",
+		"tr": "回合結束"
+	},
+	{
+		"or": "Round over!",
+		"tr": "回合結束！"
+	},
+	{
+		"or": "Sample rate",
+		"tr": "取樣率"
+	},
+	{
+		"or": "Sat:",
+		"tr": "飽和度："
+	},
+	{
+		"or": "Save",
+		"tr": "儲存"
+	},
+	{
 		"or": "Save skin",
-		"tr": "儲存皮膚"
+		"tr": "儲存造型"
+	},
+	{
+		"or": "Score",
+		"tr": "分數"
+	},
+	{
+		"or": "Score limit",
+		"tr": "目標得分"
+	},
+	{
+		"or": "Scoreboard",
+		"tr": "計分板"
+	},
+	{
+		"or": "Screen",
+		"tr": "螢幕"
+	},
+	{
+		"or": "Screen:",
+		"tr": "螢幕："
+	},
+	{
+		"or": "Screenshot",
+		"tr": "截圖"
 	},
 	{
 		"or": "Search:",
-		"tr": "搜尋:"
+		"tr": "搜尋："
+	},
+	{
+		"or": "Server",
+		"tr": "伺服器"
+	},
+	{
+		"or": "Server address:",
+		"tr": "伺服器地址："
+	},
+	{
+		"or": "Server details",
+		"tr": "伺服器詳細資訊"
+	},
+	{
+		"or": "Server does not allow voting to kick players",
+		"tr": "伺服器不允許投票踢除玩家"
+	},
+	{
+		"or": "Server does not allow voting to move players to spectators",
+		"tr": "伺服器不允許投票將玩家移至旁觀位"
+	},
+	{
+		"or": "Server filter",
+		"tr": "伺服器過濾器"
 	},
 	{
 		"or": "Server info",
@@ -165,23 +1173,103 @@
 	},
 	{
 		"or": "Server not full",
-		"tr": "有空位的伺服器"
+		"tr": "伺服器未滿"
+	},
+	{
+		"or": "Servers",
+		"tr": "伺服器"
+	},
+	{
+		"or": "Settings",
+		"tr": "設定"
+	},
+	{
+		"or": "Shotgun",
+		"tr": "霰彈槍"
+	},
+	{
+		"or": "Show chat",
+		"tr": "顯示聊天"
+	},
+	{
+		"or": "Show chat messages from:",
+		"tr": "聊天訊息過濾："
+	},
+	{
+		"or": "Show friends only",
+		"tr": "只顯示好友"
+	},
+	{
+		"or": "Show ingame HUD",
+		"tr": "顯示HUD"
+	},
+	{
+		"or": "Show name plates",
+		"tr": "顯示暱稱"
+	},
+	{
+		"or": "Show social",
+		"tr": "顯示社交與聊天"
+	},
+	{
+		"or": "Show user IDs",
+		"tr": "顯示使用者ID"
+	},
+	{
+		"or": "Size",
+		"tr": "大小"
+	},
+	{
+		"or": "Skin",
+		"tr": "造型"
+	},
+	{
+		"or": "Skins",
+		"tr": "造型"
+	},
+	{
+		"or": "Skip the main menu",
+		"tr": "跳過主選單"
 	},
 	{
 		"or": "Sound",
-		"tr": "音效"
+		"tr": "聲音"
 	},
 	{
 		"or": "Sound error",
-		"tr": "音效錯誤"
+		"tr": "音訊錯誤"
+	},
+	{
+		"or": "Spectate",
+		"tr": "旁觀"
+	},
+	{
+		"or": "Spectate next",
+		"tr": "旁觀下一個"
+	},
+	{
+		"or": "Spectate previous",
+		"tr": "旁觀上一個"
+	},
+	{
+		"or": "Spectating",
+		"tr": "視角"
+	},
+	{
+		"or": "Spectator mode",
+		"tr": "旁觀者模式"
 	},
 	{
 		"or": "Spectators",
-		"tr": "觀戰者"
+		"tr": "旁觀者"
 	},
 	{
 		"or": "Spectators aren't allowed to start a vote.",
-		"tr": "觀戰者不能發起投票"
+		"tr": "旁觀者不能發起投票。"
+	},
+	{
+		"or": "Spree",
+		"tr": "連殺數"
 	},
 	{
 		"or": "Standard gametype",
@@ -192,52 +1280,261 @@
 		"tr": "標準地圖"
 	},
 	{
+		"or": "Statboard",
+		"tr": "統計板"
+	},
+	{
+		"or": "Status",
+		"tr": "狀態"
+	},
+	{
+		"or": "Stop record",
+		"tr": "停止錄製"
+	},
+	{
+		"or": "Sudden Death",
+		"tr": "決勝"
+	},
+	{
+		"or": "Suicides",
+		"tr": "自殺數"
+	},
+	{
+		"or": "Switch weapon on pickup",
+		"tr": "拾取武器時自動裝備"
+	},
+	{
+		"or": "Team",
+		"tr": "隊伍"
+	},
+	{
+		"or": "Team chat",
+		"tr": "隊伍聊天"
+	},
+	{
+		"or": "Team:",
+		"tr": "隊伍："
+	},
+	{
 		"or": "Teams are locked",
-		"tr": "隊伍已被鎖住"
+		"tr": "隊伍被鎖定"
+	},
+	{
+		"or": "Teams are locked. Time to wait before changing team: %02d:%02d",
+		"tr": "隊伍已鎖定。還有%02d:%02d才能更換隊伍"
+	},
+	{
+		"or": "Teams have been balanced",
+		"tr": "雙方隊伍已被平衡分配"
+	},
+	{
+		"or": "Teams were locked",
+		"tr": "隊伍已被鎖定"
+	},
+	{
+		"or": "Teams were shuffled",
+		"tr": "雙方隊伍已被隨機重組"
+	},
+	{
+		"or": "Teams were swapped",
+		"tr": "雙方隊伍已被交換"
+	},
+	{
+		"or": "Teams were unlocked",
+		"tr": "隊伍已被解鎖"
+	},
+	{
+		"or": "Tee",
+		"tr": "Tee"
+	},
+	{
+		"or": "Teeworlds %s is out! Download it at www.teeworlds.com!",
+		"tr": "Teeworlds %s已經發布！請訪問 www.teeworlds.com 下載最新版本！"
+	},
+	{
+		"or": "Texture",
+		"tr": "紋理"
+	},
+	{
+		"or": "Texture Compression",
+		"tr": "紋理壓縮"
 	},
 	{
 		"or": "The audio device couldn't be initialised.",
-		"tr": "音訊裝置無法初始化"
+		"tr": "初始化音訊裝置失敗。"
+	},
+	{
+		"or": "The blue flag was captured by '%s'",
+		"tr": "藍隊旗幟被 '%s' 奪取"
+	},
+	{
+		"or": "The blue flag was captured by '%s' (%.2f seconds)",
+		"tr": "藍隊旗幟被 '%s' 奪取（%.2f秒）"
+	},
+	{
+		"or": "The red flag was captured by '%s'",
+		"tr": "紅隊旗幟被 '%s' 奪取"
+	},
+	{
+		"or": "The red flag was captured by '%s' (%.2f seconds)",
+		"tr": "紅隊旗幟被 '%s' 奪取（%.2f秒）"
+	},
+	{
+		"or": "The server is running a non-standard tuning on a pure game type.",
+		"tr": "此伺服器執行著經過調整的非標準遊戲模式。"
+	},
+	{
+		"or": "Theme",
+		"tr": "主題"
 	},
 	{
 		"or": "There's an unsaved map in the editor, you might want to save it before you quit the game.",
-		"tr": "編輯器內有未儲存的地圖，在離開遊戲前你可能會想先儲存它們"
+		"tr": "編輯器中的地圖尚未儲存，建議您在退出遊戲之前返回編輯器進行儲存。"
+	},
+	{
+		"or": "Time",
+		"tr": "用時"
+	},
+	{
+		"or": "Time limit",
+		"tr": "規定時限"
+	},
+	{
+		"or": "Time limit: %d min",
+		"tr": "規定時限：%d分鐘"
+	},
+	{
+		"or": "Toggle dynamic camera",
+		"tr": "切換動態鏡頭"
+	},
+	{
+		"or": "Toggle sounds",
+		"tr": "啟用/禁用聲音"
+	},
+	{
+		"or": "Try again",
+		"tr": "重試"
 	},
 	{
 		"or": "Type",
-		"tr": "類型"
+		"tr": "模式"
+	},
+	{
+		"or": "Unable to delete the demo",
+		"tr": "無法刪除這個回放"
+	},
+	{
+		"or": "Unable to delete the skin",
+		"tr": "無法刪除這個造型"
+	},
+	{
+		"or": "Unable to rename the demo",
+		"tr": "無法重新命名這個回放"
+	},
+	{
+		"or": "Use OS mouse acceleration",
+		"tr": "使用系統的滑鼠加速度設定"
 	},
 	{
 		"or": "Use sounds",
-		"tr": "使用聲音"
+		"tr": "啟用聲音"
+	},
+	{
+		"or": "Use team colors for name plates",
+		"tr": "用隊伍顏色標註暱稱"
+	},
+	{
+		"or": "V-Sync",
+		"tr": "垂直同步"
+	},
+	{
+		"or": "Version",
+		"tr": "版本"
+	},
+	{
+		"or": "Version:",
+		"tr": "版本："
+	},
+	{
+		"or": "Volume",
+		"tr": "音量"
 	},
 	{
 		"or": "Vote aborted",
-		"tr": "投票中斷"
+		"tr": "投票被取消"
 	},
 	{
 		"or": "Vote command:",
-		"tr": "投票指令:"
+		"tr": "投票命令："
 	},
 	{
 		"or": "Vote description:",
-		"tr": "投票介绍:"
+		"tr": "投票描述："
 	},
 	{
 		"or": "Vote failed",
-		"tr": "投票失敗"
+		"tr": "投票被否決"
 	},
 	{
 		"or": "Vote no",
-		"tr": "投不"
+		"tr": "否決"
+	},
+	{
+		"or": "Vote passed",
+		"tr": "投票已通過"
+	},
+	{
+		"or": "Vote yes",
+		"tr": "贊成"
+	},
+	{
+		"or": "Voting",
+		"tr": "投票"
+	},
+	{
+		"or": "Wait for current vote to end before calling a new one.",
+		"tr": "當前投票結束前不能發起新投票"
 	},
 	{
 		"or": "Wait for next round",
 		"tr": "等待下一回合"
 	},
 	{
+		"or": "Warmup",
+		"tr": "熱身"
+	},
+	{
+		"context": "Watching '(gametype)' on '(map)'",
+		"or": "Watching '%s' on '%s'",
+		"tr": "正在旁觀：%s 地圖：%s"
+	},
+	{
 		"or": "Weapon",
 		"tr": "武器"
+	},
+	{
+		"or": "Weapons stats",
+		"tr": "武器統計資訊"
+	},
+	{
+		"or": "Welcome to Teeworlds",
+		"tr": "歡迎來到Teeworlds！"
+	},
+	{
+		"or": "When ready, press <%s>",
+		"tr": "按 <%s> 準備"
+	},
+	{
+		"or": "Whisper",
+		"tr": "私訊"
+	},
+	{
+		"or": "X",
+		"tr": "X"
+	},
+	{
+		"or": "Y",
+		"tr": "Y"
 	},
 	{
 		"or": "Yes",
@@ -247,6 +1544,96 @@
 		"context": "With",
 		"or": "Yes",
 		"tr": "是"
+	},
+	{
+		"or": "You have to wait %1.0f seconds to change identity.",
+		"tr": "你需要等待 %1.0f 秒才能修改身份"
+	},
+	{
+		"or": "You must reconnect to change identity.",
+		"tr": "你必須重新連線以更改身份。"
+	},
+	{
+		"or": "You must restart the game for all settings to take effect.",
+		"tr": "你需要重啟遊戲來使某些設定生效。"
+	},
+	{
+		"or": "You must wait %d seconds before making another vote",
+		"tr": "你必須再等%d秒鐘才能發起新的投票"
+	},
+	{
+		"or": "You were moved to the blue team due to team balancing",
+		"tr": "因為隊伍平衡的關係，你被移入藍隊"
+	},
+	{
+		"or": "You were moved to the red team due to team balancing",
+		"tr": "由於隊伍平衡的關係，你被移入紅隊"
+	},
+	{
+		"or": "blue flag",
+		"tr": "藍隊旗幟"
+	},
+	{
+		"context": "skins",
+		"or": "body",
+		"tr": "身體"
+	},
+	{
+		"context": "skins",
+		"or": "decoration",
+		"tr": "裝飾"
+	},
+	{
+		"context": "Show chat messages from:",
+		"or": "everyone",
+		"tr": "允許所有"
+	},
+	{
+		"context": "skins",
+		"or": "eyes",
+		"tr": "眼睛"
+	},
+	{
+		"context": "skins",
+		"or": "feet",
+		"tr": "腳"
+	},
+	{
+		"context": "Show chat messages from:",
+		"or": "friends only",
+		"tr": "僅好友"
+	},
+	{
+		"context": "skins",
+		"or": "hands",
+		"tr": "手"
+	},
+	{
+		"or": "locked",
+		"tr": "已鎖定"
+	},
+	{
+		"context": "skins",
+		"or": "marking",
+		"tr": "印記"
+	},
+	{
+		"context": "Show chat messages from:",
+		"or": "no one",
+		"tr": "屏蔽所有"
+	},
+	{
+		"context": "server browser message",
+		"or": "no players",
+		"tr": "沒有玩家"
+	},
+	{
+		"or": "red flag",
+		"tr": "紅隊旗幟"
+	},
+	{
+		"or": "wait for more players",
+		"tr": "等待更多玩家"
 	}
 ]
 }

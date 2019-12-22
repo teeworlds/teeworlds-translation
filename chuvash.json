@@ -107,6 +107,10 @@
 		"tr": "Кăвак ушкăн"
 	},
 	{
+		"or": "Browser",
+		"tr": "броузер"
+	},
+	{
 		"or": "Call vote",
 		"tr": "Сасăла"
 	},
@@ -129,10 +133,6 @@
 	{
 		"or": "Close",
 		"tr": "Хупма"
-	},
-	{
-		"or": "Color",
-		"tr": "Тӗс"
 	},
 	{
 		"or": "Compatible version",

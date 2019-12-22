@@ -181,6 +181,10 @@
 		"tr": "Fenestro sen framo"
 	},
 	{
+		"or": "Browser",
+		"tr": "Esplorilo"
+	},
+	{
 		"or": "Call vote",
 		"tr": "Voki voĉdonon"
 	},
@@ -203,10 +207,6 @@
 	{
 		"or": "Close",
 		"tr": "Fermi"
-	},
-	{
-		"or": "Color",
-		"tr": "Koloro"
 	},
 	{
 		"or": "Compatible version",
@@ -271,10 +271,6 @@
 	{
 		"or": "Delete skin",
 		"tr": "Forigi haŭtaĵon"
-	},
-	{
-		"or": "Demo",
-		"tr": "Demonstro"
 	},
 	{
 		"or": "Demo details",

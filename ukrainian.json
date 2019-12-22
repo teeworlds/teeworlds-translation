@@ -274,12 +274,20 @@
 		"tr": "Базові"
 	},
 	{
+		"or": "Best spree",
+		"tr": "Найкраща серія"
+	},
+	{
 		"or": "Blue team",
 		"tr": "Сині"
 	},
 	{
 		"or": "Borderless window",
 		"tr": "Вікно без рамки"
+	},
+	{
+		"or": "Browser",
+		"tr": "Браузер"
 	},
 	{
 		"or": "Call vote",
@@ -320,10 +328,6 @@
 		"tr": "Закрити"
 	},
 	{
-		"or": "Color",
-		"tr": "Колір"
-	},
-	{
 		"or": "Compatible version",
 		"tr": "Сумісна версія"
 	},
@@ -331,6 +335,10 @@
 		"context": "Server difficulty",
 		"or": "Competitive",
 		"tr": "Важко"
+	},
+	{
+		"or": "Configure statboard",
+		"tr": "Налаштування вікна статистики"
 	},
 	{
 		"or": "Connect",
@@ -373,6 +381,10 @@
 		"tr": "Створено"
 	},
 	{
+		"or": "Current spree",
+		"tr": "Поточна серія"
+	},
+	{
 		"or": "Current: %dx%d (%d:%d)",
 		"tr": "Поточне: %dx%d (%d:%d)"
 	},
@@ -389,6 +401,10 @@
 		"tr": "Налаштувати"
 	},
 	{
+		"or": "Deaths",
+		"tr": "Смерті"
+	},
+	{
 		"or": "Delete",
 		"tr": "Видалити"
 	},
@@ -399,10 +415,6 @@
 	{
 		"or": "Delete skin",
 		"tr": "Видалити скін"
-	},
-	{
-		"or": "Demo",
-		"tr": "Демо"
 	},
 	{
 		"or": "Demo details",
@@ -473,6 +485,10 @@
 		"tr": "Помилка при завантаженні демо"
 	},
 	{
+		"or": "FPM",
+		"tr": "ФЗХ"
+	},
+	{
 		"or": "Favorite",
 		"tr": "Обраний"
 	},
@@ -485,12 +501,28 @@
 		"tr": "Постріл"
 	},
 	{
+		"or": "Flag captures",
+		"tr": "Захоплення прапору"
+	},
+	{
+		"or": "Flag grabs",
+		"tr": "Підбирання прапорів"
+	},
+	{
 		"or": "Folder",
 		"tr": "Папка"
 	},
 	{
 		"or": "Force vote",
 		"tr": "Форсувати"
+	},
+	{
+		"or": "Frags",
+		"tr": "Фраги"
+	},
+	{
+		"or": "Frags per minute",
+		"tr": "Фраги за хвилину"
 	},
 	{
 		"or": "Free-View",
@@ -543,6 +575,11 @@
 	{
 		"or": "Global",
 		"tr": "Загальні"
+	},
+	{
+		"context": "Flag grabs",
+		"or": "Grabs",
+		"tr": "Підбирання"
 	},
 	{
 		"or": "Graphics",
@@ -699,6 +736,10 @@
 		"tr": "Макс. пінг:"
 	},
 	{
+		"or": "Menu background transparency",
+		"tr": "Прозорість фону"
+	},
+	{
 		"or": "Menu mouse sens.",
 		"tr": "Чутливість курсору в меню"
 	},
@@ -708,7 +749,7 @@
 	},
 	{
 		"or": "Move left",
-		"tr": "Вліво"
+		"tr": "Рух ліворуч"
 	},
 	{
 		"or": "Move player to spectators",
@@ -716,7 +757,7 @@
 	},
 	{
 		"or": "Move right",
-		"tr": "Вправо"
+		"tr": "Рух праворуч"
 	},
 	{
 		"or": "Movement",
@@ -733,6 +774,15 @@
 	{
 		"or": "Name",
 		"tr": "Ім'я"
+	},
+	{
+		"context": "Net score",
+		"or": "Net",
+		"tr": "Головне"
+	},
+	{
+		"or": "Net score",
+		"tr": "Чистий рахунок"
 	},
 	{
 		"or": "Netversion",
@@ -896,6 +946,10 @@
 		"tr": "REC %3d:%02d"
 	},
 	{
+		"or": "Ratio",
+		"tr": "Співвідношення"
+	},
+	{
 		"or": "Ready",
 		"tr": "Готовність"
 	},
@@ -1006,6 +1060,10 @@
 	{
 		"or": "Screen",
 		"tr": "Екран"
+	},
+	{
+		"or": "Screen:",
+		"tr": "Екран:"
 	},
 	{
 		"or": "Screenshot",
@@ -1140,6 +1198,10 @@
 		"tr": "Спостерігачі не мають права голосувати"
 	},
 	{
+		"or": "Spree",
+		"tr": "Серія"
+	},
+	{
 		"or": "Standard gametype",
 		"tr": "Стандартний тип гри"
 	},
@@ -1148,12 +1210,20 @@
 		"tr": "Стандартна карта"
 	},
 	{
+		"or": "Statboard",
+		"tr": "Статистика"
+	},
+	{
 		"or": "Stop record",
 		"tr": "Зупинити запис"
 	},
 	{
 		"or": "Sudden Death",
 		"tr": "Швидка смерть"
+	},
+	{
+		"or": "Suicides",
+		"tr": "Самовбивства"
 	},
 	{
 		"or": "Switch weapon on pickup",
@@ -1345,6 +1415,10 @@
 		"tr": "Зброя"
 	},
 	{
+		"or": "Weapons stats",
+		"tr": "Статистика зброї"
+	},
+	{
 		"or": "Welcome to Teeworlds",
 		"tr": "Ласкаво просимо в Teeworlds!"
 	},
@@ -1386,16 +1460,8 @@
 		"tr": "Вас було перенесено до команди синіх задля балансу команд"
 	},
 	{
-		"or": "You were moved to the game due to team balancing",
-		"tr": "Вас було перенесено до гри задля балансу команд"
-	},
-	{
 		"or": "You were moved to the red team due to team balancing",
 		"tr": "Вас було перенесено до команди червоних задля балансу команд"
-	},
-	{
-		"or": "You were moved to the spectators due to team balancing",
-		"tr": "Вас було перенесено до спостерігачів задля балансу команд"
 	},
 	{
 		"or": "blue flag",

@@ -71,10 +71,6 @@
 		"tr": "'%s' je dal na glasovanje spremembo strežniške nastavitve '%s' (%s)"
 	},
 	{
-		"or": "'%s' entered and joined the %s",
-		"tr": "'%s' se je pridružil in je pri %s"
-	},
-	{
 		"or": "'%s' has left the game",
 		"tr": "'%s' je zapustil igro"
 	},
@@ -207,10 +203,6 @@
 		"tr": "Zapri"
 	},
 	{
-		"or": "Color",
-		"tr": "Barva"
-	},
-	{
 		"or": "Compatible version",
 		"tr": "Kompatibilna različica"
 	},
@@ -273,10 +265,6 @@
 	{
 		"or": "Delete skin",
 		"tr": "Izbriši kožo"
-	},
-	{
-		"or": "Demo",
-		"tr": "Demo"
 	},
 	{
 		"or": "Demo details",
@@ -527,10 +515,6 @@
 	{
 		"or": "Misc",
 		"tr": "Razno"
-	},
-	{
-		"or": "Mouse sens.",
-		"tr": "Občutljivost miške"
 	},
 	{
 		"or": "Move left",
@@ -1084,16 +1068,6 @@
 		"tr": "Počakati morate %d sekund, preden lahko znova glasujete"
 	},
 	{
-		"context": "'X joined the <blue team>' (server message)",
-		"or": "blue team",
-		"tr": "modrih"
-	},
-	{
-		"context": "'X joined the <game>' (server message)",
-		"or": "game",
-		"tr": "igra"
-	},
-	{
 		"or": "locked",
 		"tr": "zaklenjene"
 	},
@@ -1101,16 +1075,6 @@
 		"context": "server browser message",
 		"or": "no players",
 		"tr": "ni igralcev"
-	},
-	{
-		"context": "'X joined the <red team>' (server message)",
-		"or": "red team",
-		"tr": "rdečih"
-	},
-	{
-		"context": "'X joined the <spectators>' (server message)",
-		"or": "spectators",
-		"tr": "opazovalci"
 	},
 	{
 		"or": "wait for more players",

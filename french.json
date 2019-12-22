@@ -27,6 +27,10 @@
 },
 "translated strings": [
 	{
+		"or": " (%s seconds faster)",
+		"tr": " (%s secondes de moins)"
+	},
+	{
 		"or": "%.3f KiB",
 		"tr": "%.3f Kio"
 	},
@@ -87,6 +91,10 @@
 		"tr": "%i secondes restantes"
 	},
 	{
+		"or": "%s is muted by you",
+		"tr": "%s est muet"
+	},
+	{
 		"or": "%s wins!",
 		"tr": "%s a gagné !"
 	},
@@ -119,12 +127,20 @@
 		"tr": "'%s' est entré et a rejoint les spectateurs"
 	},
 	{
+		"or": "'%s' finished in: %s",
+		"tr": "'%s' a terminé en: %s"
+	},
+	{
 		"or": "'%s' has left the game",
 		"tr": "'%s' a quitté le jeu"
 	},
 	{
 		"or": "'%s' has left the game (%s)",
 		"tr": "'%s' a quitté le jeu (%s)"
+	},
+	{
+		"or": "'%s' has set a new record: %s",
+		"tr": "'%s' a établi un nouveau record: %s"
 	},
 	{
 		"or": "'%s' initiated a pause",
@@ -165,6 +181,10 @@
 	{
 		"or": "-Page %d-",
 		"tr": "-Page %d-"
+	},
+	{
+		"or": "-Page %d/%d-",
+		"tr": "-Page %d/%d-"
 	},
 	{
 		"or": "Abort",
@@ -209,6 +229,10 @@
 	{
 		"or": "Admin moved '%s' to spectator (%s)",
 		"tr": "Admin a déplacé '%s' dans les spectateurs (%s)"
+	},
+	{
+		"or": "Aim bind",
+		"tr": "Visée assistée"
 	},
 	{
 		"or": "All",
@@ -291,12 +315,20 @@
 		"tr": "Basique"
 	},
 	{
+		"or": "Best spree",
+		"tr": "Meilleure série"
+	},
+	{
 		"or": "Blue team",
 		"tr": "Équipe bleue"
 	},
 	{
 		"or": "Borderless window",
 		"tr": "Fenêtre sans contours"
+	},
+	{
+		"or": "Browser",
+		"tr": "Serveurs"
 	},
 	{
 		"or": "Call vote",
@@ -337,10 +369,6 @@
 		"tr": "Fermer"
 	},
 	{
-		"or": "Color",
-		"tr": "Couleur"
-	},
-	{
 		"or": "Compatible version",
 		"tr": "Version compatible"
 	},
@@ -348,6 +376,10 @@
 		"context": "Server difficulty",
 		"or": "Competitive",
 		"tr": "Compétitif"
+	},
+	{
+		"or": "Configure statboard",
+		"tr": "Configurer le tableau des scores"
 	},
 	{
 		"or": "Connect",
@@ -390,6 +422,10 @@
 		"tr": "Créé"
 	},
 	{
+		"or": "Current spree",
+		"tr": "Série actuelle"
+	},
+	{
 		"or": "Current: %dx%d (%d:%d)",
 		"tr": "Actuel : %dx%d (%d:%d)"
 	},
@@ -406,6 +442,10 @@
 		"tr": "Personnaliser"
 	},
 	{
+		"or": "Deaths",
+		"tr": "Morts"
+	},
+	{
 		"or": "Delete",
 		"tr": "Supprimer"
 	},
@@ -416,10 +456,6 @@
 	{
 		"or": "Delete skin",
 		"tr": "Supprimer le skin"
-	},
-	{
-		"or": "Demo",
-		"tr": "Démos"
 	},
 	{
 		"or": "Demo details",
@@ -436,6 +472,10 @@
 	{
 		"or": "Detail",
 		"tr": "Détail"
+	},
+	{
+		"or": "Device",
+		"tr": "Appareil"
 	},
 	{
 		"or": "Difficulty",
@@ -478,6 +518,10 @@
 		"tr": "Activer les messages serveur colorés (broadcasts)"
 	},
 	{
+		"or": "Enable joystick",
+		"tr": "Activer le joystick"
+	},
+	{
 		"or": "Enter",
 		"tr": "Démarrer"
 	},
@@ -488,6 +532,10 @@
 	{
 		"or": "Error loading demo",
 		"tr": "Erreur pendant le chargement de la démo"
+	},
+	{
+		"or": "FPM",
+		"tr": "VPM"
 	},
 	{
 		"or": "Favorite",
@@ -502,12 +550,28 @@
 		"tr": "Tirer"
 	},
 	{
+		"or": "Flag captures",
+		"tr": "Drapeaux validés"
+	},
+	{
+		"or": "Flag grabs",
+		"tr": "Drapeaux attrapés"
+	},
+	{
 		"or": "Folder",
 		"tr": "Dossier"
 	},
 	{
 		"or": "Force vote",
 		"tr": "Forcer le vote"
+	},
+	{
+		"or": "Frags",
+		"tr": "Victimes"
+	},
+	{
+		"or": "Frags per minute",
+		"tr": "Victimes par minute"
 	},
 	{
 		"or": "Free-View",
@@ -560,6 +624,11 @@
 	{
 		"or": "Global",
 		"tr": "Global"
+	},
+	{
+		"context": "Flag grabs",
+		"or": "Grabs",
+		"tr": "Grappins"
 	},
 	{
 		"or": "Graphics",
@@ -635,6 +704,22 @@
 		"tr": "Rouge"
 	},
 	{
+		"or": "Joystick",
+		"tr": "Joystick"
+	},
+	{
+		"or": "Joystick Axis #%d",
+		"tr": "L'axe #%d du joystick"
+	},
+	{
+		"or": "Joystick jitter tolerance",
+		"tr": "Tolérance aux vibrations du joystick"
+	},
+	{
+		"or": "Joystick sens.",
+		"tr": "Sensibilité du joystick"
+	},
+	{
 		"or": "Jump",
 		"tr": "Sauter"
 	},
@@ -691,6 +776,14 @@
 		"tr": "Carte"
 	},
 	{
+		"or": "Map changed to '%s'",
+		"tr": "La carte est maintenant '%s'"
+	},
+	{
+		"or": "Map record",
+		"tr": "Record de la carte"
+	},
+	{
 		"or": "Map:",
 		"tr": "Carte :"
 	},
@@ -716,12 +809,20 @@
 		"tr": "Ping maximum :"
 	},
 	{
+		"or": "Menu background transparency",
+		"tr": "Transparence de l'arrière plan du menu"
+	},
+	{
 		"or": "Menu mouse sens.",
 		"tr": "Sensib. souris dans les menus"
 	},
 	{
 		"or": "Misc",
 		"tr": "Divers"
+	},
+	{
+		"or": "Mouse",
+		"tr": "Souris"
 	},
 	{
 		"or": "Move left",
@@ -752,6 +853,15 @@
 		"tr": "Pseudo"
 	},
 	{
+		"context": "Net score",
+		"or": "Net",
+		"tr": "Diff."
+	},
+	{
+		"or": "Net score",
+		"tr": "Différence victime/mort"
+	},
+	{
 		"or": "Netversion",
 		"tr": "Netversion"
 	},
@@ -779,6 +889,10 @@
 		"context": "Without/None",
 		"or": "No",
 		"tr": "Non"
+	},
+	{
+		"or": "No joysticks found. Plug in a joystick and restart the game.",
+		"tr": "Aucun joystick détecté. Banchez un joystick et redémarrez le jeu."
 	},
 	{
 		"or": "No password",
@@ -893,8 +1007,16 @@
 		"tr": "Veuillez équilibrer les équipes !"
 	},
 	{
+		"or": "Press %s to resume chatting",
+		"tr": "Appuyez sur %s pour reprendre la discussion"
+	},
+	{
 		"or": "Press Enter to confirm or Esc to cancel",
 		"tr": "Appuyez sur Entrée pour confirmer ou Échap pour annuler"
+	},
+	{
+		"or": "Press Tab to cycle chat recipients",
+		"tr": "Appuyez sur Tab pour naviguer entre les différents destinataires"
 	},
 	{
 		"or": "Prev. weapon",
@@ -911,6 +1033,10 @@
 	{
 		"or": "REC %3d:%02d",
 		"tr": "REC %3d:%02d"
+	},
+	{
+		"or": "Ratio",
+		"tr": "Ratio"
 	},
 	{
 		"or": "Ready",
@@ -1023,6 +1149,10 @@
 	{
 		"or": "Screen",
 		"tr": "Écran"
+	},
+	{
+		"or": "Screen:",
+		"tr": "Écran :"
 	},
 	{
 		"or": "Screenshot",
@@ -1157,6 +1287,10 @@
 		"tr": "Les spectateurs ne peuvent faire appel à un vote."
 	},
 	{
+		"or": "Spree",
+		"tr": "Série"
+	},
+	{
 		"or": "Standard gametype",
 		"tr": "Types de jeu standards"
 	},
@@ -1165,12 +1299,24 @@
 		"tr": "Cartes standards"
 	},
 	{
+		"or": "Statboard",
+		"tr": "Tableau des statistiques"
+	},
+	{
+		"or": "Status",
+		"tr": "Statut"
+	},
+	{
 		"or": "Stop record",
 		"tr": "Arrêter"
 	},
 	{
 		"or": "Sudden Death",
 		"tr": "Mort Subite"
+	},
+	{
+		"or": "Suicides",
+		"tr": "Suicides"
 	},
 	{
 		"or": "Switch weapon on pickup",
@@ -1197,8 +1343,20 @@
 		"tr": "Les équipes sont verrouillées. Vous pourrez changer d'équipe dans : %02d:%02d"
 	},
 	{
+		"or": "Teams have been balanced",
+		"tr": "Les équipes ont été équilibrées"
+	},
+	{
 		"or": "Teams were locked",
 		"tr": "Les équipes ont été verrouillées"
+	},
+	{
+		"or": "Teams were shuffled",
+		"tr": "Les équipes ont été mélangées"
+	},
+	{
+		"or": "Teams were swapped",
+		"tr": "Les équipes ont été échangées"
 	},
 	{
 		"or": "Teams were unlocked",
@@ -1253,12 +1411,24 @@
 		"tr": "Il y a une carte non-enregistrée dans l'éditeur, vous voulez peut-être l'enregistrer avant de quitter le jeu."
 	},
 	{
+		"or": "Time",
+		"tr": "Temps"
+	},
+	{
 		"or": "Time limit",
 		"tr": "Temps limite"
 	},
 	{
 		"or": "Time limit: %d min",
 		"tr": "Temps limite : %d min"
+	},
+	{
+		"or": "Toggle dynamic camera",
+		"tr": "Activer la caméra dynamique"
+	},
+	{
+		"or": "Toggle sounds",
+		"tr": "Activer les sons"
 	},
 	{
 		"or": "Try again",
@@ -1362,6 +1532,10 @@
 		"tr": "Arme"
 	},
 	{
+		"or": "Weapons stats",
+		"tr": "Statistiques des armes"
+	},
+	{
 		"or": "Welcome to Teeworlds",
 		"tr": "Bienvenue dans Teeworlds"
 	},
@@ -1372,6 +1546,14 @@
 	{
 		"or": "Whisper",
 		"tr": "Chuchoter"
+	},
+	{
+		"or": "X",
+		"tr": "X"
+	},
+	{
+		"or": "Y",
+		"tr": "Y"
 	},
 	{
 		"or": "Yes",
@@ -1403,16 +1585,8 @@
 		"tr": "Vous avez été déplacé dans l'équipe bleue pour équilibrer"
 	},
 	{
-		"or": "You were moved to the game due to team balancing",
-		"tr": "Vous avez été déplacé dans la partie pour équilibrer"
-	},
-	{
 		"or": "You were moved to the red team due to team balancing",
 		"tr": "Vous avez été déplacé dans l'équipe rouge pour équilibrer"
-	},
-	{
-		"or": "You were moved to the spectators due to team balancing",
-		"tr": "Vous avez été déplacé dans les spectateurs pour équilibrer"
 	},
 	{
 		"or": "blue flag",

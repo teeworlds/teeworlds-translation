@@ -20,6 +20,10 @@
 },
 "translated strings": [
 	{
+		"or": " (%s seconds faster)",
+		"tr": " (%s секунд быстрее)"
+	},
+	{
 		"or": "%.3f KiB",
 		"tr": "%.3f КиБ"
 	},
@@ -80,6 +84,10 @@
 		"tr": "Осталось %i сек!"
 	},
 	{
+		"or": "%s is muted by you",
+		"tr": "%s был заглушен тобой"
+	},
+	{
 		"or": "%s wins!",
 		"tr": "%s победили!"
 	},
@@ -112,12 +120,20 @@
 		"tr": "'%s' вошёл и присоединился к наблюдателям"
 	},
 	{
+		"or": "'%s' finished in: %s",
+		"tr": "'%s' финишировал за: %s"
+	},
+	{
 		"or": "'%s' has left the game",
 		"tr": "'%s' вышел из игры"
 	},
 	{
 		"or": "'%s' has left the game (%s)",
 		"tr": "'%s' покинул игру (%s)"
+	},
+	{
+		"or": "'%s' has set a new record: %s",
+		"tr": "%sдобавлена новая запись%s"
 	},
 	{
 		"or": "'%s' initiated a pause",
@@ -158,6 +174,10 @@
 	{
 		"or": "-Page %d-",
 		"tr": "-Страница %d-"
+	},
+	{
+		"or": "-Page %d/%d-",
+		"tr": "-Страница %d/%d-"
 	},
 	{
 		"or": "Abort",
@@ -202,6 +222,10 @@
 	{
 		"or": "Admin moved '%s' to spectator (%s)",
 		"tr": "Администратор перенес '%s' в наблюдатели (%s)"
+	},
+	{
+		"or": "Aim bind",
+		"tr": "Закрепить прицел"
 	},
 	{
 		"or": "All",
@@ -284,12 +308,20 @@
 		"tr": "Основные"
 	},
 	{
+		"or": "Best spree",
+		"tr": "Лучшая серия"
+	},
+	{
 		"or": "Blue team",
 		"tr": "Синие"
 	},
 	{
 		"or": "Borderless window",
 		"tr": "Окно без рамки"
+	},
+	{
+		"or": "Browser",
+		"tr": "Браузер"
 	},
 	{
 		"or": "Call vote",
@@ -330,10 +362,6 @@
 		"tr": "Выйти"
 	},
 	{
-		"or": "Color",
-		"tr": "Цвет"
-	},
-	{
 		"or": "Compatible version",
 		"tr": "Совместимая версия"
 	},
@@ -341,6 +369,10 @@
 		"context": "Server difficulty",
 		"or": "Competitive",
 		"tr": "Высокая"
+	},
+	{
+		"or": "Configure statboard",
+		"tr": "Настроить табло статистики"
 	},
 	{
 		"or": "Connect",
@@ -383,6 +415,10 @@
 		"tr": "Создано"
 	},
 	{
+		"or": "Current spree",
+		"tr": "Текущая серия"
+	},
+	{
 		"or": "Current: %dx%d (%d:%d)",
 		"tr": "Текущее: %dx%d (%d:%d)"
 	},
@@ -399,6 +435,10 @@
 		"tr": "Настроить"
 	},
 	{
+		"or": "Deaths",
+		"tr": "Смертей"
+	},
+	{
 		"or": "Delete",
 		"tr": "Удалить"
 	},
@@ -409,10 +449,6 @@
 	{
 		"or": "Delete skin",
 		"tr": "Удалить скин"
-	},
-	{
-		"or": "Demo",
-		"tr": "Демо"
 	},
 	{
 		"or": "Demo details",
@@ -429,6 +465,10 @@
 	{
 		"or": "Detail",
 		"tr": "Подробности"
+	},
+	{
+		"or": "Device",
+		"tr": "Устройство"
 	},
 	{
 		"or": "Difficulty",
@@ -471,6 +511,10 @@
 		"tr": "Включить цветное вещание сервера"
 	},
 	{
+		"or": "Enable joystick",
+		"tr": "Включить джойстик"
+	},
+	{
 		"or": "Enter",
 		"tr": "Вход"
 	},
@@ -481,6 +525,10 @@
 	{
 		"or": "Error loading demo",
 		"tr": "Ошибка при загрузке демо"
+	},
+	{
+		"or": "FPM",
+		"tr": "FPM"
 	},
 	{
 		"or": "Favorite",
@@ -495,12 +543,28 @@
 		"tr": "Огонь"
 	},
 	{
+		"or": "Flag captures",
+		"tr": "Захвачено флагов"
+	},
+	{
+		"or": "Flag grabs",
+		"tr": "Подобрано флагов"
+	},
+	{
 		"or": "Folder",
 		"tr": "Каталог"
 	},
 	{
 		"or": "Force vote",
 		"tr": "Форсировать"
+	},
+	{
+		"or": "Frags",
+		"tr": "Убийств"
+	},
+	{
+		"or": "Frags per minute",
+		"tr": "Убийств в минуту (УВМ)"
 	},
 	{
 		"or": "Free-View",
@@ -553,6 +617,11 @@
 	{
 		"or": "Global",
 		"tr": "Глобальные"
+	},
+	{
+		"context": "Flag grabs",
+		"or": "Grabs",
+		"tr": "Захвачено"
 	},
 	{
 		"or": "Graphics",
@@ -628,6 +697,22 @@
 		"tr": "За красных"
 	},
 	{
+		"or": "Joystick",
+		"tr": "Джойстик"
+	},
+	{
+		"or": "Joystick Axis #%d",
+		"tr": "Ось джойстика #%d"
+	},
+	{
+		"or": "Joystick jitter tolerance",
+		"tr": "Колебания джойстика"
+	},
+	{
+		"or": "Joystick sens.",
+		"tr": "Чувств. джойстика"
+	},
+	{
 		"or": "Jump",
 		"tr": "Прыжок"
 	},
@@ -684,6 +769,14 @@
 		"tr": "Карта"
 	},
 	{
+		"or": "Map changed to '%s'",
+		"tr": "Смена карты на '%s'"
+	},
+	{
+		"or": "Map record",
+		"tr": "Запись карты"
+	},
+	{
 		"or": "Map:",
 		"tr": "Карта:"
 	},
@@ -709,12 +802,20 @@
 		"tr": "Макс. пинг:"
 	},
 	{
+		"or": "Menu background transparency",
+		"tr": "Прозрачность меню"
+	},
+	{
 		"or": "Menu mouse sens.",
 		"tr": "Чувств. мыши в меню"
 	},
 	{
 		"or": "Misc",
 		"tr": "Разное"
+	},
+	{
+		"or": "Mouse",
+		"tr": "Мышь"
 	},
 	{
 		"or": "Move left",
@@ -745,8 +846,17 @@
 		"tr": "Имя"
 	},
 	{
+		"context": "Net score",
+		"or": "Net",
+		"tr": "Сеть"
+	},
+	{
+		"or": "Net score",
+		"tr": "Статистика"
+	},
+	{
 		"or": "Netversion",
-		"tr": "Нетверсия"
+		"tr": "Сетевая версия"
 	},
 	{
 		"or": "New filter",
@@ -772,6 +882,10 @@
 		"context": "Without/None",
 		"or": "No",
 		"tr": "Нет"
+	},
+	{
+		"or": "No joysticks found. Plug in a joystick and restart the game.",
+		"tr": "Джойстик не найден. Подключите заново устройство и перезапустите игру."
 	},
 	{
 		"or": "No password",
@@ -886,8 +1000,16 @@
 		"tr": "Сбалансируйте команды!"
 	},
 	{
+		"or": "Press %s to resume chatting",
+		"tr": "Нажмите %sчтобы вернуться к чату"
+	},
+	{
 		"or": "Press Enter to confirm or Esc to cancel",
 		"tr": "Нажмите Enter для подтверждения или Esc для отмены"
+	},
+	{
+		"or": "Press Tab to cycle chat recipients",
+		"tr": "Нажмите Tab для выбора получателей"
 	},
 	{
 		"or": "Prev. weapon",
@@ -904,6 +1026,10 @@
 	{
 		"or": "REC %3d:%02d",
 		"tr": "REC %3d:%02d"
+	},
+	{
+		"or": "Ratio",
+		"tr": "Соотношение"
 	},
 	{
 		"or": "Ready",
@@ -1011,11 +1137,15 @@
 	},
 	{
 		"or": "Scoreboard",
-		"tr": "Табло"
+		"tr": "Табло счета"
 	},
 	{
 		"or": "Screen",
 		"tr": "Экран"
+	},
+	{
+		"or": "Screen:",
+		"tr": "Экран:"
 	},
 	{
 		"or": "Screenshot",
@@ -1075,7 +1205,7 @@
 	},
 	{
 		"or": "Show chat messages from:",
-		"tr": "Сообщения от:"
+		"tr": "Показать сообщения от:"
 	},
 	{
 		"or": "Show friends only",
@@ -1150,6 +1280,10 @@
 		"tr": "Наблюдателям не разрешено начинать голосование."
 	},
 	{
+		"or": "Spree",
+		"tr": "Серия"
+	},
+	{
 		"or": "Standard gametype",
 		"tr": "Стандартный режим"
 	},
@@ -1158,12 +1292,24 @@
 		"tr": "Стандартная карта"
 	},
 	{
+		"or": "Statboard",
+		"tr": "Табло статистики"
+	},
+	{
+		"or": "Status",
+		"tr": "Статус"
+	},
+	{
 		"or": "Stop record",
 		"tr": "Стоп"
 	},
 	{
 		"or": "Sudden Death",
 		"tr": "Быстрая смерть"
+	},
+	{
+		"or": "Suicides",
+		"tr": "Самоубийств"
 	},
 	{
 		"or": "Switch weapon on pickup",
@@ -1190,8 +1336,20 @@
 		"tr": "Команды закрыты. Время ожидания до смены команд: %02d:%02d"
 	},
 	{
+		"or": "Teams have been balanced",
+		"tr": "Команды отбалансированы"
+	},
+	{
 		"or": "Teams were locked",
 		"tr": "Команды были закрыты"
+	},
+	{
+		"or": "Teams were shuffled",
+		"tr": "Команды были перемешаны"
+	},
+	{
+		"or": "Teams were swapped",
+		"tr": "Смена сторон"
 	},
 	{
 		"or": "Teams were unlocked",
@@ -1246,12 +1404,24 @@
 		"tr": "Есть несохранённая карта в редакторе, Вы можете сохранить её перед тем, как выйти."
 	},
 	{
+		"or": "Time",
+		"tr": "Время"
+	},
+	{
 		"or": "Time limit",
 		"tr": "Ограничение времени"
 	},
 	{
 		"or": "Time limit: %d min",
 		"tr": "Лимит времени: %d мин."
+	},
+	{
+		"or": "Toggle dynamic camera",
+		"tr": "Переключатель динамичной камеры"
+	},
+	{
+		"or": "Toggle sounds",
+		"tr": "Тумблер звука"
 	},
 	{
 		"or": "Try again",
@@ -1355,6 +1525,10 @@
 		"tr": "Оружие"
 	},
 	{
+		"or": "Weapons stats",
+		"tr": "Статистика оружия"
+	},
+	{
 		"or": "Welcome to Teeworlds",
 		"tr": "Добро пожаловать в Teeworlds"
 	},
@@ -1365,6 +1539,14 @@
 	{
 		"or": "Whisper",
 		"tr": "Написать игроку"
+	},
+	{
+		"or": "X",
+		"tr": "Х"
+	},
+	{
+		"or": "Y",
+		"tr": "Y"
 	},
 	{
 		"or": "Yes",
@@ -1396,16 +1578,8 @@
 		"tr": "Вы перемещены в синюю команду во время балансировки команд"
 	},
 	{
-		"or": "You were moved to the game due to team balancing",
-		"tr": "Вы перемещены в игру во время балансировки команд"
-	},
-	{
 		"or": "You were moved to the red team due to team balancing",
 		"tr": "Вы перемещены в красную команду во время балансировки команд"
-	},
-	{
-		"or": "You were moved to the spectators due to team balancing",
-		"tr": "Вы перемещены в наблюдатели во время балансировки команд"
 	},
 	{
 		"or": "blue flag",

@@ -179,6 +179,10 @@
 		"tr": "Reunaton ikkuna"
 	},
 	{
+		"or": "Browser",
+		"tr": "Selain"
+	},
+	{
 		"or": "Call vote",
 		"tr": "Aloita äänestys"
 	},
@@ -201,10 +205,6 @@
 	{
 		"or": "Close",
 		"tr": "Sulje"
-	},
-	{
-		"or": "Color",
-		"tr": "Väri"
 	},
 	{
 		"or": "Compatible version",
@@ -269,10 +269,6 @@
 	{
 		"or": "Delete skin",
 		"tr": "Poista ulkoasu"
-	},
-	{
-		"or": "Demo",
-		"tr": "Demo"
 	},
 	{
 		"or": "Demo details",

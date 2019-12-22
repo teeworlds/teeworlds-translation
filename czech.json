@@ -153,6 +153,10 @@
 		"tr": "Okno bez rámečku"
 	},
 	{
+		"or": "Browser",
+		"tr": "Prohlížeč"
+	},
+	{
 		"or": "Call vote",
 		"tr": "Hlasovat"
 	},
@@ -175,10 +179,6 @@
 	{
 		"or": "Close",
 		"tr": "Zavřít"
-	},
-	{
-		"or": "Color",
-		"tr": "Barva"
 	},
 	{
 		"or": "Compatible version",
