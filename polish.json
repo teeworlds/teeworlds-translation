@@ -127,11 +127,11 @@
 	},
 	{
 		"or": "'%s' has set a new map record: %s",
-		"tr": "ustanowił nowy rekord mapy"
+		"tr": "'%s' ustanowił nowy rekord mapy: %s"
 	},
 	{
 		"or": "'%s' has set a new personal record: %s",
-		"tr": "ustanowił nowy rekord osobisty"
+		"tr": "'%s' ustanowił nowy rekord osobisty: %s"
 	},
 	{
 		"or": "'%s' initiated a pause",
