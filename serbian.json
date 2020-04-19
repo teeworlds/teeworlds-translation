@@ -11,7 +11,7 @@
 "translated strings": [
 	{
 		"or": " (%s seconds faster)",
-		"tr": " (%s sekundi brže)"
+		"tr": "(%s sekundi brže)"
 	},
 	{
 		"or": "%.3f KiB",
@@ -122,8 +122,12 @@
 		"tr": "'%s' je napustio igru (%s)"
 	},
 	{
-		"or": "'%s' has set a new record: %s",
-		"tr": "'%s' je postavio novi rekord: %s"
+		"or": "'%s' has set a new map record: %s",
+		"tr": "'%s' je postavio novi rekord mape: %s"
+	},
+	{
+		"or": "'%s' has set a new personal record: %s",
+		"tr": "'%s' je postavio novi lični rekord: %s"
 	},
 	{
 		"or": "'%s' initiated a pause",
@@ -262,6 +266,10 @@
 		"tr": "Jeste li sigurni da želite da izađete?"
 	},
 	{
+		"or": "Are you sure that you want to remove the clan from your friends list?",
+		"tr": "Da li ste sigurni da želite da uklonite klan sa svoje liste prijatelja?"
+	},
+	{
 		"or": "Are you sure that you want to remove the filter from the server browser?",
 		"tr": "Da li ste sigurni da želite da uklonite filter sa server pretraživača?"
 	},
@@ -308,10 +316,6 @@
 	{
 		"or": "Borderless window",
 		"tr": "Prozor bez okvira"
-	},
-	{
-		"or": "Browser",
-		"tr": "Pretraživač"
 	},
 	{
 		"or": "Call vote",
@@ -469,6 +473,10 @@
 		"tr": "Težina:"
 	},
 	{
+		"or": "Disable whisper feature",
+		"tr": "Onemogući funkciju šaputanja"
+	},
+	{
 		"or": "Disconnect",
 		"tr": "Diskonektuj"
 	},
@@ -527,6 +535,10 @@
 	{
 		"or": "Favorites",
 		"tr": "Omiljeni"
+	},
+	{
+		"or": "Fetching server info",
+		"tr": "Dohvaćanje informacija o serveru"
 	},
 	{
 		"or": "Fire",
@@ -739,10 +751,6 @@
 		"tr": "Učitaj zvučni sistem"
 	},
 	{
-		"or": "Loading",
-		"tr": "Učitavam"
-	},
-	{
 		"or": "Local",
 		"tr": "Lokalni"
 	},
@@ -874,6 +882,10 @@
 		"tr": "Ne"
 	},
 	{
+		"or": "No filter category is selected",
+		"tr": "Nije odabrana nijedna kategorija filtera"
+	},
+	{
 		"or": "No joysticks found. Plug in a joystick and restart the game.",
 		"tr": "Nisu pronađjene džojstike. Uključite džojstik i ponovo pokrenite igru."
 	},
@@ -998,8 +1010,12 @@
 		"tr": "Pritisnite Enter za potvrdu ili Esc za otkaz"
 	},
 	{
-		"or": "Press Tab to cycle chat recipients",
-		"tr": "Pritisnite Tab da biste prebacili korisnike na chat-u"
+		"or": "Press Tab to cycle chat recipients. Whispers aren't encrypted and might be logged by the server.",
+		"tr": "Pritisnite Tab da biste menjali primalaca. Šapat se ne šifrira i server ih može evidentirati."
+	},
+	{
+		"or": "Press Tab to select or Esc to cancel",
+		"tr": "Pritisnite Tab za odabir ili Esc da biste ga otkazali"
 	},
 	{
 		"or": "Prev. weapon",
@@ -1114,6 +1130,14 @@
 		"tr": "Sačuvaj"
 	},
 	{
+		"or": "Save password",
+		"tr": "Sačuvaj lozinku"
+	},
+	{
+		"or": "Save password and server as favorite",
+		"tr": "Sačuvaj lozinku i server kao omiljeni"
+	},
+	{
 		"or": "Save skin",
 		"tr": "Sačuvaj skin"
 	},
@@ -1192,6 +1216,10 @@
 	{
 		"or": "Show chat",
 		"tr": "Prikaži chat"
+	},
+	{
+		"or": "Show chat messages from",
+		"tr": "Prikaži čet poruke od"
 	},
 	{
 		"or": "Show chat messages from:",
@@ -1531,14 +1559,6 @@
 		"tr": "Šapat"
 	},
 	{
-		"or": "X",
-		"tr": "X"
-	},
-	{
-		"or": "Y",
-		"tr": "Y"
-	},
-	{
 		"or": "Yes",
 		"tr": "Da"
 	},
@@ -1586,6 +1606,11 @@
 		"tr": "dekoracija"
 	},
 	{
+		"context": "Show chat messages from",
+		"or": "everyone",
+		"tr": "svakog"
+	},
+	{
 		"context": "Show chat messages from:",
 		"or": "everyone",
 		"tr": "svakog"
@@ -1601,6 +1626,11 @@
 		"tr": "stopala"
 	},
 	{
+		"context": "Show chat messages from",
+		"or": "friends only",
+		"tr": "samo prijatelje"
+	},
+	{
 		"context": "Show chat messages from:",
 		"or": "friends only",
 		"tr": "samo prijatelje"
@@ -1611,6 +1641,10 @@
 		"tr": "ruke"
 	},
 	{
+		"or": "key not found",
+		"tr": "Dugme nije pronađjeno"
+	},
+	{
 		"or": "locked",
 		"tr": "zaključano"
 	},
@@ -1618,6 +1652,11 @@
 		"context": "skins",
 		"or": "marking",
 		"tr": "oznake"
+	},
+	{
+		"context": "Show chat messages from",
+		"or": "no one",
+		"tr": "nikog"
 	},
 	{
 		"context": "Show chat messages from:",

@@ -122,8 +122,12 @@
 		"tr": "„%s“ напусна играта (%s)"
 	},
 	{
-		"or": "'%s' has set a new record: %s",
-		"tr": "„%s“ записа нов рекорд: %s"
+		"or": "'%s' has set a new map record: %s",
+		"tr": "„%s“ записа нов рекорд на картата: %s"
+	},
+	{
+		"or": "'%s' has set a new personal record: %s",
+		"tr": "„%s“ записа нов собствен рекорд: %s"
 	},
 	{
 		"or": "'%s' initiated a pause",
@@ -262,6 +266,10 @@
 		"tr": "Наистина ли искате да напуснете?"
 	},
 	{
+		"or": "Are you sure that you want to remove the clan from your friends list?",
+		"tr": "Наинстина ли искате да премахнете клана от списъка си с приятели?"
+	},
+	{
 		"or": "Are you sure that you want to remove the filter from the server browser?",
 		"tr": "Наистина ли искате да премахнете филтъра от списъка със сървъри?"
 	},
@@ -308,10 +316,6 @@
 	{
 		"or": "Borderless window",
 		"tr": "Прозорец без рамка"
-	},
-	{
-		"or": "Browser",
-		"tr": "Браузър"
 	},
 	{
 		"or": "Call vote",
@@ -469,6 +473,10 @@
 		"tr": "Трудност:"
 	},
 	{
+		"or": "Disable whisper feature",
+		"tr": "Изключване на функционалността за шепоти"
+	},
+	{
 		"or": "Disconnect",
 		"tr": "Разкачане"
 	},
@@ -527,6 +535,10 @@
 	{
 		"or": "Favorites",
 		"tr": "Любими"
+	},
+	{
+		"or": "Fetching server info",
+		"tr": "Получаване на информацията за сървъра"
 	},
 	{
 		"or": "Fire",
@@ -739,10 +751,6 @@
 		"tr": "Зареждане на звуковата система"
 	},
 	{
-		"or": "Loading",
-		"tr": "Зареждане"
-	},
-	{
 		"or": "Local",
 		"tr": "Местни"
 	},
@@ -874,6 +882,10 @@
 		"tr": "Не"
 	},
 	{
+		"or": "No filter category is selected",
+		"tr": "Не е избран филтър за категорията"
+	},
+	{
 		"or": "No joysticks found. Plug in a joystick and restart the game.",
 		"tr": "Няма намерени контролери. Включете контролер и рестартирайте играта."
 	},
@@ -998,8 +1010,12 @@
 		"tr": "Натиснете „Enter“ за потвърждение или „Esc“ за отказ"
 	},
 	{
-		"or": "Press Tab to cycle chat recipients",
-		"tr": "Натиснете Tab, за да прехвърляте получателите"
+		"or": "Press Tab to cycle chat recipients. Whispers aren't encrypted and might be logged by the server.",
+		"tr": "Натиснете „Tab“, за да превъртате получателите. Шепотите не са шифровани и могат да бъдат записване в журнала на сървъра."
+	},
+	{
+		"or": "Press Tab to select or Esc to cancel",
+		"tr": "Натиснете „Tab“ за избор или „Esc“ за отказ"
 	},
 	{
 		"or": "Prev. weapon",
@@ -1114,6 +1130,14 @@
 		"tr": "Запазване"
 	},
 	{
+		"or": "Save password",
+		"tr": "Запазване на паролата"
+	},
+	{
+		"or": "Save password and server as favorite",
+		"tr": "Запазване на паролата и сървъра като любими"
+	},
+	{
 		"or": "Save skin",
 		"tr": "Запазване на облика"
 	},
@@ -1192,6 +1216,10 @@
 	{
 		"or": "Show chat",
 		"tr": "Показване на чата"
+	},
+	{
+		"or": "Show chat messages from",
+		"tr": "Показване на съобщенията от"
 	},
 	{
 		"or": "Show chat messages from:",
@@ -1531,14 +1559,6 @@
 		"tr": "Шепот"
 	},
 	{
-		"or": "X",
-		"tr": "X"
-	},
-	{
-		"or": "Y",
-		"tr": "Y"
-	},
-	{
 		"or": "Yes",
 		"tr": "Да"
 	},
@@ -1586,6 +1606,11 @@
 		"tr": "украса"
 	},
 	{
+		"context": "Show chat messages from",
+		"or": "everyone",
+		"tr": "всички"
+	},
+	{
 		"context": "Show chat messages from:",
 		"or": "everyone",
 		"tr": "всички"
@@ -1601,6 +1626,11 @@
 		"tr": "крака"
 	},
 	{
+		"context": "Show chat messages from",
+		"or": "friends only",
+		"tr": "само от приятели"
+	},
+	{
 		"context": "Show chat messages from:",
 		"or": "friends only",
 		"tr": "само от приятели"
@@ -1611,6 +1641,10 @@
 		"tr": "ръце"
 	},
 	{
+		"or": "key not found",
+		"tr": "ключът не е намерен"
+	},
+	{
 		"or": "locked",
 		"tr": "заключено"
 	},
@@ -1618,6 +1652,11 @@
 		"context": "skins",
 		"or": "marking",
 		"tr": "оцветяване"
+	},
+	{
+		"context": "Show chat messages from",
+		"or": "no one",
+		"tr": "никого"
 	},
 	{
 		"context": "Show chat messages from:",

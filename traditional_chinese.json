@@ -9,7 +9,7 @@
 "translated strings": [
 	{
 		"or": " (%s seconds faster)",
-		"tr": " ( -%s 秒 )"
+		"tr": "( -%s 秒 )"
 	},
 	{
 		"or": "%.3f KiB",
@@ -120,8 +120,12 @@
 		"tr": "'%s' 離開了遊戲 (%s)"
 	},
 	{
-		"or": "'%s' has set a new record: %s",
-		"tr": "'%s' 打破了最高記錄：%s"
+		"or": "'%s' has set a new map record: %s",
+		"tr": "'%s' 打破了地圖最高記錄：%s"
+	},
+	{
+		"or": "'%s' has set a new personal record: %s",
+		"tr": "'%s' 打破了個人最高記錄：%s"
 	},
 	{
 		"or": "'%s' initiated a pause",
@@ -260,6 +264,10 @@
 		"tr": "你確定要退出嗎？"
 	},
 	{
+		"or": "Are you sure that you want to remove the clan from your friends list?",
+		"tr": "你確定要把這個戰隊從好友列表中刪除嗎？"
+	},
+	{
 		"or": "Are you sure that you want to remove the filter from the server browser?",
 		"tr": "你確定要在伺服器列表中刪除這個過濾條件嗎？"
 	},
@@ -306,10 +314,6 @@
 	{
 		"or": "Borderless window",
 		"tr": "無邊框視窗"
-	},
-	{
-		"or": "Browser",
-		"tr": "伺服器"
 	},
 	{
 		"or": "Call vote",
@@ -467,6 +471,10 @@
 		"tr": "難度："
 	},
 	{
+		"or": "Disable whisper feature",
+		"tr": "禁用私訊功能"
+	},
+	{
 		"or": "Disconnect",
 		"tr": "斷開連線"
 	},
@@ -525,6 +533,10 @@
 	{
 		"or": "Favorites",
 		"tr": "收藏"
+	},
+	{
+		"or": "Fetching server info",
+		"tr": "正在拉取伺服器信息"
 	},
 	{
 		"or": "Fire",
@@ -737,10 +749,6 @@
 		"tr": "載入聲音系統"
 	},
 	{
-		"or": "Loading",
-		"tr": "載入中"
-	},
-	{
 		"or": "Local",
 		"tr": "本地"
 	},
@@ -872,6 +880,10 @@
 		"tr": "否"
 	},
 	{
+		"or": "No filter category is selected",
+		"tr": "請展開一個過濾器分類"
+	},
+	{
 		"or": "No joysticks found. Plug in a joystick and restart the game.",
 		"tr": "未發現遊戲控制器。連線遊戲控制器後請重啟遊戲。"
 	},
@@ -996,8 +1008,12 @@
 		"tr": "按 Enter 鍵確認或 Esc 鍵取消"
 	},
 	{
-		"or": "Press Tab to cycle chat recipients",
-		"tr": "按 Tab 選擇聊天物件"
+		"or": "Press Tab to cycle chat recipients. Whispers aren't encrypted and might be logged by the server.",
+		"tr": "按 T​​ab 鍵輪換收訊人。私訊不會被加密，伺服器可能會記錄您的訊息。"
+	},
+	{
+		"or": "Press Tab to select or Esc to cancel",
+		"tr": "按 Enter 鍵選擇或 Esc 鍵取消"
 	},
 	{
 		"or": "Prev. weapon",
@@ -1112,6 +1128,14 @@
 		"tr": "儲存"
 	},
 	{
+		"or": "Save password",
+		"tr": "保存伺服器密碼"
+	},
+	{
+		"or": "Save password and server as favorite",
+		"tr": "保存伺服器密碼並添加到收藏"
+	},
+	{
 		"or": "Save skin",
 		"tr": "儲存造型"
 	},
@@ -1190,6 +1214,10 @@
 	{
 		"or": "Show chat",
 		"tr": "顯示聊天"
+	},
+	{
+		"or": "Show chat messages from",
+		"tr": "聊天訊息過濾"
 	},
 	{
 		"or": "Show chat messages from:",
@@ -1529,14 +1557,6 @@
 		"tr": "私訊"
 	},
 	{
-		"or": "X",
-		"tr": "X"
-	},
-	{
-		"or": "Y",
-		"tr": "Y"
-	},
-	{
 		"or": "Yes",
 		"tr": "是"
 	},
@@ -1584,6 +1604,11 @@
 		"tr": "裝飾"
 	},
 	{
+		"context": "Show chat messages from",
+		"or": "everyone",
+		"tr": "允許所有"
+	},
+	{
 		"context": "Show chat messages from:",
 		"or": "everyone",
 		"tr": "允許所有"
@@ -1599,6 +1624,11 @@
 		"tr": "腳"
 	},
 	{
+		"context": "Show chat messages from",
+		"or": "friends only",
+		"tr": "僅好友"
+	},
+	{
 		"context": "Show chat messages from:",
 		"or": "friends only",
 		"tr": "僅好友"
@@ -1609,6 +1639,10 @@
 		"tr": "手"
 	},
 	{
+		"or": "key not found",
+		"tr": "鍵位不存在"
+	},
+	{
 		"or": "locked",
 		"tr": "已鎖定"
 	},
@@ -1616,6 +1650,11 @@
 		"context": "skins",
 		"or": "marking",
 		"tr": "印記"
+	},
+	{
+		"context": "Show chat messages from",
+		"or": "no one",
+		"tr": "屏蔽所有"
 	},
 	{
 		"context": "Show chat messages from:",

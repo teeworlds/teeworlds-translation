@@ -132,8 +132,12 @@
 		"tr": "'%s' saiu do jogo (%s)"
 	},
 	{
-		"or": "'%s' has set a new record: %s",
-		"tr": "'%s' definiu um novo recorde: %s"
+		"or": "'%s' has set a new map record: %s",
+		"tr": "'%s' definiu um novo recorde do mapa: %s"
+	},
+	{
+		"or": "'%s' has set a new personal record: %s",
+		"tr": "\"%s\" definiu um novo recorde pessoal: %s"
 	},
 	{
 		"or": "'%s' initiated a pause",
@@ -237,7 +241,7 @@
 	},
 	{
 		"or": "All players were moved to the game",
-		"tr": "Todos os jogadores foram movimentos para o jogo"
+		"tr": "Todos os jogadores foram movidos para o jogo"
 	},
 	{
 		"or": "All players were moved to the red team",
@@ -270,6 +274,10 @@
 	{
 		"or": "Are you sure that you want to quit?",
 		"tr": "Tem certeza que deseja sair?"
+	},
+	{
+		"or": "Are you sure that you want to remove the clan from your friends list?",
+		"tr": "Tem certeza que deseja remover o clã de sua lista de amigos?"
 	},
 	{
 		"or": "Are you sure that you want to remove the filter from the server browser?",
@@ -318,10 +326,6 @@
 	{
 		"or": "Borderless window",
 		"tr": "Janela sem borda"
-	},
-	{
-		"or": "Browser",
-		"tr": "Navegador"
 	},
 	{
 		"or": "Call vote",
@@ -479,6 +483,10 @@
 		"tr": "Dificuldade:"
 	},
 	{
+		"or": "Disable whisper feature",
+		"tr": "Desabilitar o recurso de sussurro"
+	},
+	{
 		"or": "Disconnect",
 		"tr": "Desconectar"
 	},
@@ -537,6 +545,10 @@
 	{
 		"or": "Favorites",
 		"tr": "Favoritos"
+	},
+	{
+		"or": "Fetching server info",
+		"tr": "Obtendo informações de servidor"
 	},
 	{
 		"or": "Fire",
@@ -749,10 +761,6 @@
 		"tr": "Carregar o sistema de som"
 	},
 	{
-		"or": "Loading",
-		"tr": "Carregando"
-	},
-	{
 		"or": "Local",
 		"tr": "Local"
 	},
@@ -884,6 +892,10 @@
 		"tr": "Não"
 	},
 	{
+		"or": "No filter category is selected",
+		"tr": "Nenhuma categoria de filtro está selecionada"
+	},
+	{
 		"or": "No joysticks found. Plug in a joystick and restart the game.",
 		"tr": "Nenhum joysticks encontrado. Conecte um joystick e reinicie o jogo."
 	},
@@ -1008,8 +1020,12 @@
 		"tr": "Pressione Enter para confirmar ou Esc para cancelar"
 	},
 	{
-		"or": "Press Tab to cycle chat recipients",
-		"tr": "Pressione Tab para alternar entre destinatários do chat"
+		"or": "Press Tab to cycle chat recipients. Whispers aren't encrypted and might be logged by the server.",
+		"tr": "Pressione Tab para alterar destinatários de chat. Sussurros não são criptografados e podem ser registrados pelo servidor."
+	},
+	{
+		"or": "Press Tab to select or Esc to cancel",
+		"tr": "Pressione Tab para selecionar ou Esc para cancelar"
 	},
 	{
 		"or": "Prev. weapon",
@@ -1124,6 +1140,14 @@
 		"tr": "Salvar"
 	},
 	{
+		"or": "Save password",
+		"tr": "Salvar senha"
+	},
+	{
+		"or": "Save password and server as favorite",
+		"tr": "Salvar senha e servidor como favorito"
+	},
+	{
 		"or": "Save skin",
 		"tr": "Salvar skin"
 	},
@@ -1202,6 +1226,10 @@
 	{
 		"or": "Show chat",
 		"tr": "Mostrar chat"
+	},
+	{
+		"or": "Show chat messages from",
+		"tr": "Mostrar mensagens de chat de"
 	},
 	{
 		"or": "Show chat messages from:",
@@ -1541,14 +1569,6 @@
 		"tr": "Sussurrar"
 	},
 	{
-		"or": "X",
-		"tr": "X"
-	},
-	{
-		"or": "Y",
-		"tr": "Y"
-	},
-	{
 		"or": "Yes",
 		"tr": "Sim"
 	},
@@ -1575,11 +1595,11 @@
 	},
 	{
 		"or": "You were moved to the blue team due to team balancing",
-		"tr": "Você foi movido para o time azul devido a balanceamento de times "
+		"tr": "Você foi movido para o time azul devido ao balanceamento de times "
 	},
 	{
 		"or": "You were moved to the red team due to team balancing",
-		"tr": "Você foi movido para o time vermelho devido a balanceamento de times"
+		"tr": "Você foi movido para o time vermelho devido ao balanceamento de times"
 	},
 	{
 		"or": "blue flag",
@@ -1594,6 +1614,11 @@
 		"context": "skins",
 		"or": "decoration",
 		"tr": "decoração"
+	},
+	{
+		"context": "Show chat messages from",
+		"or": "everyone",
+		"tr": "todo mundo"
 	},
 	{
 		"context": "Show chat messages from:",
@@ -1611,6 +1636,11 @@
 		"tr": "pés"
 	},
 	{
+		"context": "Show chat messages from",
+		"or": "friends only",
+		"tr": "amigos apenas"
+	},
+	{
 		"context": "Show chat messages from:",
 		"or": "friends only",
 		"tr": "amigos apenas"
@@ -1621,6 +1651,10 @@
 		"tr": "mãos"
 	},
 	{
+		"or": "key not found",
+		"tr": "tecla não encontrada"
+	},
+	{
 		"or": "locked",
 		"tr": "travado"
 	},
@@ -1628,6 +1662,11 @@
 		"context": "skins",
 		"or": "marking",
 		"tr": "marcas"
+	},
+	{
+		"context": "Show chat messages from",
+		"or": "no one",
+		"tr": "ninguém"
 	},
 	{
 		"context": "Show chat messages from:",

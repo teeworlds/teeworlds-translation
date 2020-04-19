@@ -21,7 +21,7 @@
 "translated strings": [
 	{
 		"or": " (%s seconds faster)",
-		"tr": " (%s секунд быстрее)"
+		"tr": "(%sсекунд быстрее)"
 	},
 	{
 		"or": "%.3f KiB",
@@ -33,7 +33,7 @@
 	},
 	{
 		"or": "%d player left",
-		"tr": "%d игрок вышел"
+		"tr": "остался %d игрок"
 	},
 	{
 		"or": "%d player not ready",
@@ -45,7 +45,7 @@
 	},
 	{
 		"or": "%d players left",
-		"tr": "%d игроки вышли"
+		"tr": "осталось %d игроков"
 	},
 	{
 		"or": "%d players not ready",
@@ -132,12 +132,16 @@
 		"tr": "'%s' покинул игру (%s)"
 	},
 	{
-		"or": "'%s' has set a new record: %s",
-		"tr": "%sдобавлена новая запись%s"
+		"or": "'%s' has set a new map record: %s",
+		"tr": "'%s'  поставил(а) новый рекорд на карте: %s"
+	},
+	{
+		"or": "'%s' has set a new personal record: %s",
+		"tr": "'%s' поставил(а) новый персональный рекорд: %s"
 	},
 	{
 		"or": "'%s' initiated a pause",
-		"tr": "'%s' инициировал паузу"
+		"tr": "'%s' поставил на паузу"
 	},
 	{
 		"or": "'%s' joined the blue team",
@@ -272,6 +276,10 @@
 		"tr": "Вы действительно хотите выйти?"
 	},
 	{
+		"or": "Are you sure that you want to remove the clan from your friends list?",
+		"tr": "Вы уверены, что хотите удалить клан из списка друзей?"
+	},
+	{
 		"or": "Are you sure that you want to remove the filter from the server browser?",
 		"tr": "Вы действительно хотите удалить фильтр из браузера серверов? "
 	},
@@ -318,10 +326,6 @@
 	{
 		"or": "Borderless window",
 		"tr": "Окно без рамки"
-	},
-	{
-		"or": "Browser",
-		"tr": "Браузер"
 	},
 	{
 		"or": "Call vote",
@@ -479,6 +483,10 @@
 		"tr": "Сложность:"
 	},
 	{
+		"or": "Disable whisper feature",
+		"tr": "Отключить Шепот"
+	},
+	{
 		"or": "Disconnect",
 		"tr": "Отключиться"
 	},
@@ -537,6 +545,10 @@
 	{
 		"or": "Favorites",
 		"tr": "Избранные"
+	},
+	{
+		"or": "Fetching server info",
+		"tr": "Сбор информации о сервере"
 	},
 	{
 		"or": "Fire",
@@ -749,10 +761,6 @@
 		"tr": "Загрузить звуковую систему"
 	},
 	{
-		"or": "Loading",
-		"tr": "Загрузка"
-	},
-	{
 		"or": "Local",
 		"tr": "Локальные"
 	},
@@ -884,6 +892,10 @@
 		"tr": "Нет"
 	},
 	{
+		"or": "No filter category is selected",
+		"tr": "Фильтры не выбраны"
+	},
+	{
 		"or": "No joysticks found. Plug in a joystick and restart the game.",
 		"tr": "Джойстик не найден. Подключите заново устройство и перезапустите игру."
 	},
@@ -1008,8 +1020,12 @@
 		"tr": "Нажмите Enter для подтверждения или Esc для отмены"
 	},
 	{
-		"or": "Press Tab to cycle chat recipients",
-		"tr": "Нажмите Tab для выбора получателей"
+		"or": "Press Tab to cycle chat recipients. Whispers aren't encrypted and might be logged by the server.",
+		"tr": "Нажмите клавишу Tab, чтобы зациклить чат. Шепот не зашифрован и может быть занесен в журнал сервером."
+	},
+	{
+		"or": "Press Tab to select or Esc to cancel",
+		"tr": "Нажмите Tab чтобы выбрать или Esc чтобы отменить"
 	},
 	{
 		"or": "Prev. weapon",
@@ -1124,6 +1140,14 @@
 		"tr": "Сохранить"
 	},
 	{
+		"or": "Save password",
+		"tr": "Сохранить пароль"
+	},
+	{
+		"or": "Save password and server as favorite",
+		"tr": "Сохранить пароль и сервер как любимый"
+	},
+	{
 		"or": "Save skin",
 		"tr": "Сохранить скин"
 	},
@@ -1204,8 +1228,12 @@
 		"tr": "Показать чат"
 	},
 	{
+		"or": "Show chat messages from",
+		"tr": "Показывать сообщения в чате от"
+	},
+	{
 		"or": "Show chat messages from:",
-		"tr": "Показать сообщения от:"
+		"tr": "Сообщения от:"
 	},
 	{
 		"or": "Show friends only",
@@ -1241,7 +1269,7 @@
 	},
 	{
 		"or": "Skip the main menu",
-		"tr": "Пропустить главное меню"
+		"tr": "Пропускать главное меню"
 	},
 	{
 		"or": "Sound",
@@ -1541,14 +1569,6 @@
 		"tr": "Написать игроку"
 	},
 	{
-		"or": "X",
-		"tr": "Х"
-	},
-	{
-		"or": "Y",
-		"tr": "Y"
-	},
-	{
 		"or": "Yes",
 		"tr": "Да"
 	},
@@ -1575,11 +1595,11 @@
 	},
 	{
 		"or": "You were moved to the blue team due to team balancing",
-		"tr": "Вы перемещены в синюю команду во время балансировки команд"
+		"tr": "Вы перемещены в синюю команду во время балансировки"
 	},
 	{
 		"or": "You were moved to the red team due to team balancing",
-		"tr": "Вы перемещены в красную команду во время балансировки команд"
+		"tr": "Вы перемещены в красную команду во время балансировки"
 	},
 	{
 		"or": "blue flag",
@@ -1594,6 +1614,11 @@
 		"context": "skins",
 		"or": "decoration",
 		"tr": "украшение"
+	},
+	{
+		"context": "Show chat messages from",
+		"or": "everyone",
+		"tr": "всех"
 	},
 	{
 		"context": "Show chat messages from:",
@@ -1611,6 +1636,11 @@
 		"tr": "ноги"
 	},
 	{
+		"context": "Show chat messages from",
+		"or": "friends only",
+		"tr": "только друзей"
+	},
+	{
 		"context": "Show chat messages from:",
 		"or": "friends only",
 		"tr": "только друзей"
@@ -1621,6 +1651,10 @@
 		"tr": "руки"
 	},
 	{
+		"or": "key not found",
+		"tr": "кнопка не найдена"
+	},
+	{
 		"or": "locked",
 		"tr": "закрыто"
 	},
@@ -1628,6 +1662,11 @@
 		"context": "skins",
 		"or": "marking",
 		"tr": "окрас"
+	},
+	{
+		"context": "Show chat messages from",
+		"or": "no one",
+		"tr": "никого"
 	},
 	{
 		"context": "Show chat messages from:",

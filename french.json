@@ -28,7 +28,7 @@
 "translated strings": [
 	{
 		"or": " (%s seconds faster)",
-		"tr": " (%s secondes de moins)"
+		"tr": "(%s secondes de moins)"
 	},
 	{
 		"or": "%.3f KiB",
@@ -139,8 +139,12 @@
 		"tr": "'%s' a quitté le jeu (%s)"
 	},
 	{
-		"or": "'%s' has set a new record: %s",
-		"tr": "'%s' a établi un nouveau record: %s"
+		"or": "'%s' has set a new map record: %s",
+		"tr": "'%s' a établi un nouveau record sur le serveur: %s"
+	},
+	{
+		"or": "'%s' has set a new personal record: %s",
+		"tr": "'%s' a établi un nouveau record personnel: %s"
 	},
 	{
 		"or": "'%s' initiated a pause",
@@ -279,6 +283,10 @@
 		"tr": "Êtes-vous sûr de vouloir quitter ?"
 	},
 	{
+		"or": "Are you sure that you want to remove the clan from your friends list?",
+		"tr": "Êtes-vous sûr de vouloir retirer ce clan de votre liste d'amis ?"
+	},
+	{
 		"or": "Are you sure that you want to remove the filter from the server browser?",
 		"tr": "Êtes-vous sûr de vouloir supprimer le filtre du navigateur ?"
 	},
@@ -325,10 +333,6 @@
 	{
 		"or": "Borderless window",
 		"tr": "Fenêtre sans contours"
-	},
-	{
-		"or": "Browser",
-		"tr": "Serveurs"
 	},
 	{
 		"or": "Call vote",
@@ -486,6 +490,10 @@
 		"tr": "Niveau :"
 	},
 	{
+		"or": "Disable whisper feature",
+		"tr": "Désactiver les messages privés"
+	},
+	{
 		"or": "Disconnect",
 		"tr": "Partir"
 	},
@@ -544,6 +552,10 @@
 	{
 		"or": "Favorites",
 		"tr": "Favoris"
+	},
+	{
+		"or": "Fetching server info",
+		"tr": "Récupération des informations serveur"
 	},
 	{
 		"or": "Fire",
@@ -756,10 +768,6 @@
 		"tr": "Charger les sons"
 	},
 	{
-		"or": "Loading",
-		"tr": "Chargement"
-	},
-	{
 		"or": "Local",
 		"tr": "Local"
 	},
@@ -891,6 +899,10 @@
 		"tr": "Non"
 	},
 	{
+		"or": "No filter category is selected",
+		"tr": "Aucune catégorie de filtre n'a été sélectionnée"
+	},
+	{
 		"or": "No joysticks found. Plug in a joystick and restart the game.",
 		"tr": "Aucun joystick détecté. Banchez un joystick et redémarrez le jeu."
 	},
@@ -1015,8 +1027,12 @@
 		"tr": "Appuyez sur Entrée pour confirmer ou Échap pour annuler"
 	},
 	{
-		"or": "Press Tab to cycle chat recipients",
-		"tr": "Appuyez sur Tab pour naviguer entre les différents destinataires"
+		"or": "Press Tab to cycle chat recipients. Whispers aren't encrypted and might be logged by the server.",
+		"tr": "Appuyez sur Tab pour faire défiler les destinataires. Les messages privés ne sont pas chiffrés et risques donc d'être enregistrés par le serveur."
+	},
+	{
+		"or": "Press Tab to select or Esc to cancel",
+		"tr": "Appuyez sur Tab pour sélectionner ou Échap pour annuler "
 	},
 	{
 		"or": "Prev. weapon",
@@ -1131,6 +1147,14 @@
 		"tr": "Sauvegarder"
 	},
 	{
+		"or": "Save password",
+		"tr": "Enregistrer le mot de passe"
+	},
+	{
+		"or": "Save password and server as favorite",
+		"tr": "Sauvegarde le serveur ainsi que son mot de passe comme favoris"
+	},
+	{
 		"or": "Save skin",
 		"tr": "Sauvegarder le skin"
 	},
@@ -1209,6 +1233,10 @@
 	{
 		"or": "Show chat",
 		"tr": "Montrer le chat"
+	},
+	{
+		"or": "Show chat messages from",
+		"tr": "Montrer les messages de "
 	},
 	{
 		"or": "Show chat messages from:",
@@ -1548,14 +1576,6 @@
 		"tr": "Chuchoter"
 	},
 	{
-		"or": "X",
-		"tr": "X"
-	},
-	{
-		"or": "Y",
-		"tr": "Y"
-	},
-	{
 		"or": "Yes",
 		"tr": "Oui"
 	},
@@ -1603,6 +1623,11 @@
 		"tr": "décorations"
 	},
 	{
+		"context": "Show chat messages from",
+		"or": "everyone",
+		"tr": "tout le monde"
+	},
+	{
 		"context": "Show chat messages from:",
 		"or": "everyone",
 		"tr": "tout le monde"
@@ -1618,6 +1643,11 @@
 		"tr": "pieds"
 	},
 	{
+		"context": "Show chat messages from",
+		"or": "friends only",
+		"tr": "seulement les amis"
+	},
+	{
 		"context": "Show chat messages from:",
 		"or": "friends only",
 		"tr": "seulement les amis"
@@ -1628,6 +1658,10 @@
 		"tr": "mains"
 	},
 	{
+		"or": "key not found",
+		"tr": "touche introuvable"
+	},
+	{
 		"or": "locked",
 		"tr": "bloqué"
 	},
@@ -1635,6 +1669,11 @@
 		"context": "skins",
 		"or": "marking",
 		"tr": "marques"
+	},
+	{
+		"context": "Show chat messages from",
+		"or": "no one",
+		"tr": "personne"
 	},
 	{
 		"context": "Show chat messages from:",

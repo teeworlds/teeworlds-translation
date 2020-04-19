@@ -137,8 +137,12 @@
 		"tr": "'%s' heeft het spel verlaten (%s)"
 	},
 	{
-		"or": "'%s' has set a new record: %s",
-		"tr": "'%s' heeft een nieuw record neergezet: %s"
+		"or": "'%s' has set a new map record: %s",
+		"tr": "'%s' heeft een nieuw kaartrecord neergezet: %s"
+	},
+	{
+		"or": "'%s' has set a new personal record: %s",
+		"tr": "'%s' heeft een nieuw persoonlijk record neergezet: %s"
 	},
 	{
 		"or": "'%s' initiated a pause",
@@ -277,6 +281,10 @@
 		"tr": "Weet je zeker dat je wilt stoppen?"
 	},
 	{
+		"or": "Are you sure that you want to remove the clan from your friends list?",
+		"tr": "Weet je zeker dat je de clan wilt verwijderen uit je vriendenlijst?"
+	},
+	{
 		"or": "Are you sure that you want to remove the filter from the server browser?",
 		"tr": "Weet je zeker dat het filter wilt verwijderen uit de servernavigatie?"
 	},
@@ -323,10 +331,6 @@
 	{
 		"or": "Borderless window",
 		"tr": "Naadloos venster"
-	},
-	{
-		"or": "Browser",
-		"tr": "Zoeker"
 	},
 	{
 		"or": "Call vote",
@@ -484,6 +488,10 @@
 		"tr": "Moeilijkheidsgraad:"
 	},
 	{
+		"or": "Disable whisper feature",
+		"tr": "Fluisteren uitschakelen"
+	},
+	{
 		"or": "Disconnect",
 		"tr": "Verbinding verbreken"
 	},
@@ -542,6 +550,10 @@
 	{
 		"or": "Favorites",
 		"tr": "Favorieten"
+	},
+	{
+		"or": "Fetching server info",
+		"tr": "Bezig met ophalen van serverinformatie"
 	},
 	{
 		"or": "Fire",
@@ -710,6 +722,10 @@
 		"tr": "Joystick-as #%d"
 	},
 	{
+		"or": "Joystick jitter tolerance",
+		"tr": "Joystick-gevoeligheidstolerantie"
+	},
+	{
 		"or": "Joystick sens.",
 		"tr": "Joystickgevoeligheid"
 	},
@@ -748,10 +764,6 @@
 	{
 		"or": "Load the sound system",
 		"tr": "Geluidssysteem laden"
-	},
-	{
-		"or": "Loading",
-		"tr": "Bezig met laden..."
 	},
 	{
 		"or": "Local",
@@ -885,6 +897,10 @@
 		"tr": "Nee"
 	},
 	{
+		"or": "No filter category is selected",
+		"tr": "Geen filtercategorie geselecteerd"
+	},
+	{
 		"or": "No joysticks found. Plug in a joystick and restart the game.",
 		"tr": "Geen joysticks aangetroffen. Koppel een joystick aan en start het spel opnieuw."
 	},
@@ -1009,8 +1025,12 @@
 		"tr": "Druk op Enter om te bevestigen of Esc om af te breken"
 	},
 	{
-		"or": "Press Tab to cycle chat recipients",
-		"tr": "Druk op Tab om tussen ontvangers te schakelen"
+		"or": "Press Tab to cycle chat recipients. Whispers aren't encrypted and might be logged by the server.",
+		"tr": "Druk op Tab om van ontvanger te wisselen. Fluisteringen zijn onversleuteld en worden mogelijk door de server gelogd."
+	},
+	{
+		"or": "Press Tab to select or Esc to cancel",
+		"tr": "Druk op Tab om te selecteren of Esc om af te breken"
 	},
 	{
 		"or": "Prev. weapon",
@@ -1125,6 +1145,14 @@
 		"tr": "Opslaan"
 	},
 	{
+		"or": "Save password",
+		"tr": "Wachtwoord opslaan"
+	},
+	{
+		"or": "Save password and server as favorite",
+		"tr": "Wachtwoord opslaan en server markeren als favoriet"
+	},
+	{
 		"or": "Save skin",
 		"tr": "Skin opslaan"
 	},
@@ -1203,6 +1231,10 @@
 	{
 		"or": "Show chat",
 		"tr": "Chat tonen"
+	},
+	{
+		"or": "Show chat messages from",
+		"tr": "Chatberichten tonen van"
 	},
 	{
 		"or": "Show chat messages from:",
@@ -1542,14 +1574,6 @@
 		"tr": "Fluisteren"
 	},
 	{
-		"or": "X",
-		"tr": "X"
-	},
-	{
-		"or": "Y",
-		"tr": "Y"
-	},
-	{
 		"or": "Yes",
 		"tr": "Ja"
 	},
@@ -1597,6 +1621,11 @@
 		"tr": "decoratie"
 	},
 	{
+		"context": "Show chat messages from",
+		"or": "everyone",
+		"tr": "iedereen"
+	},
+	{
 		"context": "Show chat messages from:",
 		"or": "everyone",
 		"tr": "iedereen"
@@ -1612,6 +1641,11 @@
 		"tr": "voeten"
 	},
 	{
+		"context": "Show chat messages from",
+		"or": "friends only",
+		"tr": "alleen vrienden"
+	},
+	{
 		"context": "Show chat messages from:",
 		"or": "friends only",
 		"tr": "alleen vrienden"
@@ -1622,6 +1656,10 @@
 		"tr": "handen"
 	},
 	{
+		"or": "key not found",
+		"tr": "sleutel niet gevonden"
+	},
+	{
 		"or": "locked",
 		"tr": "vastgesteld"
 	},
@@ -1629,6 +1667,11 @@
 		"context": "skins",
 		"or": "marking",
 		"tr": "markering"
+	},
+	{
+		"context": "Show chat messages from",
+		"or": "no one",
+		"tr": "niemand"
 	},
 	{
 		"context": "Show chat messages from:",

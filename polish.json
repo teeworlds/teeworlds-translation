@@ -14,6 +14,10 @@
 },
 "translated strings": [
 	{
+		"or": " (%s seconds faster)",
+		"tr": "(%s sekund szybszy)"
+	},
+	{
 		"or": "%.3f KiB",
 		"tr": "%.3f KiB"
 	},
@@ -30,12 +34,20 @@
 		"tr": "Gracz %d nie jest gotowy"
 	},
 	{
+		"or": "%d players",
+		"tr": "%d graczy"
+	},
+	{
 		"or": "%d players left",
 		"tr": "%d pozostałych graczy"
 	},
 	{
 		"or": "%d players not ready",
 		"tr": "%d graczy nie jest gotowych"
+	},
+	{
+		"or": "%d servers",
+		"tr": "%d serwerów"
 	},
 	{
 		"or": "%d servers, %d players",
@@ -86,6 +98,26 @@
 		"tr": "'%s' głosuje by zmienić opcje serwera '%s' (%s)"
 	},
 	{
+		"or": "'%s' entered and joined the blue team",
+		"tr": "'%s' wszedł oraz dołączył do drużyny niebieskich"
+	},
+	{
+		"or": "'%s' entered and joined the game",
+		"tr": "'%s' wszedł oraz dołączył do gry"
+	},
+	{
+		"or": "'%s' entered and joined the red team",
+		"tr": "'%s' wszedł oraz dołączył do drużyny czerwonych"
+	},
+	{
+		"or": "'%s' entered and joined the spectators",
+		"tr": "'%s' wszedł oraz dołączył do obserwatorów"
+	},
+	{
+		"or": "'%s' finished in: %s",
+		"tr": "'%s' ukończył w: %s"
+	},
+	{
 		"or": "'%s' has left the game",
 		"tr": "'%s' wyszedł z gry"
 	},
@@ -94,12 +126,56 @@
 		"tr": "'%s' wyszedł z gry (%s)"
 	},
 	{
+		"or": "'%s' has set a new map record: %s",
+		"tr": "ustanowił nowy rekord mapy"
+	},
+	{
+		"or": "'%s' has set a new personal record: %s",
+		"tr": "ustanowił nowy rekord osobisty"
+	},
+	{
 		"or": "'%s' initiated a pause",
 		"tr": "'%s' rozpoczął pauze"
 	},
 	{
+		"or": "'%s' joined the blue team",
+		"tr": "'%s' dołączył do drużyny niebieskich"
+	},
+	{
+		"or": "'%s' joined the game",
+		"tr": "'%s' dołączył do gry"
+	},
+	{
+		"or": "'%s' joined the red team",
+		"tr": "'%s' dołączył do drużyny czerwonych"
+	},
+	{
+		"or": "'%s' joined the spectators",
+		"tr": "'%s' dołączył do obserwatorów"
+	},
+	{
+		"or": "'%s' was added as a friend",
+		"tr": "'%s' został dodany do znajomy"
+	},
+	{
+		"or": "'%s' was muted",
+		"tr": "'%s' został wyciszony"
+	},
+	{
+		"or": "'%s' was removed as a friend",
+		"tr": "'%s' został usunięty ze znajomych"
+	},
+	{
+		"or": "'%s' was unmuted",
+		"tr": "'%s' został odciszony"
+	},
+	{
 		"or": "-Page %d-",
 		"tr": "-Strona %d-"
+	},
+	{
+		"or": "-Page %d/%d-",
+		"tr": "-Strona %d/%d-"
 	},
 	{
 		"or": "Abort",
@@ -110,12 +186,20 @@
 		"tr": "Dodaj"
 	},
 	{
+		"or": "Add clan",
+		"tr": "Dodaj klan"
+	},
+	{
 		"or": "Add demo marker",
 		"tr": "Dodaj znacznik powtórki"
 	},
 	{
 		"or": "Add friend",
 		"tr": "Dodaj znajomego"
+	},
+	{
+		"or": "Add friend/clan",
+		"tr": "Dodaj znajomego/klan"
 	},
 	{
 		"or": "Address",
@@ -136,6 +220,10 @@
 	{
 		"or": "Admin moved '%s' to spectator (%s)",
 		"tr": "Admin przeniósł '%s' do obserwatorów (%s)"
+	},
+	{
+		"or": "Aim bind",
+		"tr": "Aim bind"
 	},
 	{
 		"or": "All",
@@ -182,6 +270,14 @@
 		"tr": "Jesteś pewny, że chcesz wyjść?"
 	},
 	{
+		"or": "Are you sure that you want to remove the clan from your friends list?",
+		"tr": "Czy na pewno chcesz usunąć klan ze swojej listy znajomych?"
+	},
+	{
+		"or": "Are you sure that you want to remove the filter from the server browser?",
+		"tr": "Jesteś pewny, że chcesz usunąć filtr z wyszukiwarki serwerów?"
+	},
+	{
 		"or": "Are you sure that you want to remove the player from your friends list?",
 		"tr": "Jesteś pewny, że chcesz usunąć gracza ze swojej listy znajomych?"
 	},
@@ -214,6 +310,10 @@
 		"tr": "Podstawowe"
 	},
 	{
+		"or": "Best spree",
+		"tr": "Najlepsza seria"
+	},
+	{
 		"or": "Blue team",
 		"tr": "Niebieska drużyna"
 	},
@@ -222,12 +322,13 @@
 		"tr": "Okno bez obramowania"
 	},
 	{
-		"or": "Browser",
-		"tr": "Wyszukiwarka"
-	},
-	{
 		"or": "Call vote",
 		"tr": "Głosuj"
+	},
+	{
+		"context": "Server difficulty",
+		"or": "Casual",
+		"tr": "Casual"
 	},
 	{
 		"or": "Change settings",
@@ -261,6 +362,15 @@
 	{
 		"or": "Compatible version",
 		"tr": "Kompatybilna wersja"
+	},
+	{
+		"context": "Server difficulty",
+		"or": "Competitive",
+		"tr": "Kompetetywny"
+	},
+	{
+		"or": "Configure statboard",
+		"tr": "Skonfiguruj statboard"
 	},
 	{
 		"or": "Connect",
@@ -303,6 +413,10 @@
 		"tr": "Stworzony"
 	},
 	{
+		"or": "Current spree",
+		"tr": "Aktualna seria"
+	},
+	{
 		"or": "Current: %dx%d (%d:%d)",
 		"tr": "Obecnie: %dx%d (%d:%d)"
 	},
@@ -317,6 +431,10 @@
 	{
 		"or": "Customize",
 		"tr": "Dostosuj "
+	},
+	{
+		"or": "Deaths",
+		"tr": "Śmierci"
 	},
 	{
 		"or": "Delete",
@@ -347,8 +465,20 @@
 		"tr": "Szczegóły"
 	},
 	{
+		"or": "Device",
+		"tr": "Urządzenie"
+	},
+	{
 		"or": "Difficulty",
 		"tr": "Trudność"
+	},
+	{
+		"or": "Difficulty:",
+		"tr": "Poziom trudności:"
+	},
+	{
+		"or": "Disable whisper feature",
+		"tr": "Wyłącz funkcję szeptu"
 	},
 	{
 		"or": "Disconnect",
@@ -383,6 +513,10 @@
 		"tr": "Włącz pokolorowane transmisje serwerowe"
 	},
 	{
+		"or": "Enable joystick",
+		"tr": "Włącz joystick"
+	},
+	{
 		"or": "Enter",
 		"tr": "Zatwierdź"
 	},
@@ -395,6 +529,10 @@
 		"tr": "Błąd w załadowaniu powtórki"
 	},
 	{
+		"or": "FPM",
+		"tr": "ZNM"
+	},
+	{
 		"or": "Favorite",
 		"tr": "Ulubione"
 	},
@@ -403,8 +541,20 @@
 		"tr": "Ulubione"
 	},
 	{
+		"or": "Fetching server info",
+		"tr": "Pobieranie informacji o serwerze"
+	},
+	{
 		"or": "Fire",
 		"tr": "Strzał"
+	},
+	{
+		"or": "Flag captures",
+		"tr": "Odniesienia flagi"
+	},
+	{
+		"or": "Flag grabs",
+		"tr": "Przechwycenia flagi"
 	},
 	{
 		"or": "Folder",
@@ -413,6 +563,14 @@
 	{
 		"or": "Force vote",
 		"tr": "Wymuś wynik"
+	},
+	{
+		"or": "Frags",
+		"tr": "Zabójstwa"
+	},
+	{
+		"or": "Frags per minute",
+		"tr": "Zabójstw na minute"
 	},
 	{
 		"or": "Free-View",
@@ -451,6 +609,10 @@
 		"tr": "Rodzaj gry"
 	},
 	{
+		"or": "Game type:",
+		"tr": "Rodzaj gry:"
+	},
+	{
 		"or": "Game types:",
 		"tr": "Typy gier:"
 	},
@@ -461,6 +623,11 @@
 	{
 		"or": "Global",
 		"tr": "Ogólny"
+	},
+	{
+		"context": "Flag grabs",
+		"or": "Grabs",
+		"tr": "Przechwycenia"
 	},
 	{
 		"or": "Graphics",
@@ -499,6 +666,10 @@
 		"tr": "Barwa:"
 	},
 	{
+		"or": "Ingame mouse sens.",
+		"tr": "Czułość myszy w grze"
+	},
+	{
 		"or": "Invalid Demo",
 		"tr": "Nieprawidłowa powtórka"
 	},
@@ -530,6 +701,22 @@
 	{
 		"or": "Joined red",
 		"tr": "Czerwoni"
+	},
+	{
+		"or": "Joystick",
+		"tr": "Joystick"
+	},
+	{
+		"or": "Joystick Axis #%d",
+		"tr": "Oś joysticka #%d"
+	},
+	{
+		"or": "Joystick jitter tolerance",
+		"tr": "Tolerancja drgań joysticka"
+	},
+	{
+		"or": "Joystick sens.",
+		"tr": "Czułość joysticka"
 	},
 	{
 		"or": "Jump",
@@ -568,10 +755,6 @@
 		"tr": "Załaduj system dzwiękowy"
 	},
 	{
-		"or": "Loading",
-		"tr": "Ładowanie"
-	},
-	{
 		"or": "Local",
 		"tr": "Lokalne"
 	},
@@ -586,6 +769,22 @@
 	{
 		"or": "Map",
 		"tr": "Mapa"
+	},
+	{
+		"or": "Map changed to '%s'",
+		"tr": "Mapa zmieniona na '%s'"
+	},
+	{
+		"or": "Map record",
+		"tr": "Rekord mapy"
+	},
+	{
+		"or": "Map:",
+		"tr": "Mapa:"
+	},
+	{
+		"or": "Markers",
+		"tr": "Znaczniki"
 	},
 	{
 		"context": "rounds (scoreboard)",
@@ -605,8 +804,20 @@
 		"tr": "Maksymalny ping:"
 	},
 	{
+		"or": "Menu background transparency",
+		"tr": "Przezroczystość tła w menu"
+	},
+	{
+		"or": "Menu mouse sens.",
+		"tr": "Czułość myszy w menu"
+	},
+	{
 		"or": "Misc",
 		"tr": "Różne"
+	},
+	{
+		"or": "Mouse",
+		"tr": "Mysz"
 	},
 	{
 		"or": "Move left",
@@ -635,6 +846,15 @@
 	{
 		"or": "Name",
 		"tr": "Nazwa"
+	},
+	{
+		"context": "Net score",
+		"or": "Net",
+		"tr": "Net"
+	},
+	{
+		"or": "Net score",
+		"tr": "Net score"
 	},
 	{
 		"or": "Netversion",
@@ -666,6 +886,14 @@
 		"tr": "Nie posiada"
 	},
 	{
+		"or": "No filter category is selected",
+		"tr": "Nie wybrano żadnej kategorii filtrów"
+	},
+	{
+		"or": "No joysticks found. Plug in a joystick and restart the game.",
+		"tr": "Nie znaleziono joysticka. Podłącz joystick oraz zrestartuj grę."
+	},
+	{
 		"or": "No password",
 		"tr": "Bez hasła"
 	},
@@ -676,6 +904,11 @@
 	{
 		"or": "No servers match your filter criteria",
 		"tr": "Brak serwerów spełniających podane kryteria filtrowania"
+	},
+	{
+		"context": "Server difficulty",
+		"or": "Normal",
+		"tr": "Standardowy"
 	},
 	{
 		"or": "Normal:",
@@ -773,6 +1006,22 @@
 		"tr": "Proszę wyrównać drużyny!"
 	},
 	{
+		"or": "Press %s to resume chatting",
+		"tr": "Wciśnij '%s' aby wznowić czat"
+	},
+	{
+		"or": "Press Enter to confirm or Esc to cancel",
+		"tr": "Wciśnij Enter aby potwierdzić albo Esc aby anulować"
+	},
+	{
+		"or": "Press Tab to cycle chat recipients. Whispers aren't encrypted and might be logged by the server.",
+		"tr": "Naciśnij Tab, aby przełączać miedzy odbiorcami czatu. Szepty nie są szyfrowane i mogą być rejestrowane przez serwer."
+	},
+	{
+		"or": "Press Tab to select or Esc to cancel",
+		"tr": "Naciśnij Tab, aby wybrać lub Esc, aby anulować"
+	},
+	{
 		"or": "Prev. weapon",
 		"tr": "Poprzednia broń"
 	},
@@ -787,6 +1036,10 @@
 	{
 		"or": "REC %3d:%02d",
 		"tr": "REC %3d:%02d"
+	},
+	{
+		"or": "Ratio",
+		"tr": "Stosunek"
 	},
 	{
 		"or": "Ready",
@@ -827,6 +1080,10 @@
 	{
 		"or": "Remove",
 		"tr": "Usuń"
+	},
+	{
+		"or": "Remove filter",
+		"tr": "Usuń filter"
 	},
 	{
 		"or": "Remove friend",
@@ -877,6 +1134,14 @@
 		"tr": "Zapisz"
 	},
 	{
+		"or": "Save password",
+		"tr": "Zapisz hasło"
+	},
+	{
+		"or": "Save password and server as favorite",
+		"tr": "Zapisz hasło i serwer jako ulubione"
+	},
+	{
 		"or": "Save skin",
 		"tr": "Zapisz skórkę"
 	},
@@ -897,12 +1162,20 @@
 		"tr": "Obraz"
 	},
 	{
+		"or": "Screen:",
+		"tr": "Obraz: "
+	},
+	{
 		"or": "Screenshot",
 		"tr": "Zrzut ekranu"
 	},
 	{
 		"or": "Search:",
 		"tr": "Szukaj:"
+	},
+	{
+		"or": "Server",
+		"tr": "Serwer"
 	},
 	{
 		"or": "Server address:",
@@ -947,6 +1220,10 @@
 	{
 		"or": "Show chat",
 		"tr": "Pokaż czat"
+	},
+	{
+		"or": "Show chat messages from",
+		"tr": "Pokazuj wiadomości czatu od"
 	},
 	{
 		"or": "Show chat messages from:",
@@ -1025,6 +1302,10 @@
 		"tr": "Obserwatorzy nie mogą głosować"
 	},
 	{
+		"or": "Spree",
+		"tr": "Seria"
+	},
+	{
 		"or": "Standard gametype",
 		"tr": "Standardowe tryby gry"
 	},
@@ -1033,12 +1314,24 @@
 		"tr": "Standardowa mapa"
 	},
 	{
+		"or": "Statboard",
+		"tr": "Statboard"
+	},
+	{
+		"or": "Status",
+		"tr": "Status"
+	},
+	{
 		"or": "Stop record",
 		"tr": "Zakończ nagrywanie"
 	},
 	{
 		"or": "Sudden Death",
 		"tr": "Nagła śmierć"
+	},
+	{
+		"or": "Suicides",
+		"tr": "Samobójstwa"
 	},
 	{
 		"or": "Switch weapon on pickup",
@@ -1133,12 +1426,24 @@
 		"tr": "Masz niezapisaną mapę w edytorze! Powinieneś ją zapisać przed wyjściem."
 	},
 	{
+		"or": "Time",
+		"tr": "Czas"
+	},
+	{
 		"or": "Time limit",
 		"tr": "Limit czasu"
 	},
 	{
 		"or": "Time limit: %d min",
 		"tr": "Limit czasu: %d min"
+	},
+	{
+		"or": "Toggle dynamic camera",
+		"tr": "Przełącz dynamiczną kamerę"
+	},
+	{
+		"or": "Toggle sounds",
+		"tr": "Przełącz dzwięki"
 	},
 	{
 		"or": "Try again",
@@ -1161,6 +1466,10 @@
 		"tr": "Niemożna zmienić nazwy powtórki"
 	},
 	{
+		"or": "Use OS mouse acceleration",
+		"tr": "Użyj przyspieszenia myszy w systemie operacyjnym"
+	},
+	{
 		"or": "Use sounds",
 		"tr": "Włącz dźwięk"
 	},
@@ -1175,6 +1484,10 @@
 	{
 		"or": "Version",
 		"tr": "Wersja"
+	},
+	{
+		"or": "Version:",
+		"tr": "Wersja:"
 	},
 	{
 		"or": "Volume",
@@ -1234,8 +1547,16 @@
 		"tr": "Broń"
 	},
 	{
+		"or": "Weapons stats",
+		"tr": "Statystyki broni"
+	},
+	{
 		"or": "Welcome to Teeworlds",
 		"tr": "Witaj w Teeworlds"
+	},
+	{
+		"or": "When ready, press <%s>",
+		"tr": "Wciśnij <%s>, kiedy gotowy"
 	},
 	{
 		"or": "Whisper",
@@ -1249,6 +1570,14 @@
 		"context": "With",
 		"or": "Yes",
 		"tr": "Posiada"
+	},
+	{
+		"or": "You have to wait %1.0f seconds to change identity.",
+		"tr": "Musisz poczekać %1.0f sekund aby zmienić tożsamość."
+	},
+	{
+		"or": "You must reconnect to change identity.",
+		"tr": "Musisz się ponownie połączyć, aby zmienić tożsamość."
 	},
 	{
 		"or": "You must restart the game for all settings to take effect.",
@@ -1281,6 +1610,11 @@
 		"tr": "dekoracja"
 	},
 	{
+		"context": "Show chat messages from",
+		"or": "everyone",
+		"tr": "każdy"
+	},
+	{
 		"context": "Show chat messages from:",
 		"or": "everyone",
 		"tr": "każdy"
@@ -1296,6 +1630,11 @@
 		"tr": "stopy"
 	},
 	{
+		"context": "Show chat messages from",
+		"or": "friends only",
+		"tr": "tylko znajomi"
+	},
+	{
 		"context": "Show chat messages from:",
 		"or": "friends only",
 		"tr": "tylko znajomi"
@@ -1306,6 +1645,10 @@
 		"tr": "dłonie"
 	},
 	{
+		"or": "key not found",
+		"tr": "klawisza nie znaleziono"
+	},
+	{
 		"or": "locked",
 		"tr": "zablokowane"
 	},
@@ -1313,6 +1656,11 @@
 		"context": "skins",
 		"or": "marking",
 		"tr": "oznakowanie"
+	},
+	{
+		"context": "Show chat messages from",
+		"or": "no one",
+		"tr": "nikt"
 	},
 	{
 		"context": "Show chat messages from:",

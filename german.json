@@ -33,7 +33,7 @@
 "translated strings": [
 	{
 		"or": " (%s seconds faster)",
-		"tr": " (%s Sekunden schneller)"
+		"tr": "(%s Sekunden schneller)"
 	},
 	{
 		"or": "%.3f KiB",
@@ -144,8 +144,12 @@
 		"tr": "'%s' hat das Spiel verlassen (%s)"
 	},
 	{
-		"or": "'%s' has set a new record: %s",
-		"tr": "'%s' hat eine neue Bestzeit: %s"
+		"or": "'%s' has set a new map record: %s",
+		"tr": "'%s' hat einen neuen Kartenrekord aufgestellt: %s"
+	},
+	{
+		"or": "'%s' has set a new personal record: %s",
+		"tr": "'%s' hat einen neuen persönlichen Rekord aufgestellt: %s"
 	},
 	{
 		"or": "'%s' initiated a pause",
@@ -284,6 +288,10 @@
 		"tr": "Möchtest du wirklich beenden?"
 	},
 	{
+		"or": "Are you sure that you want to remove the clan from your friends list?",
+		"tr": "Bist du sicher, dass du den Clan von deiner Freundesliste entfernen möchtest?"
+	},
+	{
 		"or": "Are you sure that you want to remove the filter from the server browser?",
 		"tr": "Bist du sicher, dass du den Filter aus dem Serverbrowser entfernen möchtest?"
 	},
@@ -330,10 +338,6 @@
 	{
 		"or": "Borderless window",
 		"tr": "Randloses Fenster"
-	},
-	{
-		"or": "Browser",
-		"tr": "Browser"
 	},
 	{
 		"or": "Call vote",
@@ -491,6 +495,10 @@
 		"tr": "Schwierigkeitsgrad:"
 	},
 	{
+		"or": "Disable whisper feature",
+		"tr": "Flüsterfunktion deaktivieren"
+	},
+	{
 		"or": "Disconnect",
 		"tr": "Trennen"
 	},
@@ -549,6 +557,10 @@
 	{
 		"or": "Favorites",
 		"tr": "Favoriten"
+	},
+	{
+		"or": "Fetching server info",
+		"tr": "Server-Informationen werden abgerufen"
 	},
 	{
 		"or": "Fire",
@@ -761,10 +773,6 @@
 		"tr": "Audiosystem laden"
 	},
 	{
-		"or": "Loading",
-		"tr": "Laden"
-	},
-	{
 		"or": "Local",
 		"tr": "Lokal"
 	},
@@ -896,6 +904,10 @@
 		"tr": "Nein"
 	},
 	{
+		"or": "No filter category is selected",
+		"tr": "Es ist keine Filterkategorie ausgewählt"
+	},
+	{
 		"or": "No joysticks found. Plug in a joystick and restart the game.",
 		"tr": "Es wurde kein Joystick gefunden. Bitte steck den Joystick nochmal neu ein und starte das Spiel neu."
 	},
@@ -1020,8 +1032,12 @@
 		"tr": "Drücke Enter zum Bestätigen oder Esc zum Abbrechen"
 	},
 	{
-		"or": "Press Tab to cycle chat recipients",
-		"tr": "Drück Tab um den Empfänger zu wechseln"
+		"or": "Press Tab to cycle chat recipients. Whispers aren't encrypted and might be logged by the server.",
+		"tr": "Drücke die Tabulatortaste, um den Chat-Empfänger zu wechseln. Das Flüstern ist nicht verschlüsselt und wird möglicherweise vom Server protokolliert."
+	},
+	{
+		"or": "Press Tab to select or Esc to cancel",
+		"tr": "Drücke die Tabulatortaste zum Auswählen oder Esc zum Abbrechen"
 	},
 	{
 		"or": "Prev. weapon",
@@ -1136,6 +1152,14 @@
 		"tr": "Speichern"
 	},
 	{
+		"or": "Save password",
+		"tr": "Passwort speichern"
+	},
+	{
+		"or": "Save password and server as favorite",
+		"tr": "Passwort und Server als Favoriten gespeichert"
+	},
+	{
 		"or": "Save skin",
 		"tr": "Skin speichern"
 	},
@@ -1214,6 +1238,10 @@
 	{
 		"or": "Show chat",
 		"tr": "Chat zeigen"
+	},
+	{
+		"or": "Show chat messages from",
+		"tr": "Zeige Chat-Nachrichten von"
 	},
 	{
 		"or": "Show chat messages from:",
@@ -1393,7 +1421,7 @@
 	},
 	{
 		"or": "The blue flag was captured by '%s' (%.2f seconds)",
-		"tr": "Die balue Flagge wurde von '%s' erobert (%.2f Sekunden)"
+		"tr": "Die blaue Flagge wurde von '%s' erobert (%.2f Sekunden)"
 	},
 	{
 		"or": "The red flag was captured by '%s'",
@@ -1553,14 +1581,6 @@
 		"tr": "Flüstern"
 	},
 	{
-		"or": "X",
-		"tr": "X"
-	},
-	{
-		"or": "Y",
-		"tr": "Y"
-	},
-	{
 		"or": "Yes",
 		"tr": "Ja"
 	},
@@ -1608,6 +1628,11 @@
 		"tr": "Dekorationen"
 	},
 	{
+		"context": "Show chat messages from",
+		"or": "everyone",
+		"tr": "Allen"
+	},
+	{
 		"context": "Show chat messages from:",
 		"or": "everyone",
 		"tr": "Allen"
@@ -1623,6 +1648,11 @@
 		"tr": "Füße"
 	},
 	{
+		"context": "Show chat messages from",
+		"or": "friends only",
+		"tr": "Nur Freunden"
+	},
+	{
 		"context": "Show chat messages from:",
 		"or": "friends only",
 		"tr": "Nur Freunden"
@@ -1633,6 +1663,10 @@
 		"tr": "Hände"
 	},
 	{
+		"or": "key not found",
+		"tr": "Taste nicht gefunden"
+	},
+	{
 		"or": "locked",
 		"tr": "Gesperrt"
 	},
@@ -1640,6 +1674,11 @@
 		"context": "skins",
 		"or": "marking",
 		"tr": "Muster"
+	},
+	{
+		"context": "Show chat messages from",
+		"or": "no one",
+		"tr": "Niemandem"
 	},
 	{
 		"context": "Show chat messages from:",
